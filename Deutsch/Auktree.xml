@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<auk_data>
+
+ <categories>
+    <category id="-90" name="Items auction">
+             <category idlist="1,2,3,4,5" name="Tackles and accessories"/>
+             <category id="32" name="Repair kits"/>
+          <category id="34" name="Manuals"/>
+             <category idlist="17,18,33" name="Appearance"/>
+    </category>    
+    
+        <category idlist="10,11" name="Baits and lures"/>
+        <category idlist="12" name="Spoon-baits and twisters"/>
+        <category idlist="21,22,23" name="Meds. Food and drinks"/>
+        
+        <category id="26" name="Parts and modifiers"/>
+        <category id="25" name="Components"/>
+        <category id="24" name="Resources"/>
+        <category id="28" name="Recipes"/>
+		<category id="31" name="Коллекционные"/>
+        <category id="0" name="Misc"/>
+        <category id="-100" name="My lots"/>
+
+</categories>
+</auk_data>

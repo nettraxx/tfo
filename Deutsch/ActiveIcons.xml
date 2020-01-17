@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<icon_data>
+  <icon id="1" name="Rad-contamination" info="You’ve received radiation contamination by the amount of [X] rad/sec" />
+  <icon id="2" name="Fishing prohibition" info="Du darfst in dieser Gegend nicht angeln." />
+  <icon id="3" name="Campfire" info="Du bist in der Nähe des Lagerfeuers." />
+  <icon id="4" name="*Travel" info="Du kannst noch nicht in diese Gegend reisen." />
+  <icon id="5" name="*Obstacle" info="Du bist zu nahe an einem anderen Angler." />
+  <icon id="6" name="*Realistic" info="First-Person Ansicht aktiviert." />
+  <icon id="7" name="Settlement" info="Du bist innerhalb der Siedlungsgrenze." />
+  <icon id="8" name="No rod" info="Deine Angel ist nicht vollständig!" />
+  <icon id="9" name="In water" info="Du bist im Wasser, pass auf!" />
+  <icon id="10" name="*The backpack is overfilled!" info="Deine Rucksack ist zu voll um dich zu bewegen, prüfe dein Inventar."/>
+  <icon id="11" name="*The corf is overfilled!" info="Dein Setzkescher ist überfüllt oder nicht vorhanden, du kannst den Fisch nicht behalten." />
+  <icon id="12" name="Light rigging" info="Dein Köder ist zu leicht. Die Wurfweite ist um [X]% reduziert, die Genauigkeit beim Werfen ist um [Y]% reduziert." />
+  <icon id="13" name="Heavy rigging" info="Dein Köder ist zu schwer. Die Abnutzung deiner Rute ist um [X]% erhöht, die Wurfweite ist um [Y]% erhöht" />
+  <icon id="14" name="*Level up" info="Du kannst jetzt aufsteigen. Bonus-Erfahrung: [X]" />
+  <icon id="15" name="*New mail" info="Du hast [X] ungelesene Briefe." />
+
+  <icon id="16" name="RAD-protector [X] r/s на [Y]%" info="Lowers the penetrating radiation impact below [X] r/s on [Y]%" />
+  <icon id="17" name="RAD-blocker [X]%" info="Lowers the negative radiation effect on [X]%, by ingesting food, drink or medicine" />
+  <icon id="18" name="Poisoning [X]" info="Your organism is poisoned by [X] life points per second." />
+  <icon id="19" name="*Regeneration [X]" info="+ [X] life points per second" />
+ 
+  <icon id="20" name="VIP mode" info="Gibt folgenden Bonus:
+    
+    * Aufgaben können 50% schneller angenommen werden.
+    * Erfahrung von Fischen um 50% erhöht.
+    * Der Verkauf von Fischen bringt zusätzlich 25% mehr Geld." />
+	
+
+
+  <icon id="21" name="*Learning +[X]%" info="+[X]% Erfahrung für gefangene Fische" />
+  <icon id="22" name="Skill learning" info="The skill learning is in progress. You’ve learned [Y]% 10% of all experience you get go to the skill learning"/>
+ 
+  <icon id="23" name="Satiety" info="You aren’t hungry, food effects are lowered by [X]% and additional effects are not applied" />
+  <icon id="24" name="Intoxication" info="You’ve recently ingested medicine, effects are lowered by [X]% and additional effects are not applied" />
+  <icon id="25" name="No thirst" info="You’re not thirsty, effects are lowered by [X]% and additional effects are not applied" />
+ 
+  <icon id="26" name="*Resistance" info="Increases radiation resistance by [X], agressive environment resistance by [Y].\n Sums up with suit properties" />
+  <icon id="27" name="*Skills learning" info="Increases skills gained experience by [X]%" />
+  <icon id="28" name="*Endurance regeneration" info="+ [X] endurance per second" />
+  <icon id="29" name="*Sitting" info="+ [X] stamina per second,/n-[Y]% fisher power"/>
+  
+  <icon id="30" name="*Fatigue" info="Your character is tired. He/she isn’t able to run anymore, has no wish to fish and your fishing strength is reduced. /nTake a rest or use an energy drink"/>
+  
+</icon_data>

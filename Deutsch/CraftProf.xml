@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<craft_data>
+
+
+    <categories>
+        <category id="0" name="Einfache Rezepte"/>
+        <category id="10" name="Aufgaben"/>
+        
+        <category id="50" name="Fisch-Schneiden">
+              <category id="150" name="Anfänger Fisch-Schneiden"/>
+        </category>
+        
+		<category id="55" name="Lockmittel"/>
+        <category id="60" name="Mechanics"/>
+		
+        <category id="80" name="Anfänger Chemie"/>
+                
+        <category id="100" name="Medizin"/>
+        <category id="200" name="Essen und Trinken"/>
+        <category id="400" name="Köder"/>
+        <category id="500" name="Montagen Klasse A"/>
+        <category id="510" name="Spinnen Klasse A"/>
+		<category id="515" name="Gewichtete Schnur Klasse A"/>
+		<category id="520" name="Technische Unterstützung"/>
+        <category id="410" name="Löffenblinker und Imitationen"/>
+
+        <category id="1020" name="Verschiedende-Details"/>
+        <category id="1021" name="Ruten-Details"/>
+        <category id="1022" name="Rollen-Details"/>
+        <category id="1023" name="Schnur-Details"/>
+
+
+        <category id="1000" name="Materialien"/>
+        <category id="1010" name="Komponenten"/>
+        <category id="1030" name="Verbraucht"/>
+            
+		<category id="1050" name="Common Collections"/>
+        <category id="1052" name="Shelter Collections"/>
+        <category id="1054" name="Crucian Pond Collections"/>
+        <category id="1056" name="Wasteland Collections"/>
+		<category id="1059" name="Collection Flood waters"/>
+        <category id="1058" name="Lake Collections"/>
+        <category id="1059" name="Коллекции Разливы"/>		
+		<category id="1060" name="Коллекции Дельта"/>
+    </categories>
+
+</craft_data>
