@@ -559,7 +559,7 @@ Lederkarpfen, Schuppenkarpfen, Wildkarpfen
     <weapon id="1052">
       <name>Muschelstückchen</name>
       <info>Fängig für:
-Aal, Brachse, Flussbarsch, Lederkarpfen, Pazifischer Kabeljau, Scherg,	
+Aal, Brachse, Flussbarsch, Lederkarpfen, Kabeljau, Scherg,	
 Schleie, Schuppenkarpfen, Spiegelkarpfen, Sterlet, Stör, Tiberbarbe,	
 Weißfisch, Wels, Zährte	  
       </info>
@@ -1267,7 +1267,7 @@ Forelle, Grashecht
       <name>Fischfetzen</name>
       <info>Fängig für:
 Aal, Blutegel, Flusskrebs, Kaspi Maifisch, 
-Muschel, Pazifischer Kabeljau, Quappe, Seesaibling, Wels	  
+Muschel, Kabeljau, Quappe, Seesaibling, Wels	  
       </info>
     </weapon>
     <weapon id="1177">
@@ -2480,21 +2480,21 @@ Lederkarpfen, Rotauge
       <name>VIB Raiwa 12g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Pazifischer Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Weißfisch	  
 	  </info>
     </weapon>
     <weapon id="1394">
       <name>VIB Raiwa 18g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Pazifischer Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Weißfisch	  
 	  </info>
     </weapon>
     <weapon id="1395">
       <name>VIB Raiwa 25g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Pazifischer Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Weißfisch	  
 	  </info>
     </weapon>
     <weapon id="1396">
@@ -2936,19 +2936,19 @@ noch nichts bekannt
     <weapon id="1476">
       <name>VIB Rima M1 12g</name>
       <info>Fängig für:
-Donaulachs, Meeräsche, Pazifischer Kabeljau, Zander	  
+Donaulachs, Meeräsche, Kabeljau, Zander	  
       </info>
     </weapon>
     <weapon id="1477">
       <name>VIB Rima M1 18g</name>
       <info>Fängig für:
-Donaulachs, Meeräsche, Pazifischer Kabeljau, Zander	 
+Donaulachs, Meeräsche, Kabeljau, Zander	 
       </info>
     </weapon>
     <weapon id="1478">
       <name>VIB Rima M1 25g</name>
       <info>Fängig für:
-Donaulachs, Meeräsche, Pazifischer Kabeljau, Zander	 
+Donaulachs, Meeräsche, Kabeljau, Zander	 
       </info>
     </weapon>
     <weapon id="1479">
@@ -3378,7 +3378,7 @@ Donaulachs, Forellenbarsch, Rapfen
     <weapon id="1558">
       <name>Schrimp</name>
       <info>Fängig für:
-Bachforelle, Forelle, Goldforelle, Pazifischer Kabeljau,
+Bachforelle, Forelle, Goldforelle, Kabeljau,
 Teichforelle, Weißbauchflunder	  
 	  </info>
     </weapon>
@@ -3587,7 +3587,7 @@ Spiegelkarpfen, Sterlet, Wildkarpfen, Zährte
     <weapon id="1594">
       <name>Boilie "Austern"</name>
       <info>Fängig für:
-Brachse, Flussbarsch, Graskarpfen, Pazifischer Kabeljau, Silberkarpfen,	
+Brachse, Flussbarsch, Graskarpfen, Kabeljau, Silberkarpfen,	
 Sterlet, Stör, Wildkarpfen, Zährte	  
       </info>
     </weapon>
@@ -3641,7 +3641,7 @@ Aal, Barbe, Tiberbarbe
       <name>VIB Raiwa 30g</name>
       <info>Fängig für:	
 Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,	
-Kaspi Maifisch, Pazifischer Kabeljau, Weißfisch
+Kaspi Maifisch, Kabeljau, Weißfisch
       </info>
     </weapon>
     <weapon id="1605">
@@ -3994,21 +3994,21 @@ Bachforelle, Europäische Äsche, Flussforelle, Forelle, Goldforelle
 	<weapon id="1675">
 	  <name>VIB MD Cyclope M1</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäischer Wolfsbarsch, Meeräsche, Pazifischer Kabeljau,
+Dicklippige Meeräsche, Europäischer Wolfsbarsch, Meeräsche, Kabeljau,
 Rapfen,Roter Zackenbarsch, Tiberbarbe, Weißer Thunfisch, Zander	  	  
 	  </info>
 	</weapon>
 	<weapon id="1676">
 	  <name>VIB MD Cyclope M2</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäischer Wolfsbarsch, Meeräsche, Pazifischer Kabeljau,
+Dicklippige Meeräsche, Europäischer Wolfsbarsch, Meeräsche, Kabeljau,
 Rapfen,Roter Zackenbarsch, Tiberbarbe, Weißer Thunfisch, Zander	  	  
 	  </info>
 	</weapon>
 	<weapon id="1677">
 	  <name>VIB MD Cyclope M3</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäischer Wolfsbarsch, Meeräsche, Pazifischer Kabeljau,
+Dicklippige Meeräsche, Europäischer Wolfsbarsch, Meeräsche, Kabeljau,
 Rapfen,Roter Zackenbarsch, Tiberbarbe, Weißer Thunfisch, Zander	  
 	  </info>
 	</weapon>
