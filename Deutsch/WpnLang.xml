@@ -3000,11 +3000,11 @@ Forelle, Forellenbarsch, Muschel, Rapfen, Zander
       </info>
     </weapon>
     <weapon id="1488">
-      <name>Gebundene Trockenfliege</name>
+      <name>Gebundene Fliege</name>
       <info>From Stalker's diary... The imitation of fly knitted from colour threads. This fly is called "dry" because it is lighter than water and always hit the surface</info>
     </weapon>
     <weapon id="1489">
-      <name>Gebundene Nassfliege</name>
+      <name>Gebundene Nymphe</name>
       <info>From Stalker's diary... The imitation of fly knitted from colour threads. This fly is called "wet" because it is heavier than water and sinks</info>
     </weapon>
     <weapon id="1490">
@@ -3697,13 +3697,13 @@ Kaspi Maifisch, Kabeljau, Weißfisch
       <info>Fliegenfischen Schnur</info>
     </weapon>
     <weapon id="1618">
-      <name>RubinFly Trockenfliege</name>
+      <name>RubinFly Fliege</name>
       <info>Fängig für:
 Bachforelle, Döbel, Donaulachs, Europäische Äsche, Goldforelle	  
       </info>
     </weapon>
     <weapon id="1619">
-      <name>RubinFly Nassfliege</name>
+      <name>RubinFly Nymphe</name>
       <info>Fängig für:
 Bachforelle, Döbel, Donaulachs, Europäische Äsche, Forelle,	
 Goldforelle, Rapfen, Rotauge, Sichling	  
