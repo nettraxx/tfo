@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<craft_data>
+
+
+    <categories>
+        <category id="0" name="Common recipes"/>
+        <category id="10" name="Quests"/>
+        
+        <category id="50" name="Fish cutting">
+              <category id="150" name="Amateur fish cutting"/>
+        </category>
+        
+		<category id="55" name="Attractant"/>
+        <category id="60" name="Mechanics"/>
+		
+        <category id="80" name="Amateur chemistry"/>
+                
+        <category id="100" name="Medicine"/>
+        <category id="200" name="Food and drinks"/>
+        <category id="400" name="Baits"/>
+        <category id="500" name="Tackles class A"/>
+        <category id="510" name="Spinning  class A"/>
+		<category id="515" name="Weighted line class A"/>
+		<category id="520" name="Technical support"/>
+        <category id="410" name="Spoon-baits and imitations"/>
+
+        <category id="1020" name="Misc details"/>
+        <category id="1021" name="Rod details"/>
+        <category id="1022" name="Reel details"/>
+        <category id="1023" name="Fishing line details"/>
+
+
+        <category id="1000" name="Materials"/>
+        <category id="1010" name="Components"/>
+        <category id="1030" name="Consumed"/>
+            
+		<category id="1050" name="Common Collections"/>
+        <category id="1052" name="Shelter Collections"/>
+        <category id="1054" name="Crucian Pond Collections"/>
+        <category id="1056" name="Wasteland Collections"/>
+		<category id="1059" name="Collection Flood waters"/>
+        <category id="1058" name="Lake Collections"/>
+        <category id="1059" name="Коллекции Разливы"/>		
+		<category id="1060" name="Коллекции Дельта"/>
+    </categories>
+
+</craft_data>

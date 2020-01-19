@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<reputaion>
+	<fractions>
+		<fraction id="1" name="оз. Бризенер"/>
+    	<fraction id="2" name="Плато великанов"/>
+		<fraction id="3" name="Бар Воронка"/>
+		<fraction id="4" name="Озерное поселение"/>
+		<fraction id="5" name="Изумрудное"/>
+		<fraction id="6" name="Деревенские"/>
+		<fraction id="7" name="Жители разлива"/>
+		<fraction id="8" name="Нефтяники"/>
+		<fraction id="1000" name="Военные"/>
+		<fraction id="1001" name="Лекарственная гильдия"/>
+		<fraction id="1002" name="Союз спиннингистов"/>
+		<fraction id="1003" name="Союз поплавочников"/>
+		<fraction id="1004" name="Союз доночников"/>
+	</fractions>
+	
+	<levels>
+		<replevels id="1"> 
+			<level>Безразличие</level>
+			<level>Дружелюбие</level>
+			<level>Уважение</level>
+			<level>Герой</level>
+		</replevels>
+	
+		<replevels id="2"> 
+			<level>Враждебные</level>
+			<level>Нейтральные</level>
+			<level>Рядовой</level>
+			<level>Сержант</level>
+			<level>Лейтенант</level>
+			<level>Капитан</level>
+			<level>Майор</level>
+		</replevels>
+
+		<replevels id="3">
+			<level>Безразличие</level>
+			<level>Помощник</level>
+			<level>Кандидат</level>
+			<level>Неофит</level>
+			<level>Лекарь</level>
+		</replevels>
+		
+		<replevels id="4">
+			<level>Безразличие</level>
+			<level>Претендент</level>
+			<level>Новичок в гильдии</level>
+			<level>Специалист</level>
+			<level>Мастер</level>
+			<level>Маэстро</level>
+		</replevels>
+
+		<replevels id="5">
+			<level>Бродяга</level>
+			<level>Знакомый</level>
+			<level>Известный</level>
+			<level>Завсегдатай</level>
+		</replevels>
+  </levels>
+</reputaion>

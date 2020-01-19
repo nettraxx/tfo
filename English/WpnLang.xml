@@ -1,0 +1,3954 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<wpnlang>
+  <wpntypes>
+    <type id="1" name="Float rod">
+      <main_cmt>---</main_cmt>
+      <par1>Capacity "kg"</par1>
+      <par2>Rod length "m" (effect on cast distance)</par2>
+      <par3>Max fishing depth "sm"</par3>
+    </type>
+    <type id="2" name="Feeder rod">
+      <par1>parametr1 - Capacity "kg"</par1>
+      <par2>parametr2 - Rod length "m"</par2>
+      <par3>---</par3>
+    </type>
+    <type id="3" name="Spinning rod">
+      <par1>parametr1 - Capacity "kg"</par1>
+      <par2>parametr2 - Rod length "m"</par2>
+      <par3>---</par3>
+    </type>
+    <type id="4" name="Reel">
+      <par1>reel strengthening</par1>
+      <par2>compensation</par2>
+      <par3>Friction</par3>
+    </type>
+    <type id="5" name="Line">
+      <par1>parametr1 - Capacity "kg"</par1>
+      <par2>parametr2 - line thickness "mm"</par2>
+      <par3>---</par3>
+    </type>
+    <type id="6" name="Hook">
+      <par1>parametr1 - sharpness. Affects of successful sweeps and chance to failure</par1>
+      <par2>parametr2 - hook size. Affects chance to nibble and chance to breakdown</par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="7" name="feeder">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="8" name="leader">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="9" name="float">
+      <par1>parametr1 - floatage "gr"</par1>
+      <par2>parametr2 - sensitivity</par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="10" name="bait">
+      <par1>parametr1 - attractiveness from 50 to 200. Normal 100 (affects the fish nibble)</par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="11" name="imitation bait">
+      <par1>parametr1 - attractiveness from 50 to 200. Normal 100(affects the fish nibble)</par1>
+      <par2>parametr2 - bio ID of immitation bait</par2>
+      <par3>---</par3>
+    </type>
+    <type id="12" name="fishing lure">
+      <par1>parametr1 - Attractiveness</par1>
+      <par2>parametr2 - Floatability in rest</par2>
+      <par3>parametr3 - Floatability in move</par3>
+    </type>
+    <type id="13" name="lead">
+      <par1>---</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="14" name="echo-sounder">
+      <par1>---</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="15" name="hand net">
+      <par1>---</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="16" name="Fish tank">
+      <par1>parametr1 - which can withstand weight of fish</par1>
+      <par2>parametr2 - which can withstand amount of fish</par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="17" name="Headdress">
+      <par1>---</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="18" name="Signal">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="19" name="Rodpod">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="20" name="Stick rod">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="21" name="Food">
+      <par1>parametr1 - how much food recovers</par1>
+      <par2>parametr2 - how much water recovers</par2>
+      <par3>parametr3 - how much rad-durability recovers</par3>
+    </type>
+    <type id="22" name="Drink">
+      <par1>parametr1 - how much food recovers</par1>
+      <par2>parametr2 - how much water recovers</par2>
+      <par3>parametr3 - how much stamina recovers</par3>
+    </type>
+    <type id="23" name="Medicine">
+      <par1>parametr1 - how much health recovers</par1>
+      <par2>parametr2 - how much rad-resistance recovers</par2>
+      <par3>parametr3 - how much stamina recovers</par3>
+    </type>
+    <type id="24" name="Resources">
+      <par1>-no-</par1>
+      <par2>-no-</par2>
+      <par3>-no-</par3>
+    </type>
+    <type id="25" name="Components">
+      <par1>-no-</par1>
+      <par2>-no-</par2>
+      <par3>-no-</par3>
+    </type>
+    <type id="26" name="Details">
+      <par1>-no-</par1>
+      <par2>-no-</par2>
+      <par3>-no-</par3>
+    </type>
+    <type id="27" name="Currency">
+      <par1>-no-</par1>
+      <par2>-no-</par2>
+      <par3>-no-</par3>
+    </type>
+    <type id="28" name="Recipe">
+      <par1>Workbench ID</par1>
+      <par2>Recipe ID</par2>
+      <par3>Amount</par3>
+    </type>
+    <type id="29" name="Modifier">
+      <par1>---</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="30" name="Misc">
+      <par1>---</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="31" name="Collection">
+      <par1>---</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="32" name="Repair kit">
+      <par1>How many repairs for act</par1>
+      <par2>Loss of base durability when fixing</par2>
+      <par3>Minimum threshold durability to repair</par3>
+    </type>
+    <type id="33" name="Suit">
+      <par1>Radiation protection</par1>
+      <par2>Aggressive environments protection </par2>
+      <par3>Physical damage protection</par3>
+    </type>
+    <type id="34" name="Manual">
+      <par1>Skill ID</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="35" name="Pet">
+      <par1>Pet id type</par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="36" name="Fishing chair">
+      <par1>
+      </par1>
+      <par2>---</par2>
+      <par3>---</par3>
+    </type>
+    <type id="37" name="Dry attractant">
+      <par1>Weight in kg</par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="38" name="Prepared attractant">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="39" name="Attractant base">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="40" name="Dips">
+      <par1>
+      </par1>
+      <par2>
+      </par2>
+      <par3>
+      </par3>
+    </type>
+    <type id="41" name="Удилище кастинговое">
+      <par1>Грузоподъемность в кг</par1>
+      <par2>Длина удилища в метрах</par2>
+      <par3>Бонус к дальности заброса в %</par3>
+    </type>
+    <type id="42" name="Flyfishing rod">
+      <par1>Грузоподъемность в кг</par1>
+      <par2>Длина удилища в метрах</par2>
+      <par3>Бонус к точности заброса в %</par3>
+    </type>
+    <type id="43" name="Катушка мультипликаторная">
+      <par1>усиление катушки</par1>
+      <par2>??</par2>
+      <par3>Фрикцион</par3>
+    </type>
+    <type id="44" name="Inercial reel">
+      <par1>усиление катушки</par1>
+      <par2>&gt;??</par2>
+      <par3>Фрикцион</par3>
+    </type>
+    <type id="45" name="Лодка">
+      <par1>&gt;??</par1>
+      <par2>&gt;??</par2>
+      <par3>&gt;??</par3>
+    </type>
+    <type id="46" name="Лодочный мотор">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
+    <type id="47" name="Лодочный стакан">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
+    <type id="48" name="Эхолот лодочный">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
+    <type id="49" name="fly for flyfishing">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
+    <type id="50" name="Match rod">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
+  </wpntypes>
+  <weapons>
+    <comment>Items and types descriptions Eng</comment>
+    <weapon id="1001">
+      <name>Walnut rod</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1002">
+      <name>STK Yang Start</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1003">
+      <name>STK JACKFISH 4</name>
+      <info> Simple reel with low strengthening.</info>
+    </weapon>
+    <weapon id="1004">
+      <name>String-1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1005">
+      <name>STK Hk-0</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1006">
+      <name>Sinker 0,4 gr</name>
+      <info> An ordinary sinker for the simpliest float rod.</info>
+    </weapon>
+    <weapon id="1007">
+      <name>Balance-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1008">
+      <name>Balance-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1009">
+      <name>Goose feather</name>
+      <info> A simple float with good sensitivity.</info>
+    </weapon>
+    <weapon id="1010">
+      <name>Worm</name>
+      <info> Universal bait for many kind of fish.</info>
+    </weapon>
+    <weapon id="1011">
+      <name>Pearl barley</name>
+      <info> Great bait for catching middle-sized carp fish.</info>
+    </weapon>
+    <weapon id="1012">
+      <name>Bread</name>
+      <info> Simple bait for carp fish.</info>
+    </weapon>
+    <weapon id="1013">
+      <name>Balance-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1014">
+      <name>STK Motoi 3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1015">
+      <name>STK JACKFISH 6</name>
+      <info> Simple reel with low strengthening.</info>
+    </weapon>
+    <weapon id="1016">
+      <name>Worm imitation</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1017">
+      <name>Impulse-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1018">
+      <name>Bloodworm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1019">
+      <name>Maggot</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1020">
+      <name>Bunch worms</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1021">
+      <name>Bait fish</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1022">
+      <name>Corn</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1023">
+      <name>Impulse-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1024">
+      <name>Fish tank "Kid"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1025">
+      <name>Green-Bell</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1026">
+      <name>Beep Electron</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1027">
+      <name>STK Yang Extra</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1028">
+      <name>STK JACKFISH 8</name>
+      <info> Simple reel with low strengthening.</info>
+    </weapon>
+    <weapon id="1029">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1030">
+      <name>Kolba-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1031">
+      <name>Kolba-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1032">
+      <name>Water 0.33</name>
+      <info>Small jar with pure water. </info>
+    </weapon>
+    <weapon id="1033">
+      <name>Water 0.5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1034">
+      <name>Water 1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1035">
+      <name>Bread</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1036">
+      <name>Sandwich with lard</name>
+      <info>Great food but it is really hard to find.</info>
+    </weapon>
+    <weapon id="1037">
+      <name>Tourist breakfest</name>
+      <info>Old canned food, where did it come from?</info>
+    </weapon>
+    <weapon id="1038">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1039">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1040">
+      <name>Fried fish</name>
+      <info>Fried fish on a stick.. I don't think this food is safe to eat. By the way, I always feel thirsty afterwards.</info>
+    </weapon>
+    <weapon id="1041">
+      <name>Bell Electron</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1042">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1043">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1044">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1045">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1046">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1047">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1048">
+      <name>Energy drink</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1049">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1050">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1051">
+      <name>Raiwa-3000SFX</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1052">
+      <name>Mollusc pieces</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1053">
+      <name>"Cowboy" Gray</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1054">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1055">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1056">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1057">
+      <name>Raiwa-3000MFX</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1058">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1059">
+      <name>Kepi "Luzhok"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1060">
+      <name>Impulse-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1061">
+      <name>STK Yang Medium</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1062">
+      <name>STK Yang Silver</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1063">
+      <name>STK Yang Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1064">
+      <name>STK Yang Champion</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1065">
+      <name>Raiwa-3000Expert</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1066">
+      <name>--</name>
+      <info>-</info>
+    </weapon>
+    <weapon id="1067">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1068">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1069">
+      <name>STK Motoi 5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1070">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1071">
+      <name>STK Motoi 15</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1072">
+      <name>--</name>
+      <info>The usual suit for hunters and fishers, camouflage paint lowers your noticeability. (Female)</info>
+    </weapon>
+    <weapon id="1073">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1074">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1075">
+      <name>--</name>
+      <info>Usual clothes for hunters and fishers. (Female)</info>
+    </weapon>
+    <weapon id="1076">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1077">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1078">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1079">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1080">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1081">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1082">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1083">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1084">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1085">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1086">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1087">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1088">
+      <name>Larva bark beetle</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1089">
+      <name>Bug</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1090">
+      <name>Night crawler</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1091">
+      <name>Grasshopper</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1092">
+      <name>Dough</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1093">
+      <name>Weak leader</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1094">
+      <name>VIB Raiden 12g</name>
+      <info> Ordinary metal swinging spoonbait. Size 1</info>
+    </weapon>
+    <weapon id="1095">
+      <name>VIB Raiden 18g</name>
+      <info> Ordinary metal swinging spoonbait. Size 2</info>
+    </weapon>
+    <weapon id="1096">
+      <name>VIB Raiden 25g</name>
+      <info> Ordinary metal swinging spoonbait. Size 3</info>
+    </weapon>
+    <weapon id="1097">
+      <name>CRL Ivara 3g</name>
+      <info> Ordinary metal rotating spoonbait. Size 1</info>
+    </weapon>
+    <weapon id="1098">
+      <name>CRL Ivara 6g</name>
+      <info> Ordinary metal rotating spoonbait. Size 2</info>
+    </weapon>
+    <weapon id="1099">
+      <name>CRL Ivara 10g</name>
+      <info> Ordinary metal rotating spoonbait. Size 3</info>
+    </weapon>
+    <weapon id="1100">
+      <name>JIG TGreen I</name>
+      <info> Ordinary silicon lure 50mm</info>
+    </weapon>
+    <weapon id="1101">
+      <name>JIG TGreen II</name>
+      <info> Ordinary silicon lure 75mm</info>
+    </weapon>
+    <weapon id="1102">
+      <name>JIG TGreen III</name>
+      <info> Ordinary silicon lure 100mm</info>
+    </weapon>
+    <weapon id="1103">
+      <name>VOB Jumper 5g</name>
+      <info> Ordinary plastic wobbler. Size 1.</info>
+    </weapon>
+    <weapon id="1104">
+      <name>VOB Jumper 10g</name>
+      <info> Ordinary plastic wobbler. Size 2.</info>
+    </weapon>
+    <weapon id="1105">
+      <name>VOB Jumper 25g</name>
+      <info> Ordinary plastic wobbler. Size 3.</info>
+    </weapon>
+    <weapon id="1106">
+      <name>STK Rocket 2</name>
+      <info> Light spinning rod.</info>
+    </weapon>
+    <weapon id="1107">
+      <name>STK Rocket 3</name>
+      <info> Light spinning rod.</info>
+    </weapon>
+    <weapon id="1108">
+      <name>STK Rocket 5</name>
+      <info> Light spinning rod.</info>
+    </weapon>
+    <weapon id="1109">
+      <name>STK Rocket 8</name>
+      <info> Light spinning rod.</info>
+    </weapon>
+    <weapon id="1110">
+      <name>Kitana X-Spin 10</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1111">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1112">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1113">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1114">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1115">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1116">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1117">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1118">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1119">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1120">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1121">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1122">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1123">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1124">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1125">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1126">
+      <name>Recipe "[sysname]"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1127">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1128">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1129">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1130">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1131">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1132">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1133">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1134">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1135">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1136">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1137">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1138">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1139">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1140">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1141">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1142">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1143">
+      <name>
+      </name>
+      <info>.</info>
+    </weapon>
+    <weapon id="1144">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1145">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1146">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1147">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1148">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1149">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1150">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1151">
+      <name>-</name>
+      <info>Testing</info>
+    </weapon>
+    <weapon id="1152">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1153">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1154">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1155">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1156">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1157">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1158">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1159">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1160">
+      <name>Homemade float</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1161">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1162">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1163">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1164">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1165">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1166">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1167">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1168">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1169">
+      <name>
+      </name>
+      <info>This liquid needed for creating biofuel.
+
+------ NOT ACTIVE  ------ </info>
+    </weapon>
+    <weapon id="1170">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1171">
+      <name>
+      </name>
+      <info>------ NOT ACTIVE  ------ </info>
+    </weapon>
+    <weapon id="1172">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1173">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1174">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1175">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1176">
+      <name>Fish pieces</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1177">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1178">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1179">
+      <name>Angler Token</name>
+      <info>Token that can be obtained by completing daily quests.
+</info>
+    </weapon>
+    <weapon id="1180">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1181">
+      <name>Balance-II Night</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1182">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1183">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1184">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1185">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1186">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1187">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1188">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1189">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1190">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1191">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1192">
+      <name>---</name>
+      <info> Simple reel with low strengthening.</info>
+    </weapon>
+    <weapon id="1193">
+      <name>-</name>
+      <info>The collectible postcard with great birch grove views. There is an inscription - "In memory О.А.Т".</info>
+    </weapon>
+    <weapon id="1194">
+      <name>-</name>
+      <info>The collectible postcard with great spruce grove views. There is an inscription - "In memory C.А.Т".</info>
+    </weapon>
+    <weapon id="1195">
+      <name>-</name>
+      <info>The collectible postcard with great oak grove views. There is an inscription - "In memory О.B.Т".</info>
+    </weapon>
+    <weapon id="1196">
+      <name>
+      </name>
+      <info>This badge is given to person who made a charitable contribution to the game. This badge gives no special privileges. Everyone who bought this item is shown on the Shelter's board of honour. You can buy several items.</info>
+    </weapon>
+    <weapon id="1197">
+      <name>Fish offals</name>
+      <info> Great bait for carrion-eaters, crawfish and other species.</info>
+    </weapon>
+    <weapon id="1198">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1199">
+      <name>Cheese cube</name>
+      <info> Little piece of cheese.</info>
+    </weapon>
+    <weapon id="1200">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1201">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1202">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1203">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1204">
+      <name>Fish tank "Avoska"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1205">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1206">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1207">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1208">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1209">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1210">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1211">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1212">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1213">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1214">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1215">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1216">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1217">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1218">
+      <name>---</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1219">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1220">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1221">
+      <name>STK JACKFISH2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1222">
+      <name>STK LineStar 2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1223">
+      <name>STK LineStar 4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1224">
+      <name>STK LineStar 6</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1225">
+      <name>STK LineStar 8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1226">
+      <name>Festive box</name>
+      <info>Open it to find out. what's inside</info>
+    </weapon>
+    <weapon id="1227">
+      <name>®1000 check</name>
+      <info>Bearer check for 1,000 coins</info>
+    </weapon>
+    <weapon id="1228">
+      <name>
+      </name>
+      <info> Item for repair rods class А.</info>
+    </weapon>
+    <weapon id="1229">
+      <name>
+      </name>
+      <info> Item for repair reels class А.</info>
+    </weapon>
+    <weapon id="1230">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1231">
+      <name>
+      </name>
+      <info> Universal repairkit, that fixes both class A rods and reels.</info>
+    </weapon>
+    <weapon id="1232">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1233">
+      <name>®5000 check</name>
+      <info>Bearer check for 5,000 coins</info>
+    </weapon>
+    <weapon id="1234">
+      <name>®10000 check</name>
+      <info>Bearer check for 10,000 coins</info>
+    </weapon>
+    <weapon id="1235">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1236">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1237">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1238">
+      <name>
+      </name>
+      <info> This suit is the prize for CBT member.</info>
+    </weapon>
+    <weapon id="1239">
+      <name>Leech</name>
+      <info>  A lot of big fish adore this bait.</info>
+    </weapon>
+    <weapon id="1240">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1241">
+      <name>VIP 1 day</name>
+      <info>Gives 1 day premium bonus.
+
+To activate press right mouse button on the item and select "Use".</info>
+    </weapon>
+    <weapon id="1242">
+      <name>VIP 7 days</name>
+      <info>Gives 7 days premium bonus.
+
+To activate press right mouse button on the item and select "Use".</info>
+    </weapon>
+    <weapon id="1243">
+      <name>VIP 15 days</name>
+      <info>Gives 15 days premium bonus.
+
+To activate press right mouse button on the item and select "Use".</info>
+    </weapon>
+    <weapon id="1244">
+      <name>
+      </name>
+      <info>Provisions for traveling</info>
+    </weapon>
+    <weapon id="1245">
+      <name>Amateur cutting</name>
+      <info>Allows to cut fish into offals and ragged pieces that serve as baits afterwards.</info>
+    </weapon>
+    <weapon id="1246">
+      <name>Student cutting</name>
+      <info>Allows to extract scales and gills from fish.</info>
+    </weapon>
+    <weapon id="1247">
+      <name>Apprentices cutting</name>
+      <info>Allows to extract eyes and fins from fish.</info>
+    </weapon>
+    <weapon id="1248">
+      <name>Master cutting</name>
+      <info>Advanced fish cutting allows to get bones and fillet from fish.</info>
+    </weapon>
+    <weapon id="1249">
+      <name>Crawfish tails</name>
+      <info>  Crawfish tails pieces, elegant delicacy for bottom-dwelling fish.</info>
+    </weapon>
+    <weapon id="1250">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1251">
+      <name>Nut</name>
+      <info> It's weird that some fish find this bait attractive.</info>
+    </weapon>
+    <weapon id="1252">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1253">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1254">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1255">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1256">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1257">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1258">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1259">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1260">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1261">
+      <name>STK Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1262">
+      <name>CarpPro Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1263">
+      <name>Promo box</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1264">
+      <name>Card "Training +50%"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1265">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1266">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1267">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1268">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1269">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1270">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1271">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1272">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1273">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1274">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1275">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1276">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1277">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1278">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1279">
+      <name>Test pet</name>
+      <info>Demonic dog</info>
+    </weapon>
+    <weapon id="1280">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1281">
+      <name>Fish fries</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1282">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1283">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1284">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1285">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1286">
+      <name>Triple hook</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1287">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1288">
+      <name>STK Motoi 1.5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1289">
+      <name>Metal leader</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1290">
+      <name>Steam-box</name>
+      <info>Steam Greenlight gift.
+
+Thanks for your votings!</info>
+    </weapon>
+    <weapon id="1291">
+      <name>
+      </name>
+      <info> This suit is the prize for Steam Greenlight voting participation.</info>
+    </weapon>
+    <weapon id="1292">
+      <name>New Year's hat</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1293">
+      <name>"Cowboy" Black</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1294">
+      <name>"Cowboy" White</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1295">
+      <name>"Cowboy" Wasteland Camo</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1296">
+      <name>"Cowboy" Green Camo</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1297">
+      <name>"Cowboy" Leather</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1298">
+      <name>Peas</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1299">
+      <name>Balance-B2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1300">
+      <name>Balance-B3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1301">
+      <name>Balance-B4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1302">
+      <name>Balance-B5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1303">
+      <name>SVOB IceCruncher 5g</name>
+      <info>Special wobbler for catch ice trout.  Size 1.</info>
+    </weapon>
+    <weapon id="1304">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1305">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1306">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1307">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1308">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1309">
+      <name>Card "{0}"</name>
+      <info>Collectible fish card</info>
+    </weapon>
+    <weapon id="1310">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1311">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1312">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1313">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1314">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1315">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1316">
+      <name>Kolba-Pro</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1317">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1318">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1319">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1320">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1321">
+      <name>Baked potatoes</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1322">
+      <name>Baked corn</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1323">
+      <name>Baked pumpkin</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1324">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1325">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1326">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1327">
+      <name>Food ration</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1328">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1329">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1330">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1331">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1332">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1333">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1334">
+      <name>Kitana X-Spin 12</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1335">
+      <name>Kitana X-Spin 15</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1336">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1337">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1338">
+      <name>Salamo CarpHunter-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1339">
+      <name>Salamo SFox-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1340">
+      <name>Carp-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1341">
+      <name>Radius-Carp</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1342">
+      <name>Tube-profi</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1343">
+      <name>Smoked eel</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1344">
+      <name>Boil Yellow</name>
+      <info>  Bolis - an artificial bait for catching a large carp.</info>
+    </weapon>
+    <weapon id="1345">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1346">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1347">
+      <name>Simple chair</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1348">
+      <name>Firm chair</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1349">
+      <name>Chair with back</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1350">
+      <name>Light chair</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1351">
+      <name>Fisher armchair</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1352">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1353">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1354">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1355">
+      <name>Hero Star</name>
+      <info>Collection item. You can create an openable container using three stars.</info>
+    </weapon>
+    <weapon id="1356">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1357">
+      <name>STK Hk-1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1358">
+      <name>STK Hk-2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1359">
+      <name>STK Hk-3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1360">
+      <name>
+      </name>
+      <info>  A tool for repairing class B rods</info>
+    </weapon>
+    <weapon id="1361">
+      <name>
+      </name>
+      <info>  A tool for repairing class B reels</info>
+    </weapon>
+    <weapon id="1362">
+      <name>
+      </name>
+      <info>  Universal repairkit that fixes class B rods and reels</info>
+    </weapon>
+    <weapon id="1363">
+      <name>Salamo CarpHunter-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1364">
+      <name>Carp-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1365">
+      <name>Salamo SFox-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1366">
+      <name>Salamo SFox-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1367">
+      <name>Bottom-I-S</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1368">
+      <name>Bottom-II-M</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1369">
+      <name>Bottom-III-L</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1370">
+      <name>Live-bait float</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1371">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1372">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1373">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1374">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1375">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1376">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1377">
+      <name>Potato cube</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1378">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1379">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1380">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1381">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1382">
+      <name>Salamo CarpHunter-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1383">
+      <name>Carp-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1384">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1385">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1386">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1387">
+      <name>Salmon roe</name>
+      <info>  A delicacy bait</info>
+    </weapon>
+    <weapon id="1388">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1389">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1390">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1391">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1392">
+      <name>Algae</name>
+      <info>The bait for catching herbivorous fish</info>
+    </weapon>
+    <weapon id="1393">
+      <name>VIB Raiwa 12g</name>
+      <info>Size 1</info>
+    </weapon>
+    <weapon id="1394">
+      <name>VIB Raiwa 18g</name>
+      <info>Size 2</info>
+    </weapon>
+    <weapon id="1395">
+      <name>VIB Raiwa 25g</name>
+      <info>Size 3</info>
+    </weapon>
+    <weapon id="1396">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1397">
+      <name>JIG TwistNord I</name>
+      <info>Silicon jig lure 40 mm</info>
+    </weapon>
+    <weapon id="1398">
+      <name>JIG TwistNord II</name>
+      <info>Silicon jig lure 75mm</info>
+    </weapon>
+    <weapon id="1399">
+      <name>JIG TwistNord III</name>
+      <info>Silicon jig lure 100mm</info>
+    </weapon>
+    <weapon id="1400">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1401">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1402">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1403">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1404">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1405">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1406">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1407">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1408">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1409">
+      <name>Waggler</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1410">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1411">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1412">
+      <name>Frog</name>
+      <info>A  frog prepared and put on a hook - the great bait for catching big pike, catfish and burbot</info>
+    </weapon>
+    <weapon id="1413">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1414">
+      <name>Artel creator badge</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1415">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1416">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1417">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1418">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1419">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1420">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1421">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1422">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1423">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1424">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1425">
+      <name>Extract of experience 100</name>
+      <info>The injection that gives 100 experience.
+
+Can be enhanced.
+VIP gives no bonus.</info>
+    </weapon>
+    <weapon id="1426">
+      <name>Extract of experience 400</name>
+      <info>The injection that gives 400 experience.
+
+Can be enhanced.
+VIP gives no bonus.</info>
+    </weapon>
+    <weapon id="1427">
+      <name>Extract of experience 1500</name>
+      <info>The injection that gives 1500 experience.
+
+Can be enhanced.
+VIP gives no bonus.</info>
+    </weapon>
+    <weapon id="1428">
+      <name>Extract of experience 6К</name>
+      <info>The injection that gives 6 000 experience.
+
+Can be enhanced.
+VIP gives no bonus.</info>
+    </weapon>
+    <weapon id="1429">
+      <name>Extract of experience 25К</name>
+      <info>The injection that gives 25 000 experience.
+
+Can be enhanced.
+VIP gives no bonus.</info>
+    </weapon>
+    <weapon id="1430">
+      <name>Extract of experience 100К</name>
+      <info>The injection that gives 100 000 experience.
+
+Can be enhanced.
+VIP gives no bonus.</info>
+    </weapon>
+    <weapon id="1431">
+      <name>Extract of experience 500К</name>
+      <info>The injection that gives 500 000 experience.
+
+Can be enhanced.
+VIP gives no bonus.</info>
+    </weapon>
+    <weapon id="1432">
+      <name>Nord TWS-III ICE</name>
+      <info> 
+
+This special twister is designed for catching big ice fish.
+
+Is a part of the special real-package.
+Size 3</info>
+    </weapon>
+    <weapon id="1433">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1434">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1435">
+      <name>Fish string-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1436">
+      <name>Fly</name>
+      <info>  A great bait for catching topwater fish.</info>
+    </weapon>
+    <weapon id="1437">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1438">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1439">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1440">
+      <name>Kitana DeepStream 8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1441">
+      <name>Basket-30gr</name>
+      <info>The "basket" type feeding-rack of 30 grams weight.</info>
+    </weapon>
+    <weapon id="1442">
+      <name>Basket-40gr</name>
+      <info>The "basket" type feeding-rack of 30 grams weight.</info>
+    </weapon>
+    <weapon id="1443">
+      <name>Basket-60gr</name>
+      <info>The "basket" type feeding-rack of 30 grams weight.</info>
+    </weapon>
+    <weapon id="1444">
+      <name>Bottom sinker 30</name>
+      <info>The ordinary bottom sinker of 30 grams weight. Designed for ledger rid tackle</info>
+    </weapon>
+    <weapon id="1445">
+      <name>Muckworm</name>
+      <info>  The universal bait for catching almost all fish species</info>
+    </weapon>
+    <weapon id="1446">
+      <name>Kitana FH-1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1447">
+      <name>Kitana FH-2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1448">
+      <name>Kitana FH-3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1449">
+      <name>GrassLine-8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1450">
+      <name>GrassLine-10</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1451">
+      <name>GrassLine-12</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1452">
+      <name>CarpPro-3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1453">
+      <name>CarpPro-4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1454">
+      <name>Attractant "Carp"</name>
+      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of all crucian species. To use it you have to mix it with water.</info>
+    </weapon>
+    <weapon id="1455">
+      <name>Attractant "Tench"</name>
+      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of tench. To use it you have to mix it with water.</info>
+    </weapon>
+    <weapon id="1456">
+      <name>Attractant "Bream"</name>
+      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of bream. To use it you have to mix it with water.</info>
+    </weapon>
+    <weapon id="1457">
+      <name>My mixture</name>
+      <info>The attractant made by own recipe</info>
+    </weapon>
+    <weapon id="1458">
+      <name>Attractant "Carp"</name>
+      <info>Ready-made attractant for crucian</info>
+    </weapon>
+    <weapon id="1459">
+      <name>Attractant "For tench"</name>
+      <info>Ready-made attractant for tench</info>
+    </weapon>
+    <weapon id="1460">
+      <name>Attractant "For bream"</name>
+      <info>Ready-made attractant for bream</info>
+    </weapon>
+    <weapon id="1461">
+      <name>My mixture</name>
+      <info>  Dry attractant mixture made by own recipe</info>
+    </weapon>
+    <weapon id="1462">
+      <name>Boil brown</name>
+      <info>  Boil - an artificial bait for catching carp.</info>
+    </weapon>
+    <weapon id="1463">
+      <name>Boil green</name>
+      <info>  Boil - an artificial bait for catching large white amur and silver carp white.</info>
+    </weapon>
+    <weapon id="1464">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1465">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1466">
+      <name>Bleaker-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1467">
+      <name>Glassy-20-0</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1468">
+      <name>Kitana DeepStream 12</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1469">
+      <name>Kitana DeepStream 18</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1470">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1471">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1472">
+      <name>LakeLine-7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1473">
+      <name>LakeLine-15</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1474">
+      <name>LakeLine-20</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1475">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1476">
+      <name>VIB Rima M1 12g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1477">
+      <name>VIB Rima M1 18g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1478">
+      <name>VIB Rima M1 25g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1479">
+      <name>VOB Crucian M1 5g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1480">
+      <name>VOB Crucian M1 10g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1481">
+      <name>VOB Crucian M1 25g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1482">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1483">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1484">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1485">
+      <name>Glassy-20-1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1486">
+      <name>Glassy-20-2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1487">
+      <name>Glassy-20-3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1488">
+      <name>Knitted fly (dry)</name>
+      <info>The imitation of fly knitted from colour threads. This fly is called "dry" because it is lighter than water and always hit the surface</info>
+    </weapon>
+    <weapon id="1489">
+      <name>Knitted fly (wet)</name>
+      <info>The imitation of fly knitted from colour threads. This fly is called "wet" because it is heavier than water and sinks</info>
+    </weapon>
+    <weapon id="1490">
+      <name>Attractant "Universal"</name>
+      <info>The ready dry mixture for an attractant. To use it you have to mix it with water.</info>
+    </weapon>
+    <weapon id="1491">
+      <name>"Universal"</name>
+      <info>Ready-made universal attractant</info>
+    </weapon>
+    <weapon id="1492">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1493">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1494">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1495">
+      <name>Method-Volgar</name>
+      <info>The "method" class feeding-rack of 40 grams weight from the "Volgar" bundle</info>
+    </weapon>
+    <weapon id="1496">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1497">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1498">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1499">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1500">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1501">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1502">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1503">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1504">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1505">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1506">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1507">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1508">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1509">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1510">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1511">
+      <name>Method-70</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1512">
+      <name>Method-90</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1513">
+      <name>Method-100</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1514">
+      <name>Fish string-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1515">
+      <name>Tournament Token</name>
+      <info>Token, which can be obtained by winning a prize in the tournament</info>
+    </weapon>
+    <weapon id="1516">
+      <name> Worm I</name>
+      <info>Light 8 grams silicone imitations of fish</info>
+    </weapon>
+    <weapon id="1517">
+      <name>Worm II</name>
+      <info>Light 8 grams silicone imitations of fish</info>
+    </weapon>
+    <weapon id="1518">
+      <name>Worm III</name>
+      <info>Light 8 grams silicone imitations of fish</info>
+    </weapon>
+    <weapon id="1519">
+      <name>Wacky worm lollypop</name>
+      <info>Small silicone worm for wacky-jig. NeyYear color</info>
+    </weapon>
+    <weapon id="1520">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1521">
+      <name>Bottom-Premium</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1522">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1523">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1524">
+      <name>CRL Atom JS 5g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1525">
+      <name>VIB Atom JS 18g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1526">
+      <name>JIG Atom JS 20g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1527">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1528">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1529">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1530">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1531">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1532">
+      <name>Popper "Frog-III-М5"</name>
+      <info> A special frog alike wobbler, designed for top-water fishing. Size 3.</info>
+    </weapon>
+    <weapon id="1533">
+      <name>Wacky I</name>
+      <info>Wacky-tackle silicon worm</info>
+    </weapon>
+    <weapon id="1534">
+      <name>Wacky II</name>
+      <info>Wacky-tackle silicon worm</info>
+    </weapon>
+    <weapon id="1535">
+      <name>Wacky III</name>
+      <info>Wacky-tackle silicon worm</info>
+    </weapon>
+    <weapon id="1536">
+      <name>ASP TW-I</name>
+      <info> Topwaters - the series of special wobblers, designed for topwater fishing.  </info>
+    </weapon>
+    <weapon id="1537">
+      <name>ASP TW-II</name>
+      <info> Topwaters - the series of special wobblers, designed for topwater fishing.  </info>
+    </weapon>
+    <weapon id="1538">
+      <name>ASP TW-III</name>
+      <info> Topwaters - the series of special wobblers, designed for topwater fishing.  </info>
+    </weapon>
+    <weapon id="1539">
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1540">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1541">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1542">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1543">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1544">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1545">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1546">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1547">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1548">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1549">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1550">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1551">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1552">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1553">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1554">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1555">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1556">
+      <name>Twister Whitefish-I</name>
+      <info>  A twister that is specially designed for catching trophy whitefish. </info>
+    </weapon>
+    <weapon id="1557">
+      <name>Radius-M2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1558">
+      <name>Shrimp</name>
+      <info>   Shrimp that had been cleaned of its shell - the exquisite delicacy for many types of sea fish.</info>
+    </weapon>
+    <weapon id="1559">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1560">
+      <name>Semolina dough</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1561">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1562">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1563">
+      <name>
+      </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1564">
+      <name>Christmas Red Sock</name>
+      <info>To open the sock, right-click on the item and select "Use." Or collect from three multi-colored socks the prize container</info>
+    </weapon>
+    <weapon id="1565">
+      <name>Christmas Blue Sock</name>
+      <info>To open the sock, right-click on the item and select "Use." Or collect from three multi-colored socks the prize container</info>
+    </weapon>
+    <weapon id="1566">
+      <name>Christmas Green Sock</name>
+      <info>To open the sock, right-click on the item and select "Use." Or collect from three multi-colored socks the prize container</info>
+    </weapon>
+    <weapon id="1567">
+      <name>Kolba-master</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1568">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1569">
+      <name>Silicone Worm M1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1570">
+      <name>Silicone Worm M2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1571">
+      <name>Styrofoam</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1572">
+      <name>Styrofoam ball white</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1573">
+      <name>Styrofoam ball yelow</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1574">
+      <name>Styrofoam ball green</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1575">
+      <name>Styrofoam ball blue</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1576">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1577">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1578">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1579">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1580">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1581">
+      <name>Boil red</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1582">
+      <name>Boil "Corn"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1583">
+      <name>Boil "Citrus"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1584">
+      <name>Boil "Cream"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1585">
+      <name>Boil "Caramel"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1586">
+      <name>Boil "Curcuma"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1587">
+      <name>Boil "Tiger nut"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1588">
+      <name>Boil "Grass"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1589">
+      <name>Boil "Cabbage"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1590">
+      <name>Boil "Mint"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1591">
+      <name>Boil "Strawberry"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1592">
+      <name>Boil "Fruits"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1593">
+      <name>Boil "Crab"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1594">
+      <name>Boil "Oysters"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1595">
+      <name>Boil "Cheese"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1596">
+      <name>CarpPro-1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1597">
+      <name>CarpPro-2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1598">
+      <name>Kitana FH-4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1599">
+      <name>Kitana Fider Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1600">
+      <name>Kitana X-Spin 18</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1601">
+      <name>Kitana X-Spin 20</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1602">
+      <name>Kitana X-Spin 25</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1603">
+      <name>Kitana X-Spin 30</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1604">
+      <name>VIB Raiwa 30g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1605">
+      <name>JR RubinFly-8</name>
+      <info>Fly Fishing Rod</info>
+    </weapon>
+    <weapon id="1606">
+      <name>JR RubinFly-12</name>
+      <info>Fly Fishing Rod</info>
+    </weapon>
+    <weapon id="1607">
+      <name>JR RubinFly-18</name>
+      <info>Fly Fishing Rod</info>
+    </weapon>
+    <weapon id="1608">
+      <name>JT RubinFly-8</name>
+      <info>Reel for Flyfishing
+</info>
+    </weapon>
+    <weapon id="1609">
+      <name>JT RubinFly-12</name>
+      <info>Reel for Flyfishing</info>
+    </weapon>
+    <weapon id="1610">
+      <name>JT RubinFly-18</name>
+      <info>Reel for Flyfishing</info>
+    </weapon>
+    <weapon id="1611">
+      <name>Series JR RubinFly</name>
+      <info>Fly Fishing Rod</info>
+    </weapon>
+    <weapon id="1612">
+      <name>Серия JT RubinFly</name>
+      <info>Reel for Flyfishing</info>
+    </weapon>
+    <weapon id="1613">
+      <name>Salamo SFox Gold</name>
+      <info>Premium reel designed for catching large carp with a larger spool</info>
+    </weapon>
+    <weapon id="1614">
+      <name>NS Fluo Yelow</name>
+      <info>Flyfishing cord</info>
+    </weapon>
+    <weapon id="1615">
+      <name>NS Fluo Orange</name>
+      <info>Flyfishing cord</info>
+    </weapon>
+    <weapon id="1616">
+      <name>NS Fluo Green</name>
+      <info>Flyfishing cord</info>
+    </weapon>
+    <weapon id="1617">
+      <name>NS Fluo</name>
+      <info>Flyfishing cord</info>
+    </weapon>
+    <weapon id="1618">
+      <name>RubinFly fly</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1619">
+      <name>RubinFly big</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1620">
+      <name>RubinFly Grasshopper</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1621">
+      <name>RubinFly Walking</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1622">
+      <name>LakeLine Z-30</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1623">
+      <name>вязаная сухая муха</name>
+      <info>default fly for gameengine</info>
+    </weapon>
+    <weapon id="1624">
+      <name>Sazan - 12</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1625">
+      <name>Sazan - 16</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1626">
+      <name>Sazan - 20</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1627">
+      <name>Sazan - 28</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1628">
+      <name>Series "Sazan"</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1629">
+      <name>Frontera 5m</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1630">
+      <name>Waggler-8-6</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1631">
+      <name>Waggler-10-8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1632">
+      <name>WagglerNight-10-8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1633">
+      <name>SF "Lucky fishing"</name>
+      <info>Ready bait balls</info>
+    </weapon>
+    <weapon id="1634">
+      <name>leader 1.5 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1635">
+      <name>leader 2.8 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1636">
+      <name>leader 4,5 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1637">
+      <name>leader 6,4 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1638">
+      <name>leader 9.7 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1639">
+      <name>leader 11.4 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1640">
+      <name>leader 14,5 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1641">
+      <name>leader 19.2 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1642">
+      <name>leader 24,6 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1643">
+      <name>leader 29.1 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1644">
+      <name>leader 39,2 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1645">
+      <name>---</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1646">
+      <name>BillyWorm Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1647">
+      <name>Nereis</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1648">
+      <name>Seaworm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1649">
+      <name>Squid</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1650">
+      <name>NS XG light</name>
+      <info>Flyfishing cord</info>
+    </weapon>
+    <weapon id="1651">
+      <name>leader 17.0 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1652">
+      <name>CRL TroutMaster M1</name>
+      <info>Light spinner-bait for catching careful trout</info>
+    </weapon>
+    <weapon id="1653">
+      <name>CRL TroutMaster M2</name>
+      <info>Light spinner-bait for catching careful trout</info>
+    </weapon>
+    <weapon id="1654">
+      <name>CRL TroutMaster M3</name>
+      <info>Light spinner-bait for catching careful trout</info>
+    </weapon>
+    <weapon id="1655">
+      <name>CRL Marss M1</name>
+      <info>Light spinner-bait for catching grayling</info>
+    </weapon>
+    <weapon id="1656">
+      <name>CRL Marss M2</name>
+      <info>Light spinner-bait for catching grayling</info>
+    </weapon>
+    <weapon id="1657">
+      <name>CRL Marss M3</name>
+      <info>Light spinner-bait for catching grayling</info>
+    </weapon>
+    <weapon id="1658">
+      <name>TroutMaster ML</name>
+      <info>A professional lightweight spinning rod designed specifically for catching careful trout on long and precise casts
+
+Reels size: 1000-2500</info>
+    </weapon>
+    <weapon id="1659">
+      <name>TroutMaster</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1660">
+      <name>CRL Marss</name>
+      <info>Light spinner-bait for catching grayling</info>
+    </weapon>
+    <weapon id="1661">
+      <name>TroutMaster-7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1662">
+      <name>TroutMaster RSL</name>
+      <info>Professional lightweight reel </info>
+    </weapon>
+    <weapon id="1663">
+      <name>Spring-10 gr</name>
+      <info>Popular spring feeder</info>
+    </weapon>
+    <weapon id="1664">
+      <name>Spring-30 gr</name>
+      <info>Popular spring feeder</info>
+    </weapon>
+    <weapon id="1665">
+      <name>Spring-60 gr</name>
+      <info>Popular spring feeder</info>
+    </weapon>
+    <weapon id="1666">
+      <name>Feeders spring</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1667">
+      <name>Feeders Basket</name>
+      <info>A basket-type feeder used in a paternoster </info>
+    </weapon>
+    <weapon id="1668">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1669">
+      <name>Bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1670">
+      <name>VIB Agara UL</name>
+      <info>A series of lightweight lures for ultralight fishing</info>
+    </weapon>
+    <weapon id="1671">
+      <name>VIB UL Cyclope M1</name>
+      <info>A series of lightweight lures for ultralight fishing</info>
+    </weapon>
+    <weapon id="1672">
+      <name>VIB UL Cyclope M2</name>
+      <info>A series of lightweight lures for ultralight fishing</info>
+    </weapon>
+    <weapon id="1673">
+      <name>VIB UL Cyclope M3</name>
+      <info>A series of lightweight lures for ultralight fishing</info>
+    </weapon>
+    <weapon id="1674">
+      <name>VIB Agara MD</name>
+      <info>A series of narrow lures for deep fishing of zander</info>
+    </weapon>
+    <weapon id="1675">
+      <name>VIB MD Cyclope M1</name>
+      <info>A series of narrow lures for deep fishing of zander</info>
+    </weapon>
+    <weapon id="1676">
+      <name>VIB MD Cyclope M2</name>
+      <info>A series of narrow lures for deep fishing of zander</info>
+    </weapon>
+    <weapon id="1677">
+      <name>VIB MD Cyclope M3</name>
+      <info>A series of narrow lures for deep fishing of zander</info>
+    </weapon>
+    <weapon id="1678">
+      <name>Salamo CarpHunter-Pro</name>
+      <info>Heavy
+</info>
+    </weapon>
+    <weapon id="1679">
+      <name>Salamo CarpHunter-Expert</name>
+      <info>Heavy
+</info>
+    </weapon>
+    <weapon id="1680">
+      <name>Salamo SFox FX-Pro</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1681">
+      <name>Salamo SFox FX-Exprt</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1682">
+      <name>Salamo Carp-Pro</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1683">
+      <name>Salamo Carp-Expert</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1684">
+      <name>Связка рыбьего мяса</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1685">
+      <name>Связка потрохов</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1686">
+      <name>Связка ракового мяса</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1687">
+      <name>Sea livebait</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1688">
+      <name>Связка моллюсков</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1689">
+      <name>Кукан-III</name>
+      <info> Куканы используют для удерживания крупной рыбы. Для этого тросик с одной стороны привязывается на берегу, а вторым концом продевается сквозь жабры рыбы, не давая ей уплыть.</info>
+    </weapon>
+    <weapon id="1690">
+      <name>VOB Agara DeepTail</name>
+      <info>A series of deep wobblers designed specifically for trolling. The main goal - zander, catfish, pike</info>
+    </weapon>
+    <weapon id="1691">
+      <name>VOB DeepTail M1</name>
+      <info>Size 4
+Special large lure designed for trolling
+The main goal - zander, catfish, pike</info>
+    </weapon>
+    <weapon id="1692">
+      <name>VOB DeepTail M2</name>
+      <info>Size 4
+Special large lure designed for trolling
+The main goal - zander, catfish, pike</info>
+    </weapon>
+    <weapon id="1693">
+      <name>VOB DeepTail M3</name>
+      <info>Size 4
+Special large lure designed for trolling
+The main goal - zander, catfish, pike</info>
+    </weapon>
+    <weapon id="1694">
+      <name>Boil "Tangerine"</name>
+      <info>Tangerine smell - New Year's smell</info>
+    </weapon>
+    <weapon id="1695">
+      <name>Fir spinner-bait</name>
+      <info>New Year Spinner</info>
+    </weapon>
+    <weapon id="1696">
+      <name>Wacky IV</name>
+      <info>Wacky-tackle silicon worm</info>
+    </weapon>
+    <weapon id="1697">
+      <name>Wacky Series</name>
+      <info>Wacky-tackle silicon worm</info>
+    </weapon>
+    <weapon id="1698">
+      <name>JigHead series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1699">
+      <name>JigHead 0-0</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1700">
+      <name>JigHead 0-1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1701">
+      <name>JigHead 1-5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1702">
+      <name>JigHead 1-10</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1703">
+      <name>JigHead 2-14</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1704">
+      <name>JigHead 2-17</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1705">
+      <name>JigHead 2-20</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1706">
+      <name>JigHead 3-25</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1707">
+      <name>JigHead 3-35</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1708">
+      <name>JigHead 4-40</name>
+      <info>
+      </info>
+    </weapon>
+  </weapons>
+</wpnlang>

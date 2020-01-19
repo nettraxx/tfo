@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auk_data>
+
+ <categories>
+    <category id="-90" name="Вещевой акцион">
+        <category idlist="1,2,3,4,5" name="Снасти и оснастка"/>
+        <category id="32" name="Ремнаборы"/>
+		<category id="34" name="Учебники"/>
+		<category idlist="17,18,33" name="Внешний вид"/>
+    </category>    
+    
+	<category idlist="10,11" name="Наживки и приманки"/>
+	<category idlist="12" name="Блесны и твистеры"/>
+	<category idlist="21,22,23" name="Мед. Еда и напитки"/>
+        
+	<category id="26" name="Детали и модификаторы"/>
+	<category id="25" name="Компоненты"/>
+	<category id="24" name="Ресурсы"/>
+	<category id="28" name="Рецепты"/>
+	<category id="31" name="Коллекционные"/>
+	<category id="0" name="Разное"/>
+	<category id="-100" name="Мои лоты"/>
+
+</categories>
+</auk_data>

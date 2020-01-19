@@ -1,0 +1,53 @@
+﻿[MAP_NAMES]
+1_Name=Germany: Briesenersee 
+1_Info=
+
+2_Name=Russia: r. Pra
+1_Info=
+
+3_Name=France: Ponds of Perruchet 
+1_Info=
+
+4_Name=Finland: Kulgu lake
+4_Info=
+
+5_Name=Ukraine: r. Domaha
+1_Info=
+
+6_Name=Belarus: Dukora pond
+6_Info=
+
+7_Name=Italy: r. Po
+7_Info=
+
+8_Name=Poland: r. San
+8_Info=
+
+[LOC_NAMES]
+---------------------
+# Брезинер
+0_Name=
+1_Name=Camping
+2_Name=Water lilies
+3_Name=Wheat field
+4_Name=City Beach
+5_Name=Resting-place
+
+
+
+
+---------------------
+# Мещера
+21_Name=Camp
+22_Name=Pine Forest
+23_Name=Meshchera
+24_Name=Swamp
+
+---------------------
+31_Name=Perruchet
+
+---------------------
+
+51_Name=Fishing base
+
+# Пруд Перруше  Les étangs de Perruchet
