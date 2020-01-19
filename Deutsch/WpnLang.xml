@@ -3139,8 +3139,7 @@ Forelle, Forellenbarsch, Muschel, Rapfen, Zander
       </info>
     </weapon>
     <weapon id="1515">
-      <name>Turnier-Token
-      </name>
+      <name>Turnier-Token</name>
       <info>Eine Wertmarke, die in einem Turnier gewonnen werden kann. 
 Dient dazu, in bestimmten Geschäften gegen Belohnnungen eingelöst zu werden.
       </info>
@@ -4092,7 +4091,7 @@ Das Hauptziel - Zander, Wels, Hecht</info>
       <info>Mandarinengeruch - Neujahrsgeruch</info>
     </weapon>
     <weapon id="1695">
-      <name>Tannenspinner-Köder</name>
+      <name>Tannenzweig-Köder</name>
       <info>Neujahrs-Spinner</info>
     </weapon>
     <weapon id="1696">

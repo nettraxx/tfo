@@ -48,8 +48,8 @@ setng_lb3=Grasdistanz
 setng_lb4=Gamma
 setng_lb5=Kontrast
 setng_lb6=Schatten
-setng_lb7=Interface-Größe
-setng_lb8=Standard Herstellen
+setng_lb7=Bildskalierung
+setng_lb8=Standard herstellen
 
 naviinfo1=Koordinaten
 naviinfo2=Distanz
@@ -293,10 +293,10 @@ trn_reg=Vorbereitung auf das Turnier `{0}`
 
 anfish=Fange Fische
 prisefond=Preis Pool:
-pf1m=1. Platz: {0}
-pf2m=2. Platz: {0}
-pf3m=3. Platz: {0}
-pf4_10m=4-10. Platz: {0}
+pf1m=1er: {0}
+pf2m=2er: {0}
+pf3m=3er: {0}
+pf4_10m=4-10er: {0}
 
 #Added 28.02.2018
 #------------------------------------
@@ -727,7 +727,7 @@ shop_t2=Kunstköder
 shop_t3=Imitationsköder
 shop_t4=Lockfutter/Lockmittel
 shop_t5=Posenruten
-shop_t6=Spinningruten
+shop_t6=Spinnruten
 shop_t7=Feederruten
 shop_t8=Rollen
 shop_t9=Schnur
@@ -887,7 +887,7 @@ gi_um_1=Statistik
 gi_um_2=Rekorde
 gi_um_3=Reputation
 gi_um_4=Aktionen
-gi_um_5=Perks
+gi_um_5=Vergünstigungen
 gi_um_6=Titel
 gi_um_7=Beruf
 gi_um_8=Sammlung
@@ -1133,7 +1133,7 @@ crpers_bottom=Beine
 crpers_ground=Hauptfarbe
 crpers_cam=Tarnung
 crpers_intens=Intensität
-crpers_scale=Scale
+crpers_scale=Skala
 crpers_rot=Drehen
 crpers_hue=Ton
 crpers_haircol=Haarfarbe
