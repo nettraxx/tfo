@@ -332,7 +332,7 @@
     <weapon id="1010">
       <name>Wurm</name>
       <info>Fängig für:
-Aland, Blutegel, Brachse, Flussbarsch, Flusskrebs, Forelle, Frosch, Goldforelle, Karausche, 
+Aland, Blutegel, Brachse, Flussbarsch, Flusskrebs, Regenbogenforelle, Frosch, Goldforelle, Karausche, 
 Großkopfmeeräsche, Gründling, Güster, Hasel, Giebel, Kaspischer Hering, Kaulbarsch, Rapfen, 
 Schläfergrundel, Schuppenkarpfen, See Elritze, Taran, Weißfisch, Wels, Zander, Zope	  
 	  </info>
@@ -402,7 +402,7 @@ Schleie, Schuppenkarpfen
       <name>Köderfisch</name>
       <info>Fängig für:
 Aal,Bachforelle, Donaulachs, Europäische Äsche, 
-Flussbarsch, Forelle, Grashecht, Hecht, Quappe	  
+Flussbarsch, Regenbogenforelle, Grashecht, Hecht, Quappe	  
       </info>
     </weapon>
     <weapon id="1022">
@@ -768,7 +768,7 @@ Flussbarsch, Forellenbarsch, Grashecht, Hecht, Kaulbarsch, Wels
     <weapon id="1091">
       <name>Grashüpfer</name>
       <info>Fängig für:
-Aland, Döbel, Europäische Äsche, Flussbarsch, Forelle,
+Aland, Döbel, Europäische Äsche, Flussbarsch, Regenbogenforelle,
 Frosch, Hasel, Rapfen, Rotauge, Rotfeder, Sichling	  
       </info>
     </weapon>
@@ -843,19 +843,19 @@ Saibling, Sterlet,Zander
     <weapon id="1103">
       <name>VOB Jumper 5g</name>
       <info>Fängig für:
-Forelle, Grashecht	  
+Regenbogenforelle, Grashecht	  
 	  </info>
     </weapon>
     <weapon id="1104">
       <name>VOB Jumper 10g</name>
       <info>Fängig für:
-Forelle, Grashecht	  
+Regenbogenforelle, Grashecht	  
 	  </info>
     </weapon>
     <weapon id="1105">
       <name>VOB Jumper 25g</name>
       <info>Fängig für:
-Forelle, Grashecht	  
+Regenbogenforelle, Grashecht	  
 	  </info>
     </weapon>
     <weapon id="1106">
@@ -2443,7 +2443,7 @@ Lederkarpfen, Schuppenkarpfen
     <weapon id="1387">
       <name>Lachsrogen</name>
       <info>Fängig für:
-Aal, Bachforelle, Forelle	  
+Aal, Bachforelle, Regenbogenforelle	  
 	  </info>
     </weapon>
     <weapon id="1388">
@@ -2479,21 +2479,21 @@ Lederkarpfen, Rotauge
     <weapon id="1393">
       <name>VIB Raiwa 12g</name>
       <info>Fängig für:
-Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,
+Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
 Kaspi Maifisch, Kabeljau, Weißfisch	  
 	  </info>
     </weapon>
     <weapon id="1394">
       <name>VIB Raiwa 18g</name>
       <info>Fängig für:
-Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,
+Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
 Kaspi Maifisch, Kabeljau, Weißfisch	  
 	  </info>
     </weapon>
     <weapon id="1395">
       <name>VIB Raiwa 25g</name>
       <info>Fängig für:
-Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,
+Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
 Kaspi Maifisch, Kabeljau, Weißfisch	  
 	  </info>
     </weapon>
@@ -2741,7 +2741,7 @@ Size 3</info>
     <weapon id="1436">
       <name>Fliege</name>
       <info>Fängig für:
-Bachforelle, Europäische Äsche, Forelle, Goldforelle, Laube	  
+Bachforelle, Europäische Äsche, Regenbogenforelle, Goldforelle, Laube	  
 	  </info>
     </weapon>
     <weapon id="1437">
@@ -2954,19 +2954,19 @@ Donaulachs, Meeräsche, Kabeljau, Zander
     <weapon id="1479">
       <name>VOB Crucian M1 5g</name>
       <info>Fängig für:
-Forelle, Forellenbarsch, Muschel, Rapfen, Zander
+Regenbogenforelle, Forellenbarsch, Muschel, Rapfen, Zander
       </info>
     </weapon>
     <weapon id="1480">
       <name>VOB Crucian M1 10g</name>
       <info>Fängig für:
-Forelle, Forellenbarsch, Muschel, Rapfen, Zander
+Regenbogenforelle, Forellenbarsch, Muschel, Rapfen, Zander
       </info>
     </weapon>
     <weapon id="1481">
       <name>VOB Crucian M1 25g</name>
       <info>Fängig für:
-Forelle, Forellenbarsch, Muschel, Rapfen, Zander
+Regenbogenforelle, Forellenbarsch, Muschel, Rapfen, Zander
       </info>
     </weapon>
     <weapon id="1482">
@@ -3249,7 +3249,7 @@ der für das Top-Water-Angeln entwickelt wurde.</info>
       <name>АSP TW-I</name>
       <info>Fängig für:
 Aland, Baltischer Lachs, Döbel, Donaulachs, Europäische Äsche,	
-Flussforelle, Forelle, Grashecht, Rapfen
+Flussforelle, Regenbogenforelle, Grashecht, Rapfen
 	  </info>
     </weapon>
     <weapon id="1537">
@@ -3377,7 +3377,7 @@ Donaulachs, Forellenbarsch, Rapfen
     <weapon id="1558">
       <name>Schrimp</name>
       <info>Fängig für:
-Bachforelle, Forelle, Goldforelle, Kabeljau,
+Bachforelle, Regenbogenforelle, Goldforelle, Kabeljau,
 Teichforelle, Weißbauchflunder	  
 	  </info>
     </weapon>
@@ -3639,7 +3639,7 @@ Aal, Barbe, Tiberbarbe
     <weapon id="1604">
       <name>VIB Raiwa 30g</name>
       <info>Fängig für:	
-Baltischer Lachs, Donaulachs, Forelle, Goldforelle, Grashecht, Hecht,	
+Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,	
 Kaspi Maifisch, Kabeljau, Weißfisch
       </info>
     </weapon>
@@ -3704,14 +3704,14 @@ Bachforelle, Döbel, Donaulachs, Europäische Äsche, Goldforelle
     <weapon id="1619">
       <name>RubinFly Nymphe</name>
       <info>Fängig für:
-Bachforelle, Döbel, Donaulachs, Europäische Äsche, Forelle,	
+Bachforelle, Döbel, Donaulachs, Europäische Äsche, Regenbogenforelle,	
 Goldforelle, Rapfen, Rotauge, Sichling	  
       </info>
     </weapon>
     <weapon id="1620">
       <name>RubinFly Grashüpfer</name>
       <info>Fängig für:
-Aland, Döbel, Bachforelle, Flussforelle, Forelle, Forellenlachs,
+Aland, Döbel, Bachforelle, Flussforelle, Regenbogenforelle, Forellenlachs,
 Frosch, Goldforelle, Hasel, Rapfen, Teichforelle	  
       </info>
     </weapon>
@@ -3876,37 +3876,37 @@ Meeräsche, Weißbauchflunder
     <weapon id="1652">
       <name>CRL TroutMaster M1</name>
       <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Forellenbarsch, Goldforelle	  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Forellenbarsch, Goldforelle	  
 	  </info>
     </weapon>
     <weapon id="1653">
       <name>CRL TroutMaster M2</name>
       <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Forellenbarsch, Goldforelle	  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Forellenbarsch, Goldforelle	  
 	  </info>
     </weapon>
     <weapon id="1654">
       <name>CRL TroutMaster M3</name>
       <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Forellenbarsch, Goldforelle  	  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Forellenbarsch, Goldforelle  	  
 	  </info>
     </weapon>
     <weapon id="1655">
       <name>CRL Marss M1</name>
       <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Forellenbarsch, Goldforelle	  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Forellenbarsch, Goldforelle	  
 	  </info>
     </weapon>
     <weapon id="1656">
       <name>CRL Marss M2</name>
       <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Forellenbarsch, Goldforelle	  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Forellenbarsch, Goldforelle	  
 	  </info>
     </weapon>
     <weapon id="1657">
       <name>CRL Marss M3</name>
       <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Forellenbarsch, Goldforelle	  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Forellenbarsch, Goldforelle	  
 	  </info>
     </weapon>
     <weapon id="1658">
@@ -3971,19 +3971,19 @@ Rollengröße: 1000-2500.</info>
 	<weapon id="1671">
 	  <name>VIB UL Cyclope M1</name>
 	  <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Goldforelle	  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Goldforelle	  
 	  </info>
 	</weapon>
 	<weapon id="1672">
 	  <name>VIB UL Cyclope M2</name>
 	  <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Goldforelle		  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Goldforelle		  
 	  </info>
 	</weapon>
 	<weapon id="1673">
 	  <name>VIB UL Cyclope M3</name>
 	  <info>Fängig für:
-Bachforelle, Europäische Äsche, Flussforelle, Forelle, Goldforelle		  
+Bachforelle, Europäische Äsche, Flussforelle, Regenbogenforelle, Goldforelle		  
 	  </info>
 	</weapon>
 	<weapon id="1674">
