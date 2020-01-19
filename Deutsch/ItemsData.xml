@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <itemsdata>
-    <items>
-        <item id="1" name="Bugdeath" ondestroy="1"/>
-        <item id="2" name="Sharp-header" ondestroy="1"/>
-        <item id="3" name="Grovish" ondestroy="1"/>
-        <item id="4" name="Brainish" ondestroy="1"/>
-
-        <item id="11" name="Swampy" ondestroy="1"/>
-        <item id="12" name="Boney" ondestroy="1"/>
-        <item id="13" name="Bluevy" ondestroy="1"/>
-        <item id="14" name="Zombie eye" ondestroy="1"/>
-
-        <item id="21" name="Wild leek" ondestroy="1"/>
-        <item id="22" name="Gorloder" ondestroy="1"/>
-        <item id="23" name="Honey" ondestroy="1"/>
-        <item id="24" name="Crayfish bush" ondestroy="1"/>
-
-        <item id="25" name="Potato" ondestroy="1"/>
-        <item id="26" name="Corn" ondestroy="1"/>
-        <item id="27" name="Pumpkin" ondestroy="1"/>
-        
-        <item id="101" name="Rotten stump" ondestroy="1"/>
-        <item id="102" name="Molehill" ondestroy="1"/>
-        <item id="103" name="Rotten log" ondestroy="1"/>
-        <item id="104" name="Stalker’s knapsack" ondestroy="1"/>
-        <item id="105" name="Garbage" ondestroy="1"/>
-
-        <item id="10000" name="Randomit" ondestroy="1"/>
-        <item id="10001" name="Dunghill" ondestroy="1"/>
-        <item id="10002" name="Rotten bark" ondestroy="1"/>
-        <item id="10003" name="Blue worms nest" ondestroy="1"/>
-        
-    </items>
+	<items>
+		<item id="1" name="Käfertod" ondestroy="1"/>
+		<item id="2" name="Sharp-header" ondestroy="1"/>
+		<item id="3" name="Grovish" ondestroy="1"/>
+		<item id="4" name="Brainish" ondestroy="1"/>
+		<item id="11" name="Swampy" ondestroy="1"/>
+		<item id="12" name="Boney" ondestroy="1"/>
+		<item id="13" name="Bluevy" ondestroy="1"/>
+		<item id="14" name="Zombie eye" ondestroy="1"/>
+		<item id="21" name="Wild leek" ondestroy="1"/>
+		<item id="22" name="Gorloder" ondestroy="1"/>
+		<item id="23" name="Honey" ondestroy="1"/>
+		<item id="24" name="Crayfish bush" ondestroy="1"/>
+		<item id="25" name="Kartoffel" ondestroy="1"/>
+		<item id="26" name="Mais" ondestroy="1"/>
+		<item id="27" name="Kürbis" ondestroy="1"/>
+        <item id="101" name="Fauler Stumpen" ondestroy="1"/>
+		<item id="102" name="Maulwurfshügel" ondestroy="1"/>
+		<item id="103" name="Fauler Baumstamm" ondestroy="1"/>
+		<item id="104" name="Stalkers Rucksack" ondestroy="1"/>
+		<item id="105" name="Müll" ondestroy="1"/>
+		<item id="10000" name="Zufall" ondestroy="1"/>
+		<item id="10001" name="Misthaufen" ondestroy="1"/>
+		<item id="10002" name="Verrottete Rinde" ondestroy="1"/>
+		<item id="10003" name="Tauwurmnest" ondestroy="1"/>
+	</items>
 </itemsdata>
