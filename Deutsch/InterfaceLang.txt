@@ -109,7 +109,7 @@ infcell_korm=Futterkorb
 infcell_prkorm=Futter
 infcell_bait=Köder
 infcell_blesn=Köder
-infcell_cord=Cord
+infcell_cord=Schnur
 
 
 inf_limit=Server ist voll
@@ -145,11 +145,11 @@ prov_prov_5=Strippen
 prov_prov_6=Mehrfach Strippen
 prov_prov_7=Step-by-Step
 
-wpn_catfly=Spule: {0:0.0} m (on using cord 1 mm)
+wpn_catfly=Spule: {0:0.0} m (wenn 1mm Schnur verwendet wird)
 
 treel_type0=Stationär
 treel_type1=Single Action
-treel_type2=Low Profile
+treel_type2=Ultralight
 treel_type3=Multirolle
 
 
@@ -217,54 +217,54 @@ fshop_btn3=Verkaufe alles
 #Added 21.10.2018
 #------------------------------------
 invn_win1=Recycling
-invn_rec1=Recycling Ergebniss:
+invn_rec1=Recycling Ergebnis:
 invn_rec2={0} x{1} Stk
 invn_rec3=Abbau
-invn_rec4=Fixing:{0}\nBase durability lost: {1}
-invn_rec5=Upgrading
+invn_rec4=Fixing:{0}\nGrundhaltbarkeit verloren: {1}
+invn_rec5=Beim Aufrüsten
 invn_rec6=Upgrade Kosten:
-invn_rec7=Successful upgrade chance (+{0}):
-invn_rec8=Improve
-invn_rec9=Item reparatur
-invn_rec10=Current durability: {0}/{1}
-invn_rec11=No chosen repairkits
+invn_rec7=Aufrüstglück (+{0}):
+invn_rec8=Verbessern
+invn_rec9=Item Reparatur
+invn_rec10=Aktuelle Haltbarkeit: {0}/{1}
+invn_rec11Keine gewählten Reparaturkits
 invn_rec12=benutzen
 
 invn_rec13=Item wegwerfen
 invn_rec14=Möchtest Du das wirklich wegwerfen \n{0}?
 invn_rec15=benutzen
 invn_rec16=Item zerlegen
-invn_rec17=Beim zerlegen bekommst du:
+invn_rec17=Beim Zerlegen bekommst du:
 invn_rec18=und auch mit ein wenig Glück:
 invn_rec19={0} x{1}-{2} Stk
 invn_rec20=- nichts -
 invn_rec21=Demontieren
 invn_rec22=Mögliches Recycling-Ergebnis:
 invn_rec23={0} +{1} Stk\n{2}
-invn_rec24=Recycling cost {0} WP/Stk\nFor everything: {1}/{2} WP
-invn_rec25=Recycle
-invn_rec26=Learning
+invn_rec24=Recycling-Kosten {0} WP/Stk\nFür alles: {1}/{2} WP
+invn_rec25=Verwerten
+invn_rec26=Lernen
 invn_rec27=Der Gegenstand benötigt eine Reparatur!
-invn_rec28=By repairing you’ll make the item worse!
-invn_rec29=Repairing
-invn_rec30=Actions
+invn_rec28=Beim Reparieren wird der Gegenstand schlechter!
+invn_rec29=Repariere
+invn_rec30=Aktionen
 invn_rec31=Item aufteilen
 invn_rec32=Anzahl:
 invn_rec33=aufteilen
 invn_rec34=Gebietskarte
 
-chat_n1=Popular channels
-chat_n2=NEW CHAT CHANNEL
-chat_n3=New channel name
+chat_n1=Populäre Kanäle
+chat_n2=Neuer Chatkanal
+chat_n3=Neuer Kanalname
 
 
 
-invn_ver1=<color='#000000'>always</color>
-invn_ver2=<color='#003000'>often</color>
-invn_ver3=<color='#000030'>sometimes</color>
-invn_ver4=<color='#200030'>seldom</color>
-invn_ver5=<color='#302000'>very seldom</color>
-invn_ver6=<color='#303000'>extremely seldom</color>
+invn_ver1=<color='#000000'>immer</color>
+invn_ver2=<color='#003000'>oft</color>
+invn_ver3=<color='#000030'>manchmal</color>
+invn_ver4=<color='#200030'>selten</color>
+invn_ver5=<color='#302000'>sehr selten</color>
+invn_ver6=<color='#303000'>extrem selten</color>
 
 
 
@@ -345,7 +345,7 @@ line_type3=Type: Fliegenfischen
 #------------------------------------
 
 rod_inf1=Schnur auf der Spule: {0:0.0} m
-rod_inf2=Optimal for the fish from {0} kg
+rod_inf2=Optimal für Fische ab {0} kg
 
 #Added 15.02.2018
 #------------------------------------
@@ -442,10 +442,10 @@ rait_2=Leaders by catching\nin amount
 rait_3=Leaders by catching\nin weight
 rait_4=Honorable\ntrophies catchers
 rait_5=Honorable\nmaecenas
-rait_btn1=Income
-rait_btn2=Catch
-rait_btn3=By weight
-rait_btn4=Trophies
+rait_btn1=Einkommen
+rait_btn2=Fang
+rait_btn3=Nach Gewicht
+rait_btn4=Trophy
 rait_btn5=Maecenas
 
 
@@ -563,16 +563,16 @@ droplinemsg1=<color='#ff0000'>Du hast Schnur verloren: {0}</color>
 droplinemsg2=<color='#ff0000'>Deine Schnur ist gerissen: {0} m</color>
 
 msg_other=TOO CLOSE!
-delcharmsg2=Are you sure you want to delete the character {0}?
-delcharmsg1=Character deleting
+delcharmsg2=Bist Du sicher, das Du den Charakter löschen willst {0}?
+delcharmsg1=Charakterlöschung
 rewgt_msg=Inventar voll - Überprüfen Sie Ihren Mülleimer!
 fishdrop_1=<color='#ff8000'>Der Fisch ist entkommen!</color>
 fishdrop_2=<color='#ff8000'>Der Fisch hat die Schnur leer gezogen</color>
 ust_msg=Tiredness!
-inv_bonus=<color='#002040'>Effects on wearing:</color>
-exitmsg_1=Are you sure you want to exit the game?
-exitmsg_2=Exit to characters select screen?
-exitmsg_3=Exit
+inv_bonus=<color='#002040'>Effekte beim Tragen:</color>
+exitmsg_1=Bist Du sicher, das Du das Spiel verlassen willst?
+exitmsg_2=Zurück zur Charakterauswahl?
+exitmsg_3=Beenden
 
 
 #------------------------------------
@@ -698,29 +698,29 @@ cht_exp1=+ <color='#ff80ff'>{0}</color> experience
 #------------------------------------
 #Added 06.04.2017
 
-fshop_header=Fish store
-fshop_hd1=Fish prices
+fshop_header=Fischhändler
+fshop_hd1=Fischpreise
 fshop_hd2=Catch selling
-fshop_hd3=You have no fish to sell!
-fshop_hd4=Bargaining
+fshop_hd3=Du hast keine Fische zum Verkaufen!
+fshop_hd4=Feilschen
 fshop_msg1=Sold {0} {1} Stk weight {2}
 fshop_msg2=<color='#000000'>{0} Stk. Of total weight {1}</color>\n<color='#000000'>current cost for 1 kilo is {2}</color>\n\n<color='#002000'>Total sale value of this species will be</color>\n
 
 fshop_btn1=To find out prices
 fshop_btn2=Sell this species
 
-fshop_ks1=By catch
-fshop_ks2=By name
-fshop_ks3=By average
+fshop_ks1=Nach Fang
+fshop_ks2=Nach Name
+fshop_ks3=Nach Durchschnitt
 
-fshop_fcost={0}\ncost for 1 kg: {1}      average price for a piece: {2}
-fshop_fcost2={0} {1} Stk\nsell for {2}
+fshop_fcost={0}\nKosten für 1 kg: {1}      Durchschnittspreis für 1 Stück: {2}
+fshop_fcost2={0} {1} Stk\nverkaufen für {2}
 
 shop_bccount= (have x{0})
 shop_bccost=<color='{0}'>Kosten x{1}: </color>{2}
-shop_ycnt=You have {0} Stk
-shop_wl=Purchase {0} sek
-shop_header=Equipment store
+shop_ycnt=Du hast {0} Stk
+shop_wl=Verkaufe {0} sek
+shop_header=Ausrüstungsgeschäft
 
 shop_t1=Köder
 shop_t2=Kunstköder
@@ -816,11 +816,10 @@ pt_setok=Security Pin-code has been set up
 
 #Added 10.03.2017
 #------------------------------------
-qd_day=DAILY
-qd_week=TURNIRS
-usrto_ignor=Player {0} is added to ignore-list
-usrfrom_ignor=Player {0} is removed from ignore-list
-
+qd_day=TÄGLICH
+qd_week=WÖCHENTLICH
+usrto_ignor=Spieler {0} wurde zu Deiner Ignorierenliste hinzugefügt
+usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierenliste entfernt
 
 specvalentine=+3 package card
 
@@ -887,10 +886,10 @@ gi_um_0=Info
 gi_um_1=Statistik
 gi_um_2=Rekorde
 gi_um_3=Reputation
-gi_um_4=Actions
+gi_um_4=Aktionen
 gi_um_5=Perks
-gi_um_6=Titles
-gi_um_7=Profession
+gi_um_6=Titel
+gi_um_7=Beruf
 gi_um_8=Sammlung
 gi_um_9=Aufgaben
 gi_um_10=an diesem Gewässer
@@ -912,11 +911,11 @@ gi_uinf_3i=It affects  chance to catch a trophy or loot
 gi_uinf_4=Education: {0}
 gi_uinf_4i=It affects amount of experience for level
 
-gi_uinf_5=Health: {0}/{1}
-gi_uinf_6=Radresistense: {0}/{1}
-gi_uinf_7=Stamina: {0}/{1}
-gi_uinf_8=Food: {0}/{1}
-gi_uinf_9=Water: {0}/{1}
+gi_uinf_5=Gesundheit: {0}/{1}
+gi_uinf_6=Strahlungswiderstand: {0}/{1}
+gi_uinf_7=Ausdauer: {0}/{1}
+gi_uinf_8=Essen: {0}/{1}
+gi_uinf_9=Wasser: {0}/{1}
 
 gi_uinf_10=Workpoints: {0}
 gi_uinf_11=Experience: {0} / {1}
@@ -954,20 +953,20 @@ gi_nlheader1=<color='#000040'>Neue Stufe erreicht {0}</color>
 gi_nlheader2="Neue Stufe: {0}"
 
 //новый уровень
-gi_nl0=Health +{0}\n
-gi_nl1=Stamina +{0}\n
-gi_nl2=Radresistance +{0}\n
-gi_nl3=Food +{0}\n
-gi_nl4=Water +{0}\n
+gi_nl0=Gesundheit +{0}\n
+gi_nl1=Ausdauer +{0}\n
+gi_nl2=Strahlungswiderstand +{0}\n
+gi_nl3=Essen +{0}\n
+gi_nl4=Wasser +{0}\n
 
 //Новое достижение
-gi_nach=New achievement\n{0}
-gi_ach=Achievment
+gi_nach=Neue Auszeichnung\n{0}
+gi_ach=Auszeichnung
 
 //Холодильник
-gi_fridgiceno=<color='#ff6000'>NO SPACE AT ICE! Amount: {0}/{1}</color>
+gi_fridgiceno=<color='#ff6000'>KEIN PLATZ AUF DEM EIS! Anzahl: {0}/{1}</color>
 gi_fridgice=At ice: {0} / {1} Stk
-gi_fridge=Fridge
+gi_fridge=Kühlschrank
 
 //Сообщ. в чат
 gi_cachfish=Fisch gefangen
@@ -1024,8 +1023,8 @@ pck_buy=Kaufen
 chat_open=CHAT
 
 #------------------------------------
-specoff=SPECIAL OFFER
-specwobprise=+Special Wobbler VOB-I-ICE\nas a present
+specoff=SONDERANGEBOTE
+specwobprise=+Spezial Wobbler VOB-I-ICE\nals Geschenk
 
 #Added 05.12.2016
 #------------------------------------
@@ -1035,8 +1034,8 @@ bs_lowlv=Stufe zu niedrig!
 bs_hilv=Deine Stufe ist zu hoch!
 
 
-bs_nomoney=Not enough money!
-bs_noprip=Not enough supplies!
+bs_nomoney=Nicht genug Geld!
+bs_noprip=Nicht genug Material!
 
 
 wpn_izn=\nDurability:
@@ -1059,25 +1058,25 @@ wpn_cmp=Component
 silence=<color='#ff0000'>Moderator mute you. Left {0} min.</color>
 crft_none=NOTHING
 crft_krit=<color='#ffdd40'>Glückspilz: {0}</color>
-crft_konstr=Construction
+crft_konstr=Konstruktion
 crft_sbor=Assembling
-crft_ingr=Ingredients:
+crft_ingr=Zutaten:
 crft_cnt=Need {0} Stk in stock {1}
 crft_from=von
 crft_to=bis
-crft_treb=Requirements:
-crft_norec=No recipes
-crft_norec2=NO RECIPES
-crft_unl=Unlimited
-crft_recnt=Recipes amount:
-crft_cost=Work cost:
+crft_treb=Anforderungen:
+crft_norec=Keine Rezepte
+crft_norec2=KEINE REZEPTE
+crft_unl=Unbegrenzt
+crft_recnt=Rezept Anzahl:
+crft_cost=Arbeitspreis:
 crft_costwp=Workpoints (WP):
-crft_cnt2={0}/nneeded {1} Stk
+crft_cnt2={0}/nbenötigt {1} Stk
 crft_use=In used: {0}+{1}={2}
-crft_selwpn=Take item
-crft_crft=Creation
-crft_btn1=Create
-crft_btn2=Create all
+crft_selwpn=Nehme Gegenstand
+crft_crft=Erstellung
+crft_btn1=Erstellen
+crft_btn2=Alle erstellen
 
 #Added 02.12.2016
 #------------------------------------
@@ -1096,10 +1095,10 @@ exp_pb=Next lvl experience:
 chat_info=Info
 chat_loc=Loc
 
-chatconnect=Channel connected
+chatconnect=Kanal verbunden
 qd_prise=Einnahme
-usercntinfo=Online: {0} On location: {1}
-wplabel=Workpoints: 
+usercntinfo=Online: {0} an Standort: {1}
+wplabel=Arbeitspunkte: 
 
 qd_prise_exp=+{0} exp;  
 qd_prise_rep=+{0} rep; 
@@ -1121,26 +1120,26 @@ qd_rep=Erfahrung
 #Added 30.11.2016
 #------------------------------------
 selpersbtn=Level: {0}
-deltext=<color='#800000'>Will be removed {0}</color>
+deltext=<color='#800000'>Wird entfernt {0}</color>
 
 
 
 #Added 26.11.2016
 #------------------------------------
 crpers_name=Name
-crpers_all=All
-crpers_top=Body
-crpers_bottom=Legs
-crpers_ground=Main color
-crpers_cam=Camouflage
-crpers_intens=Intensity
+crpers_all=Alles
+crpers_top=Körper
+crpers_bottom=Beine
+crpers_ground=Hauptfarbe
+crpers_cam=Tarnung
+crpers_intens=Intensität
 crpers_scale=Scale
-crpers_rot=Turn
-crpers_hue=Tone
-crpers_haircol=Hair color
-crpers_barbudos=Beard
-crpers_much=Mustache
-crpers_confism=Confirm
+crpers_rot=Drehen
+crpers_hue=Ton
+crpers_haircol=Haarfarbe
+crpers_barbudos=Bart
+crpers_much=Schnurrbart
+crpers_confism=Bestätigen
 crpers_cancel=Abbrechen
 
 
@@ -1163,47 +1162,47 @@ noemail=Email noch nicht bestätigt!
 steamconnect=Steam verknüpfen.
 steampaninfo=Steam zu verknüpfen gibt die diese Vorteile.
 
-staccok=Congratulations, your account linked to Steam. Now you will get achivements, make payments and other Steam functions. 
+staccok=Glückwunsch. Du hast Deinen Account mit Steam verknüpft. Nun kannst Du Auszeichnungen sammeln, Zahlungen vornehmen und andere Steam Funktionen nutzen.
 staccerr=Error! This Steam account already linked to other account. 
 stacheaderprocess=Binds...
 stacheadererror=<color='#ff2000'>Error binding!</color>
-stacheaderok=Finished!
+stacheaderok=Beendet!
 
 togamebtn= PLAY GAME
-selpers=Select character
-delpers=Delete character
-newpers=Create character
-buykey=Buy
+selpers=Character auswählen
+delpers=Character löschen
+newpers=Character anlegen
+buykey=Kaufen
 realshop=Store reals
-stshoplabel=Buy with STEAM 
-stshoprubl=Buy for rubles
-stshopsel=Choise
+stshoplabel=Kaufen mit STEAM 
+stshoprubl=Für Rubel kaufen
+stshopsel=Auswahl
 
 viptxt=Der Verkauf von Fischen bringt zusätzlich 25% mehr Geld./nAufgaben können 50% schneller angenommen werden/nErfahrung von Fischen um 50% erhöht/nErfahrung für vollständige Aufgabe + 25%/nVerbesserte Map mit Koordinaten
-vipbuycost=Buy 350 <color='#40a0ff'>®</color> for 30 Tage
+vipbuycost=Kaufe 350 <color='#40a0ff'>®</color> für 30 Tage
 vipbuykey=VIP Kaufen
 
 #context menu options
-cntx_improve=Uprgades
-cntx_refine=Conversion
-cntx_rem=Repair
-cntx_razb=Disassembly
-cntx_use=Use
-cntx_teach=Learn
-cntx_teachexp=+300 skill points
-cntx_wpnauk=To stuff auction
-cntx_resauk=To auction
+cntx_improve=Aufrüstungen
+cntx_refine=Umbauen
+cntx_rem=Reparieren
+cntx_razb=Demontieren
+cntx_use=Benutzen
+cntx_teach=Lernen
+cntx_teachexp=+300 Skillpunkte
+cntx_wpnauk=Zur Zubehörauktion
+cntx_resauk=Zur Auktion
 cntx_drop=Freilassen
-cntx_close=Close
+cntx_close=Schließen
 
 #Added 09.11.2016
 #------------------------------------
-close=Close
-pass=Password
-mempass=Remember me.
-reg=Create account.
-serv_off1=Ouch! The server not responding!
-serv_off2=Check your connection/nto Internet or server status/nat game site
+close=Schließen
+pass=Passwort
+mempass=An mich erinnern.
+reg=Erstelle Konto.
+serv_off1=Autsch! Der Server antwortet nicht!
+serv_off2=Überprüfen Sie Ihre Verbindung zum Internet oder Serverstatus auf der Spieleseite
 
 settings=Einstellung
 set_view=Realistische Sichtweite
@@ -1225,8 +1224,8 @@ fwgt_uniq_m=Trophäen
 fwgt_uniq_w=Trophäen
 
 time_format1={0} min
-time_format2={0}h {1} min
-time_format3={0}d {1}h {2} min
+time_format2={0}Std {1} min
+time_format3={0}T {1}Std {2} min
 
 wgt_gr=g
 wgt_kg=kg 
@@ -1263,13 +1262,13 @@ active_obj_3=Filetiertisch
 active_obj_4=Einfaches Craften
 active_obj_5=Tisch mit Werkzeugen
 active_obj_6=Kühlschrank
-active_obj_7=Assembly table
+active_obj_7=Montagetisch
 
 # Craft
 no_ingridients=Nicht genug Zutaten!
 no_inventory=Kein Platz im Inventar!
 no_money=Nicht genug Geld!
-no_workpoint=Not enough work points!
+no_workpoint=Nicht genug Arbeitspunkte!
 no_user_recept=Kein Rezept!
 no_recept=Kein Rezept!
 no_stanok=Falsche Werkbank!
@@ -1284,8 +1283,8 @@ bag1_info=Posenrute
 bag2_name=Ausrüstung
 bag2_info=Sehnen, Rollen, Posen, Haken
 
-bag3_name=Equipment
-bag3_info=Equipment
+bag3_name=Ausrüstung
+bag3_info=Ausrüstung
 
 bag4_name=Medizin
 bag4_info=Medizin, Nahrung, Getränke
@@ -1297,19 +1296,19 @@ bag6_name=Signale
 bag6_info=Kleidung
 
 bag7_name=Köder
-bag7_info=Bait, lure
+bag7_info=Köder, Lockmittel
 
 bag8_name=Belohnung
-bag8_info=Different currencies
+bag8_info=Andere Währungen
 
 bag9_name=Sammlung
-bag9_info=Collection items
+bag9_info=Sammlungsposten
 
 bag10_name=Sonstiges
-bag10_info=Various items not included in category
+bag10_info=Verschiedene Artikel nicht in der Kategorie enthalten
 
 bag11_name=Spinnköder
-bag11_info=Spinning stuff
+bag11_info=Spinnködermaterial
 
 bag12_name=Lockstoffe
 bag12_info=Futtermischungen
@@ -1321,5 +1320,4 @@ bag14_name=Fliegenköder
 bag14_info=
 
 bag52_name=Aufbewahrung
-bag52_info=Space for keeping
-
+bag52_info=Platz zum Aufbewahren
