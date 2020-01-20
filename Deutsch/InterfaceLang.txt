@@ -892,7 +892,7 @@ gi_um_6=Titel
 gi_um_7=Beruf
 gi_um_8=Sammlung
 gi_um_9=Aufgaben
-gi_um_10=an diesem Gewässer
+gi_um_10=Standort
 
 gi_um_rec=Gefangen {1}\n{2}
 
