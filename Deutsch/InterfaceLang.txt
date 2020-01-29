@@ -358,7 +358,7 @@ wpn_bait_sz4=rießig
 
 wpn_bait_typ_4=Blinker
 wpn_bait_typ_5=Spinner
-wpn_bait_typ_6=Gummifische
+wpn_bait_typ_6=Gummifisch
 wpn_bait_typ_7=Wobbler
 
 wpn_bait_vob_0=Topwater
