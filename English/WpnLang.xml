@@ -3950,24 +3950,5 @@ The main goal - zander, catfish, pike</info>
       <info>
       </info>
     </weapon>
-	
-	
-    <weapon id="1709">
-      <name>Top 5</name>
-      <info>Prize-winning container in the ranking</info>
-    </weapon>
-    <weapon id="1710">
-      <name>Top 20</name>
-      <info>Prize-winning container in the ranking</info>
-    </weapon>
-    <weapon id="1711">
-      <name>Top 100</name>
-      <info>Prize-winning container in the ranking</info>
-    </weapon>
-    <weapon id="1712">
-      <name>Top 1000</name>
-      <info>Prize-winning container in the ranking</info>
-    </weapon>	
-	
   </weapons>
 </wpnlang>
