@@ -4156,6 +4156,22 @@ Das Hauptziel - Zander, Wels, Hecht</info>
       <name>JigHead 4-40</name>
       <info>
       </info>
-    </weapon>	
+    </weapon>
+    <weapon id="1709">
+      <name>Top 5</name>
+      <info>Preisgewinner Container in der Rangliste</info>
+    </weapon>
+    <weapon id="1710">
+      <name>Top 20</name>
+      <info>Preisgewinner Container in der Rangliste</info>
+    </weapon>
+    <weapon id="1711">
+      <name>Top 100</name>
+      <info>Preisgewinner Container in der Rangliste</info>
+    </weapon>
+    <weapon id="1712">
+      <name>Top 1000</name>
+      <info>Preisgewinner Container in der Rangliste</info>
+    </weapon>		
   </weapons>
 </wpnlang>
