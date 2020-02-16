@@ -1242,7 +1242,7 @@ sadokfull=<color='#ff6000'>SETZKESCHER IST VOLL!</color>
 #------------------------------------
 
 error=Error
-achive_text=[F_KLEV]% increase in intensity of this type of fish.
+achive_text=[F_KLEV]% Zunahme der Intensität dieser Art von Fischen.
 no_move_sadok=You can't move fish tank,/n while there fish!
 
 #quality
