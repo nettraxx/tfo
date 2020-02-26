@@ -83,7 +83,9 @@ key_invntr=Open inventory
 key_ftank=Open fishcage
 key_slight=Flashlight
 	
-
+key_ot1=Rod slot 1
+key_ot2=Rod slot 2
+key_ot3=Rod slot 3
 
 
 setbtn_0=Graphics
