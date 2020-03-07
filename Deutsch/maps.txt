@@ -23,6 +23,8 @@
 8_Name=Polen: Fluss San
 8_Info=
 
+10_Name=Test: Kaspisches Meer
+
 [LOC_NAMES]
 ---------------------
 # Брезинер

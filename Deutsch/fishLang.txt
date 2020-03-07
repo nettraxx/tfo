@@ -450,3 +450,5 @@ type_108=Lachs Rogen
 518_Name = Persischer Stör
 519_Name = Dnieper Barbe
 520_Name = Blauer Sonnenbarsch
+521_Name = Kaspischer Lachs
+522_Name = Glasaugenbarsch
