@@ -23,6 +23,8 @@
 8_Name=Poland: r. San
 8_Info=
 
+10_Name=Test: Caspian sea
+
 [LOC_NAMES]
 ---------------------
 # Брезинер

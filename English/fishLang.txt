@@ -450,3 +450,5 @@ type_108=Salmon roe
 518_Name=Persian sturgeon
 519_Name=Barbel Borysthenicus
 520_Name=Bluegill
+521_Name=Caspian salmon
+522_Name=Walleye
