@@ -451,5 +451,5 @@ type_108=Lachs Rogen
 519_Name = Dnieper Barbe
 520_Name = Blauer Sonnenbarsch
 521_Name = Kaspischer Lachs
-523_Name = gestreifter Seebarsch
 522_Name = Meerzander
+523_Name = gestreifter Seebarsch
