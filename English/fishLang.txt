@@ -451,4 +451,5 @@ type_108=Salmon roe
 519_Name=Barbel Borysthenicus
 520_Name=Bluegill
 521_Name=Caspian salmon
-522_Name=Walleye
+522_Name=Sea zander
+523_Name=Seabass striped
