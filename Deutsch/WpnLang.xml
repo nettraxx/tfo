@@ -334,7 +334,7 @@
       <info>Fängig für:
 Aland, Blutegel, Brachse, Flussbarsch, Flusskrebs, Regenbogenforelle, Frosch, Goldforelle, Karausche, 
 Großkopfmeeräsche, Gründling, Güster, Hasel, Giebel, Kaspischer Hering, Kaulbarsch, Rapfen, 
-Schläfergrundel, Schuppenkarpfen, See Elritze, Taran, Weißfisch, Wels, Zander, Zope	  
+Schläfergrundel, Schuppenkarpfen, See Elritze, Taran, Maräne, Wels, Zander, Zope	  
 	  </info>
     </weapon>
     <weapon id="1011">
@@ -381,7 +381,7 @@ Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Wels, Wildkarpfen, Zährte, Zander,
       <name>Blutwurm</name>
       <info>Fängig für:
 Bachschmerle, Döbel, Flussbarsch, Flusskrebs, Frosch, Karausche, 
-Gründling, Hasel, Kaulbarsch, Rotauge, Rotfeder, Taran, Weißfisch	  
+Gründling, Hasel, Kaulbarsch, Rotauge, Rotfeder, Taran, Maräne	  
       </info>
     </weapon>
     <weapon id="1019">
@@ -561,7 +561,7 @@ Lederkarpfen, Schuppenkarpfen, Wildkarpfen
       <info>Fängig für:
 Aal, Brachse, Flussbarsch, Lederkarpfen, Kabeljau, Scherg,	
 Schleie, Schuppenkarpfen, Spiegelkarpfen, Sterlet, Stör, Tiberbarbe,	
-Weißfisch, Wels, Zährte	  
+Maräne, Wels, Zährte	  
       </info>
     </weapon>
     <weapon id="1053">
@@ -2480,21 +2480,21 @@ Lederkarpfen, Rotauge
       <name>VIB Raiwa 12g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Maräne	  
 	  </info>
     </weapon>
     <weapon id="1394">
       <name>VIB Raiwa 18g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Maräne	  
 	  </info>
     </weapon>
     <weapon id="1395">
       <name>VIB Raiwa 25g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Maräne	  
 	  </info>
     </weapon>
     <weapon id="1396">
@@ -3640,7 +3640,7 @@ Aal, Barbe, Tiberbarbe
       <name>VIB Raiwa 30g</name>
       <info>Fängig für:	
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,	
-Kaspi Maifisch, Kabeljau, Weißfisch
+Kaspi Maifisch, Kabeljau, Maräne
       </info>
     </weapon>
     <weapon id="1605">
