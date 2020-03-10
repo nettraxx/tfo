@@ -3457,5 +3457,13 @@ VIP не даёт бонуса.</info>
       <info>Контейнер за призовое место в рейтинге
 Выдаётся за призовую тысячу</info>
     </weapon>
+    <weapon id="1713">
+      <name>RCast-Mult-I</name>
+      <info>Тяжелая мультипликаторная катушка</info>
+    </weapon>
+    <weapon id="1714">
+      <name>Basser R-Cast I</name>
+      <info>Тяжелое кастинговое удилище</info>
+    </weapon>
   </weapons>
 </wpnlang>
