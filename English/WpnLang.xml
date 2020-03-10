@@ -3968,6 +3968,13 @@ The main goal - zander, catfish, pike</info>
       <name>Top 1000</name>
       <info>Prize-winning container in the ranking</info>
     </weapon>	
-	
+    <weapon id="1713">
+      <name>RCast-Mult-I</name>
+      <info>Heavy Baitcasting Reel</info>
+    </weapon>
+    <weapon id="1714">
+      <name>Basser R-Cast I</name>
+      <info>Heavy casting rod</info>
+    </weapon>	
   </weapons>
 </wpnlang>

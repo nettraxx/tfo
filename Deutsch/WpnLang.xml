@@ -4172,6 +4172,14 @@ Das Hauptziel - Zander, Wels, Hecht</info>
     <weapon id="1712">
       <name>Top 1000</name>
       <info>Preisgewinner Container in der Rangliste</info>
+    </weapon>
+    <weapon id="1713">
+      <name>RCast-Mult-I</name>
+      <info>Schwere Baitcast Rolle</info>
+    </weapon>
+    <weapon id="1714">
+      <name>Basser R-Cast I</name>
+      <info>Schwere Casting Rute</info>
     </weapon>		
   </weapons>
 </wpnlang>
