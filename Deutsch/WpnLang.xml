@@ -234,19 +234,19 @@
       <par3>
       </par3>
     </type>
-    <type id="41" name="Удилище кастинговое">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к дальности заброса в %</par3>
+    <type id="41" name="Castingrute">
+      <par1>Tragfähigkeit in kg</par1>
+      <par2>Rutenlänge</par2>
+      <par3>Wurfgenauigkeits-Bonus in %</par3>
     </type>
     <type id="42" name="Fliegenrute">
       <par1>Tragfähigkeit in kg</par1>
       <par2>Rutenlänge</par2>
-      <par3>Wurfgeneuigkeits-Bonus in %</par3>
+      <par3>Wurfgenauigkeits-Bonus in %</par3>
     </type>
-    <type id="43" name="Baitcaster-Rolle">
+    <type id="43" name="Baitcastrolle">
       <par1>Zugkraft</par1>
-      <par2>??</par2>
+      <par2>&gt;??</par2>
       <par3>Bremskraft</par3>
     </type>
     <type id="44" name="Fliegenrolle">
