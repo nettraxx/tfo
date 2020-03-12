@@ -234,26 +234,26 @@
       <par3>
       </par3>
     </type>
-    <type id="41" name="Удилище кастинговое">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к дальности заброса в %</par3>
-    </type>
-    <type id="42" name="Flyfishing rod">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к точности заброса в %</par3>
-    </type>
-    <type id="43" name="Катушка мультипликаторная">
-      <par1>усиление катушки</par1>
-      <par2>??</par2>
-      <par3>Фрикцион</par3>
-    </type>
-    <type id="44" name="Inercial reel">
-      <par1>усиление катушки</par1>
-      <par2>&gt;??</par2>
-      <par3>Фрикцион</par3>
-    </type>
+	<type id="41" name="Casting Rod">
+       <par1>Payload in kg</par1>
+       <par2>Rod length in meters</par2>
+       <par3>Bonus to casting range in%</par3>
+     </type>
+     <type id="42" name="Flyfishing rod">
+       <par1>Payload in kg</par1>
+       <par2>Rod length in meters</par2>
+       <par3>Bonus on casting accuracy in%</par3>
+     </type>
+     <type id="43" name="Baitcasting reel">
+       <par1>coil gain</par1>
+       <par2>&gt;??</par2>
+       <par3>Clutch</par3>
+     </type>
+	<type id="44" name="Inercial reel">
+       <par1>coil gain</par1>
+       <par2>&gt;??</par2>
+       <par3>Clutch</par3>
+     </type>
     <type id="45" name="Лодка">
       <par1>&gt;??</par1>
       <par2>&gt;??</par2>
@@ -3968,13 +3968,135 @@ The main goal - zander, catfish, pike</info>
       <name>Top 1000</name>
       <info>Prize-winning container in the ranking</info>
     </weapon>	
-    <weapon id="1713">
-      <name>RCast-Mult-I</name>
-      <info>Heavy Baitcasting Reel</info>
-    </weapon>
-    <weapon id="1714">
-      <name>Basser R-Cast I</name>
-      <info>Heavy casting rod</info>
-    </weapon>	
+	<weapon id="1713">
+      <name>Basser RCast-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1714">
+      <name>Basser Cast-I</name>
+      <info>Heavy casting rod</info>
+    </weapon>
+    <weapon id = "1715">
+      <name> Basser Cast-II </name>
+      <info> Heavy casting rod </info>
+    </weapon>
+    <weapon id = "1716">
+      <name> Basser SeaCast-I </name>
+      <info> Super heavy casting sea rod </info>
+    </weapon>
+    <weapon id = "1717">
+      <name> Basser SeaCast-II </name>
+      <info> Super heavy casting sea rod </info>
+    </weapon>
+    <weapon id = "1718">
+      <name> Basser SeaCast-III </name>
+      <info> Super heavy casting sea rod </info>
+    </weapon>
+    <weapon id = "1719">
+      <name> Basser Cast </name>
+      <info> Heavy casting rod </info>
+    </weapon>
+    <weapon id = "1720">
+      <name> Basser SeaCast </name>
+      <info> Super heavy casting sea rod </info>
+    </weapon>
+    <weapon id = "1721">
+      <name> Basser RCast-II </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1722">
+      <name> Basser SCast-I </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1723">
+      <name> Basser SCast-II </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1724">
+      <name> Basser SCast-III </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1725">
+      <name> Salamo Carp-Gold </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1726">
+      <name> Basser SeaString </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1727">
+      <name> Basser St-20 </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1728">
+      <name> Basser St-30 </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1729">
+      <name> Basser St-38 </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1730">
+      <name> Basser St-48 </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1731">
+      <name> Basser St-58 </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1732">
+      <name> Basser RCast </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1733">
+      <name> Basser SCast-I </name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id = "1734">
+      <name> Bullet Cargo </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
+    <weapon id = "1735">
+      <name> Cargo bullet 10 gr </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
+    <weapon id = "1736">
+      <name> Bullet cargo 20 gr </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
+    <weapon id = "1737">
+      <name> Bullet cargo 30 gr </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
+    <weapon id = "1738">
+      <name> Cargo bullet 40 gr </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
+    <weapon id = "1739">
+      <name> Cargo Bullet 1g </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
+    <weapon id = "1740">
+      <name> Cargo Bullet 3 gr </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
+    <weapon id = "1741">
+      <name> Cargo Bullet 5 gr </name>
+      <info> Bullet cargo for casting rigs </info>
+    </weapon>
   </weapons>
 </wpnlang>
