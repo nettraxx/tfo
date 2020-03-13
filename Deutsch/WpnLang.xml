@@ -234,19 +234,19 @@
       <par3>
       </par3>
     </type>
-    <type id="41" name="Удилище кастинговое">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к дальности заброса в %</par3>
+    <type id="41" name="Castingrute">
+      <par1>Tragfähigkeit in kg</par1>
+      <par2>Rutenlänge</par2>
+      <par3>Wurfgenauigkeits-Bonus in %</par3>
     </type>
     <type id="42" name="Fliegenrute">
       <par1>Tragfähigkeit in kg</par1>
       <par2>Rutenlänge</par2>
-      <par3>Wurfgeneuigkeits-Bonus in %</par3>
+      <par3>Wurfgenauigkeits-Bonus in %</par3>
     </type>
-    <type id="43" name="Baitcaster-Rolle">
+    <type id="43" name="Baitcastrolle">
       <par1>Zugkraft</par1>
-      <par2>??</par2>
+      <par2>&gt;??</par2>
       <par3>Bremskraft</par3>
     </type>
     <type id="44" name="Fliegenrolle">
@@ -334,7 +334,7 @@
       <info>Fängig für:
 Aland, Blutegel, Brachse, Flussbarsch, Flusskrebs, Regenbogenforelle, Frosch, Goldforelle, Karausche, 
 Großkopfmeeräsche, Gründling, Güster, Hasel, Giebel, Kaspischer Hering, Kaulbarsch, Rapfen, 
-Schläfergrundel, Schuppenkarpfen, See Elritze, Taran, Weißfisch, Wels, Zander, Zope	  
+Schläfergrundel, Schuppenkarpfen, See Elritze, Taran, Maräne, Europäischer Wels, Zander, Zope	  
 	  </info>
     </weapon>
     <weapon id="1011">
@@ -369,7 +369,7 @@ Schuppenkarpfen, Spiegelkarpfen, Wildkarpfen, Zope
       <info>Fängig für:
 Aland, Barbe, Brachse, Döbel, Europäischer Wolfsbarsch, Flussbarsch, Flusskrebs, 
 Karausche, Güster, Giebel, Kaspischer Hering, Quappe, Schleie, Schuppenkarpfen, 
-Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Wels, Wildkarpfen, Zährte, Zander, Zope	  
+Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Europäischer Wels, Wildkarpfen, Zährte, Zander, Zope	  
       </info>
     </weapon>
     <weapon id="1017">
@@ -381,7 +381,7 @@ Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Wels, Wildkarpfen, Zährte, Zander,
       <name>Blutwurm</name>
       <info>Fängig für:
 Bachschmerle, Döbel, Flussbarsch, Flusskrebs, Frosch, Karausche, 
-Gründling, Hasel, Kaulbarsch, Rotauge, Rotfeder, Taran, Weißfisch	  
+Gründling, Hasel, Kaulbarsch, Rotauge, Rotfeder, Taran, Maräne	  
       </info>
     </weapon>
     <weapon id="1019">
@@ -561,7 +561,7 @@ Lederkarpfen, Schuppenkarpfen, Wildkarpfen
       <info>Fängig für:
 Aal, Brachse, Flussbarsch, Lederkarpfen, Kabeljau, Scherg,	
 Schleie, Schuppenkarpfen, Spiegelkarpfen, Sterlet, Stör, Tiberbarbe,	
-Weißfisch, Wels, Zährte	  
+Maräne, Europäischer Wels, Zährte	  
       </info>
     </weapon>
     <weapon id="1053">
@@ -762,7 +762,7 @@ Aland, Bachschmerle, Rotauge, Rotfeder, Sterlet
     <weapon id="1090">
       <name>Tauwurm</name>
       <info>Fängig für:
-Flussbarsch, Forellenbarsch, Grashecht, Hecht, Kaulbarsch, Wels	  
+Flussbarsch, Forellenbarsch, Grashecht, Hecht, Kaulbarsch, Europäischer Wels	  
       </info>
     </weapon>
     <weapon id="1091">
@@ -1267,7 +1267,7 @@ Regenbogenforelle, Grashecht
       <name>Fischfetzen</name>
       <info>Fängig für:
 Aal, Blutegel, Flusskrebs, Kaspi Maifisch, 
-Muschel, Kabeljau, Quappe, Seesaibling, Wels	  
+Muschel, Kabeljau, Quappe, Seesaibling, Europäischer Wels	  
       </info>
     </weapon>
     <weapon id="1177">
@@ -1382,7 +1382,7 @@ Man kann 3 zu einer Turnier-Wertmarken umtauschen.</info>
     <weapon id="1197">
       <name>Fischinnereien</name>
       <info>Fängig für:
-Flusskrebs, Kaspi Maifisch, Muschel, Quappe, Wels	  
+Flusskrebs, Kaspi Maifisch, Muschel, Quappe, Europäischer Wels	  
 	  </info>
     </weapon>
     <weapon id="1198">
@@ -1634,7 +1634,7 @@ Right-click to open the box and select "Use"</info>
     <weapon id="1239">
       <name>Blutegel</name>
       <info>Fängig für:
-Barbe, Karausche, Giebel, Quappe, Wels	  
+Barbe, Karausche, Giebel, Quappe, Europäischer Wels	  
 	  </info>
     </weapon>
     <weapon id="1240">
@@ -1687,7 +1687,7 @@ To activate press right mouse button on the item and select "Use".</info>
       <info>Fängig für:
 Aal, Baltischer Lachs, Brachse, Forellenbarsch, Kaspi Maifisch,	
 Kaspischer Hering, Lachs, Quappe, Scherg, Schleie,	
-Schuppenkarpfen, Sterlet, Wels	  
+Schuppenkarpfen, Sterlet, Europäischer Wels	  
 	  </info> 
     </weapon>
     <weapon id="1250">
@@ -1962,7 +1962,7 @@ Thanks for your votings!</info>
       <name>Erbsen</name>
       <info>Fängig für:
 Aland, Brachse, Marmorkarpfen,	
-Silberkarpfen Wels, Wildkarpfen	  
+Silberkarpfen Europäischer Wels, Wildkarpfen	  
 	  </info>
     </weapon>
     <weapon id="1299">
@@ -2480,21 +2480,21 @@ Lederkarpfen, Rotauge
       <name>VIB Raiwa 12g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Maräne	  
 	  </info>
     </weapon>
     <weapon id="1394">
       <name>VIB Raiwa 18g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Maräne	  
 	  </info>
     </weapon>
     <weapon id="1395">
       <name>VIB Raiwa 25g</name>
       <info>Fängig für:
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,
-Kaspi Maifisch, Kabeljau, Weißfisch	  
+Kaspi Maifisch, Kabeljau, Maräne	  
 	  </info>
     </weapon>
     <weapon id="1396">
@@ -2508,7 +2508,7 @@ Kaspi Maifisch, Kabeljau, Weißfisch
       <info>Silikonköder 40 mm
 Fängig für: Europäischer Wolfsbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht,	
 Meeräsche, Muschel, Quappe, Rapfen, Saibling, Seesaibling, Taimen,	
-Weißer Thunfisch, Wels, Zander	  
+Weißer Thunfisch, Europäischer Wels, Zander	  
 	  </info>
     </weapon>
     <weapon id="1398">
@@ -2516,7 +2516,7 @@ Weißer Thunfisch, Wels, Zander
       <info>Silikonköder 75 mm
 Fängig für: Europäischer Wolfsbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht,	
 Meeräsche, Muschel, Quappe, Rapfen, Saibling, Seesaibling, Taimen,	
-Weißer Thunfisch, Wels, Zander	
+Weißer Thunfisch, Europäischer Wels, Zander	
 	  </info>
     </weapon>
     <weapon id="1399">
@@ -2524,7 +2524,7 @@ Weißer Thunfisch, Wels, Zander
       <info>Silikonköder 100 mm
 Fängig für: Europäischer Wolfsbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht,	
 Meeräsche, Muschel, Quappe, Rapfen, Saibling, Seesaibling, Taimen,	
-Weißer Thunfisch, Wels, Zander	
+Weißer Thunfisch, Europäischer Wels, Zander	
 	  </info>
     </weapon>
     <weapon id="1400">
@@ -2597,7 +2597,7 @@ Weißer Thunfisch, Wels, Zander
     <weapon id="1412">
       <name>Frosch</name>
       <info>Fängig für:
-Flussbarsch, Grashecht, Hecht, Quappe, Wels, Zander	  
+Flussbarsch, Grashecht, Hecht, Quappe, Europäischer Wels, Zander	  
 	  </info>
     </weapon>
     <weapon id="1413">
@@ -3196,7 +3196,7 @@ Donaulachs
     <weapon id="1526">
       <name>JIG Atom JS 20g</name>
       <info>Fängig für:
-Grashecht,Hecht, Muschel, Rapfen, Wels	  
+Grashecht,Hecht, Muschel, Rapfen, Europäischer Wels	  
       </info>
     </weapon>
     <weapon id="1527">
@@ -3439,7 +3439,7 @@ Spiegelkarpfen, Wildkarpfen
       <info>Fängig für:
 Aland, Barbe, Brachse, Döbel, Europäischer Wolfsbarsch, Flussbarsch, Flusskrebs, 
 Karausche, Güster, Giebel, Kaspischer Hering, Quappe, Schleie, Schuppenkarpfen, 
-Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Wels, Wildkarpfen, Zährte, Zander, Zope	  
+Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Europäischer Wels, Wildkarpfen, Zährte, Zander, Zope	  
       </info>
     </weapon>
     <weapon id="1570">
@@ -3447,7 +3447,7 @@ Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Wels, Wildkarpfen, Zährte, Zander,
       <info>Fängig für:
 Aland, Barbe, Brachse, Döbel, Europäischer Wolfsbarsch, Flussbarsch, Flusskrebs, 
 Karausche, Güster, Giebel, Kaspischer Hering, Quappe, Schleie, Schuppenkarpfen, 
-Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Wels, Wildkarpfen, Zährte, Zander, Zope	  
+Sichling, Spiegelkarpfen, Taran, Tiberbarbe, Europäischer Wels, Wildkarpfen, Zährte, Zander, Zope	  
       </info>
     </weapon>
     <weapon id="1571">
@@ -3640,7 +3640,7 @@ Aal, Barbe, Tiberbarbe
       <name>VIB Raiwa 30g</name>
       <info>Fängig für:	
 Baltischer Lachs, Donaulachs, Regenbogenforelle, Goldforelle, Grashecht, Hecht,	
-Kaspi Maifisch, Kabeljau, Weißfisch
+Kaspi Maifisch, Kabeljau, Maräne
       </info>
     </weapon>
     <weapon id="1605">
@@ -3855,7 +3855,7 @@ Großkopfmeeräsche, Weißbauchflunder
       <name>Wattwurm</name>
       <info>Fängig für:
 Barbe, Dicklippige Meeräsche, Forellenbarsch, Großkopfmeeräsche,	
-Roter Zackenbarsch, Tiberbarbe, Wels	  
+Roter Zackenbarsch, Tiberbarbe, Europäischer Wels	  
       </info>
     </weapon>
     <weapon id="1649">
@@ -4066,25 +4066,25 @@ Rapfen,Roter Zackenbarsch, Tiberbarbe, Weißer Thunfisch, Zander
     </weapon>
     <weapon id="1690">
       <name>VOB Agara DeepTail</name>
-      <info>Eine Reihe von tiefen Wobblern, die speziell für das Trolling entwickelt wurden. Das Hauptziel - Zander, Wels, Hecht</info>
+      <info>Eine Reihe von tiefen Wobblern, die speziell für das Trolling entwickelt wurden. Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1691">
       <name>VOB DeepTail M1</name>
       <info>Size 4
 Spezieller großer Köder zum Schleppen
-Das Hauptziel - Zander, Wels, Hecht</info>
+Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1692">
       <name>VOB DeepTail M2</name>
       <info>Size 4
 Spezieller großer Köder zum Schleppen
-Das Hauptziel - Zander, Wels, Hecht</info>
+Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1693">
       <name>VOB DeepTail M3</name>
       <info>Size 4
 Spezieller großer Köder zum Schleppen
-Das Hauptziel - Zander, Wels, Hecht</info>
+Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1694">
       <name>Boilie "Mandarine"</name>
@@ -4172,6 +4172,136 @@ Das Hauptziel - Zander, Wels, Hecht</info>
     <weapon id="1712">
       <name>Top 1000</name>
       <info>Preisgewinner Container in der Rangliste</info>
-    </weapon>		
+    </weapon>
+    <weapon id="1713">
+      <name>Basser RCast-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1714">
+      <name>Basser Cast-I</name>
+      <info>Schwere Casting Rute</info>
+    </weapon>
+    <weapon id="1715">
+      <name>Basser Cast-II</name>
+      <info>Schwere Casting Rute</info>
+    </weapon>
+    <weapon id="1716">
+      <name>Basser SeaCast-I</name>
+      <info>Extra Schwere Casting Rute</info>
+    </weapon>
+    <weapon id="1717">
+      <name>Basser SeaCast-II</name>
+      <info>Extra Schwere Casting Rute</info>
+    </weapon>
+    <weapon id="1718">
+      <name>Basser SeaCast-III</name>
+      <info>Extra Schwere Casting Rute</info>
+    </weapon>
+    <weapon id="1719">
+      <name>Basser Cast</name>
+      <info>Schwere Casting Rute</info>
+    </weapon>
+    <weapon id="1720">
+      <name>Basser SeaCast</name>
+      <info>Extra Schwere Casting Rute</info>
+    </weapon>
+    <weapon id="1721">
+      <name>Basser RCast-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1722">
+      <name>Basser SCast-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1723">
+      <name>Basser SCast-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1724">
+      <name>Basser SCast-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1725">
+      <name>Salamo Carp-Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1726">
+      <name>Basser SeaString</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1727">
+      <name>Basser St-20</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1728">
+      <name>Basser St-30</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1729">
+      <name>Basser St-38</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1730">
+      <name>Basser St-48</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1731">
+      <name>Basser St-58</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1732">
+      <name>Basser RCast</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1733">
+      <name>Basser SCast-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1734">
+      <name>Kugelbleie</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+    <weapon id="1735">
+      <name>Kugelblei 10 g</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+    <weapon id="1736">
+      <name>Kugelblei 20 g</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+    <weapon id="1737">
+      <name>Kugelblei 30 g</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+    <weapon id="1738">
+      <name>Kugelblei 40 g</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+    <weapon id="1739">
+      <name>Kugelblei 1 g</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+    <weapon id="1740">
+      <name>Kugelblei 3 g</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+    <weapon id="1741">
+      <name>Kugelblei 5 g</name>
+      <info>Kugelbleie für Casting Rigs</info>
+    </weapon>	
   </weapons>
 </wpnlang>
