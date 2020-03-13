@@ -3457,5 +3457,135 @@ VIP не даёт бонуса.</info>
       <info>Контейнер за призовое место в рейтинге
 Выдаётся за призовую тысячу</info>
     </weapon>
+    <weapon id="1713">
+      <name>Basser RCast-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1714">
+      <name>Basser Cast-I</name>
+      <info>Тяжелое кастинговое удилище</info>
+    </weapon>
+    <weapon id="1715">
+      <name>Basser Cast-II</name>
+      <info>Тяжелое кастинговое удилище</info>
+    </weapon>
+    <weapon id="1716">
+      <name>Basser SeaCast-I</name>
+      <info>Сверхтяжелое кастинговое морское удилище</info>
+    </weapon>
+    <weapon id="1717">
+      <name>Basser SeaCast-II</name>
+      <info>Сверхтяжелое кастинговое морское удилище</info>
+    </weapon>
+    <weapon id="1718">
+      <name>Basser SeaCast-III</name>
+      <info>Сверхтяжелое кастинговое морское удилище</info>
+    </weapon>
+    <weapon id="1719">
+      <name>Basser Cast</name>
+      <info>Тяжелое кастинговое удилище</info>
+    </weapon>
+    <weapon id="1720">
+      <name>Basser SeaCast</name>
+      <info>Сверхтяжелое кастинговое морское удилище</info>
+    </weapon>
+    <weapon id="1721">
+      <name>Basser RCast-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1722">
+      <name>Basser SCast-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1723">
+      <name>Basser SCast-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1724">
+      <name>Basser SCast-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1725">
+      <name>Salamo Карповая-Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1726">
+      <name>Basser SeaString</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1727">
+      <name>Basser St-20</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1728">
+      <name>Basser St-30</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1729">
+      <name>Basser St-38</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1730">
+      <name>Basser St-48</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1731">
+      <name>Basser St-58</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1732">
+      <name>Basser RCast</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1733">
+      <name>Basser SCast-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1734">
+      <name>Груз-пуля</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
+    <weapon id="1735">
+      <name>Груз-пуля 10 гр</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
+    <weapon id="1736">
+      <name>Груз-пуля 20 гр</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
+    <weapon id="1737">
+      <name>Груз-пуля 30 гр</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
+    <weapon id="1738">
+      <name>Груз-пуля 40 гр</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
+    <weapon id="1739">
+      <name>Груз-пуля 1 гр</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
+    <weapon id="1740">
+      <name>Груз-пуля 3 гр</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
+    <weapon id="1741">
+      <name>Груз-пуля 5 гр</name>
+      <info>Груз-пуля для кастинговых оснасток</info>
+    </weapon>
   </weapons>
 </wpnlang>
