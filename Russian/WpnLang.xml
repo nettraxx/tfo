@@ -3587,5 +3587,43 @@ VIP не даёт бонуса.</info>
       <name>Груз-пуля 5 гр</name>
       <info>Груз-пуля для кастинговых оснасток</info>
     </weapon>
+    <weapon id="1742">
+      <name>Basser LPCast-G</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1743">
+      <name>Basser Bee-SL</name>
+      <info>Лёгкое кастинговое удилище
++75% к опыту за вылов рыбы
+Подходят только мультипликаторные катушки 1500 или ниже</info>
+    </weapon>
+    <weapon id="1744">
+      <name>Комплект BeeCast</name>
+      <info>Комплект содержит удочку, катушку, леску и минимальный набор приманок из "пчелиного" кастингового комплекта известного производителя Basser</info>
+    </weapon>
+    <weapon id="1745">
+      <name>Комплект SeaCast</name>
+      <info>Комплект содержит удочку, катушку и леску из "морского" кастингового комплекта известного производителя Basser</info>
+    </weapon>
+    <weapon id="1746">
+      <name>Basser St-5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1747">
+      <name>Basser SCast-Gld</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1748">
+      <name>Basser SeaCast-Gld</name>
+      <info>Сверхтяжелое кастинговое морское удилище</info>
+    </weapon>
+    <weapon id="1749">
+      <name>Basser St-51</name>
+      <info>
+      </info>
+    </weapon>
   </weapons>
 </wpnlang>

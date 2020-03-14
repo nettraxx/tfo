@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
 
+dntpck_2_name=Packet "SeaCast"
+dntpck_2_info=The kit contains a heavy casting fishing rod (52 kg), a multiplier reel, fishing line and 500 silver
+
+dntpck_1_hint=* The price for your region may vary.
+dntpck_1_name=Packet "BeeCast"
+dntpck_1_info=The kit contains light casting fishing rod (5 kg, + 75% of the experience gained), a low-profile reel, fishing line and a random set of UL lures (3 pcs)
+
+
 wptype_offset=Offset hook
 wptype_jhead=Jig-head
 
