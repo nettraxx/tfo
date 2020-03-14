@@ -4302,6 +4302,45 @@ Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     <weapon id="1741">
       <name>Kugelblei 5 g</name>
       <info>Kugelbleie für Casting Rigs</info>
+    </weapon>
+	<weapon id="1742">
+		<name>Basser LPCast-G</name>
+		<info>
+		</info>
+    </weapon>
+    <weapon id="1743">
+		<name>Basser Bee-SL</name>
+		<info>LEichte Casting-Rute
++ 75% Erfahrung
+Nur für Rollen mit maximal 1500er Größe</info>
+    </weapon>
+    <weapon id="1744">
+		<name>Kit BeeCast</name>
+		<info>Das Kit enthält eine leichte Castingrute (5 kg, + 75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern von Basser
+</info>
+    </weapon>
+    <weapon id="1745">
+		<name>Kit SeaCast</name>
+		<info>Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle, Angelschnur vom Meerescasting-Kit von Basser</info>
+    </weapon>
+    <weapon id="1746">
+		<name>Basser St-5</name>
+		<info>
+		</info>
+    </weapon>
+    <weapon id="1747">
+		<name>Basser SCast-Gld</name>
+		<info>
+		</info>
+    </weapon>
+    <weapon id="1748">
+		<name>Basser SeaCast-Gld</name>
+		<info>Superschwere Casring Meeresrute</info>
+    </weapon>
+    <weapon id="1749">
+		<name>Basser St-51</name>
+		<info>
+		</info>
     </weapon>	
   </weapons>
 </wpnlang>
