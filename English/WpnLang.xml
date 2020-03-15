@@ -234,25 +234,25 @@
       <par3>
       </par3>
     </type>
-    <type id="41" name="Casting rod">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к дальности заброса в %</par3>
-    </type>
-    <type id="42" name="Flyfishing rod">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к точности заброса в %</par3>
-    </type>
-    <type id="43" name="Multiplicator reel">
-      <par1>усиление катушки</par1>
-      <par2>??</par2>
-      <par3>Фрикцион</par3>
-    </type>
-    <type id="44" name="Inercial reel">
-      <par1>усиление катушки</par1>
-      <par2>&gt;??</par2>
-      <par3>Фрикцион</par3>
+	<type id="41" name="Casting Rod">
+       <par1>Payload in kg</par1>
+       <par2>Rod length in meters</par2>
+       <par3>Bonus to casting range in%</par3>
+     </type>
+     <type id="42" name="Flyfishing rod">
+       <par1>Payload in kg</par1>
+       <par2>Rod length in meters</par2>
+       <par3>Bonus on casting accuracy in%</par3>
+     </type>
+     <type id="43" name="Baitcasting reel">
+       <par1>coil gain</par1>
+       <par2>&gt;??</par2>
+       <par3>Clutch</par3>
+     </type>
+	<type id="44" name="Inercial reel">
+       <par1>coil gain</par1>
+       <par2>&gt;??</par2>
+       <par3>Clutch</par3>
     </type>
     <type id="45" name="Лодка">
       <par1>&gt;??</par1>
