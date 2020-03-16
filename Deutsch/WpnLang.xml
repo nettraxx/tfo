@@ -4311,7 +4311,7 @@ Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     <weapon id="1743">
 		<name>Basser Bee-SL</name>
 		<info>Leichte Casting-Rute
-+ 75% Erfahrung
++75% Erfahrung
 Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1744">
@@ -4341,6 +4341,48 @@ Nur für Rollen mit maximal 1500er Größe</info>
 		<name>Basser St-51</name>
 		<info>
 		</info>
-    </weapon>	
+    </weapon>
+    <weapon id="1750">
+      <name>Basser SteelSL-I</name>
+		<info>Leichte Casting-Rute
++50% Erfahrung
+Nur für Rollen mit maximal 1500er Größe</info>
+    </weapon>
+    <weapon id="1751">
+      <name>Basser SteelSL-II</name>
+      	<info>Medium Casting-Rute
++25% Erfahrung
+Nur für Rollen mit maximal 1500er Größe</info>
+    </weapon>
+    <weapon id="1752">
+      <name>Basser SteelSL-III</name>
+		<info>Medium Casting-Rute
++10% Erfahrung
+Nur für Rollen mit maximal 2000er Größe</info>
+    </weapon>
+    <weapon id="1753">
+      <name>Basser Steel Series</name>
+      <info>Leichte Casting-Ruten Serie</info>
+    </weapon>
+    <weapon id="1754">
+      <name>Basser SteelLP-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1755">
+      <name>Basser SteelLP-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1756">
+      <name>Basser SteelLP-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1757">
+      <name>Basser SteelLP Series</name>
+      <info>
+      </info>
+    </weapon>		
   </weapons>
 </wpnlang>
