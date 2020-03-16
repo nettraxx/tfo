@@ -3625,5 +3625,47 @@ VIP не даёт бонуса.</info>
       <info>
       </info>
     </weapon>
+    <weapon id="1750">
+      <name>Basser SteelSL-I</name>
+      <info>Лёгкое кастинговое удилище
++50% к опыту за вылов рыбы
+Подходят только мультипликаторные катушки 1500 или ниже</info>
+    </weapon>
+    <weapon id="1751">
+      <name>Basser SteelSL-II</name>
+      <info>Среднее кастинговое удилище
++25% к опыту за вылов рыбы
+Подходят только мультипликаторные катушки 1500 или ниже</info>
+    </weapon>
+    <weapon id="1752">
+      <name>Basser SteelSL-III</name>
+      <info>Среднее кастинговое удилище
++10% к опыту за вылов рыбы
+Подходят только мультипликаторные катушки 2000 или ниже</info>
+    </weapon>
+    <weapon id="1753">
+      <name>Basser Steel Series</name>
+      <info>Серия лёгких кастинговых удилищ</info>
+    </weapon>
+    <weapon id="1754">
+      <name>Basser SteelLP-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1755">
+      <name>Basser SteelLP-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1756">
+      <name>Basser SteelLP-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1757">
+      <name>Basser SteelLP Series</name>
+      <info>
+      </info>
+    </weapon>
   </weapons>
 </wpnlang>

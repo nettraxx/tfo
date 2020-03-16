@@ -234,25 +234,25 @@
       <par3>
       </par3>
     </type>
-	<type id="41" name="Casting Rod">
-      <par1>Payload in kg</par1>
-      <par2>Rod length in meters</par2>
-      <par3>Bonus to casting range in%</par3>
+    <type id="41" name="Casting rod">
+      <par1>Грузоподъемность в кг</par1>
+      <par2>Длина удилища в метрах</par2>
+      <par3>Бонус к дальности заброса в %</par3>
     </type>
     <type id="42" name="Flyfishing rod">
-      <par1>Payload in kg</par1>
-      <par2>Rod length in meters</par2>
-      <par3>Bonus on casting accuracy in%</par3>
+      <par1>Грузоподъемность в кг</par1>
+      <par2>Длина удилища в метрах</par2>
+      <par3>Бонус к точности заброса в %</par3>
     </type>
-    <type id="43" name="Baitcasting reel">
-      <par1>coil gain</par1>
-      <par2>&gt;??</par2>
-      <par3>Clutch</par3>
+    <type id="43" name="Multiplicator reel">
+      <par1>усиление катушки</par1>
+      <par2>??</par2>
+      <par3>Фрикцион</par3>
     </type>
-	<type id="44" name="Inercial reel">
-      <par1>coil gain</par1>
+    <type id="44" name="Inercial reel">
+      <par1>усиление катушки</par1>
       <par2>&gt;??</par2>
-      <par3>Clutch</par3>
+      <par3>Фрикцион</par3>
     </type>
     <type id="45" name="Лодка">
       <par1>&gt;??</par1>
@@ -4132,10 +4132,53 @@ Only LP reels of 1500 size or below</info>
     </weapon>
     <weapon id="1748">
       <name>Basser SeaCast-Gld</name>
-      <info>Super heavy casting sea ro</info>
+      <info>Super heavy casting sea rod</info>
     </weapon>
     <weapon id="1749">
       <name>Basser St-51</name>
+      <info>
+      </info>
+    </weapon>	
+	
+    <weapon id="1750">
+      <name>Basser SteelSL-I</name>
+      <info>Light casting rod
++50% to experience for fishing
+Only LP reels of 1500 size or below</info>
+    </weapon>
+    <weapon id="1751">
+      <name>Basser SteelSL-II</name>
+      <info>Medium casting rod
++25% to experience for fishing
+Only LP reels of 1500 size or below</info>
+    </weapon>
+    <weapon id="1752">
+      <name>Basser SteelSL-III</name>
+      <info>Medium casting rod
++10% to experience for fishing
+Only LP reels of 2000 size or below</info>
+    </weapon>
+    <weapon id="1753">
+      <name>Basser Steel Series</name>
+      <info>Light casting rods Series</info>
+    </weapon>
+    <weapon id="1754">
+      <name>Basser SteelLP-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1755">
+      <name>Basser SteelLP-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1756">
+      <name>Basser SteelLP-III</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1757">
+      <name>Basser SteelLP Series</name>
       <info>
       </info>
     </weapon>	
