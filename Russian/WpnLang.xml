@@ -3667,5 +3667,25 @@ VIP не даёт бонуса.</info>
       <info>
       </info>
     </weapon>
+    <weapon id="1758">
+      <name>Exceller 5 м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1759">
+      <name>Exceller 6 м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1760">
+      <name>Exceller 7 м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1761">
+      <name>Exceller серия</name>
+      <info>
+      </info>
+    </weapon>
   </weapons>
 </wpnlang>

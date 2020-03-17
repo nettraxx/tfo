@@ -4183,5 +4183,27 @@ Only LP reels of 2000 size or below</info>
       </info>
     </weapon>	
 	
+	
+    <weapon id="1758">
+      <name>Exceller 5 m</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1759">
+      <name>Exceller 6 m</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1760">
+      <name>Exceller 7 m</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1761">
+      <name>Exceller series</name>
+      <info>
+      </info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>
