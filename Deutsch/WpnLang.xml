@@ -4383,6 +4383,26 @@ Nur für Rollen mit maximal 2000er Größe</info>
       <name>Basser SteelLP Series</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="1758">
+      <name>Exceller 5 m</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1759">
+      <name>Exceller 6 m</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1760">
+      <name>Exceller 7 m</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1761">
+      <name>Exceller Serie</name>
+      <info>
+      </info>
     </weapon>		
   </weapons>
 </wpnlang>
