@@ -1,11 +1,11 @@
 ﻿[INTERFACE]
 
-dntpck_2_name=Packet "SeaCast"
-dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle, Angelschnur und 500 Silber.
+dntpck_2_name=Paket "SeaCast"
+dntpck_2_info=Dieses Kit enthält eine Superschwere Casting Meeresrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
 
 dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
-dntpck_1_name=Packet "BeeCast"
-dntpck_1_info=Das Kit enthält eine leichte Castingrute (5 kg, + 75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern.
+dntpck_1_name=Paket "BeeCast"
+dntpck_1_info=Das Kit enthält eine leichte Castingrute (5 kg, +75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern.
 
 
 wptype_offset=Offset Haken
