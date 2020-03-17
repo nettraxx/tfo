@@ -4188,15 +4188,15 @@ Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1716">
       <name>Basser SeaCast-I</name>
-      <info>Extra Schwere Casting Rute</info>
+      <info>Superschwere Casting Meeresrute</info>
     </weapon>
     <weapon id="1717">
       <name>Basser SeaCast-II</name>
-      <info>Extra Schwere Casting Rute</info>
+      <info>Superschwere Casting Meeresrute</info>
     </weapon>
     <weapon id="1718">
       <name>Basser SeaCast-III</name>
-      <info>Extra Schwere Casting Rute</info>
+      <info>Superschwere Casting Meeresrute</info>
     </weapon>
     <weapon id="1719">
       <name>Basser Cast</name>
@@ -4204,7 +4204,7 @@ Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1720">
       <name>Basser SeaCast</name>
-      <info>Extra Schwere Casting Rute</info>
+      <info>Superschwere Casting Meeresrute</info>
     </weapon>
     <weapon id="1721">
       <name>Basser RCast-II</name>
@@ -4335,7 +4335,7 @@ Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1748">
 		<name>Basser SeaCast-Gld</name>
-		<info>Superschwere Casring Meeresrute</info>
+		<info>Superschwere Casting Meeresrute</info>
     </weapon>
     <weapon id="1749">
 		<name>Basser St-51</name>
