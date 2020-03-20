@@ -304,10 +304,10 @@ trn_reg=Vorbereitung auf das Turnier `{0}`
 
 anfish=Fange Fische
 prisefond=Preis Pool:
-pf1m=1er: {0}
-pf2m=2er: {0}
-pf3m=3er: {0}
-pf4_10m=4-10er: {0}
+pf1m=1: {0}
+pf2m=2: {0}
+pf3m=3: {0}
+pf4_10m=4-10: {0}
 
 #Added 28.02.2018
 #------------------------------------
@@ -828,7 +828,7 @@ pt_setok=Security Pin-code has been set up
 #Added 10.03.2017
 #------------------------------------
 qd_day=TÄGLICH
-qd_week=WÖCHENTLICH
+qd_week=TURNIERE
 usrto_ignor=Spieler {0} wurde zu Deiner Ignorierenliste hinzugefügt
 usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierenliste entfernt
 
