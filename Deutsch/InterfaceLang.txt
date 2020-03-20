@@ -828,7 +828,7 @@ pt_setok=Security Pin-code has been set up
 #Added 10.03.2017
 #------------------------------------
 qd_day=TÄGLICH
-qd_week=WÖCHENTLICH
+qd_week=TURNIERE
 usrto_ignor=Spieler {0} wurde zu Deiner Ignorierenliste hinzugefügt
 usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierenliste entfernt
 
