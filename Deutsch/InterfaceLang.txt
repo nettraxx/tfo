@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
 
+club_inf1=Clubgründung
+club_inf2=Clubname (3-20 Zeichen)
+club_inf3=Club-Tag (2-4 Zeichen)
+club_inf4=ERSTELLEN
+club_err1=Es sind nur Buchstaben, Zahlen und Leerzeichen zulässig
+club_err2=Der Clubname ist falsch
+club_err3=Club-Tag ist falsch
+
 dntpck_2_name=Paket "SeaCast"
 dntpck_2_info=Dieses Kit enthält eine Superschwere Casting Meeresrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
 
