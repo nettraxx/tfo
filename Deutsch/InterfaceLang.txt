@@ -488,37 +488,16 @@ cht_info=INFORMATION
 #------------------------------------
 infmsg_exp=+ <color='#ff80ff'>{0}*{1}%={2} (+{3:0.00} to the skills)</color> experience
 
-
 arw_cap=ARTELS
 arw_myart=MY ARTEL
 arw_crt=CREATE
 arw_appl=REQUEST
 
 arw_h1=LEVEL
-arw_h2=RATING
+arw_h2=WERTUNG
 arw_h3=STAFF
 arw_h4=ADMISSION
 
-#Added 24.10.2017
-#------------------------------------
-gi_usei=Used:
-
-
-
-#Added 31.10.2017
-#------------------------------------
-infmsg_exp=+ <color='#ff80ff'>{0}*{1}%={2} (+{3:2} to the skills)</color> experience
-
-
-arw_cap=ARTELS
-arw_myart=MY ARTEL
-arw_crt=CREATE
-arw_appl=REQUEST
-
-arw_h1=LEVEL
-arw_h2=RATING
-arw_h3=STAFF
-arw_h4=ADMISSION
 
 #Added 24.10.2017
 #------------------------------------
