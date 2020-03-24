@@ -7,6 +7,7 @@ club_inf4=CREATE
 club_err1=Only letters, numbers and spaces are allowed
 club_err2=The club name is incorrect
 club_err3=Club tag is wrong
+club_err4=Name or tag already exists
 
 dntpck_2_name=Packet "SeaCast"
 dntpck_2_info=The kit contains a heavy casting fishing rod (52 kg), a multiplier reel, fishing line and 500 silver
