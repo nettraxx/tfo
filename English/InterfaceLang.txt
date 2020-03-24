@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
 
+club_inf1=Club founded
+club_inf2=Club name (3-20 Characters)
+club_inf3=Club tag (2-4 Characters)
+club_inf4=CREATE
+club_err1=Only letters, numbers and spaces are allowed
+club_err2=The club name is incorrect
+club_err3=Club tag is wrong
+
 dntpck_2_name=Packet "SeaCast"
 dntpck_2_info=The kit contains a heavy casting fishing rod (52 kg), a multiplier reel, fishing line and 500 silver
 
