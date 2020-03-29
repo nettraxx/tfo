@@ -21,7 +21,7 @@ wptype_offset=Offset Haken
 wptype_jhead=Jigkopf
 
 ny_later = Heute gibt es keine Geschenke mehr. Komme morgen wieder
-ufstat_trof=Trophäen:
+ufstat_trof=Supertrophy
 
 chtset_alfa=Hintergrund-Transparenz
 chtset_fsize=Schriftgröße
@@ -302,8 +302,8 @@ cht_umsg11=<color='#ff80ff'>{0} gefangen {1}</color>
 set_speedi=Geschwindigkeit
 set_deepi=Tiefe
 set_frici=Bremse
-fwgt_uniq_m=Unique
-fwgt_uniq_w=Unique
+fwgt_uniq_m=Supertrophy
+fwgt_uniq_w=Supertrophy
 
 #Added 28.09.2018
 #------------------------------------
