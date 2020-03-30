@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+btn_qtaskvip=Andere Orte
+
 club_inf1=Clubgründung
 club_inf2=Clubname (3-20 Zeichen)
 club_inf3=Club-Label (2-4 Zeichen)
