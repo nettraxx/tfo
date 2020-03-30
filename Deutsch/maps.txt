@@ -53,5 +53,3 @@
 51_Name=Fishing base
 
 # Пруд Перруше  Les étangs de Perruchet
-
-# testing smartgit
