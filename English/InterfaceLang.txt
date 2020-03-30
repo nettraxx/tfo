@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+btn_qtaskvip=On bases
+
 club_inf1=Club founded
 club_inf2=Club name (3-20 Characters)
 club_inf3=Club tag (2-4 Characters)
