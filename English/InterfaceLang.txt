@@ -1,5 +1,8 @@
 ﻿[INTERFACE]
 
+
+btn_qtaskvip=On bases
+
 dntpck_2_name=Packet "SeaCast"
 dntpck_2_info=The kit contains a heavy casting fishing rod (52 kg), a multiplier reel, fishing line and 500 silver
 
@@ -305,10 +308,10 @@ trn_reg=Preparation for the tournament `{0}`
 
 anfish=any fish
 prisefond=Prize pool:
-pf1m=1: {0}
-pf2m=2: {0}
-pf3m=3: {0}
-pf4_10m=4-10: {0}
+pf1m=1st place: {0}
+pf2m=2nd place: {0}
+pf3m=3rd place: {0}
+pf4_10m=4-10th places: {0}
 
 #Added 28.02.2018
 #------------------------------------
