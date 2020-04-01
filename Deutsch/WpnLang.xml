@@ -167,7 +167,7 @@
       <par2>---</par2>
       <par3>---</par3>
     </type>
-    <type id="30" name="Sonstiges">
+    <type id="30" name="Misc">
       <par1>---</par1>
       <par2>---</par2>
       <par3>---</par3>
@@ -1549,16 +1549,20 @@ Aal, Barbe, Brachse, Güster, Schuppenkarpfen, Tiberbarbe
     <weapon id="1226">
       <name>
       </name>
-      <info>Bargeldscheck
+      <info>Special offer. Only for opening of OBT!
 
-Klicken Sie auf "Benutzen".</info>
+Small box containing components to create Rute: 3 handles, 3 Rute parts and 3 passage rings. 
+
+Right-click to open the box and select "Use"</info>
     </weapon>
     <weapon id="1227">
-      <name>Bargeldscheck
+      <name>
       </name>
-      <info>Bargeldscheck
+      <info>Special offer. Only for opening of OBT!
 
-Klicken Sie auf "Benutzen".</info>
+Small box containing components to create reel: 3 Spools, 3 Bearings и 3 Body reels. 
+
+Right-click to open the box and select "Use"</info>
     </weapon>
     <weapon id="1228">
       <name>
@@ -1641,21 +1645,21 @@ Barbe, Karausche, Giebel, Quappe, Europäischer Wels
     </weapon>
     <weapon id="1241">
       <name>VIP 1 Tag</name>
-      <info>Gibt 1 Tag Premium Bonus.
+      <info>Gives 1 day premium bonus.
 
-Zum Aktivieren drücken Sie auf "Benutzen".</info>
+To activate press right mouse button on the item and select "Use".</info>
     </weapon>
     <weapon id="1242">
       <name>VIP 7 Tage</name>
-      <info>Gibt 7 Tag Premium Bonus.
+      <info>Gives 7 days premium bonus.
 
-Zum Aktivieren drücken Sie auf "Benutzen".</info>
+To activate press right mouse button on the item and select "Use".</info>
     </weapon>
     <weapon id="1243">
       <name>VIP 15 Tage</name>
-      <info>Gibt 15 Tag Premium Bonus.
+      <info>Gives 15 days premium bonus.
 
-Zum Aktivieren drücken Sie auf "Benutzen".</info>
+To activate press right mouse button on the item and select "Use".</info>
     </weapon>
     <weapon id="1244">
       <name>
@@ -4155,19 +4159,19 @@ Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1709">
       <name>Top 5</name>
-      <info>Geschenkbox für Preisgewinner der Rangliste</info>
+      <info>Preisgewinner Container in der Rangliste</info>
     </weapon>
     <weapon id="1710">
       <name>Top 20</name>
-      <info>Geschenkbox für Preisgewinner der Rangliste</info>
+      <info>Preisgewinner Container in der Rangliste</info>
     </weapon>
     <weapon id="1711">
       <name>Top 100</name>
-      <info>Geschenkbox für Preisgewinner der Rangliste</info>
+      <info>Preisgewinner Container in der Rangliste</info>
     </weapon>
     <weapon id="1712">
       <name>Top 1000</name>
-      <info>Geschenkbox für Preisgewinner der Rangliste</info>
+      <info>Preisgewinner Container in der Rangliste</info>
     </weapon>
     <weapon id="1713">
       <name>Basser RCast-I</name>

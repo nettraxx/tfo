@@ -50,6 +50,6 @@
 
 ---------------------
 
-51_Name=Angelplatz
+51_Name=Fishing base
 
 # Пруд Перруше  Les étangs de Perruchet
