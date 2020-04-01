@@ -101,11 +101,7 @@ key_redrop=Wurf wiederholen (T)
 key_openbait=Köder ändern (B)
 key_openmap=Karte öffnen (M)
 key_getfish=Fisch mitnehmen (Space)
-<<<<<<< HEAD
 key_dropfish=Fisch freilassen (J)
-=======
-key_dropfish=Frisch freilassen
->>>>>>> parent of 132f013... Revert "Merge branch 'master' of https://github.com/nettraxx/tfo"
 key_cursoronoff=Cursor ein / aus (ALT Links)
 key_spdpanel=Geschwindigkeitsanzeige (R)
 key_osmart=Smartphone öffnen (Q)
