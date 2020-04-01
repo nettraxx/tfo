@@ -5,9 +5,9 @@
     <turn id="1" name="France standings"   info="--"/>   
     <turn id="2" name="Trout mastery"  info="--"/>   
     <turn id="3" name="Pesca di mare" info="--"/>   
-	<turn id="4" name="" info="--"/>   
-	<turn id="5" name="France" info="--"/>   
-    <turn id="6" name="Finland" info="--"/>   	
+	<turn id="4" name="Finland" info="--"/>   
+	<turn id="5" name="" info="--"/>   
+    <turn id="6" name="" info="--"/>   	
   </tnames>
 
 

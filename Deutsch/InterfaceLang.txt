@@ -1,12 +1,15 @@
 ﻿[INTERFACE]
 
+btn_qtaskvip=Andere Orte
+
 club_inf1=Clubgründung
 club_inf2=Clubname (3-20 Zeichen)
-club_inf3=Club-Tag (2-4 Zeichen)
+club_inf3=Club-Label (2-4 Zeichen)
 club_inf4=ERSTELLEN
 club_err1=Es sind nur Buchstaben, Zahlen und Leerzeichen zulässig
 club_err2=Der Clubname ist falsch
-club_err3=Club-Tag ist falsch
+club_err3=Club-Label ist falsch
+club_err4=Name oder Label existieren bereits
 
 dntpck_2_name=Paket "SeaCast"
 dntpck_2_info=Dieses Kit enthält eine Superschwere Casting Meeresrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
@@ -20,7 +23,7 @@ wptype_offset=Offset Haken
 wptype_jhead=Jigkopf
 
 ny_later = Heute gibt es keine Geschenke mehr. Komme morgen wieder
-ufstat_trof=Trophäen:
+ufstat_trof=Supertrophy
 
 chtset_alfa=Hintergrund-Transparenz
 chtset_fsize=Schriftgröße
@@ -98,6 +101,7 @@ key_redrop=Wurf wiederholen (T)
 key_openbait=Köder ändern (B)
 key_openmap=Karte öffnen (M)
 key_getfish=Fisch mitnehmen (Space)
+key_dropfish=Frisch freilassen
 key_cursoronoff=Cursor ein / aus (ALT Links)
 key_spdpanel=Geschwindigkeitsanzeige (R)
 key_osmart=Smartphone öffnen (Q)
@@ -301,8 +305,8 @@ cht_umsg11=<color='#ff80ff'>{0} gefangen {1}</color>
 set_speedi=Geschwindigkeit
 set_deepi=Tiefe
 set_frici=Bremse
-fwgt_uniq_m=Unique
-fwgt_uniq_w=Unique
+fwgt_uniq_m=Supertrophy
+fwgt_uniq_w=Supertrophy
 
 #Added 28.09.2018
 #------------------------------------
@@ -487,37 +491,16 @@ cht_info=INFORMATION
 #------------------------------------
 infmsg_exp=+ <color='#ff80ff'>{0}*{1}%={2} (+{3:0.00} to the skills)</color> experience
 
-
 arw_cap=ARTELS
 arw_myart=MY ARTEL
 arw_crt=CREATE
 arw_appl=REQUEST
 
 arw_h1=LEVEL
-arw_h2=RATING
+arw_h2=WERTUNG
 arw_h3=STAFF
 arw_h4=ADMISSION
 
-#Added 24.10.2017
-#------------------------------------
-gi_usei=Used:
-
-
-
-#Added 31.10.2017
-#------------------------------------
-infmsg_exp=+ <color='#ff80ff'>{0}*{1}%={2} (+{3:2} to the skills)</color> experience
-
-
-arw_cap=ARTELS
-arw_myart=MY ARTEL
-arw_crt=CREATE
-arw_appl=REQUEST
-
-arw_h1=LEVEL
-arw_h2=RATING
-arw_h3=STAFF
-arw_h4=ADMISSION
 
 #Added 24.10.2017
 #------------------------------------

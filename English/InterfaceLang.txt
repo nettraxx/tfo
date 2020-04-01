@@ -87,6 +87,7 @@ key_redrop=Redrop
 key_openbait=Open baits/lures
 key_openmap=Open map
 key_getfish=Take fish
+key_dropfish=Release fish
 key_cursoronoff=Cursor on/off
 key_spdpanel=Speed panel
 key_osmart=Open smart

@@ -3687,5 +3687,42 @@ VIP не даёт бонуса.</info>
       <info>
       </info>
     </weapon>
+    <weapon id="1762">
+      <name>Подёнка</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1763">
+      <name>Ручейник</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1764">
+      <name>Зёрна</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1765">
+      <name>Кровь</name>
+      <info>Пакетики с кровью традиционно используют для ловли карповых рыб</info>
+    </weapon>
+    <weapon id="1766">
+      <name>Личинка подёнки</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1767">
+      <name>Стрекоза</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1768">
+      <name>Кальмарница</name>
+      <info>Специальная приманка для ночной ловли кальмара. Не забудьте подсвечивать место лова фонариком</info>
+    </weapon>
+    <weapon id="1769">
+      <name>Прикорм "Криль"</name>
+      <info>Готовые прикормочные шары с мелкими рачками "криль". Хорошо подходит для ловли морской рыбы, креветок, кальмаров.</info>
+    </weapon>
   </weapons>
 </wpnlang>
