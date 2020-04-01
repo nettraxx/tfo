@@ -36,14 +36,13 @@ type_32=Seltene Größe
 
 #unique
 type_100=Großer Fisch
-type_101=Sign "Forschungsinstitut für FishEco RF"
-type_102=Sign "SRI EU-FishInstitute"
-type_103=Sign "SRI USA PFP"
-type_104=Sign "GreenPeace"
-
-type_105=Sign "Hochschule für Ökologie"
-type_106=Sign "University of Bonn ECO"
-type_107=Sign "Universite de Paris PFP"
+type_101=Label "Forschungsinstitut für FishEco RF"
+type_102=Label "SRI EU-FishInstitute"
+type_103=Label "SRI USA PFP"
+type_104=Label "GreenPeace"
+type_105=Zackige Flosse
+type_106=Bissnarbe
+type_107=Label "Tolina Fisch"
 type_108=Lachs Rogen
 
 

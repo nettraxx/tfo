@@ -4403,6 +4403,43 @@ Nur für Rollen mit maximal 2000er Größe</info>
       <name>Exceller Serie</name>
       <info>
       </info>
-    </weapon>		
+    </weapon>
+    <weapon id="1762">
+      <name>Eintagsfliege</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1763">
+      <name>Köcherfliegenlarve</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1764">
+      <name>Getreide</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1765">
+      <name>Blut</name>
+      <info>Blutbeutel werden traditionell zum Fangen von Karpfen verwendet.</info>
+    </weapon>
+    <weapon id="1766">
+      <name>Eintagsfliegenlarve</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1767">
+      <name>Libelle</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1768">
+      <name>Tintenfisch</name>
+      <info>Spezialköder für das Nachtkalmarfischen. Vergessen Sie nicht, den Angelplatz mit einer Taschenlampe hervorzuheben</info>
+    </weapon>
+    <weapon id="1769">
+      <name>Feed "Krill"</name>
+      <info>Fertige Köderbälle mit kleinen Krillkrebstieren. Gut zum Fangen von Seefisch, Garnelen, Tintenfisch.</info>
+    </weapon>	
   </weapons>
 </wpnlang>

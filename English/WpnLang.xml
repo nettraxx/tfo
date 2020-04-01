@@ -4205,5 +4205,39 @@ Only LP reels of 2000 size or below</info>
       </info>
     </weapon>	
 	
+    <weapon id="1762">
+      <name>Mayfly</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1763">
+      <name>Caddisfly larva</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1764">
+      <name>Grain</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1765">
+      <name>Blood</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1766">
+      <name>Mayfly larva</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1767">
+      <name>Dragonfly</name>
+      <info>      </info>
+    </weapon>	
+	
+    <weapon id="1768">
+      <name>Squid-lure</name>
+      <info>Special  lure for night squid fishing. Do not forget to highlight the place of fishing with a flashlight</info>
+    </weapon>
+    <weapon id="1769">
+      <name>Feed "Krill"</name>
+      <info>Finished bait balls with small krill crustaceans. Good for catching sea fish, shrimp, squid.</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>
