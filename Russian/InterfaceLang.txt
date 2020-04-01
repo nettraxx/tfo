@@ -107,7 +107,6 @@ key_openmap=Открыть карту
 key_cursoronoff=Вкл/выкл курсор
 key_spdpanel=Панель скорости проводки
 key_getfish=Забрать рыбу
-key_dropfish=Отпустить рыбу
 key_osmart=Открыть смартфон
 key_invntr=Открыть инвентарь
 key_ftank=Открыть садок
