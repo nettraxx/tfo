@@ -167,7 +167,7 @@
       <par2>---</par2>
       <par3>---</par3>
     </type>
-    <type id="30" name="Misc">
+    <type id="30" name="Sonstiges">
       <par1>---</par1>
       <par2>---</par2>
       <par3>---</par3>
@@ -4155,19 +4155,19 @@ Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
     </weapon>
     <weapon id="1709">
       <name>Top 5</name>
-      <info>Preisgewinner Container in der Rangliste</info>
+      <info>Geschenkbox für Preisgewinner der Rangliste</info>
     </weapon>
     <weapon id="1710">
       <name>Top 20</name>
-      <info>Preisgewinner Container in der Rangliste</info>
+      <info>Geschenkbox für Preisgewinner der Rangliste</info>
     </weapon>
     <weapon id="1711">
       <name>Top 100</name>
-      <info>Preisgewinner Container in der Rangliste</info>
+      <info>Geschenkbox für Preisgewinner der Rangliste</info>
     </weapon>
     <weapon id="1712">
       <name>Top 1000</name>
-      <info>Preisgewinner Container in der Rangliste</info>
+      <info>Geschenkbox für Preisgewinner der Rangliste</info>
     </weapon>
     <weapon id="1713">
       <name>Basser RCast-I</name>
