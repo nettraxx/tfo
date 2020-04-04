@@ -4402,12 +4402,14 @@ Nur für Rollen mit maximal 2000er Größe</info>
     </weapon>
     <weapon id="1762">
       <name>Eintagsfliege</name>
-      <info>
+      <info>Fängig für:
+Güster, Sichling, Regenbogenforellen
       </info>
     </weapon>
     <weapon id="1763">
       <name>Köcherfliegenlarve</name>
-      <info>
+      <info>Fängig für:
+Rotaugen, Rotfedern
       </info>
     </weapon>
     <weapon id="1764">
@@ -4417,7 +4419,10 @@ Nur für Rollen mit maximal 2000er Größe</info>
     </weapon>
     <weapon id="1765">
       <name>Blut</name>
-      <info>Blutbeutel werden traditionell zum Fangen von Karpfen verwendet.</info>
+      <info>Blutbeutel werden traditionell zum Fangen von Karpfen verwendet.
+Fängig für:
+Tintenfisch, Tiberbarben
+	  </info>
     </weapon>
     <weapon id="1766">
       <name>Eintagsfliegenlarve</name>
