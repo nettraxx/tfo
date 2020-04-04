@@ -453,3 +453,6 @@ type_108=Salmon roe
 521_Name=Caspian salmon
 522_Name=Sea zander
 523_Name=Seabass striped
+524_Name=Dorade arauta
+525_Name=Dorade rose
+526_Name=Dorade royale
