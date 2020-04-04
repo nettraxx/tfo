@@ -80,59 +80,59 @@
 	<cats>
 		<!-- ************************************************************** -->
 		<cat id="1000" glava="2000" name="Geld-Aufgabe">
-			<task id="1" txt="[fish]: [curcnt]/[maxcnt] Stk"/>
-			<task id="2" txt="[fish] ab [minwgt]: [curcnt]/[maxcnt] Stk"/>
-			<task id="4" txt="[fish]: [curcnt]/[maxcnt] Stk"/>
-			<task id="5" txt="[fish] ab [minwgt]: [weight]/[maxweight]"/>
-			<task id="6" txt="[fish]: [weight]/[maxweight]"/>
-			<task id="7" txt="[fish] auf [baitid]: [weight]/[maxweight]"/>
+			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="4" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
+			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
+			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
 		</cat>
 	
 		<cat id="1010" glava="2000" name="Köder-Aufgabe">
-			<task id="1" txt="[fish]: [curcnt]/[maxcnt] Stk"/>
-			<task id="2" txt="[fish] ab [minwgt]: [curcnt]/[maxcnt] Stk"/>
-			<task id="4" txt="[fish] trophy: [curcnt]/[maxcnt] Stk"/>	
-			<task id="5" txt="[fish] ab [minwgt]: [weight]/[maxweight]"/>
-			<task id="6" txt="[fish]: [weight]/[maxweight]"/>
-			<task id="7" txt="[fish] auf [baitid]: [weight]/[maxweight]"/>
+			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="4" txt="[fish] trophy: [curcnt] / [maxcnt] Stk"/>	
+			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
+			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
+			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
 		</cat>
     
 		<cat id="1020" glava="2000" name="Erfahrungs-Aufgabe">
-			<task id="1" txt="[fish]: [curcnt]/[maxcnt] Stk"/>
-			<task id="2" txt="[fish] ab [minwgt]: [curcnt]/[maxcnt] Stk"/>
-			<task id="4" txt="[fish] trophy: [curcnt]/[maxcnt] Stk"/>	
-			<task id="5" txt="[fish] ab [minwgt]: [weight]/[maxweight]"/>
-			<task id="6" txt="[fish]: [weight]/[maxweight]"/>
-			<task id="7" txt="[fish] auf [baitid]: [weight]/[maxweight]"/>
+			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="4" txt="[fish] trophy: [curcnt] / [maxcnt] Stk"/>	
+			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
+			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
+			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
 		</cat>
 
 		<cat id="1100" glava="2000" name="Tägliche Aufgabe">
-			<task id="1" txt="Täglich: [fish]: [curcnt]/[maxcnt] Stk"/>
-			<task id="2" txt="Täglich: [fish] ab [minwgt]: [curcnt]/[maxcnt] Stk"/>
-			<task id="4" txt="Täglich: [fish]: [curcnt]/[maxcnt] Stk"/>
-			<task id="5" txt="Täglich: [fish] ab [minwgt]: [weight]/[maxweight]"/>
-			<task id="6" txt="Täglich: [fish]: [weight]/[maxweight]"/>
-			<task id="7" txt="Täglich: [fish] auf [baitid]: [weight]/[maxweight]"/>
+			<task id="1" txt="Täglich: [fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="2" txt="Täglich: [fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="4" txt="Täglich: [fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="5" txt="Täglich: [fish] ab [minwgt]: [weight] / [maxweight]"/>
+			<task id="6" txt="Täglich: [fish]: [weight] / [maxweight]"/>
+			<task id="7" txt="Täglich: [fish] auf [baitid]: [weight] / [maxweight]"/>
 		</cat>
 
 		<!-- ************************************************************** -->
 		<cat id="2000" glava="4000" name="Acts">
 			<task id="1" txt="Fange [fish]: [curcnt]/[maxcnt] Stk"/>
-			<task id="2" txt="Fange [fish] ab [minwgt]: [curcnt]/[maxcnt] Stk"/>
-			<task id="3" txt="Fange [fish] ab [minwgt] zu [maxwgt]: [curcnt]/[maxcnt] Stk"/>
-			<task id="4" txt="Fange [fish] zu [maxwgt]: [curcnt]/[maxcnt] Stk"/>
-			<task id="5" txt="Fange [fish] ab [minwgt]: [weight]/[maxweight]"/>
-			<task id="6" txt="Fange [fish]: [weight]/[maxweight]"/>
-			<task id="7" txt="Fange [fish] auf [baitid]: [weight]/[maxweight]"/>
-			<task id="8" txt="Fange Eisfische: [curcnt]/[maxcnt] Stk"/>
-			<task id="9" txt="Fange Blutegel, Frösche oder Tritonen: [curcnt]/[maxcnt] Stk"/>
-			<task id="10" txt="Fange Krebse: [curcnt]/[maxcnt] Stk"/>
-			<task id="11" txt="Fange Eisfische auf Eisstück: [curcnt]/[maxcnt] Stk"/>
-			<task id="12" txt="Fange einen Fisch über 25 kg: [curcnt]/[maxcnt] Stk"/>
-			<task id="13" txt="Fange palia, arctic char, whitefish: [curcnt]/[maxcnt] Stk"/>
-			<task id="14" txt="Fange einzigartige Fische bis zu 20 kg: [curcnt]/[maxcnt] Stk"/>
-			<task id="15" txt="Fange Stör: [curcnt]/[maxcnt] Stk"/>
-			<task id="16" txt="Fange Trophäen mit Spinnangel: [curcnt]/[maxcnt] Stk"/>
+			<task id="2" txt="Fange [fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="3" txt="Fange [fish] ab [minwgt] zu [maxwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="4" txt="Fange [fish] zu [maxwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="5" txt="Fange [fish] ab [minwgt]: [weight] / [maxweight]"/>
+			<task id="6" txt="Fange [fish]: [weight] / [maxweight]"/>
+			<task id="7" txt="Fange [fish] auf [baitid]: [weight] / [maxweight]"/>
+			<task id="8" txt="Fange Eisfische: [curcnt] / [maxcnt] Stk"/>
+			<task id="9" txt="Fange Blutegel, Frösche oder Tritonen: [curcnt] / [maxcnt] Stk"/>
+			<task id="10" txt="Fange Krebse: [curcnt] / [maxcnt] Stk"/>
+			<task id="11" txt="Fange Eisfische auf Eisstück: [curcnt] / [maxcnt] Stk"/>
+			<task id="12" txt="Fange einen Fisch über 25 kg: [curcnt] / [maxcnt] Stk"/>
+			<task id="13" txt="Fange palia, arctic char, whitefish: [curcnt] / [maxcnt] Stk"/>
+			<task id="14" txt="Fange einzigartige Fische bis zu 20 kg: [curcnt] / [maxcnt] Stk"/>
+			<task id="15" txt="Fange Stör: [curcnt] / [maxcnt] Stk"/>
+			<task id="16" txt="Fange Trophäen mit Spinnangel: [curcnt] / [maxcnt] Stk"/>
 		</cat>
 	
 		<cat id="3000" glava="5000" name="Turniere">
