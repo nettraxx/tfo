@@ -324,11 +324,11 @@ pf4_10m=4-10: {0}
 #Added 28.02.2018
 #------------------------------------
 turn_base1=Vor Ort: {0}
-turn_levels=Stufen\n{0}-{1}
+turn_levels=für Level\n{0}-{1}
 turn_tminfo=Dauer: {0} min
-turn_state0=Wartezeit\nZeit übrig {0}
-turn_state1=Vorbereitung\nZeit übrig {0}
-turn_state2=Offen\nZeit übrig {0}
+turn_state0=Wartezeit\nnoch {0}
+turn_state1=Startet\nin {0}
+turn_state2=Turnier läuft\nRestzeit: {0}
 turn_state3=Auszeichnung
 turn_state4=Geschlossen
 turn_state100=Geschlossen
