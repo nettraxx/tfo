@@ -1370,20 +1370,23 @@
       </info>
     </weapon>
     <weapon id="1252">
-      <name>Базовая личинка</name>
+      <name>--Базовая личинка</name>
       <info> Густой запах янтарной смолы привлекает некоторых мутантов</info>
     </weapon>
     <weapon id="1253">
-      <name>--</name>
-      <info> Блестящий крупный болт. Как же его нацепить-то на крючок?</info>
+      <name>--Базовое насекомое</name>
+      <info>
+      </info>
     </weapon>
     <weapon id="1254">
-      <name>--</name>
-      <info> Странно, что на это что-то ловится</info>
+      <name>--Базовое зерно</name>
+      <info>
+      </info>
     </weapon>
     <weapon id="1255">
-      <name>--</name>
-      <info> Кусок вонючей старой резины привлекает некоторых мутантов. </info>
+      <name>--Базовый червь</name>
+      <info>
+      </info>
     </weapon>
     <weapon id="1256">
       <name>--</name>
