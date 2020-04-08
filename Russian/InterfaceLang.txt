@@ -2,7 +2,8 @@
 
 btn_qtaskvip=По базам
 
-
+club_out=Действительно покинуть клуб \n{0} ?
+club_btn1=Покинуть клуб
 club_inf1=Создание клуба
 club_inf2=Наименование клуба (3-20 символов)
 club_inf3=Клубный тэг (2-4 символа)
@@ -601,8 +602,8 @@ droplinemsg1=<color='#ff0000'>Вы потеряли леску: {0}</color>
 droplinemsg2=<color='#ff0000'>Вы порвали леску: {0} м</color>
 
 msg_other=СЛИШКОМ БЛИЗКО!
-delcharmsg2=Действительно удалить персонаж {0}?
-delcharmsg1=Удаление персонажа
+delcharmsg2=Действительно выгнать игрока\n{0} ?
+delcharmsg1=Удаление игрока
 rewgt_msg=ПЕРЕГРУЗ!
 fishdrop_1=<color='#ff8000'>Рыба сорвалась</color>
 fishdrop_2=<color='#ff8000'>Рыба выбрала всю леску</color>
