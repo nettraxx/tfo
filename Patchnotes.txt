@@ -1,0 +1,103 @@
+Patch 1.26.1
+Vorarbeiten an Clubs
+Fehlerbehebung
+
+Patch 1.26.0
+Kaspisches Meer: Kartenaktualisierung, Standort "Rocky Coast" hinzugefügt
+Kaspisches Meer: Tiefen und Geodaten haben sich vielerorts verändert
+Kaspisches Meer: Ketalachs hinzugefügt (Oncorhynchus keta)
+Kaspisches Meer: Fischlebensraum im Meer neu ausbalanciert
+Die Charakteranimationen beim Drillen und Angeln wurden verbessert
+Veranstaltung mit zusätzlicher Erfahrung ist beendet
+Fehlerbehebung
+
+Patch 1.25.8
+Italien: Goldbrasse, Rotbrasse, Dorade Royal hinzugefügt
+Italien: Geodaten und Gelände an einigen Stellen geändert
+Die Reisekosten zum Kaspischen Meer sind gestiegen
+Fehlerbehebungen
+
+Patch 1.25.7
+Italien - Tintenfisch hinzugefügt
+Shrimp - Knabbern verbessert sich nachts, wenn ein Angelplatz mit einer Taschenlampe beleuchtet wird.
+Tintenfisch knabbern verbessert sich nachts, wenn ein Angelplatz mit einer Taschenlampe beleuchtet wird.
+Köder hinzugefügt: Getreide, Blut, Eintagsfliege
+Tintenfischköder zum italienischen Laden hinzugefügt
+Krill-Feed für Italien, Deutschland und den Kaspischen Laden hinzugefügt
+Für VIP im Fenster zum Basteln von Ködern hinzugefügt Button "Alles machen"
+Das Rezept für Flusskrebsfleisch wurde geändert, jetzt kommen alle Flusskrebse hinein.
+Fehlerbehebungen
+
+Patch 1.25.6
+Die Position der Hand am Griff der Rolle wurde korrigiert
+Behobenes Köderverhalten mit zusätzlichem Gewicht
+Für VIP wurde die Möglichkeit hinzugefügt, tägliche Aufgaben auf anderen Basen anzuzeigen
+Deutschland: Süßwassergarnelen zum Teich hinzugefügt
+Garnelenköder aus dem Verkauf genommen
+Die Unfähigkeit, mit Hieroglyphen zu tippen, wurde behoben (IME-Eingabe funktioniert jetzt)
+Updates hinzugefügt
+Froschködermodell
+Garnelenködermodell
+Modell von Köderfischstücken
+animiertes Modell von Wolfsbarsch (Italien)
+animiertes Modell von gestreiftem Wolfsbarsch (Kaspisch)
+
+Patch 1.25.5
+SeaCast-Kit aus dem Verkauf genommen
+Das Kaspische Meer wurde erweitert, eine weitere Zone „Ferne See“ und ein Trawler, der Fisch auf offener See kauft, wurden hinzugefügt
+Modelle Donaulachs und Taimen hinzugefügt
+
+Patch 1.25.4
+Turnierplanfenster hinzugefügt. Wird über das Smartphone geöffnet. Turniere für den aktuellen Tag werden innerhalb einer halben Stunde nach einem geplanten Neustart des Servers generiert
+Belohnungs Smartphone Fenster ist jetzt im gewöhnlichen Laden
+Bei Turnieren werden Preise für 11-30 Plätze hinzugefügt
+Korrektur der Animation von Spinn- und Fliegenfischen
+Korrektur eines Fehlers beim anheben der Stipprute behoben (wahrscheinlich)
+
+Patch 1.25.3
+Angelruten "Sazan" im Preis erhöht
+Eine Reihe von "Exeller" -Stippruten mit einer Länge von 5,6,7 Metern und einer Festigkeit von 9 kg wurden hinzugefügt
+Gegenstände aus Sets - Die Möglichkeit sie für Silber im Laden zu verkaufen, wurde deaktiviert
+
+Patch 1.25.1
+LP Ruten und Rollen von 7-18kg neu im Sortiment
+Grafikfehler behoben
+
+Patch 1.25.0
+Baitcastsets integriert
+Turnier in Finnland
+Shrimps können nun hergestellt werden
+
+Patch 1.24.4
+noch mehr Baitcastruten und Rollen (noch nicht im Spiel aktiv)
+
+Patch 1.24.3
+Baitcastrute und Rolle hinzugefügt
+
+Patch 1.24.2
+Kaspisches Meer erweitert (Komplett)
+Neuer Fisch
+
+Patch 1.24.1
+Test lvl 30 Gewässer Kaspisches Meer
+Neue Fische
+
+Patch 1.23.5
+Rutenslots 1, 2 und 3 können nun neu frei belegt werden
+
+Patch 1.23.3
+Fischnamen angepasst (zb Karausche ist jetzt Giebel und Goldkarausche die Karausche)
+Köder angepasst
+Turnier Token und Ranking Container
+uvm
+
+Patch 1.23.0
+Gummiköder benötigen nun Jig Köpfe die es in unterschiedlichen Gewichten gibt.
+In den Turnieren kann man nun Token Gewinnen, mit diesen kann man Belohnungen kaufen (Aufrufbar über das Handy)
+Italien hat mehr Grafikdetails
+
+Patch 1.22.6
+Abschluss der Neujahrsveranstaltung, der Weihnachtsbaum und Aufgaben entfernt
+Inventar - Sortierung und Kategorisierung hinzugefügt
+Korrektur kleinerer Fehler
+Wacky UL-Köder für leichtes Spinnen hinzugefügt
