@@ -1,6 +1,8 @@
 Patch 1.26.1
 Vorarbeiten an Clubs
 Fehlerbehebung
+Update hinzugefügt:
+Cluberweiterungen
 
 Patch 1.26.0
 Kaspisches Meer: Kartenaktualisierung, Standort "Rocky Coast" hinzugefügt
