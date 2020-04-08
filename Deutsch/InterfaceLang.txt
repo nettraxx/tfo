@@ -2,6 +2,13 @@
 
 btn_qtaskvip=Andere Orte
 
+club_invmsg3=Du bist dem Club beigetreten!
+club_invmsg2=Spieler {0}\n lädt Sie ein, dem Club beizutreten\n{1}
+club_invmsg=Einladung zum Club erhalten {0}
+club_ech4=Der Spieler ist bereits im Club!
+club_ech3=Es gibt keine freien Plätze im Club!
+club_invok=Einladung gesendet
+club_invitation=Zum Club einladen
 club_out=Den Club wirklich verlassen \n{0}?
 club_btn1=Verlasse den Club
 club_inf1=Clubgründung
