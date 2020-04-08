@@ -2,6 +2,8 @@
 
 btn_qtaskvip=Andere Orte
 
+club_out=Den Club wirklich verlassen \n{0}?
+club_btn1=Verlasse den Club
 club_inf1=Clubgründung
 club_inf2=Clubname (3-20 Zeichen)
 club_inf3=Club-Label (2-4 Zeichen)
@@ -565,8 +567,8 @@ droplinemsg1=<color='#ff0000'>Du hast Schnur verloren: {0}</color>
 droplinemsg2=<color='#ff0000'>Deine Schnur ist gerissen: {0} m</color>
 
 msg_other=TOO CLOSE!
-delcharmsg2=Bist Du sicher, das Du den Charakter löschen willst {0}?
-delcharmsg1=Charakterlöschung
+delcharmsg2=Spieler wirklich entfernen \n{0}?
+delcharmsg1=Spieler entfernen
 rewgt_msg=Inventar voll - Überprüfen Sie Ihren Mülleimer!
 fishdrop_1=<color='#ff8000'>Der Fisch ist entkommen!</color>
 fishdrop_2=<color='#ff8000'>Der Fisch hat die Schnur leer gezogen</color>
