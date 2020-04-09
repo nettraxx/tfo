@@ -1,3 +1,9 @@
+Patch 1.26.2
+Separate Chat-Kanäle für Kommunikation und Information
+Ändern der Position der Hände auf der Castingrute
+Vorarbeiten an Clubs
+Fehlerbehebungen
+
 Patch 1.26.1
 Vorarbeiten an Clubs
 Fehlerbehebung

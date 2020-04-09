@@ -1,5 +1,25 @@
 ﻿[INTERFACE]
 
+key_openclub=Club Panel
+club_invmsg4=Player {0} accepted the invitation
+club_invmsg3=You have joined the club!
+club_invmsg2=Player {0}\n invites you to join the club\n{1}
+club_invmsg=Received invitation to club {0}
+club_ech1=Player not found!
+club_ech4=The player is already in the club!
+club_ech3=There are no free places in the club!
+club_invok=Invitation sent
+club_invitation=Invite to the club
+club_out=Really leave the club \n{0}?
+club_btn1=Leave the club
+club_inf1=Club creation
+club_inf2=Club name (3-20 characters)
+club_inf3=Club tag (2-4 characters)
+club_inf4=CREATE
+club_err1=Only letters, numbers and space are allowed
+club_err2=Club name is incorrect
+club_err3=Club tag is incorrect
+club_err4=Name or tag already exists
 
 btn_qtaskvip=On bases
 
@@ -309,10 +329,10 @@ trn_reg=Preparation for the tournament `{0}`
 
 anfish=any fish
 prisefond=Prize pool:
-pf1m=1: {0}
-pf2m=2: {0}
-pf3m=3: {0}
-pf4_10m=4-10: {0}
+pf1m=1st place: {0}
+pf2m=2nd place: {0}
+pf3m=3rd place: {0}
+pf4_10m=4-10th places: {0}
 
 #Added 28.02.2018
 #------------------------------------

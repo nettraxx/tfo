@@ -2,9 +2,12 @@
 
 btn_qtaskvip=Andere Orte
 
+key_openclub=Club Übersicht
+club_invmsg4=Spieler {0} hat die Einladung angenommen
 club_invmsg3=Du bist dem Club beigetreten!
 club_invmsg2=Spieler {0} \ n lädt Sie ein, dem Club beizutreten\n {1}
 club_invmsg=Einladung in den Club erhalten {0}
+club_ech1=Spieler nicht gefunden!
 club_ech4=Der Spieler ist bereits im Verein!
 club_ech3=Es gibt keine freien Plätze im Club!
 club_invok=Einladung gesendet
@@ -20,9 +23,9 @@ club_err2=Der Clubname ist falsch
 club_err3=Club-Label ist falsch
 club_err4=Name oder Label existieren bereits
 
+
 dntpck_2_name=Paket "SeaCast"
 dntpck_2_info=Dieses Kit enthält eine Superschwere Casting Meeresrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
-
 dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
 dntpck_1_name=Paket "BeeCast"
 dntpck_1_info=Das Kit enthält eine leichte Castingrute (5 kg, +75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern.
