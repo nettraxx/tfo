@@ -1109,7 +1109,7 @@ exp_pb=Next lvl experience:
 #Added 01.12.2016
 #------------------------------------
 chat_info=Info
-chat_loc=Loc
+chat_loc=Lokal
 
 chatconnect=Kanal verbunden
 qd_prise=Einnahme
