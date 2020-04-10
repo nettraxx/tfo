@@ -2,6 +2,8 @@
 
 btn_qtaskvip=Andere Orte
 
+club_userout={0} hat das Spiel verlassen
+club_userin={0} hat das Spiel betreten
 key_openclub=Club Übersicht
 club_invmsg4=Spieler {0} hat die Einladung angenommen
 club_invmsg3=Du bist dem Club beigetreten!

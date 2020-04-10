@@ -1,3 +1,12 @@
+Patch 1.26.3
+Finnland: Umgestaltung von Booten. Die Anzahl der Halter wird auf zwei reduziert, die Geschwindigkeit, Manövrierfähigkeit erhöht, das Erscheinungsbild verändert
+Trophäen und Weltrekorde werden in beiden Chats übertragen - Informationen und Chat-Standorten
+Der Club-Chat zeigt nun den Ein- und Austritt der Clubspieler an
+Die Annahme von Einladungen in den Club wird jetzt durch Ton und die Inschrift im Chat signalisiert
+Der Einfluss von Schnüren und Hakengrößen auf den Biss eines vorsichtigen Fisches wird erhöht
+Label für Flunder, Barbe, Seehecht, Thunfisch wurden hinzugefügt
+Andere kleinere Änderungen und Fehlerbehebungen
+
 Patch 1.26.2
 Separate Chat-Kanäle für Kommunikation und Information
 Ändern der Position der Hände auf der Castingrute

@@ -2,6 +2,8 @@
 
 btn_qtaskvip=По базам
 
+club_userout={0} вышел из игры
+club_userin={0} зашел в игру
 key_openclub=Панель клуба
 club_invmsg4=Игрок {0} принял приглашение
 club_invmsg3=Вы вступили в клуб!

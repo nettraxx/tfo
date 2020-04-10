@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+club_userout={0} out of the game
+club_userin={0} entered the game
 key_openclub=Club Panel
 club_invmsg4=Player {0} accepted the invitation
 club_invmsg3=You have joined the club!
