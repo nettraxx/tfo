@@ -1,4 +1,14 @@
 Patch 1.26.3
+Finnland: Großes Boot verbesserte Bewegung, feststecken und rausfliegen beim Verlassen der Kabine behoben
+Falsche Biegung der Kitana-Spinnfamilie behoben
+Chat: Ihr Fisch wird im allgemeinen Chat angezeigt, wenn die Anzeige von Fischen im Chat aktiviert ist
+Chat: Der Chat-Bereich wird erweitert
+Chat: Die Möglichkeit zum Senden privater Nachrichten wurde hinzugefügt.
+Kaspisches Meer: Die Ketalachs-Population wurde um 25% reduziert. Ketalachs-Einnahmen reduziert
+Alle Basen: Die Vorsicht kleiner Fische (bis zu 5 kg) wird verringert
+Andere kleinere Korrekturen an der Benutzeroberfläche
+
+Patch 1.26.3
 Finnland: Umgestaltung von Booten. Die Anzahl der Halter wird auf zwei reduziert, die Geschwindigkeit, Manövrierfähigkeit erhöht, das Erscheinungsbild verändert
 Trophäen und Weltrekorde werden in beiden Chats übertragen - Informationen und Chat-Standorten
 Der Club-Chat zeigt nun den Ein- und Austritt der Clubspieler an
