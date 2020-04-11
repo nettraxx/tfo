@@ -1,3 +1,11 @@
+Patch 1.26.5
+Kaspisches Meer: Ein zweimotoriges Boot wurde für schnelle Bewegungen und Trolling hinzugefügt
+Kaspisches Meer: Beseitigung von Fehlerstellen, Schwebeflügen und anderen Geometriefehlern an einem Ort
+Kaspisches Meer: Verkaufsargument für Fisch auf der Insel
+Ein neuer Farbfilter wurde hinzugefügt. Die Filterintensität kann in den Einstellungen geändert werden.
+Korrektur erkannter Chat-Schnittstellenfehler
+[*] Korrektur eines Serverfehlers mit geringem Biss bei einigen Fischarten
+
 Patch 1.26.4
 Finnland: Großes Boot verbesserte Bewegung, feststecken und rausfliegen beim Verlassen der Kabine behoben
 Falsche Biegung der Kitana-Spinnfamilie behoben
@@ -7,13 +15,6 @@ Chat: Die Möglichkeit zum Senden privater Nachrichten wurde hinzugefügt.
 Kaspisches Meer: Die Ketalachs-Population wurde um 25% reduziert. Ketalachs-Einnahmen reduziert
 Alle Basen: Die Vorsicht kleiner Fische (bis zu 5 kg) wird verringert
 Andere kleinere Korrekturen an der Benutzeroberfläche
-Event Neuigkeiten
-Kaspisches Meer: Ein zweimotoriges Boot wurde für schnelle Bewegungen und Trolling hinzugefügt
-Kaspisches Meer: Beseitigung von Fehlerstellen, Schwebeflügen und anderen Geometriefehlern an einem Ort
-Kaspisches Meer: Verkaufsargument für Fisch auf der Insel
-Ein neuer Farbfilter wurde hinzugefügt. Die Filterintensität kann in den Einstellungen geändert werden.
-Korrektur erkannter Chat-Schnittstellenfehler
-[*] Korrektur eines Serverfehlers mit geringem Biss bei einigen Fischarten
 
 Patch 1.26.3
 Finnland: Umgestaltung von Booten. Die Anzahl der Halter wird auf zwei reduziert, die Geschwindigkeit, Manövrierfähigkeit erhöht, das Erscheinungsbild verändert
