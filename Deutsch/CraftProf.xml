@@ -3,9 +3,8 @@
 	<categories>
 		<category id="0" name="Einfache Rezepte"/>
 		<category id="10" name="Aufgaben"/>
-		<category id="50" name="Fisch-Schneiden" />
-			<category id="150" name="Anfänger Fisch-Schneiden"/>
-		</category>
+		<category id="50" name="Fisch-Schneiden"/>
+		<category id="150" name="Anfänger Fisch-Schneiden"/>
 		<category id="55" name="Lockmittel"/>
 		<category id="60" name="Mechanics"/>
 		<category id="80" name="Anfänger Chemie"/>

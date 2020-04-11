@@ -6,7 +6,7 @@
 		<turn id="3" name="Seefischerei" info="--"/>   
 		<turn id="4" name="" info="--"/>   
 		<turn id="5" name="Frankreich" info="--"/>   
-		<turn id="6" name="Finnland" info="--"/>   	
+		<turn id="6" name="Finnland" info="--"/> 	
 	</tnames>
 
 	<qdynamic>
@@ -32,11 +32,11 @@
 		<qd id="19" name="Wertvolle kleine Braten" imgid="0"/>
 		<qd id="20" name="Seltener Fang" imgid="2"/>
 		<qd id="21" name="Raubfischreduktion" imgid="0"/>
-		<qd id = "22" name = "Hochwassergebiet: Gesamtgewicht" imgid = "0" />
-		<qd id = "23" name = "Silberino" imgid = "0" />
-		<qd id = "24" name = "Amur Angebote" imgid = "0" />
-		<qd id = "25" name = "Großkopfkarpfen für Bigman" imgid = "0" />
-		<qd id=  "26" name="Flußmündung: Gesamtgewicht" imgid="0"/>
+		<qd id="22" name="Hochwassergebiet: Gesamtgewicht" imgid = "0" />
+		<qd id="23" name="Silberino" imgid = "0" />
+		<qd id="24" name="Amur Angebote" imgid = "0" />
+		<qd id="25" name="Großkopfkarpfen für Bigman" imgid = "0" />
+		<qd id="26" name="Flußmündung: Gesamtgewicht" imgid="0"/>
 	</qdynamic>
 
 	<achivments_name>
@@ -117,7 +117,7 @@
 
 		<!-- ************************************************************** -->
 		<cat id="2000" glava="4000" name="Acts">
-			<task id="1" txt="Fange [fish]: [curcnt]/[maxcnt] Stk"/>
+			<task id="1" txt="Fange [fish]: [curcnt] / [maxcnt] Stk"/>
 			<task id="2" txt="Fange [fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
 			<task id="3" txt="Fange [fish] ab [minwgt] zu [maxwgt]: [curcnt] / [maxcnt] Stk"/>
 			<task id="4" txt="Fange [fish] zu [maxwgt]: [curcnt] / [maxcnt] Stk"/>

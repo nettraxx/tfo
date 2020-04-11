@@ -10,7 +10,7 @@ club_invmsg3=Du bist dem Club beigetreten!
 club_invmsg2=Spieler {0} \ n lädt Sie ein, dem Club beizutreten\n {1}
 club_invmsg=Einladung in den Club erhalten {0}
 club_ech1=Spieler nicht gefunden!
-club_ech4=Der Spieler ist bereits im Verein!
+club_ech4=Der Spieler ist bereits im Club!
 club_ech3=Es gibt keine freien Plätze im Club!
 club_invok=Einladung gesendet
 club_invitation=Spieler in Club einladen
@@ -22,14 +22,14 @@ club_inf3=Club-Label (2-4 Zeichen)
 club_inf4=ERSTELLEN
 club_err1=Es sind nur Buchstaben, Zahlen und Leerzeichen zulässig
 club_err2=Der Clubname ist falsch
-club_err3=Club-Label ist falsch
+club_err3=Club-Kürzel ist falsch
 club_err4=Name oder Label existieren bereits
 
+dntpck_2_name=Packet "SeaCast"
+dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
 
-dntpck_2_name=Paket "SeaCast"
-dntpck_2_info=Dieses Kit enthält eine Superschwere Casting Meeresrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
 dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
-dntpck_1_name=Paket "BeeCast"
+dntpck_1_name=Packet "BeeCast"
 dntpck_1_info=Das Kit enthält eine leichte Castingrute (5 kg, +75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern.
 
 
@@ -56,19 +56,19 @@ wplevel_0=Level 0: Anfänger
 wplevel_1=Level 1: Lehrling I
 wplevel_2=Level 2: Lehrling II
 wplevel_3=Level 3: Lehrling III
-wplevel_4=Level 4: Gelehrter
+wplevel_4=Level 4: Gesellen-Anwärter
 wplevel_5=Level 5: Geselle I
 wplevel_6=Level 6: Geselle II
 wplevel_7=Level 7: Geselle III
-wplevel_8=Level 8: Training
+wplevel_8=Level 8: Amateur-Anwärter
 wplevel_9=Level 9: Amateur I
 wplevel_10=Level 10: Amateur II
 wplevel_11=Level 11: Amateur III
-wplevel_12=Level 12: Qualifikation
+wplevel_12=Level 12: Experten-Anwärter
 wplevel_13=Level 13: Experte I
 wplevel_14=Level 14: Experte II
 wplevel_15=Level 15: Experte III
-wplevel_16=Level 16: Professioneller
+wplevel_16=Level 16: Profi-Anwärter
 wplevel_17=Level 17: Profi I
 wplevel_18=Level 18: Profi II
 wplevel_19=Level 19: Profi III
@@ -82,7 +82,7 @@ setng_lb4=Gamma
 setng_lb5=Kontrast
 setng_lb6=Schatten
 setng_lb7=Bildskalierung
-setng_lb8=Standard herstellen
+setng_lb8=Standard Herstellen
 
 naviinfo1=Koordinaten
 naviinfo2=Distanz
@@ -90,8 +90,8 @@ naviinfo2=Distanz
 boat_inf6=[U] Aufstehen
 
 set_grouplb=Montagenauslastung
-set_groupp1=Ein Balken für alles (Standard)
-set_groupp2=Einzelne Balken für Schnur/Rute/Rolle (NEU)
+set_groupp1=Ein Balken für alles
+set_groupp2=Einzelne Balken für Schnur/Rute/Rolle
 
 key_move_frwrd=Vorwärts (W)
 key_move_bckwrd=Rückwärts (S)
@@ -128,8 +128,8 @@ setbtn_1=Klänge
 setbtn_2=Steuerelemente
 setbtn_3=Spiel
 
-btn_makeoutinf = Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten zerlegen und in einen Rucksack stecken.
-btn_makeout = OK - ICH WILL
+btn_makeoutinf = Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten zerlegen. Alle Gegenstände der zusammengebauten Ruten landen im Inventar.
+btn_makeout = OK - MACH ES 
 
 btn_ext1=zurück zum Hauptmenü
 btn_ext2=zurück zu Windows
@@ -290,7 +290,7 @@ invn_rec32=Anzahl:
 invn_rec33=aufteilen
 invn_rec34=Gebietskarte
 
-chat_n1=Populäre Kanäle
+chat_n1=Beliebte Kanäle
 chat_n2=Neuer Chatkanal
 chat_n3=Neuer Kanalname
 
@@ -329,11 +329,11 @@ trn_end=Das Turnier `{0}` ist vorbei
 trn_reg=Vorbereitung auf das Turnier `{0}`
 
 anfish=Fange Fische
-prisefond=Preis Pool:
-pf1m=1: {0}
-pf2m=2: {0}
-pf3m=3: {0}
-pf4_10m=4-10: {0}
+prisefond=Preise:
+pf1m=1. Platz: {0}
+pf2m=2. Platz: {0}
+pf3m=3. Platz: {0}
+pf4_10m=4-10. Platz: {0}
 
 #Added 28.02.2018
 #------------------------------------
@@ -482,7 +482,7 @@ rait_5=Honorable\nmaecenas
 rait_btn1=Einkommen
 rait_btn2=Fang
 rait_btn3=Nach Gewicht
-rait_btn4=Trophy
+rait_btn4=Trophäe
 rait_btn5=Maecenas
 
 
@@ -579,7 +579,7 @@ droplinemsg1=<color='#ff0000'>Du hast Schnur verloren: {0}</color>
 droplinemsg2=<color='#ff0000'>Deine Schnur ist gerissen: {0} m</color>
 
 msg_other=TOO CLOSE!
-delcharmsg2=Spieler wirklich entfernen \n{0}?
+delcharmsg2=Spieler wirklich entfernen? \n{0}?
 delcharmsg1=Spieler entfernen
 rewgt_msg=Inventar voll - Überprüfen Sie Ihren Mülleimer!
 fishdrop_1=<color='#ff8000'>Der Fisch ist entkommen!</color>
@@ -719,11 +719,11 @@ fshop_hd1=Fischpreise
 fshop_hd2=Catch selling
 fshop_hd3=Du hast keine Fische zum Verkaufen!
 fshop_hd4=Feilschen
-fshop_msg1=Sold {0} {1} Stk weight {2}
-fshop_msg2=<color='#000000'>{0} Stk. Of total weight {1}</color>\n<color='#000000'>current cost for 1 kilo is {2}</color>\n\n<color='#002000'>Total sale value of this species will be</color>\n
+fshop_msg1=Verkauft {0} {1} Stk Gewicht {2}
+fshop_msg2=<color='#000000'>{0} Stk. Gesamtgewicht {1}</color>\n<color='#000000'>aktueller Preis für 1 kg ist {2}</color>\n\n<color='#002000'>Gesamter Verkaufswert dieser Fischsorte ist</color>\n
 
-fshop_btn1=To find out prices
-fshop_btn2=Sell this species
+fshop_btn1=Preise herausfinden
+fshop_btn2=Diese Fischsorte verkaufen
 
 fshop_ks1=Nach Fang
 fshop_ks2=Nach Name
@@ -744,7 +744,7 @@ shop_t3=Imitationsköder
 shop_t4=Lockfutter/Lockmittel
 shop_t5=Posenruten
 shop_t6=Spinnruten
-shop_t7=Feederruten
+shop_t7=Grundruten
 shop_t8=Rollen
 shop_t9=Schnur
 shop_t10=Haken/Jigköpfe
@@ -832,7 +832,7 @@ pt_setok=Security Pin-code has been set up
 
 #Added 10.03.2017
 #------------------------------------
-qd_day=TÄGLICH
+qd_day=TÄGESAUFGABEN
 qd_week=TURNIERE
 usrto_ignor=Spieler {0} wurde zu Deiner Ignorierenliste hinzugefügt
 usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierenliste entfernt
@@ -908,7 +908,7 @@ gi_um_6=Titel
 gi_um_7=Beruf
 gi_um_8=Sammlung
 gi_um_9=Aufgaben
-gi_um_10=Standort
+gi_um_10=an diesem Gewässer
 
 gi_um_rec=Gefangen {1}\n{2}
 
@@ -1073,11 +1073,11 @@ wpn_cmp=Component
 #------------------------------------
 silence=<color='#ff0000'>Moderator mute you. Left {0} min.</color>
 crft_none=NOTHING
-crft_krit=<color='#ffdd40'>Glückspilz: {0}</color>
+crft_krit=<color='#ffdd40'>glückliches Händchen: {0}</color>
 crft_konstr=Konstruktion
-crft_sbor=Assembling
+crft_sbor=Zusammenbau
 crft_ingr=Zutaten:
-crft_cnt=Need {0} Stk in stock {1}
+crft_cnt=Benötigt {0} Stk im Vorrat {1}
 crft_from=von
 crft_to=bis
 crft_treb=Anforderungen:
@@ -1086,13 +1086,13 @@ crft_norec2=KEINE REZEPTE
 crft_unl=Unbegrenzt
 crft_recnt=Rezept Anzahl:
 crft_cost=Arbeitspreis:
-crft_costwp=Workpoints (WP):
+crft_costwp=Arbeitspunkte (WP):
 crft_cnt2={0}/nbenötigt {1} Stk
-crft_use=In used: {0}+{1}={2}
+crft_use=Im Gebrauch: {0}+{1}={2}
 crft_selwpn=Nehme Gegenstand
 crft_crft=Erstellung
 crft_btn1=Erstellen
-crft_btn2=Alle erstellen
+crft_btn2=Alles filetieren
 
 #Added 02.12.2016
 #------------------------------------
@@ -1113,7 +1113,7 @@ chat_loc=Lokal
 
 chatconnect=Kanal verbunden
 qd_prise=Einnahme
-usercntinfo=Online: {0} an Standort: {1}
+usercntinfo=Online: {0} am Standort: {1}
 wplabel=Arbeitspunkte: 
 
 qd_prise_exp=+{0} exp;  
@@ -1184,7 +1184,7 @@ stacheaderprocess=Binds...
 stacheadererror=<color='#ff2000'>Error binding!</color>
 stacheaderok=Beendet!
 
-togamebtn= PLAY GAME
+togamebtn= SPIEL STARTEN
 selpers=Character auswählen
 delpers=Character löschen
 newpers=Character anlegen
@@ -1215,7 +1215,7 @@ cntx_close=Schließen
 #------------------------------------
 close=Schließen
 pass=Passwort
-mempass=An mich erinnern.
+mempass=Meine Daten merken.
 reg=Erstelle Konto.
 serv_off1=Autsch! Der Server antwortet nicht!
 serv_off2=Überprüfen Sie Ihre Verbindung zum Internet oder Serverstatus auf der Spieleseite
@@ -1278,7 +1278,7 @@ active_obj_3=Filetiertisch
 active_obj_4=Einfaches Craften
 active_obj_5=Tisch mit Werkzeugen
 active_obj_6=Kühlschrank
-active_obj_7=Montagetisch
+active_obj_7=Werkbank
 
 # Craft
 no_ingridients=Nicht genug Zutaten!
@@ -1318,13 +1318,13 @@ bag8_name=Belohnung
 bag8_info=Andere Währungen
 
 bag9_name=Sammlung
-bag9_info=Sammlungsposten
+bag9_info=gesammelte Gegenstände
 
 bag10_name=Sonstiges
 bag10_info=Verschiedene Artikel nicht in der Kategorie enthalten
 
 bag11_name=Spinnköder
-bag11_info=Spinnködermaterial
+bag11_info=Spinnköder Zubehör
 
 bag12_name=Lockstoffe
 bag12_info=Futtermischungen

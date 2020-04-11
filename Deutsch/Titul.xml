@@ -5,6 +5,7 @@
 		<category id="3" name="Erfolge"/>
 		<category id="5" name="Turnier" />
 		<category id="6" name="Gesamt Turniere"/>
+		<category id="7" name="Private Turniere"/>
 		<category id="8" name="Berufe" />
 		<category id="9" name="Ressourcen sammeln"/>
 		<category id="10" name="Produktion"/>
