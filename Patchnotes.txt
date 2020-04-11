@@ -1,9 +1,17 @@
 Patch 1.26.5
-
 Gemäss russischem Original
 Sternhausen -> Europäischer Stör
 gestreifter Wolfsbarsch -> Felsenbarsch
 Einige Anpassungen im Text
+Wels -> getüpfelter Gabelwels
+Donaulachs war bereits vorhanden, einen davon zu Huchen umbenannt (wird derzeit noch nicht verwendet)
+Kabeljau -> pazifischer Kabeljau
+Kutum -> Kasipscher Kutum
+Lachforelle -> Saimaa-Forelle
+
+Einige Formulierungen im deutschen angepasst.
+
+
 
 Patch 1.26.5
 Kaspisches Meer: Ein zweimotoriges Boot wurde für schnelle Bewegungen und Trolling hinzugefügt
