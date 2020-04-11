@@ -1,4 +1,11 @@
 Patch 1.26.5
+
+Gemäss russischem Original
+Sternhausen -> Europäischer Stör
+gestreifter Wolfsbarsch -> Felsenbarsch
+Einige Anpassungen im Text
+
+Patch 1.26.5
 Kaspisches Meer: Ein zweimotoriges Boot wurde für schnelle Bewegungen und Trolling hinzugefügt
 Kaspisches Meer: Beseitigung von Fehlerstellen, Schwebeflügen und anderen Geometriefehlern an einem Ort
 Kaspisches Meer: Verkaufsargument für Fisch auf der Insel
