@@ -832,7 +832,7 @@ pt_setok=Security Pin-code has been set up
 
 #Added 10.03.2017
 #------------------------------------
-qd_day=TÄGESAUFGABEN
+qd_day=TAGESAUFGABEN
 qd_week=TURNIERE
 usrto_ignor=Spieler {0} wurde zu Deiner Ignorierenliste hinzugefügt
 usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierenliste entfernt
@@ -908,7 +908,7 @@ gi_um_6=Titel
 gi_um_7=Beruf
 gi_um_8=Sammlung
 gi_um_9=Aufgaben
-gi_um_10=an diesem Gewässer
+gi_um_10=Standort
 
 gi_um_rec=Gefangen {1}\n{2}
 
@@ -1318,7 +1318,7 @@ bag8_name=Belohnung
 bag8_info=Andere Währungen
 
 bag9_name=Sammlung
-bag9_info=gesammelte Gegenstände
+bag9_info=Gesammelte Gegenstände
 
 bag10_name=Sonstiges
 bag10_info=Verschiedene Artikel nicht in der Kategorie enthalten
