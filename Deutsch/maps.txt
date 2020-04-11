@@ -23,7 +23,7 @@
 8_Name=Polen: Fluss San
 8_Info=
 
-10_Name=Russland: Kaspisches Meer
+10_Name=Iran: Kaspisches Meer
 
 [LOC_NAMES]
 ---------------------
