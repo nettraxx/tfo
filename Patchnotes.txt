@@ -1,4 +1,4 @@
-Patch 1.26.3
+Patch 1.26.4
 Finnland: Großes Boot verbesserte Bewegung, feststecken und rausfliegen beim Verlassen der Kabine behoben
 Falsche Biegung der Kitana-Spinnfamilie behoben
 Chat: Ihr Fisch wird im allgemeinen Chat angezeigt, wenn die Anzeige von Fischen im Chat aktiviert ist
