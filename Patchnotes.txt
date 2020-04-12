@@ -1,3 +1,9 @@
+Patch 1.26.5b
+Fischnamen korrigiert:
+Schwarzbarsch -> Rotaugenbarsch (derzeit noch nicht verwendet)
+Roter Zackenbarsch -> Schwarzbarsch
+
+
 Patch 1.26.5a
 Gemäss russischem Original
 Sternhausen -> Europäischer Stör
