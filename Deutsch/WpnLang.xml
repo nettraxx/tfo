@@ -393,7 +393,7 @@ Barbe, Quappe, Schleie, Schuppenkarpfen
     <weapon id="1021">
       <name>Köderfisch</name>
       <info>Fängig für:
-Aal, Bachforelle, Belugastör, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Pazifischer Kabeljau, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Roter Zackenbarsch, Russischer Stör, Saibling, Seesaibling, Tintenfisch, Weißer Thunfisch
+Aal, Bachforelle, Belugastör, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Pazifischer Kabeljau, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Schwarzbarsch, Russischer Stör, Saibling, Seesaibling, Tintenfisch, Weißer Thunfisch
       </info>
     </weapon>
     <weapon id="1022">
@@ -752,7 +752,7 @@ Noch nichts bekannt.
     <weapon id="1090">
       <name>Tauwurm</name>
       <info>Fängig für:
-Barbe, Brachse, Europäischer Wels, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Grashecht, Hecht, Kaulbarsch, Roter Zackenbarsch, Tiberbarbe, Zander
+Barbe, Brachse, Europäischer Wels, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Grashecht, Hecht, Kaulbarsch, Schwarzbarsch, Tiberbarbe, Zander
       </info>
     </weapon>
     <weapon id="1091">
@@ -3812,7 +3812,7 @@ Dicklippige Meeräsche, Europäischer Wolfsbarsch, Goldbrasse, Großkopfmeeräsc
     <weapon id="1648">
       <name>Wattwurm</name>
       <info>Fängig für:
-Barbe, Brachse, Dicklippige Meeräsche, Europäischer Wels, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Meerzander, Roter Zackenbarsch, Tiberbarbe
+Barbe, Brachse, Dicklippige Meeräsche, Europäischer Wels, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Meerzander, Schwarzbarsch, Tiberbarbe
       </info>
     </weapon>
     <weapon id="1649">
@@ -3949,19 +3949,19 @@ Bachforelle, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashe
 	<weapon id="1675">
 	  <name>VIB MD Cyclope M1</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Roter Zackenbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1676">
 	  <name>VIB MD Cyclope M2</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Roter Zackenbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1677">
 	  <name>VIB MD Cyclope M3</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Roter Zackenbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	  <weapon id="1678">
