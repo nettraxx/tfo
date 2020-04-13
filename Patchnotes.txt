@@ -18,7 +18,7 @@ Tägliche Quest zum Kaspischen Meer hinzugefügt
 Die Preise für tägliche Quests in Frankreich und Finnland haben sich geändert
 Die Haltbarkeit der Vorfächer wurde erhöht
 Halter auf dem finnischen Langboot werden unten gedreht
-Karausche und Plötze geben mehr Erfahrung beim Angeln
+Karausche und Rotauge geben mehr Erfahrung beim Angeln
 Fehlerbehebung beim Bootsaustieg
 Fehlerbehebung mit Unfähigkeit, Chat-Nachrichten zu senden
 Fehlerbehebung mit Angelruten, die in ein Boot fliegen
