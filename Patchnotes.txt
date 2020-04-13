@@ -1,8 +1,25 @@
+Patch 1.27.0
+Großes Update mit 2 Neuerungen
+Erste:
+Posen- Schwimmermechanik überarbeitet
+Jede Fischart hat ihren erkennabren Biss
+Stippruten sind für den schnellen Fang von Köderfischen geeignet
+Posen- Bolongneseruten sind zum Angeln mittlerer Fische geeignet
+Matchruten sind zum weiten werfen mit Waggler für Karpfen geeignet.
+Zweite:
+Es wurde die Möglichkeit hinzugefügt, einen eigenen Angelclub zu gründen. 
+Diese Mechanik steht erst am Anfang ihres Weges und hat noch wenig Funktionalität. 
+Ein gemeinsames Chat-Kürzel (Label) für alle Clubmitglieder, ein eigener Club-Chat, Online-Tracking von Clubmitgliedern und ein System von "Offizieren" mit unterschiedlichen Rechten. 
+Derzeit kann der Club nur 10 Personen aufnehmen.
+In Planung sind Clubaufgaben, die von allen Clubmitgliedern ausgeführt werden und dafür Cluberfahrung erhalten. 
+Club-Levels, bei denen Sie Club-Skill-Punkte erhalten und diese entweder verwenden können, 
+um die Anzahl der Club-Mitglieder zu erhöhen oder um die Anzahl der Offiziere oder andere Club-Skills zu erhöhen.
+In Zukunft ist die Sichtbarkeit von Clubmitgliedern an Standorten, Clubturnieren und sogar in einem Clubhaus und Schiff geplant.
+
 Patch 1.26.5b
 Fischnamen korrigiert:
 Schwarzbarsch -> Rotaugenbarsch (derzeit noch nicht verwendet)
 Roter Zackenbarsch -> Schwarzbarsch
-
 
 Patch 1.26.5a
 Gemäss russischem Original

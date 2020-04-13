@@ -1,5 +1,10 @@
 ﻿[INTERFACE]
 
+dntpck_130_name=Package "Founder"
+dntpck_130_info=Contains the "Club founder badge", using which you can establish your own fishing club
+dntpck_130_act=+ 15 days VIP card as a gift
+
+
 club_userout={0} out of the game
 club_userin={0} entered the game
 key_openclub=Club Panel
@@ -777,7 +782,7 @@ shop_t15=Craft
 shop_t16=Misc
 shop_t17=Manuals
 shop_t20=Travels
-shop_t18=VIP cards
+shop_t18=Special
 
 shop_t22=Flyfishing
 shop_t23=Fly

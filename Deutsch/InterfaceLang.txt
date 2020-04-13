@@ -1,6 +1,9 @@
 ﻿[INTERFACE]
 
-btn_qtaskvip=Andere Orte
+dntpck_130_name=Gründerpaket
+dntpck_130_info=Enthält das "Club Gründerpaket Abzeichen", mit dem Sie Ihren eigenen Angelclub gründen können
+dntpck_130_act=+ 15 Tage VIP als Geschenk
+
 
 club_userout={0} hat das Spiel verlassen
 club_userin={0} hat das Spiel betreten
@@ -25,6 +28,7 @@ club_err2=Der Clubname ist falsch
 club_err3=Club-Kürzel ist falsch
 club_err4=Name oder Label existieren bereits
 
+btn_qtaskvip=Andere Orte
 dntpck_2_name=Paket "SeaCast"
 dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
 
@@ -756,7 +760,7 @@ shop_t15=Zubereitung
 shop_t16=Sonstiges
 shop_t17=Anleitungen
 shop_t20=Reisen
-shop_t18=VIP Karten
+shop_t18=Spezielles
 
 shop_t22=Fliegenfischen
 shop_t23=Fliegen

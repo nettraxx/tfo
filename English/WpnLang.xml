@@ -1614,7 +1614,7 @@ To activate press right mouse button on the item and select "Use".</info>
       <info> It's weird that some fish find this bait attractive.</info>
     </weapon>
     <weapon id="1252">
-      <name>Base larva
+      <name>
       </name>
       <info>
       </info>
@@ -2488,7 +2488,7 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1414">
-      <name>Artel creator badge</name>
+      <name>Club founder badge</name>
       <info>
       </info>
     </weapon>
