@@ -12,8 +12,7 @@ Diese Mechanik steht erst am Anfang ihres Weges und hat noch wenig Funktionalit�
 Ein gemeinsames Chat-Kürzel (Label) für alle Clubmitglieder, ein eigener Club-Chat, Online-Tracking von Clubmitgliedern und ein System von "Offizieren" mit unterschiedlichen Rechten. 
 Derzeit kann der Club nur 10 Personen aufnehmen.
 In Planung sind Clubaufgaben, die von allen Clubmitgliedern ausgeführt werden und dafür Cluberfahrung erhalten. 
-Club-Levels, bei denen Sie Club-Skill-Punkte erhalten und diese entweder verwenden können, 
-um die Anzahl der Club-Mitglieder zu erhöhen oder um die Anzahl der Offiziere oder andere Club-Skills zu erhöhen.
+Club-Levels, bei denen Sie Club-Skill-Punkte erhalten und diese entweder verwenden können, um die Anzahl der Club-Mitglieder zu erhöhen oder um die Anzahl der Offiziere oder andere Club-Skills zu erhöhen.
 In Zukunft ist die Sichtbarkeit von Clubmitgliedern an Standorten, Clubturnieren und sogar in einem Clubhaus und Schiff geplant.
 
 Patch 1.26.5b
