@@ -1,10 +1,10 @@
 Patch 1.27.0
 Großes Update mit 2 Neuerungen
 Erste:
-Posen- Schwimmermechanik überarbeitet
-Jede Fischart hat ihren erkennabren Biss
-Stippruten sind für den schnellen Fang von Köderfischen geeignet
-Posen- Bologneseruten sind zum Angeln mittlerer Fische geeignet
+Posen- Schwimmermechanik überarbeitet.
+Jede Fischart hat ihren erkennbaren Biss.
+Stippruten sind für den schnellen Fang von Köderfischen geeignet.
+Posen- Bologneseruten sind zum Angeln mittlerer Fische geeignet.
 Matchruten sind zum weiten werfen mit Waggler für Karpfen geeignet.
 Zweite:
 Es wurde die Möglichkeit hinzugefügt, einen eigenen Angelclub zu gründen. 
