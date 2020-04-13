@@ -14,6 +14,15 @@ Derzeit kann der Club nur 10 Personen aufnehmen.
 In Planung sind Clubaufgaben, die von allen Clubmitgliedern ausgeführt werden und dafür Cluberfahrung erhalten. 
 Club-Levels, bei denen Sie Club-Skill-Punkte erhalten und diese entweder verwenden können, um die Anzahl der Club-Mitglieder zu erhöhen oder um die Anzahl der Offiziere oder andere Club-Skills zu erhöhen.
 In Zukunft ist die Sichtbarkeit von Clubmitgliedern an Standorten, Clubturnieren und sogar in einem Clubhaus und Schiff geplant.
+Tägliche Quest zum Kaspischen Meer hinzugefügt
+Die Preise für tägliche Quests in Frankreich und Finnland haben sich geändert
+Die Haltbarkeit der Vorfächer wurde erhöht
+Halter auf dem finnischen Langboot werden unten gedreht
+Karausche und Plötze geben mehr Erfahrung beim Angeln
+Fehlerbehebung beim Bootsaustieg
+Fehlerbehebung mit Unfähigkeit, Chat-Nachrichten zu senden
+Fehlerbehebung mit Angelruten, die in ein Boot fliegen
+Korrektur anderer Fehler und geringfügiger Änderungen an der Benutzeroberfläche und der Balance
 
 Patch 1.26.5b
 Fischnamen korrigiert:
