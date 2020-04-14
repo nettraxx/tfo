@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+club_levup=Club level up to {0}
+club_expadd=Club +{0} exp
+qd_clname=Club
+
 dntpck_130_name=Package "Founder"
 dntpck_130_info=Contains the "Club founder badge", using which you can establish your own fishing club
 dntpck_130_act=+ 15 days VIP card as a gift

@@ -4405,6 +4405,21 @@ Dorade Royal, Tiberbarbe, Tintenfisch
       <name>Vorfach 7.9 kg</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="1771">
+      <name>Kleines Clubangebot</name>
+      <info>Beschaffung für Ihren Club, um Ihnen bei der Aufrüstung Ihres Clubs zu helfen
++3 Cluberfahrung</info>
+    </weapon>
+    <weapon id="1772">
+      <name>Mittleres Clubangebot</name>
+      <info>Beschaffung für Ihren Club, um Ihnen bei der Aufrüstung Ihres Clubs zu helfen
++10 Cluberfahrung</info>
+    </weapon>
+    <weapon id="1773">
+      <name>Großes Clubangebot</name>
+      <info>Beschaffung für Ihren Club, um Ihnen bei der Aufrüstung Ihres Clubs zu helfen
++100 Cluberfahrung</info>
     </weapon>	
   </weapons>
 </wpnlang>

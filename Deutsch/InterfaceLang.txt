@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+club_levup=Club auf Stufe {0} aktualisiert
+club_expadd=Club hat {0} Erfahrung gesammelt
+qd_clname=Club
+
 dntpck_130_name=Gründerpaket
 dntpck_130_info=Enthält das "Club Gründerpaket Abzeichen", mit dem Sie Ihren eigenen Angelclub gründen können
 dntpck_130_act=+ 15 Tage VIP als Geschenk

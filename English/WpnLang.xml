@@ -4239,5 +4239,27 @@ Only LP reels of 2000 size or below</info>
       <info>Finished bait balls with small krill crustaceans. Good for catching sea fish, shrimp, squid.</info>
     </weapon>	
 	
+    <weapon id="1770">
+      <name>Leader 7.9 kg</name>
+      <info>
+      </info>
+    </weapon>	
+	
+    <weapon id="1771">
+      <name>Club small supply</name>
+      <info>Supplies for your club
++3 club exp</info>
+    </weapon>
+    <weapon id="1772">
+      <name>Club medium supply</name>
+      <info>Supplies for your club
++10 club exp</info>
+    </weapon>
+    <weapon id="1773">
+      <name>Club big supply</name>
+      <info>Supplies for your club
++100 club exp</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>
