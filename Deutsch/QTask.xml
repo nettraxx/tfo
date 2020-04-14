@@ -88,7 +88,7 @@
 			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
 		</cat>
 	
-		<cat id="1010" glava="2000" name="Club & Köder-Aufgabe">
+		<cat id="1010" glava="2000" name="Club bzw Köder-Aufgabe">
 			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
 			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
 			<task id="4" txt="[fish] trophy: [curcnt] / [maxcnt] Stk"/>	
