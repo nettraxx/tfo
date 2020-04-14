@@ -3,6 +3,8 @@ Smartphone: Anzeige der aktuellen Wetterbedingungen hinzugefügt
 Das Wetter ändert sich öfter
 Fortsetzung der Arbeit an Clubinhalten
 Fehlerkorrektur
+"Clubversorgung" Aufgaben hinzugefügt, die dem Club Erfahrung geben
+die Möglichkeit, die Nachricht des Tages auf der Club Übersicht festzulegen
 
 Patch 1.27.0
 Großes Update mit 2 Neuerungen
