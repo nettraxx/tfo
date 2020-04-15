@@ -162,7 +162,8 @@ inf_limit=Server ist voll
 
 rd_inf=EARLY ACCESS
 info_help1=F1 für Hilfe
-help_info_keys=[1-2-3] Angelslot wählen\n[Backspace] Rute einstecken\n[Y] Rute abstellen\n[Q] Smartphone\n[M] Karte\n[O] Lockstoff werfen\n[B] Köder wechseln\n[V] Rute konfigurieren\n[P] Licht\n[I] Inventar\n[C] Kescher\n[X]Schnurclip\n[ALT] Mauszeiger an/aus
+help_info_keys=[+/-] Posentiefe ändern   [R] aktuelle Posentiefe\n[1-2-3] Angelslot wählen   [V] Rute konfigurieren\n[B] Köder wechseln   [X] Schnurclip   [M] Karte\n[Y] Rute abstellen   [Backspace] Rute einstecken\n[O] Lockstoff werfen   [E] Benutzen / Interaktion\n[T] Wiederauswurf / Drill abbrechen\n[Z] Zoom   [C] Kescher   [G] Club Menü   [I] Inventar\n[P] Taschenlampe   [Q] Smartphone\n[ENTER] Chatten   [SHIFT] Rennen / Schnell einholen\n[W,A,S,D] Bewegen   [ALT] Mauszeiger an/aus\n[ESC] Einstellungen / Menü schliessen\n[J] Bootsmotor an/aus   [K] Anker werfen/heben\n[U] im Boot aufstehen
+
 
 act_infact=Drücke Е
 act_inf1=Reisen
