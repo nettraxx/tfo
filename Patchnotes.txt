@@ -1,6 +1,13 @@
 Patch 1.27.2
 Tastenbelegung in der Online-Hilfe (F1) ergänzt.
 "Fängig für" ergänzt.
+Clubs: Die Anzahl der Clubmitglieder wurde erhöht, und das Clublevel wurde erhöht
+Clubs: Clubfähigkeiten bis Level 10 hinzugefügt
+Schnittstelle: Die Tasten F2, F3, F4 wechseln die Chat-Kanäle. Info-Lokal-Club
+Rebalance: Kleine und mittelgroße Wels gehen morgens und abends ins flache Wasser (1-2 Meter), große Wels bleiben an ihren ursprünglichen Orten
+Ausgleich: Schleie wird näher an die Küste gebracht, der Bedarf an Vegetation wird gestärkt.
+Korrekturen: Schwimmerbisse glatter gemacht
+Andere Fehlerbehebungen
 
 Patch 1.27.1
 Smartphone: Anzeige der aktuellen Wetterbedingungen hinzugefügt
