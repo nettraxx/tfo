@@ -1,4 +1,4 @@
-Patch 1.27.1a
+Patch 1.27.2
 Tastenbelegung in der Online-Hilfe (F1) ergänzt.
 "Fängig für" ergänzt.
 
