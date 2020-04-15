@@ -1,3 +1,6 @@
+Patch 1.27.1a
+Tastenbelegung in der Online-Hilfe (F1) ergänzt
+
 Patch 1.27.1
 Smartphone: Anzeige der aktuellen Wetterbedingungen hinzugefügt
 Das Wetter ändert sich öfter
