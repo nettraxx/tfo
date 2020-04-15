@@ -1,5 +1,6 @@
 Patch 1.27.1a
-Tastenbelegung in der Online-Hilfe (F1) ergänzt
+Tastenbelegung in der Online-Hilfe (F1) ergänzt.
+"Fängig für" ergänzt.
 
 Patch 1.27.1
 Smartphone: Anzeige der aktuellen Wetterbedingungen hinzugefügt
