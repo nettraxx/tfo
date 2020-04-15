@@ -1,48 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <perks>
-    
-    <perk id="100" name="Tackles-А" info="on {x}% efficiency increase of tackles А" />
-    <perk id="101" name="Rod-А" info="on {x}% efficiency increase"/>
-    <perk id="102" name="Line-А" info="on {x}% efficiency increase"/>
-    <perk id="103" name="Reel-А" info="on {x}% efficiency increase"/>
-    
-    <perk id="110" name="Athletics" info="+ {x} to food, life and stamina"/>
-    <perk id="111" name="Walker" info="on {x}% walking speed increase"/>
-    <perk id="112" name="Sprinter" info="on {x}% running speed increase"/>
-    <perk id="113" name="Training" info="on {x}% lowers stamina consumption while running"/>
-            
-    <perk id="120" name="Tackles-B" info="on {x}% efficiency increase of tackles B"/>
-    <perk id="121" name="Rod-B" info="on {x}% efficiency increase"/>
-    <perk id="122" name="Line-B" info="on {x}% efficiency increase"/>
-    <perk id="123" name="Reel-B" info="on {x}% efficiency increase"/>        
-    
-    <perk id="130" name="Craft" info="on {x}% crit-success chance increase while creating items"/>
-    <perk id="131" name="Craftsman eye" info="on {x}% loot catching chance increase"/>
-    <perk id="132" name="Craft experience" info="on {x}% lowers works points expense while crafting"/>
-    <perk id="133" name="Refactor" info="on {x}% success chance increase while refactoring"/>
-
-	<perk id="140" name="Stalker" info="+ {x} to radresistance and water"/>
-	<perk id="145" name="Mushroomer" info="Allows gathering mushrooms"/>
-	<perk id="150" name="Mechanik" info="+{x}% to parameters of A-class crafted items"/>
-	<perk id="180" name="Contribution 'Float'" info="+ to the 'Floaters Union' reputation for the fish caught with float tackles"/>
-	<perk id="190" name="Contribution 'Spinning'" info="+ to the 'Spinners Union' reputation for the fish caught with spinning tackles"/>
-	<perk id="192" name="Contribution 'Bottom fishing'" info="+ to the 'Bottom fishing Union' reputation for the fish caught with bottom tackles"/>	
-	<perk id="195" name="Match" info="Allows you to use match gear, and also gives a bonus to the range and accuracy of casting these gears"/>
 	
-	<perk id="403" name="Casting distance" info="Increases casting distance" />    
-	<perk id="405" name="Casting accuracy" info="Increases casting accuracy" /> 
-	<perk id="410" name="Jigs" info="+{x} to catching fish when using jig lures"/>
-	<perk id="415" name="Wobblers" info="+{x} to catching fish when using wobblers"/>
-	<perk id="425" name="Lures" info="+{x} to catching fish when using lures (swinging and rotating)"/>    	
+	<aperk id="100" name="Officers" info="by 1 increases the count of officers" />
+	<aperk id="101" name="Main group" info="by 2 increases the count of club members"/>
 	
-	<perk id="500" name="Parameters" info="on {x} increases all parameters" />
-	<perk id="510" name="Strength" info="on {x} increases strength" />
-	<perk id="520" name="Accuracy" info="on {x} increases accuracy" />
-	<perk id="530" name="Education" info="on {x} increases education" />
-	<perk id="540" name="Luck" info="on {x} increases luck" />
+	<aperk id="102" name="An experience" info="by 1% increases the experience gained from fishing for all members of the club"/>
+	<aperk id="103" name="Income" info="by 1% increases the income from the sale of fish to all club members"/>
 	
-	<perk id="550" name="Field fish recycling" info="+{x} to the chance of getting additional resources"/>
-
+	<aperk id="104" name="Efficiency" info="by 3% increases the club’s experience from all sources"/>
+	<aperk id="105" name="College" info="by 2 increases the count of club members"/>
+	
 	
 	
 </perks>    
