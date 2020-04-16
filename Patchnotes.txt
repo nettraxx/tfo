@@ -1,3 +1,9 @@
+Patch 1.27.4
+Boot zur Ukraine hinzugefügt
+Für große Boote wurde an Deck eine Verkehrssteuerung hinzugefügt
+Änderung der Quest-Akzeptanzoberfläche
+Ändern der Geodaten und des Erscheinungsbilds des Standorts Ukraine
+
 Patch 1.27.2
 Tastenbelegung in der Online-Hilfe (F1) ergänzt.
 "Fängig für" ergänzt.
