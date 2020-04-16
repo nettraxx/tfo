@@ -1,5 +1,17 @@
 ﻿[INTERFACE]
 
+
+in_dev=In dev
+act_inf4=FREEZE FISH
+gi_um_gqw=Accepted tasks
+boat_inf6=[U] GO TO THE DECK
+boat_inf7=[R] Sell the fish
+boat_inf8=On/Off engine [J]\nUp/Down anchor [K]
+
+-------------------
+
+
+
 club_levup=Club level up to {0}
 club_expadd=Club +{0} exp
 qd_clname=Club

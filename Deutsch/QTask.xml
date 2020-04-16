@@ -6,7 +6,8 @@
 		<turn id="3" name="Seefischerei" info="--"/>   
 		<turn id="4" name="" info="--"/>   
 		<turn id="5" name="Frankreich" info="--"/>   
-		<turn id="6" name="Finnland" info="--"/> 	
+		<turn id="6" name="Finnland" info="--"/>
+		<turn id="6" name="Fliegenblitz" info="--"/>
 	</tnames>
 
 	<qdynamic>
