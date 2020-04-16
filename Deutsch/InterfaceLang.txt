@@ -1,5 +1,14 @@
 ﻿[INTERFACE]
 
+in_dev=In Entwicklung
+act_inf4=FISCH EINFRIEREN
+gi_um_gqw=Angenommene Aufgaben
+boat_inf6=[U] AUF'S DECK GEHEN
+boat_inf7=[R] Fisch verkaufen
+boat_inf8=Motor an/aus [J]\nAnker rauf/runter [K]
+
+-------------------
+
 club_levup=Club auf Stufe {0} aktualisiert
 club_expadd=Club hat {0} Erfahrung gesammelt
 qd_clname=Club
