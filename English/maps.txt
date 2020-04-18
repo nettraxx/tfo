@@ -1,5 +1,5 @@
 ﻿[MAP_NAMES]
-1_Name=Germany: Briesenersee 
+1_Name=Germany: Wasserdamm
 1_Info=
 
 2_Name=Russia: r. Pra

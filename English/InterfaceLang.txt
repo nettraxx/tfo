@@ -1,5 +1,8 @@
 ﻿[INTERFACE]
 
+club_err5=To edit you need the founder token
+club_editname=Edit club name
+-------------------
 
 in_dev=In dev
 act_inf4=FREEZE FISH

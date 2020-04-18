@@ -1,4 +1,7 @@
 ﻿[INTERFACE]
+club_err5=Club Gründerpaket Abzeichen, das für die Bearbeitung benötigt wird
+club_editname=Bearbeiten
+-------------------
 
 in_dev=In Entwicklung
 act_inf4=FISCH EINFRIEREN

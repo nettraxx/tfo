@@ -1,3 +1,12 @@
+Patch 1.28.0
+Möglichkeit für den Clubersteller, den Namen und das Label/Kürzel des Clubs zu ändern, dafür nenötigt man ein Gründerabzeichen.
+Das Öffnen der Karte blockiert nicht die Bewegung des Charakters auf dem Boot
+Alle Offiziere können Spieler in den Verein einladen
+Brasse - eine Änderung der Vorlieben, jetzt pickt sie viel seltener auf Boilies
+Schwarzbarsch - jetzt wird er mit Oberflächenködern, Poppern und Fröschen gefangen
+Korrektur anderer Fehler und Ungenauigkeiten
+Einige Systemnachrichten ins deutsche übersetzt
+
 Patch 1.27.4
 Boot zur Ukraine hinzugefügt
 Für große Boote wurde an Deck eine Verkehrssteuerung hinzugefügt

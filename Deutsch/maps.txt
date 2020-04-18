@@ -1,5 +1,5 @@
 ﻿[MAP_NAMES]
-1_Name=Deutschland: Briesener See 
+1_Name=Deutschland: Wasserdamm 
 1_Info=
 
 2_Name=Russland: Fluss Pra
