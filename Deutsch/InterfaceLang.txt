@@ -673,61 +673,61 @@ cht_msg9=<color='#ffa020'>Spieler {0} hat den neuen {1}</color>
 
 cht_msg10=Der Gegenstand `{0}` ist abgenutzt
 cht_msg11=Auseinandernehmen abgeschlossen
-cht_msg12=<color='#80ff00'>Learned a recipe for {0} </color>
-cht_msg13=You’ve got a new mail
+cht_msg12=<color='#80ff00'>Rezept erlernt für {0} </color>
+cht_msg13=Sie haben Post
 
-cht_msg14=There’s no such an item
-cht_msg15=Not enough WP for processing
-cht_msg16=This item cannot be recycled
+cht_msg14=Es gibt keinen solchen Artikel
+cht_msg15=Zu wenig WP für die Verarbeitung
+cht_msg16=Dieser Artikel kann nicht recycelt werden
 
-cht_msg17=New faction is opened '{0}'
-cht_msg18=New reputation level '{0}': {1}
-cht_msg19=Reputation increase: '{0}' on {1}
-cht_msg20=The item had been sent to auction
-cht_msg21=Not enough funds for the auction fee
-cht_msg22=You don’t have such an item
+cht_msg17=Neue Fraktion ist eröffnet '{0}'
+cht_msg18=Neues Reputationslevel '{0}': {1}
+cht_msg19=Reputationssteigerung: '{0}' on {1}
+cht_msg20=Der Artikel wurde zur Auktion freigegeben
+cht_msg21=Nicht genug Geld für die Auktionsgebühr
+cht_msg22=Sie haben keinen solchen Artikel
 cht_msg23=<color='#6080ff'> für Aufgabe angenommen</color>
 
-cht_msg24=The task is absent
-cht_msg25=Higher reputation level is needed
-cht_msg26=You cannot take this task
-cht_msg27=You’ve already taken the task of this type
-cht_msg28=You cannot take task more often than once per 40 minutes
-cht_msg29={0} broke a rod '{1}'
-cht_msg30={0} torn a line '{1}'
-cht_msg31=Not enough funds!
-cht_msg32=Not enough inventory space!
+cht_msg24=Diese Aufgabe ist nicht verfügbar
+cht_msg25=Ein höheres Reputationslevel wird benötigt
+cht_msg26=Sie können diese Aufgabe nicht annehmen
+cht_msg27=Sie haben bereits eine Aufgabe dieses Typs angenommen
+cht_msg28=Sie können die Aufgabe nicht öfter als einmal pro 40 Minuten annehmen
+cht_msg29={0} die Rute zerbrochen '{1}'
+cht_msg30={0} die Schnur zerrissen '{1}'
+cht_msg31=Nicht genügend Geld!
+cht_msg32=Kein ausreichender Platz im Inventar!
 cht_msg34=Gekauft: {0} {1} {2}x{3} Stk.
 
-cht_msg35=The skill has not been learned!
-cht_msg36=The skill had reached max level
-cht_msg37=Low level of the root skill
-cht_msg38=Learned the skill '{0}' {1} level
-cht_msg39=Received the skill '{0}'
-cht_msg40=The recipe had been recorded
+cht_msg35=Die Fertigkeit wurde nicht erlernt!
+cht_msg36=Die Fertigkeit hat das maximale Level erreicht.
+cht_msg37=Niedriges Niveau der Grundfertigkeit
+cht_msg38=Fertigkeiterlernt '{0}' {1} level
+cht_msg39=Fertigkeit erhalten '{0}'
+cht_msg40=Das Rezept wurde gespeichert.
 
 
-chan_head=Channels
-chan_nam=Channel
+chan_head=Kanäle
+chan_nam=Kanal
 
-gameban=The account is blocked!\nTill: {0} (server time)\nPurpose: {1}
-gameexist=The player with the same data is already in the game!
+gameban=Der Account wurde gesperrt!\nBis: {0} (Server Zeit)\nWegen: {1}
+gameexist=Ein Spieler mit den gleichen Namen ist bereits im Spiel!
 
 wpn_drop=<color='#ff8000'>Item </color>{0}<color='#ff8000'> verloren!</color>
 myrec=<color='#a040ff'>Persönlicher Rekordfang: {0} (Erfahrung x3)</color>
-settitul=New title has been set:
-newtitul=Received a new title:
+settitul=Neuen Titel vergeben:
+newtitul=Einen neuen Titel erhalten:
 
-chnam1=Name check
-chnam2=Character’s name is allowed to use
-chnam3=Name check error
-chnam4=Such character’s name is already used,\n or does not correspond to rules!\nAllowed Russian or English letters and numbers, name should be \nno less than 3 symbols and no more than 16
+chnam1=Namensprüfung
+chnam2=Der Name des Charakters kann verwendet werden
+chnam3=Namensprüfungsfehler
+chnam4=Dieser Charaktername wird bereits verwendet,\n oder widerspricht den Regeln!\nZulässige sind russische oder englische Buchstaben und Zahlen, der Name sollte nicht kürzer \nals 3 Zeichen sein und nicht länger als 16 Zeichen
 
-cht_ach1=A deed is opened
-cht_ach2=Look for details in the information section about deeds
-cht_ach3=The deed is finished:
+cht_ach1=Eine Urkunde wird eröffnet
+cht_ach2=Weitere Informationen finden Sie im Abschnitt Informationen zu Urkunden
+cht_ach3=Die Urkunde wurde geschlossen:
 
-cht_exp1=+ <color='#ff80ff'>{0}</color> experience
+cht_exp1=+ <color='#ff80ff'>{0}</color> Erfahrung
 
 #------------------------------------
 #Added 06.04.2017
