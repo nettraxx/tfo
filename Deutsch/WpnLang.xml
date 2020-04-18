@@ -1604,7 +1604,7 @@ Right-click to open the box and select "Use"</info>
     <weapon id="1239">
       <name>Blutegel</name>
       <info>Fängig für:
-Barbe, Brachse, Europäischer Wels, Giebel, Karausche, Quappe, Zander
+Barbe, Brachse, Europäischer Wels, Frosch, Giebel, Karausche, Quappe, Zander
 	  </info>
     </weapon>
     <weapon id="1240">
@@ -1655,7 +1655,7 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
     <weapon id="1249">
       <name>Krebsschwanz</name>
       <info>Fängig für:
-Aal, Baltischer Lachs, Brachse, Europäischer Stör, Europäischer Wels, Forellenbarsch, Glatt-Stör, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Lachs, Lederkarpfen, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Seesaibling, Sterlet
+Aal, Baltischer Lachs, Brachse, Europäischer Stör, Europäischer Wels, Forellenbarsch, Glatt-Stör, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Lachs, Lederkarpfen, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Schwarzbarsch, Seesaibling, Sterlet
 	  </info> 
     </weapon>
     <weapon id="1250">
@@ -2553,7 +2553,7 @@ Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch,
     <weapon id="1412">
       <name>Frosch</name>
       <info>Fängig für:
-Europäischer Wels, Flussbarsch, Grashecht, Hecht, Meerzander, Quappe, Zander
+Europäischer Wels, Flussbarsch, getüpfelter Gabelwels, Grashecht, Hecht, Meerzander, Quappe, Zander
 	  </info>
     </weapon>
     <weapon id="1413">
@@ -3806,7 +3806,7 @@ Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Hasel, Laube, Maire
     <weapon id="1647">
       <name>Seeringelwurm</name>
       <info>Fängig für:
-Dicklippige Meeräsche, Europäischer Wolfsbarsch, Goldbrasse, Großkopfmeeräsche, Meeräsche, Weißbauchflunder
+Dicklippige Meeräsche, Europäischer Wolfsbarsch, Goldbrasse, Großkopfmeeräsche, Meeräsche, Rotbrasse, Weißbauchflunder
       </info>
     </weapon>
     <weapon id="1648">
@@ -4370,13 +4370,13 @@ Güster, Maräne, Regenbogenforelle, Schrimp
     <weapon id="1763">
       <name>Köcherfliegenlarve</name>
       <info>Fängig für:
-Aland, Rotauge, Rotfeder, Saibling, Seesaibling
+Aland, Güster, Rotauge, Rotfeder, Saibling, Seesaibling
 		</info>
     </weapon>
     <weapon id="1764">
       <name>Weizenkorn</name>
       <info>Fängig für:
-Aland, Rotauge
+Aland, Rotauge, Taran
       </info>
     </weapon>
     <weapon id="1765">
