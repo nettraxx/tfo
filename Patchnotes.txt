@@ -6,6 +6,13 @@ Brasse - eine Änderung der Vorlieben, jetzt pickt sie viel seltener auf Boilies
 Schwarzbarsch - jetzt wird er mit Oberflächenködern, Poppern und Fröschen gefangen
 Korrektur anderer Fehler und Ungenauigkeiten
 Einige Systemnachrichten ins deutsche übersetzt
+------------------------------------------------
+Die deutsche Basis wurde zu Beginn des Spiels gegründet und hat sich seitdem praktisch nicht verändert. 
+Allmählich verlor sie an Popularität unter den Spielern. Daher ist es an der Zeit, diesen See zu überdenken und ihn an die aktuellen Spielrealitäten anzupassen.
+Der erneuerte deutsche Stausee ist ein vorgefertigtes Bild der Brandeburger Stauseen und scheint ein fiktiver Wasserdammsee zu sein. 
+Es wird von Karpfen, Forellen, Brassen, Karausche, Graskarpfen und anderen Arten bewohnt. Aber die Hauptrichtung ist das Karpfenfischen. 
+Jetzt leben hier sehr würdige Exemplare. einschließlich Trophäen. Im Moment ist dies der einzige Stausee, in dem Sie europäische Karpfen fangen können. 
+Auch der See bleibt ein beliebter Ort zum Garnelenfischen, um Köder herzustellen.
 
 Patch 1.27.4
 Boot zur Ukraine hinzugefügt
