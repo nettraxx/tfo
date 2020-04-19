@@ -1,3 +1,6 @@
+Patch 1.28.1
+Fehlerbehebungen
+
 Patch 1.28.0
 Möglichkeit für den Clubersteller, den Namen und das Label/Kürzel des Clubs zu ändern, dafür nenötigt man ein Gründerabzeichen.
 Das Öffnen der Karte blockiert nicht die Bewegung des Charakters auf dem Boot
