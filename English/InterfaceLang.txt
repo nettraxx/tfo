@@ -1,5 +1,26 @@
 ﻿[INTERFACE]
 
+turn_uslp1=Boat fishing: {0}
+turn_uslp2=One rod: {0}
+turn_uslp3=Rod types: {0}
+
+turn_uslrt_0=ANY
+turn_uslrt_90=STICK
+turn_uslrt_100=FLOATING
+turn_uslrt_101=WEIGHTED
+turn_uslrt_102=SPINNING
+turn_uslrt_103=FLY
+turn_uslrt_104=CASTING
+turn_uslrt_105=ULTRALITE
+
+
+turn_uslpyes=YES
+turn_uslpno=NO
+turn_uslp_allow=ALLOWED
+turn_uslp_deny=FORBIDDEN
+
+-------------------
+
 club_err5=To edit you need the founder token
 club_editname=Edit club name
 -------------------

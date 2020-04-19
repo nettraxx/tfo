@@ -1,4 +1,25 @@
 ﻿[INTERFACE]
+turn_uslp1=Fischen vom Boot aus: {0}
+turn_uslp2=Eine Angelrute: {0}
+turn_uslp3=Rutentyp: {0}
+
+turn_uslrt_0=IRGENDEIN
+turn_uslrt_90=STIPPE
+turn_uslrt_100=SCHWEBEN
+turn_uslrt_101=GEWICHTET
+turn_uslrt_102=SPINNFISCHEN
+turn_uslrt_103=FLIEGENFISCHEN
+turn_uslrt_104=CASTINGFISCHEN
+turn_uslrt_105=ULTRALIGHTFISCHEN
+
+
+turn_uslpyes=JA
+turn_uslpno=NEIN
+turn_uslp_allow=ERLAUBT
+turn_uslp_deny=VERBOTEN
+
+-------------------
+
 club_err5=Club Gründerpaket Abzeichen, das für die Bearbeitung benötigt wird
 club_editname=Bearbeiten
 -------------------

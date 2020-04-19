@@ -1,4 +1,25 @@
 [INTERFACE]
+
+turn_uslp1=Ловля с лодки: {0}
+turn_uslp2=Одна удочка: {0}
+turn_uslp3=Тип снасти: {0}
+
+turn_uslrt_0=ЛЮБЫЕ
+turn_uslrt_90=МАХОВАЯ
+turn_uslrt_100=ПОПЛАВОЧНАЯ
+turn_uslrt_101=ДОННАЯ
+turn_uslrt_102=СПИННИНГ
+turn_uslrt_103=НАХЛЫСТ
+turn_uslrt_104=КАСТИНГ
+turn_uslrt_105=УЛЬТРАЛАЙТ
+
+
+turn_uslpyes=ДА
+turn_uslpno=НЕТ
+turn_uslp_allow=РАЗРЕШЕНО
+turn_uslp_deny=ЗАПРЕЩЕНО
+
+-------------------
 club_err5=Для редактирования нужен жетон основателя
 club_editname=Редактировать
 -------------------
