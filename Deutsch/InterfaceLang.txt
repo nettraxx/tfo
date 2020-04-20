@@ -3,14 +3,14 @@ turn_uslp1=Fischen vom Boot aus: {0}
 turn_uslp2=Eine Angelrute: {0}
 turn_uslp3=Rutentyp: {0}
 
-turn_uslrt_0=IRGENDEIN
-turn_uslrt_90=STIPPE
+turn_uslrt_0=IRGENDEINE
+turn_uslrt_90=STIPPRUTE
 turn_uslrt_100=SCHWEBEN
 turn_uslrt_101=GEWICHTET
-turn_uslrt_102=SPINNFISCHEN
-turn_uslrt_103=FLIEGENFISCHEN
-turn_uslrt_104=CASTINGFISCHEN
-turn_uslrt_105=ULTRALIGHTFISCHEN
+turn_uslrt_102=SPINNRUTE
+turn_uslrt_103=FLIEGENRUTE
+turn_uslrt_104=CASTINGRUTE
+turn_uslrt_105=ULTRALIGHTRUTE
 
 
 turn_uslpyes=JA
