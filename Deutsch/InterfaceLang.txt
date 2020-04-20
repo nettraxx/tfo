@@ -11,14 +11,14 @@ turn_uslp1=Fischen vom Boot aus: {0}
 turn_uslp2=Eine Angelrute: {0}
 turn_uslp3=Rutentyp: {0}
 
-turn_uslrt_0=IRGENDEIN
-turn_uslrt_90=STIPPE
+turn_uslrt_0=IRGENDEINE
+turn_uslrt_90=STIPPRUTE
 turn_uslrt_100=SCHWEBEN
 turn_uslrt_101=GEWICHTET
-turn_uslrt_102=SPINNFISCHEN
-turn_uslrt_103=FLIEGENFISCHEN
-turn_uslrt_104=CASTINGFISCHEN
-turn_uslrt_105=ULTRALIGHTFISCHEN
+turn_uslrt_102=SPINNRUTE
+turn_uslrt_103=FLIEGENRUTE
+turn_uslrt_104=CASTINGRUTE
+turn_uslrt_105=ULTRALIGHTRUTE
 
 turn_uslpyes=JA
 turn_uslpno=NEIN
@@ -75,11 +75,11 @@ club_err4=Name oder Label existieren bereits
 
 btn_qtaskvip=Andere Orte
 dntpck_2_name=Paket "SeaCast"
-dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber.
+dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber. Ungeöffnet kann es an einen Freund weitergegeben werden.
 
 dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
 dntpck_1_name=Paket "BeeCast"
-dntpck_1_info=Das Kit enthält eine leichte Castingrute (5 kg, +75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern.
+dntpck_1_info=Das Kit enthält eine leichte Castingrute (5 kg, +75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern. Ungeöffnet kann es an einen Freund weitergegeben werden.
 
 
 wptype_offset=Offset Haken
@@ -217,7 +217,7 @@ sh_pay_vpadd={0} Tage VIP wurden hinzufügt
 sh_pay_overlay=Steam Overlay aktivieren (Shift+Tab)!
 
 sh_pay_vppers=PERSONAL VIP (für mich)
-sh_pay_vpcard=VIP CARDS (zum verkaufen)
+sh_pay_vpcard=VIP CARDS (zum verschenken)
 
 sh_pay_day_1=1 Tag
 sh_pay_day_3=3 Tage
