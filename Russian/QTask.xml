@@ -5,8 +5,8 @@
     <turn id="1" name="Прудовой зачёт"   info="--"/>   
     <turn id="2" name="Форельный"  info="--"/>   
 	<turn id="3" name="Морской" info="--"/>   
-	<turn id="4" name="" info="--"/>   
-    <turn id="5" name="Французский" info="--"/>   
+	<turn id="4" name="Французский" info="--"/>   
+    <turn id="5" name="Финский" info="--"/>   
     <turn id="6" name="Финский" info="--"/>   
 	<turn id="7" name="Маховый блиц" info="--"/>  
   </tnames>

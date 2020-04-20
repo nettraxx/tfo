@@ -1,5 +1,17 @@
 ﻿[INTERFACE]
 
+findplayer=SEARCH A PLAYER
+turn_publicname=PUBLIC TOURNAMENTS
+turn_customname=PRIVATE TOURNAMENTS
+post_msg8={0} gift you {1} х{2}
+cntx_gift=Give to ...
+chtset_alfa=Chat transparency
+chtset_fsize=Font size
+chtset_chide=Hide chat
+-------------------
+
+
+
 turn_uslp1=Boat fishing: {0}
 turn_uslp2=One rod: {0}
 turn_uslp3=Rod types: {0}
