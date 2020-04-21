@@ -2352,7 +2352,7 @@ Aland, Brachse, Europäischer Wels, Marmorkarpfen, Silberkarpfen, Wildkarpfen
     <weapon id="1377">
       <name>Kartoffelwürfel</name>
       <info>Fängig für:
-Lederkarpfen, Schuppenkarpfen
+Lederkarpfen, Schuppenkarpfen, Spiegelkarpfen
 	  </info>
     </weapon>
     <weapon id="1378">
@@ -2553,7 +2553,7 @@ Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch,
     <weapon id="1412">
       <name>Frosch</name>
       <info>Fängig für:
-Europäischer Wels, Flussbarsch, getüpfelter Gabelwels, Grashecht, Hecht, Meerzander, Quappe, Zander
+Europäischer Wels, Flussbarsch, getüpfelter Gabelwels, Grashecht, Hecht, Meerzander, Quappe, Regenbogenforelle, Zander
 	  </info>
     </weapon>
     <weapon id="1413">
@@ -3927,19 +3927,19 @@ Rollengröße: 1000-2500.</info>
 	<weapon id="1671">
 	  <name>VIB UL Cyclope M1</name>
 	  <info>Fängig für:
-Bachforelle, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch
+Aland, Bachforelle, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch
 	  </info>
 	</weapon>
 	<weapon id="1672">
 	  <name>VIB UL Cyclope M2</name>
 	  <info>Fängig für:
-Bachforelle, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch
+Aland, Bachforelle, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch
 	  </info>
 	</weapon>
 	<weapon id="1673">
 	  <name>VIB UL Cyclope M3</name>
 	  <info>Fängig für:
-Bachforelle, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch
+Aland, Bachforelle, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch
 	  </info>
 	</weapon>
 	<weapon id="1674">
@@ -4364,13 +4364,13 @@ Nur für Rollen mit maximal 2000er Größe</info>
 	  <weapon id="1762">
       <name>Eintagsfliege</name>
       <info>Fängig für:
-Güster, Maräne, Regenbogenforelle, Schrimp
+Barbe, Güster, Maräne, Regenbogenforelle, Schrimp
 		</info>
     </weapon>
     <weapon id="1763">
       <name>Köcherfliegenlarve</name>
       <info>Fängig für:
-Aland, Güster, Rotauge, Rotfeder, Saibling, Seesaibling
+Aland, Giebel, Güster, Karausche, Rotauge, Rotfeder, Saibling, Seesaibling, Sterlet
 		</info>
     </weapon>
     <weapon id="1764">
