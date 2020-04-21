@@ -1,8 +1,9 @@
 Patch 1.28.2
 Es wurde die Möglichkeit hinzugefügt, einige Gegenstände als Geschenk zu übertragen:
 VIP-Karten und Boxen mit Ausrüstung aus Paketen (wenn sie nicht offen und nicht persönlich sind)
-Die Möglichkeit, VIP-Karten zu kaufen, um sie zu verschenken, ist offen
+Man kann jetzt VIP Karten kaufen
 Fehlerbehebungen
+Fängig für ergänzt
 
 Patch 1.28.1
 Fehlerbehebungen
