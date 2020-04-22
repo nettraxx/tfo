@@ -1,3 +1,17 @@
+Patch 1.28.3
+Fehler mit springendem Schwimmer bei der Angelrute behoben.
+Fehler mit defekter Re-Casting-Animation behoben
+Für Grundruten zusätzliche Anzeige von Futterkorb / Gewicht / Futter
+Für "Deepstream" Grundruten falsche Beugung der Rute behoben
+Die minimale Wurfweite von Posenruten auf die tatsächliche Länge der Angelrute erhöht.
+Wels: Änderung der Präferenzen, Reduzierung der Bisse an Jigködern, Vergrößerung der bevorzugten Jigköder.
+Zander: eine Änderung der Präferenzen, eine Zunahme der Bisse auf Jigköder, Vergrößerung der bevorzugten Jigköder.
+Andere Fehlerbehebungen für die Benutzeroberfläche und das Spiel
+
+Nach dem Neustart des Servers NEU:
+VibroTail Köder zum Laden hinzugefügt
+3 Meter lange Exceller Fliegenfischerrute im Laden hinzugefügt
+
 Patch 1.28.2
 Es wurde die Möglichkeit hinzugefügt, einige Gegenstände als Geschenk zu übertragen:
 VIP-Karten und Boxen mit Ausrüstung aus Paketen (wenn sie nicht offen und nicht persönlich sind)

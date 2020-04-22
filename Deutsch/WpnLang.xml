@@ -4421,5 +4421,51 @@ Barbe, Dorade Royal, Goldbrasse, Tiberbarbe, Tintenfisch
       <info>Beschaffung für Ihren Club, um Ihnen bei der Aufrüstung Ihres Clubs zu helfen
 +100 Cluberfahrung</info>
     </weapon>	
+	    <weapon id="1774">
+      <name>Exceller 3 m</name>
+      <info>Sondermodell zum Angeln vom Boot aus oder unter beengten Verhältnissen</info>
+    </weapon>
+    <weapon id="1775">
+      <name>VibroTail Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1776">
+      <name>VibroTail Shad M1 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1777">
+      <name>VibroTail Shad M2 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1778">
+      <name>VibroTail Shad M3 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1779">
+      <name>VibroTail Shad M4 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1780">
+      <name>VibroTail Shad M5 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1781">
+      <name>Flache Grundruten</name>
+      <info>Ideal zum Fangen großer Karpfen. Die besten Ergebnisse werden in Kombination mit Pop-up-Boilies erzielt.</info>
+    </weapon>
+    <weapon id="1782">
+      <name>Flat-40</name>
+      <info>Ideal zum Fangen großer Karpfen. Die besten Ergebnisse werden in Kombination mit Pop-up-Boilies erzielt.</info>
+    </weapon>
+    <weapon id="1783">
+      <name>Flat-50</name>
+      <info>Ideal zum Fangen großer Karpfen. Die besten Ergebnisse werden in Kombination mit Pop-up-Boilies erzielt.</info>
+    </weapon>	
   </weapons>
 </wpnlang>

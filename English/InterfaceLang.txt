@@ -12,8 +12,8 @@ chtset_chide=Hide chat
 
 
 
-turn_uslp1=Boat fishing: {0}
-turn_uslp2=One rod: {0}
+turn_uslp1=Boat FORBIDDEN
+turn_uslp2=One rod (first slot)
 turn_uslp3=Rod types: {0}
 
 turn_uslrt_0=ANY
@@ -224,7 +224,7 @@ sh_pay_vpadd=Add VIP {0} days
 sh_pay_overlay=Turn on the Steam Overlay!
 
 sh_pay_vppers=PERSONAL VIP (for myself)
-sh_pay_vpcard=VIP CARDS (for sale)
+sh_pay_vpcard=VIP CARDS (for gift)
 
 sh_pay_day_1=1 DAY
 sh_pay_day_3=3 DAYS

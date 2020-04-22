@@ -4261,5 +4261,55 @@ Only LP reels of 2000 size or below</info>
 +100 club exp</info>
     </weapon>	
 	
+    <weapon id="1774">
+      <name>Exceller 3 m</name>
+      <info>Special model for fishing from a boat or in cramped conditions</info>
+    </weapon>
+    <weapon id="1775">
+      <name>VibroTail Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1776">
+      <name>VibroTail Shad M1 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1777">
+      <name>VibroTail Shad M2 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1778">
+      <name>VibroTail Shad M3 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1779">
+      <name>VibroTail Shad M4 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1780">
+      <name>VibroTail Shad M5 120mm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1781">
+      <name>Flat feeders</name>
+      <info>Great for catching large carp. Best results are achieved in combination with pop-up boilies.</info>
+    </weapon>
+    <weapon id="1782">
+      <name>Flat-40</name>
+      <info>Great for catching large carp. Best results are achieved in combination with pop-up boilies.</info>
+    </weapon>
+    <weapon id="1783">
+      <name>Flat-50</name>
+      <info>Great for catching large carp. Best results are achieved in combination with pop-up boilies.</info>
+    </weapon>	
+	
+	
+
+	
   </weapons>
 </wpnlang>
