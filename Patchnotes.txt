@@ -1,3 +1,8 @@
+Patch 1.28.4
+Korrektur der Stippruten Fanganimationen
+Einstellung des Wurfabstands der Stippruten
+Andere kleinere Korrekturen
+
 Patch 1.28.3
 Fehler mit springendem Schwimmer bei der Angelrute behoben.
 Fehler mit defekter Re-Casting-Animation behoben
