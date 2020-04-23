@@ -1,3 +1,6 @@
+Patch 1.28.5
+Fehlerbehebungen
+
 Patch 1.28.4
 Korrektur der Stippruten Fanganimationen
 Einstellung des Wurfabstands der Stippruten
