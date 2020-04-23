@@ -1,5 +1,6 @@
 Patch 1.28.5
 Fehlerbehebungen
+Online Hilfe (F1) ergänzt. Mit CTRL + Maus ziehen kann man Stapel splitten.
 
 Patch 1.28.4
 Korrektur der Stippruten Fanganimationen
