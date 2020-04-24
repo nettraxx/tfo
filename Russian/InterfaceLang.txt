@@ -1,4 +1,9 @@
 [INTERFACE]
+
+fly_mtype0=Сухая муха
+fly_mtype1=Мокрая муха
+
+-------------------
 findplayer=ПОИСК ИГРОКА
 turn_publicname=ОБЩИЕ ТУРНИРЫ
 turn_customname=ПРИВАТНЫЕ ТУРНИРЫ

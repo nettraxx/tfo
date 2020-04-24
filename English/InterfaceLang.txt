@@ -1,5 +1,10 @@
 ﻿[INTERFACE]
 
+fly_mtype0=Dry fly
+fly_mtype1=Wet fly
+
+-------------------
+
 findplayer=SEARCH A PLAYER
 turn_publicname=PUBLIC TOURNAMENTS
 turn_customname=PRIVATE TOURNAMENTS

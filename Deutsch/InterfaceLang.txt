@@ -1,4 +1,9 @@
 ﻿[INTERFACE]
+fly_mtype0=Trockenfliege
+fly_mtype1=Nassfliege
+
+-------------------
+
 findplayer=SUCHE SPIELER
 turn_publicname=ALLGEMEINE TURNIERE
 turn_customname=PRIVATE TURNIERE

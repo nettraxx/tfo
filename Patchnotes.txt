@@ -1,3 +1,8 @@
+Patch 1.28.7
+Fehler mit dem Verhalten einer Fliege stromabwärts wurde behoben
+Die Angabe des Fliegentyps wurde hinzugefügt, Trocken- oder Nassfliege
+25% schnelleres Eintauchen von Nassfliegen und Streamern
+
 Patch 1.28.6
 Fehler beim Fliegenfischen behoben
 Fliegenfischen - jetzt sind spezielle Vorfächer erforderlich
