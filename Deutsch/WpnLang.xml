@@ -4466,6 +4466,56 @@ Barbe, Dorade Royal, Goldbrasse, Tiberbarbe, Tintenfisch
     <weapon id="1783">
       <name>Flat-50</name>
       <info>Ideal zum Fangen großer Karpfen. Die besten Ergebnisse werden in Kombination mit Pop-up-Boilies erzielt.</info>
-    </weapon>	
+    </weapon>
+    <weapon id="1784">
+      <name>Fliegen Vorfach</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
+    </weapon>
+    <weapon id="1785">
+      <name>Fliegen Vorfach 1,5 kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
+    </weapon>
+    <weapon id="1786">
+      <name>Fliegen Vorfach 6,4 kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
+    </weapon>
+    <weapon id="1787">
+      <name>Fliegen Vorfach 14,5 kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
+    </weapon>
+    <weapon id="1788">
+      <name>Fliegen Vorfach 19,2 kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
+    </weapon>
+    <weapon id="1789">
+      <name>RF Flohkrebs</name>
+      <info>Flohkrebs Imitation, für das positonieren in der Mitte des Wassers 
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+    </weapon>
+    <weapon id="1790">
+      <name>RF Zottelige Hummel</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1791">
+      <name>WB Streamer M1</name>
+      <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+    </weapon>
+    <weapon id="1792">
+      <name>WB Streamer M2</name>
+      <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+    </weapon>
+    <weapon id="1793">
+      <name>WB Streamer M3</name>
+      <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+    </weapon>
+    <weapon id="1794">
+      <name>RF Wespe</name>
+      <info>
+      </info>
+    </weapon>		
   </weapons>
 </wpnlang>

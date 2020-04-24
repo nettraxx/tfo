@@ -1,3 +1,10 @@
+Patch 1.28.6
+Fehler beim Fliegenfischen behoben
+Fliegenfischen - jetzt sind spezielle Vorfächer erforderlich
+Konische Fliegenvorfächer in den Läden
+Neue Fliegen in den Läden
+Nassfliegen und Streamer in den Läden
+
 Patch 1.28.5
 Fehlerbehebungen
 Online Hilfe (F1) ergänzt. Mit CTRL + Maus ziehen kann man Stapel splitten.

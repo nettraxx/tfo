@@ -4308,7 +4308,56 @@ Only LP reels of 2000 size or below</info>
       <info>Great for catching large carp. Best results are achieved in combination with pop-up boilies.</info>
     </weapon>	
 	
-	
+    <weapon id="1784">
+      <name>Fly leader</name>
+      <info>cone leader for flyfishing</info>
+    </weapon>
+    <weapon id="1785">
+      <name>Fly leader 1.5 kg</name>
+      <info>cone leader for flyfishing</info>
+    </weapon>
+    <weapon id="1786">
+      <name>Fly leader 6,4 kg</name>
+      <info>cone leader for flyfishing</info>
+    </weapon>
+    <weapon id="1787">
+      <name>Fly leader 14,5 kg</name>
+      <info>cone leader for flyfishing</info>
+    </weapon>
+    <weapon id="1788">
+      <name>Fly leader 19.2 kg</name>
+      <info>cone leader for flyfishing</info>
+    </weapon>
+    <weapon id="1789">
+      <name>RF Scud </name>
+      <info>fly simulating scud, intended for postings in the middle water 
+wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along (with a strip)</info>
+    </weapon>
+    <weapon id="1790">
+      <name>RF Wooly bumblebee</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1791">
+      <name>WB Streamer M1</name>
+      <info>Streamer Woolly Bugger, intended for postings in the middle water 
+wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along (with a strip)</info>
+    </weapon>
+    <weapon id="1792">
+      <name>WB Streamer M2</name>
+      <info>Streamer Woolly Bugger, intended for postings in the middle water 
+wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along (with a strip)</info>
+    </weapon>
+    <weapon id="1793">
+      <name>WB Streamer M3</name>
+      <info>Streamer Woolly Bugger, intended for postings in the middle water 
+wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along (with a strip)</info>
+    </weapon>
+    <weapon id="1794">
+      <name>RF Wasp</name>
+      <info>
+      </info>
+    </weapon>	
 
 	
   </weapons>
