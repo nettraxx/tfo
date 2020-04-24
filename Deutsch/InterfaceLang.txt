@@ -32,7 +32,7 @@ turn_uslp_deny=VERBOTEN
 
 -------------------
 
-club_err5=Club Gründerpaket Abzeichen, das für die Bearbeitung benötigt wird
+club_err5=Club Gründer Abzeichen, das für die Bearbeitung benötigt wird
 club_editname=Bearbeiten
 
 -------------------
@@ -51,7 +51,7 @@ club_expadd=Club hat {0} Erfahrung gesammelt
 qd_clname=Club
 
 dntpck_130_name=Gründerpaket
-dntpck_130_info=Enthält das "Club Gründerpaket Abzeichen", mit dem Sie Ihren eigenen Angelclub gründen können
+dntpck_130_info=Enthält das "Club Gründer Abzeichen", mit dem Sie Ihren eigenen Angelclub gründen können
 dntpck_130_act=+ 15 Tage VIP als Geschenk
 
 

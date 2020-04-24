@@ -308,7 +308,7 @@
     </weapon>
     <weapon id="1005">
       <name>STK Hk-0</name>
-      <info>
+      <info>von 0g -700g
       </info>
     </weapon>
     <weapon id="1006">
@@ -2246,17 +2246,17 @@ Aland, Brachse, Europäischer Wels, Marmorkarpfen, Silberkarpfen, Wildkarpfen
     </weapon>
     <weapon id="1357">
       <name>STK Hk-1</name>
-      <info>
+      <info>von 700g - 3kg
       </info>
     </weapon>
     <weapon id="1358">
       <name>STK Hk-2</name>
-      <info>
+      <info>von 3kg - 7kg
       </info>
     </weapon>
     <weapon id="1359">
       <name>STK Hk-3</name>
-      <info>
+      <info>von 7kg - 20kg
       </info>
     </weapon>
     <weapon id="1360">
@@ -2563,7 +2563,7 @@ Europäischer Wels, Flussbarsch, getüpfelter Gabelwels, Grashecht, Hecht, Meerz
       </info>
     </weapon>
     <weapon id="1414">
-      <name>Club Gründerpaket Abzeichen</name>
+      <name>Club Gründer Abzeichen</name>
       <info>
       </info>
     </weapon>
@@ -2747,17 +2747,17 @@ Brachse, Giebel, Güster, Karausche, See Elritze, Tiberbarbe
     </weapon>
     <weapon id="1446">
       <name>Kitana FH-1</name>
-      <info>
+      <info>von 700g - 3kg
       </info>
     </weapon>
     <weapon id="1447">
       <name>Kitana FH-2</name>
-      <info>
+      <info>von 3kg - 7kg
       </info>
     </weapon>
     <weapon id="1448">
       <name>Kitana FH-3</name>
-      <info>
+      <info>von 7kg - 20kg
       </info>
     </weapon>
     <weapon id="1449">
@@ -2777,12 +2777,12 @@ Brachse, Giebel, Güster, Karausche, See Elritze, Tiberbarbe
     </weapon>
     <weapon id="1452">
       <name>CarpPro-3</name>
-      <info>
+      <info>von 7kg - 20kg
       </info>
     </weapon>
     <weapon id="1453">
       <name>CarpPro-4</name>
-      <info>
+      <info>von 20kg - .....
       </info>
     </weapon>
     <weapon id="1454">
@@ -3560,17 +3560,17 @@ Aal, Barbe, Tiberbarbe
     </weapon>
     <weapon id="1596">
       <name>CarpPro-1</name>
-      <info>
+      <info>von 700g - 3kg
       </info>
     </weapon>
     <weapon id="1597">
       <name>CarpPro-2</name>
-      <info>
+      <info>von 3kg -7kg
       </info>
     </weapon>
     <weapon id="1598">
       <name>Kitana FH-4</name>
-      <info>
+      <info>von 20kg - ....
       </info>
     </weapon>
     <weapon id="1599">
@@ -4066,52 +4066,52 @@ Europäischer Wels, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Grashec
     </weapon>
     <weapon id="1699">
       <name>JigHead 0-0</name>
-      <info>
+      <info>Kleine Fische
       </info>
     </weapon>
     <weapon id="1700">
       <name>JigHead 0-1</name>
-      <info>
+      <info>Kleine Fische
       </info>
     </weapon>
     <weapon id="1701">
       <name>JigHead 1-5</name>
-      <info>
+      <info>Mittlere Fische
       </info>
     </weapon>
     <weapon id="1702">
       <name>JigHead 1-10</name>
-      <info>
+      <info>Mittlere Fische
       </info>
     </weapon>
     <weapon id="1703">
       <name>JigHead 2-14</name>
-      <info>
+      <info>Mittelgroße Fische
       </info>
     </weapon>
     <weapon id="1704">
       <name>JigHead 2-17</name>
-      <info>
+      <info>Mittelgroße Fische
       </info>
     </weapon>
     <weapon id="1705">
       <name>JigHead 2-20</name>
-      <info>
+      <info>Mittelgroße Fische
       </info>
     </weapon>
     <weapon id="1706">
       <name>JigHead 3-25</name>
-      <info>
+      <info>Große Fische
       </info>
     </weapon>
     <weapon id="1707">
       <name>JigHead 3-35</name>
-      <info>
+      <info>Große Fische
       </info>
     </weapon>
     <weapon id="1708">
       <name>JigHead 4-40</name>
-      <info>
+      <info>Versuch dein Glück
       </info>
     </weapon>
     <weapon id="1709">
