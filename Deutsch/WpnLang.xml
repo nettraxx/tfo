@@ -4488,12 +4488,12 @@ Barbe, Dorade Royal, Goldbrasse, Tiberbarbe, Tintenfisch
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1789">
-      <name>RF Flohkrebs</name>
+      <name>RubinFly Flohkrebs</name>
       <info>Flohkrebs Imitation, für das positonieren in der Mitte des Wassers 
 Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
     </weapon>
     <weapon id="1790">
-      <name>RF Zottelige Hummel</name>
+      <name>RubinFly Hummel</name>
       <info>
       </info>
     </weapon>
@@ -4513,7 +4513,7 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
 Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
     </weapon>
     <weapon id="1794">
-      <name>RF Wespe</name>
+      <name>RubinFly Wespe</name>
       <info>
       </info>
     </weapon>		
