@@ -1,3 +1,9 @@
+Patch 1.28.8
+Das automatische Haken beim Spinnen und Fliegenfischen wurde deaktiviert.
+Jetzt muss der Spieler den Fisch beim Biss selbst haken, sonst kann der Fisch entkommen.
+Polen: Bis zu einer Tiefe von 0,8 Metern ist erlaubt ins Wasser zu gehen.
+Im Wasser kann man die Ruten nicht auf den Ständer stellen, man kann nicht rennen und die Bewegungsgeschwindigkeit ist verringert
+
 Patch 1.28.7
 Fehler mit dem Verhalten einer Fliege stromabwärts wurde behoben
 Die Angabe des Fliegentyps wurde hinzugefügt, Trocken- oder Nassfliege
