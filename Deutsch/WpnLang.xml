@@ -4494,13 +4494,15 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
     </weapon>
     <weapon id="1790">
       <name>RubinFly Hummel</name>
-      <info>
+      <info>Fängig für:
+Regenbogenforelle, Europäische Äsche
       </info>
     </weapon>
     <weapon id="1791">
       <name>WB Streamer M1</name>
       <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
+Saimaa-Forelle</info>
     </weapon>
     <weapon id="1792">
       <name>WB Streamer M2</name>
@@ -4510,11 +4512,13 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
     <weapon id="1793">
       <name>WB Streamer M3</name>
       <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
+Saimaa-Forelle</info>
     </weapon>
     <weapon id="1794">
       <name>RubinFly Wespe</name>
-      <info>
+      <info>Fängig für:
+Saimaa-Forelle
       </info>
     </weapon>		
   </weapons>
