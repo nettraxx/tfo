@@ -740,7 +740,7 @@ Aal, Belugastör, Brachse, Europäischer Stör, Europäischer Wels, Flussbarsch,
     <weapon id="1088">
       <name>Borkenkäferlarve</name>
       <info>Fängig für:
-Aland, Bachschmerle, Brachse, Glatt-Stör, Quappe, Rotauge, Rotfeder, Schlammpeitzger, Sprotte, Sterlet
+Aland, Bachschmerle, Barbe, Brachse, Glatt-Stör, Quappe, Rotauge, Rotfeder, Schlammpeitzger, Sprotte, Sterlet, Tiberbarbe
       </info>
     </weapon>
     <weapon id="1089">
@@ -3194,7 +3194,7 @@ Europäischer Wels, Europäischer Wolfsbarsch, Forellenbarsch, Grashecht, Hecht,
       <name>Popper "Frog-III-М5"</name>
       <info>Aus dem Tagebuch von Stalker. Ein spezieller Wobbler für Frösche, 
 der für das Top-Water-Angeln entwickelt wurde. Fängig für:
-Grashecht, Rapfen, Regenbogenforelle
+Europäischer Wels, Forellenbarsch, Grashecht, Rapfen, Regenbogenforelle
 </info>
     </weapon>
     <weapon id="1533">
@@ -3537,7 +3537,7 @@ Lederkarpfen, Schuppenkarpfen, Spiegelkarpfen
     <weapon id="1592">
       <name>Boilie "Früchte"</name>
       <info>Fängig für:
-Graskarpfen, Marmorkarpfen, Spiegelkarpfen
+Graskarpfen, Lederkarpfen, Marmorkarpfen, Spiegelkarpfen
       </info>
     </weapon>
     <weapon id="1593">
@@ -4364,7 +4364,7 @@ Nur für Rollen mit maximal 2000er Größe</info>
 	  <weapon id="1762">
       <name>Eintagsfliege</name>
       <info>Fängig für:
-Barbe, Güster, Maräne, Regenbogenforelle, Schrimp
+Bachforelle, Barbe, Frosch, Güster, Maräne, Regenbogenforelle, Schrimp, Teichforelle, Tiberbarbe
 		</info>
     </weapon>
     <weapon id="1763">
@@ -4382,7 +4382,7 @@ Aland, Rotauge, Taran
     <weapon id="1765">
       <name>Blutköder</name>
       <info>Fängig für:
-Barbe, Dorade Royal, Goldbrasse, Tiberbarbe, Tintenfisch
+Barbe, Dorade Royal, Goldbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
 		</info>
     </weapon>
     <weapon id="1766">
@@ -4432,27 +4432,32 @@ Barbe, Dorade Royal, Goldbrasse, Tiberbarbe, Tintenfisch
     </weapon>
     <weapon id="1776">
       <name>VibroTail Shad M1 120mm</name>
-      <info>
+      <info>Fängig für:
+Baltischer Lachs, Hecht, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1777">
       <name>VibroTail Shad M2 120mm</name>
-      <info>
+      <info>Fängig für:
+Baltischer Lachs, Hecht, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1778">
       <name>VibroTail Shad M3 120mm</name>
-      <info>
+      <info>Fängig für:
+Baltischer Lachs, Hecht, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1779">
       <name>VibroTail Shad M4 120mm</name>
-      <info>
+      <info>Fängig für:
+Baltischer Lachs, Hecht, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1780">
       <name>VibroTail Shad M5 120mm</name>
-      <info>
+      <info>Fängig für:
+Baltischer Lachs, Hecht, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1781">
@@ -4490,35 +4495,41 @@ Barbe, Dorade Royal, Goldbrasse, Tiberbarbe, Tintenfisch
     <weapon id="1789">
       <name>RubinFly Flohkrebs</name>
       <info>Flohkrebs Imitation, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
+Regenbogenforelle, Rotauge
+</info>
     </weapon>
     <weapon id="1790">
       <name>RubinFly Hummel</name>
-      <info>Fängig für:
-Regenbogenforelle, Europäische Äsche
+      <info>Imitation einer Hummel. Fängig für:
+Aland, Döbel, Europäische Äsche, Goldforelle, Rapfen, Regenbogenforelle
       </info>
     </weapon>
     <weapon id="1791">
       <name>WB Streamer M1</name>
       <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
 Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
-Saimaa-Forelle</info>
+Döbel, Grashecht, Quappe, Rotauge, Rotfeder, Saimaa-Forelle, Zander
+	</info>
     </weapon>
     <weapon id="1792">
       <name>WB Streamer M2</name>
       <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur</info>
+Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
+Aland, Baltischer Lachs, Forellenbarsch, Grashecht, Hecht, Rotauge, Saibling
+	</info>
     </weapon>
     <weapon id="1793">
       <name>WB Streamer M3</name>
       <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
 Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
-Saimaa-Forelle</info>
+Europäische Äsche, Flussbarsch, Regenbogenforelle, Saibling, Saimaa-Forelle, Seeforelle
+	</info>
     </weapon>
     <weapon id="1794">
       <name>RubinFly Wespe</name>
       <info>Fängig für:
-Saimaa-Forelle
+Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
       </info>
     </weapon>		
   </weapons>
