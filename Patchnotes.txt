@@ -1,3 +1,6 @@
+Patch 1.28.8 a
+Deutsche Übersetzung: "fängig für" ergänzt.
+
 Patch 1.28.8
 Das automatische Haken beim Spinnen und Fliegenfischen wurde deaktiviert.
 Jetzt muss der Spieler den Fisch beim Biss selbst haken, sonst kann der Fisch entkommen.
