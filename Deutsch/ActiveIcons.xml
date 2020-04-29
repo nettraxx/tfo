@@ -21,9 +21,9 @@
 	<icon id="19" name="*Regeneration [X]" info="+ [X] Lebenspunkte pro Sekunde" />
 	<icon id="20" name="VIP Modus" info="Gibt folgenden Bonus:
     
-    * Aufgaben können 50% schneller angenommen werden.
-    * Erfahrung von Fischen um 50% erhöht.
-    * Der Verkauf von Fischen bringt zusätzlich 25% mehr Geld." />
+    * 50% schneller Aufgaben annehmen und Erfahrung beim Fischfang.
+    * 25% mehr Erlös beim Verkauf und Erfahrung beim Fischfang.
+    * Verbesserte Map mit Koordinaten." />
 	
 	<icon id="21" name="*Lernen +[X]%" info="+[X]% Erfahrung für gefangene Fische" />
 	<icon id="22" name="Fertigkeiten lernen" info="Das Lernen der Fertigkeit ist im Gange. Du hast[Y]% 10% aller Erfahrungen gesammelt, die Du beim Erlernen von Fertigkeiten gesammelt hast."/>
