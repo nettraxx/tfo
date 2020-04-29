@@ -22,7 +22,7 @@
 	<icon id="20" name="VIP Modus" info="Gibt folgenden Bonus:
     
     * 50% schneller Aufgaben annehmen und Erfahrung beim Fischfang.
-    * 25% mehr Erlös beim Verkauf und Erfahrung beim Fischfang.
+    * 25% mehr Erlös beim Verkauf und Erfahrung bei den Aufgaben.
     * Verbesserte Map mit Koordinaten." />
 	
 	<icon id="21" name="*Lernen +[X]%" info="+[X]% Erfahrung für gefangene Fische" />
