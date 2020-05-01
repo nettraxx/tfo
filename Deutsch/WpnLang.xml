@@ -4115,20 +4115,20 @@ Europäischer Wels, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Grashec
       </info>
     </weapon>
     <weapon id="1709">
-      <name>Top 5</name>
-      <info>Geschenkbox für Platz 1-5 in der monatlichen Rangliste</info>
+      <name>Top 10</name>
+      <info>Geschenkbox für Platz 1-10 in der monatlichen Rangliste</info>
     </weapon>
     <weapon id="1710">
-      <name>Top 20</name>
-      <info>Geschenkbox für Platz 6-20 in der monatlichen Rangliste</info>
+      <name>Top 50</name>
+      <info>Geschenkbox für Platz 11-50 in der monatlichen Rangliste</info>
     </weapon>
     <weapon id="1711">
-      <name>Top 100</name>
-      <info>Geschenkbox für Platz 21-100 in der monatlichen Rangliste</info>
+      <name>Top 200</name>
+      <info>Geschenkbox für Platz 51-200 in der monatlichen Rangliste</info>
     </weapon>
     <weapon id="1712">
       <name>Top 1000</name>
-      <info>Geschenkbox für Platz 101-1000 in der monatlichen Rangliste</info>
+      <info>Geschenkbox für Platz 201-1000 in der monatlichen Rangliste</info>
     </weapon>
 	<weapon id="1713">
       <name>Basser RCast-I</name>
