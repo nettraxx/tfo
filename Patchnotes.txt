@@ -1,5 +1,17 @@
 Patch 1.28.8 a
 Deutsche Übersetzung: "fängig für" ergänzt.
+Update vom 1.5.2020:
+Vom 1. bis 11. Mai gibt es:
++ 25 % Erfahrung für den Fang von Fischen
++ 25 % Geld für den Verkauf von Fischen
+Auf vielfachen Wunsch wird das "SeaCast" -Paket vorübergehend wieder im VIP Menu zum Kauf angeboten.
+Das Club "Gründer" Paket wurde aus dem VIP Menu entfernt. Kann natürlich wie gewohnt weiterhin im Angel-Shop gekauft werden.
+Änderungen:
+Ab Mai werden die monatliche Bewertungspreise für die Monatswertung gemäß diesem Schema vergeben:
+Anführer: Platz 1-10
+Zehntplatzierte: Platz 11-50
+in den Hundertern: Platz 51-200
+die besten Tausend: Platz 201-1000
 
 Patch 1.28.8
 Das automatische Haken beim Spinnen und Fliegenfischen wurde deaktiviert.
