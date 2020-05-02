@@ -3657,27 +3657,27 @@ Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, G
       <info>Schnur für´s Fliegenfischen</info>
     </weapon>
     <weapon id="1618">
-      <name>RF Goldkopfnymphe</name>
+      <name>RubinFly Fliege</name>
       <info>Fängig für:
 Bachforelle, Döbel, Donaulachs, Europäische Äsche, Goldforelle, Mairenke, Rotauge, Saimaa-Forelle, Seeforelle, Taimen
       </info>
     </weapon>
     <weapon id="1619">
-      <name>RF Maikäfer</name>
+      <name>RubinFly Nymphe</name>
       <info>Fängig für:
-Bachforelle, Döbel, Donaulachs, Europäische Äsche, Frosch, Goldforelle, Rapfen, Regenbogenforelle, Rotauge, Saimaa-Forelle, Seeforelle, Sichling, Teichforelle
+Bachforelle, Döbel, Döbel, Donaulachs, Europäische Äsche, Frosch, Goldforelle, Rapfen, Regenbogenforelle, Rotauge, Rotauge, Saimaa-Forelle, Seeforelle, Sichling, Teichforelle
       </info>
     </weapon>
     <weapon id="1620">
-      <name>RF Grashüpfer</name>
+      <name>RubinFly Grashüpfer</name>
       <info>Fängig für:
 Aland, Bachforelle, Döbel, Donaulachs, Flussbarsch, Frosch, Goldforelle, Hasel, Rapfen, Regenbogenforelle, Saimaa-Forelle, Seeforelle, Sichling, Teichforelle
       </info>
     </weapon>
     <weapon id="1621">
-      <name>RF Klassische Fliege</name>
+      <name>RubinFly Wasserläufer</name>
       <info>Fängig für:
-Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Rotauge, Saimaa-Forelle, Seeforelle, Sichling
+Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Hasel, Laube, Mairenke, Rotauge, Saimaa-Forelle, Saimaa-Forelle, Seeforelle, Sichling
       </info>
     </weapon>
     <weapon id="1622">
@@ -4493,14 +4493,14 @@ Baltischer Lachs, Hecht, Seesaibling, Zander
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1789">
-      <name>RF Bachflohkrebs</name>
+      <name>RubinFly Flohkrebs</name>
       <info>Flohkrebs Imitation, für das positonieren in der Mitte des Wassers 
 Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
 Regenbogenforelle, Rotauge
 </info>
     </weapon>
     <weapon id="1790">
-      <name>RF Hummel</name>
+      <name>RubinFly Hummel</name>
       <info>Imitation einer Hummel. Fängig für:
 Aland, Döbel, Europäische Äsche, Goldforelle, Rapfen, Regenbogenforelle
       </info>
@@ -4527,7 +4527,7 @@ Europäische Äsche, Flussbarsch, Regenbogenforelle, Saibling, Saimaa-Forelle, S
 	</info>
     </weapon>
     <weapon id="1794">
-      <name>RF Wespe</name>
+      <name>RubinFly Wespe</name>
       <info>Fängig für:
 Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
       </info>
