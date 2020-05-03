@@ -3663,7 +3663,7 @@ Bachforelle, Döbel, Donaulachs, Europäische Äsche, Goldforelle, Mairenke, Rot
       </info>
     </weapon>
     <weapon id="1619">
-      <name>RF Maikäfer</name>
+      <name>RF Käfer</name>
       <info>Fängig für:
 Bachforelle, Döbel, Donaulachs, Europäische Äsche, Frosch, Goldforelle, Rapfen, Regenbogenforelle, Rotauge, Saimaa-Forelle, Seeforelle, Sichling, Teichforelle
       </info>
@@ -3675,7 +3675,7 @@ Aland, Bachforelle, Döbel, Donaulachs, Flussbarsch, Frosch, Goldforelle, Hasel,
       </info>
     </weapon>
     <weapon id="1621">
-      <name>RF Klassische Fliege</name>
+      <name>RF Eintagsfliege</name>
       <info>Fängig für:
 Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Rotauge, Saimaa-Forelle, Seeforelle, Sichling
       </info>

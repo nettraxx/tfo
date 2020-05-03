@@ -1,5 +1,4 @@
 Patch 1.29.0
-Update vom 1.5.2020:
 Vom 1. bis 11. Mai gibt es:
 + 25 % Erfahrung für den Fang von Fischen
 + 25 % Geld für den Verkauf von Fischen
