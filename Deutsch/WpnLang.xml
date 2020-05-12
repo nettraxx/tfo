@@ -4531,6 +4531,21 @@ Europäische Äsche, Flussbarsch, Regenbogenforelle, Saibling, Saimaa-Forelle, S
       <info>Fängig für:
 Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
       </info>
-    </weapon>		
+    </weapon>
+    <weapon id="1795">
+      <name>Glöckchen 1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1796">
+      <name>Glöckchen 2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1797">
+      <name>Glöckchen 3</name>
+      <info>
+      </info>
+    </weapon>	
   </weapons>
 </wpnlang>

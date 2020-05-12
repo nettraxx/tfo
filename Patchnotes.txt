@@ -1,3 +1,7 @@
+Patch 1.29.1
+Maievent beendet
+Fehlerbehebung
+
 Patch 1.29.0
 Vom 1. bis 11. Mai gibt es:
 + 25 % Erfahrung für den Fang von Fischen

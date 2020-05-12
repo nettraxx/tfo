@@ -3840,5 +3840,20 @@ VIP не даёт бонуса.</info>
       <info>
       </info>
     </weapon>
+    <weapon id="1795">
+      <name>Колокольчик 1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1796">
+      <name>Колокольчик 2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1797">
+      <name>Колокольчик 3</name>
+      <info>
+      </info>
+    </weapon>
   </weapons>
 </wpnlang>
