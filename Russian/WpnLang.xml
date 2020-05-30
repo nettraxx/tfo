@@ -3837,23 +3837,19 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1794">
       <name>RF Оса</name>
-      <info>
-      </info>
+      <info>      </info>
     </weapon>
     <weapon id="1795">
-      <name>Колокольчик 1</name>
-      <info>
-      </info>
+      <name>Колокольчик тон 1</name>
+      <info>      </info>
     </weapon>
     <weapon id="1796">
-      <name>Колокольчик 2</name>
-      <info>
-      </info>
+      <name>Колокольчик тон 2</name>
+      <info>      </info>
     </weapon>
     <weapon id="1797">
-      <name>Колокольчик 3</name>
-      <info>
-      </info>
+      <name>Колокольчик тон 3</name>
+      <info>      </info>
     </weapon>
   </weapons>
 </wpnlang>

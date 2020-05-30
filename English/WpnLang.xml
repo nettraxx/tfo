@@ -4359,6 +4359,17 @@ wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along
       </info>
     </weapon>	
 
-	
+    <weapon id="1795">
+      <name>Bell tone middle</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1796">
+      <name>Bell tone high</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1797">
+      <name>Bell tone low</name>
+      <info>      </info>
+    </weapon>	
   </weapons>
 </wpnlang>

@@ -2,6 +2,7 @@ Patch 1.29.1
 Maievent beendet
 Fehlerbehebung
 15.05.2020: Fängig für ergänzt
+30.05.2020: Glöckchentönefix
 
 Patch 1.29.0
 Vom 1. bis 11. Mai gibt es:

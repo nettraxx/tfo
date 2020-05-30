@@ -1,5 +1,10 @@
 ﻿[INTERFACE]
 
+set_grouplb=Tackle load display
+set_groupp1=Integrated
+set_groupp2=Separate
+
+-------------------
 fly_mtype0=Dry fly
 fly_mtype1=Wet fly
 
