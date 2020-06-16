@@ -1,3 +1,7 @@
+Patch 1.29.2
+Fehlerbehebung
+Ergänzungen bei Köderinfo "Fängig für"
+
 Patch 1.29.1
 Maievent beendet
 Fehlerbehebung
