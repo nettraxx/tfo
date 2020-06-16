@@ -1927,7 +1927,7 @@ Thanks for your votings!</info>
     <weapon id="1298">
       <name>Erbsen</name>
       <info>Fängig für:
-Aland, Brachse, Europäischer Wels, Marmorkarpfen, Silberkarpfen, Wildkarpfen
+Aland, Brachse, Europäischer Wels, Marmorkarpfen, Schwarzer Amur, Silberkarpfen, Wildkarpfen
 	  </info>
     </weapon>
     <weapon id="1299">
@@ -3531,7 +3531,7 @@ Graskarpfen, Schuppenkarpfen, Schwarzer Amur, Silberkarpfen, Wildkarpfen
     <weapon id="1591">
       <name>Boilie "Erdbeer"</name>
       <info>Fängig für:
-Lederkarpfen, Schuppenkarpfen, Spiegelkarpfen
+Graskarpfen, Lederkarpfen, Schuppenkarpfen, Spiegelkarpfen, Wildkarpfen
       </info>
     </weapon>
     <weapon id="1592">
