@@ -8,7 +8,11 @@
 	<turn id="4" name="France" info="--"/>   
 	<turn id="5" name="Finland" info="--"/>   
     <turn id="6" name="Finland" info="--"/>   	
-	<turn id="7" name="Stick blitz" info="--"/> 
+	<turn id="7" name="Stick blitz" info="--"/>
+
+	<turn id="10" name="⭔Spinning-blitz" info="--"/>
+	<turn id="11" name="⭔Bottom-blitz" info="--"/> 
+	<turn id="12" name="⭔Fly-blitz" info="--"/>  	
   </tnames>
 
 

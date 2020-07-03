@@ -7,8 +7,12 @@
 		<turn id="4" name="Frankreich" info="--"/>   
 		<turn id="5" name="Finnland" info="--"/>   
 		<turn id="6" name="Finnland" info="--"/>
-		<turn id="7" name="Fliegen Blitz" info="--"/>
-	</tnames>
+		<turn id="7" name="Stipp Blitzturnier" info="--"/>
+
+		<turn id="10" name="Spinn Blitzturnier" info="--"/>
+		<turn id="11" name="Grund Blitzturnier" info="--"/> 
+		<turn id="12" name="Fliegen Blitzturnier" info="--"/>  	
+  </tnames>
 
 	<qdynamic>
 		<qd id="0" name="Ohne Titel" imgid="0"/> 

@@ -9,6 +9,10 @@
     <turn id="5" name="Финский" info="--"/>   
     <turn id="6" name="Финский" info="--"/>   
 	<turn id="7" name="Маховый блиц" info="--"/>  
+	
+	<turn id="10" name="⭔Спиннинг-блиц" info="--"/>  
+	<turn id="11" name="⭔Доночный-блиц" info="--"/> 
+	<turn id="12" name="⭔Нахлыст-блиц" info="--"/>
   </tnames>
 
 
