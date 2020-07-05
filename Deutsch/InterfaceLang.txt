@@ -18,8 +18,8 @@ turn_uslp3=Rutenart: {0}
 
 turn_uslrt_0=IRGENDEINE
 turn_uslrt_90=STIPPRUTE
-turn_uslrt_100=SCHWEBEN
-turn_uslrt_101=GEWICHTET
+turn_uslrt_100=MATCHRUTE
+turn_uslrt_101=GRUNDRUTE
 turn_uslrt_102=SPINNRUTE
 turn_uslrt_103=FLIEGENRUTE
 turn_uslrt_104=CASTINGRUTE
