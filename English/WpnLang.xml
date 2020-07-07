@@ -4371,5 +4371,16 @@ wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along
       <name>Bell tone low</name>
       <info>      </info>
     </weapon>	
+	
+	
+    <weapon id="1798">
+      <name>Fly leader 11.2 kg</name>
+      <info>cone tapered leader for flyfishing</info>
+    </weapon>
+	
+    <weapon id="1799">
+      <name>Fly leader 17.2 kg</name>
+      <info>cone tapered leader for flyfishing</info>
+    </weapon>	
   </weapons>
 </wpnlang>

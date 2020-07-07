@@ -2,6 +2,7 @@ Patch 1.29.3
 Es wurden zwei Blitz-Turniere (Pra und Finnland) im Testmodus hinzugefügt (keine Belohnungen).
 Fehlerbehebung im Steamforum posten
 Turnierbezeichnungskorrektur
+07.07.2020: 2 zusätzliche Fliegenvorfächer
 
 Patch 1.29.2
 Fehlerbehebung

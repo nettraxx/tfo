@@ -4546,6 +4546,14 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
       <name>Glöckchenton Tief</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="1798">
+      <name>Fliegen Vorfach 11,2 kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>	
+    <weapon id="1799">
+      <name>Fliegen Vorfach 17,2 kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
+    </weapon>		
   </weapons>
 </wpnlang>
