@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+
+dntpck_135_act=+ 7 days VIP card as a gift
+-------------------
+
 set_grouplb=Tackle load display
 set_groupp1=Integrated
 set_groupp2=Separate

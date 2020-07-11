@@ -1,4 +1,8 @@
 ﻿[INTERFACE]
+
+dntpck_135_act=+ 7 Tage VIP als Geschenk
+-------------------
+
 fly_mtype0=Trockenfliege
 fly_mtype1=Nassfliege
 

@@ -23,6 +23,8 @@
 8_Name=Poland: r. San
 8_Info=
 
+9_Name=Serbia: r. Danube
+
 10_Name=Iran: Caspian sea
 
 [LOC_NAMES]

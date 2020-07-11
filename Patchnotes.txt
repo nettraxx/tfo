@@ -1,3 +1,12 @@
+Patch 1.30.0
+3 Kilometer Donau, 1 Kilometer Fußgängerzone
+Mit 25 Fischarten und 6 neue Fischarten
+Quests an der Donau
+
+Darüber hinaus im Zusammenhang mit dem Feiertag des Internationalen Fischertags
+Vom 11. bis 16. Juli wurde ein Erfahrungsbonus von 25% hinzugefügt
+Sonderangebot für VIP 45 Tage mit Geschenk
+
 Patch 1.29.3
 Es wurden zwei Blitz-Turniere (Pra und Finnland) im Testmodus hinzugefügt (keine Belohnungen).
 Fehlerbehebung im Steamforum posten
