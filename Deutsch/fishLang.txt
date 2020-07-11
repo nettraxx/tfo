@@ -89,7 +89,7 @@ type_108=Lachs Rogen
 29_Name=Finger
 29_Info=Mutated Hasel
 30_Name=Kaulbarsch
-31_Name=Percarina
+31_Name=Perkarina
 32_Name=Sibirisches Neunauge
 
 //---------------------
@@ -292,12 +292,12 @@ type_108=Lachs Rogen
 361_Name=Container
 362_Name=Container
 363_Name=Gestreifter Kaulbarsch
-364_Name=Elec Donau
-365_Name=Vimba Macedonian
-366_Name=Moustache Balkan
+364_Name=Strömer
+365_Name=Malamída
+366_Name=Hundsbarbe
 367_Name=Podust Vardar
 368_Name=Huchen
-369_Name=Chop
+369_Name=Zingel
 370_Name=Mairenke
 371_Name=Getüpfelter Gabelwels
 372_Name=Schwarzrückenhering
