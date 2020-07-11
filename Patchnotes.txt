@@ -2,6 +2,13 @@ Patch 1.30.0
 3 Kilometer Donau, 1 Kilometer Fußgängerzone
 Mit 25 Fischarten und 6 neue Fischarten
 Quests an der Donau
+Fischnamen der neuen Fische ins deutsche übersetzt:
+Wolgazander (war schon auf deutsch)
+Moustache Balkan -> Hundsbarbe
+Vimba Macedonian -> Malamída
+Percarina -> Perkarina
+Chop -> Zingel
+Elec Donau -> Strömer
 
 Darüber hinaus im Zusammenhang mit dem Feiertag des Internationalen Fischertags
 Vom 11. bis 16. Juli wurde ein Erfahrungsbonus von 25% hinzugefügt
