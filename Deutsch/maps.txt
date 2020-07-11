@@ -24,8 +24,10 @@
 8_Info=
 
 9_Name=Serbien: Fluss Donau
+9_Info=
 
 10_Name=Iran: Kaspisches Meer
+10_Info=
 
 [LOC_NAMES]
 ---------------------
