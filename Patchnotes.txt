@@ -2,6 +2,7 @@ Patch 1.30.0
 3 Kilometer Donau, 1 Kilometer Fußgängerzone
 Mit 25 Fischarten und 6 neue Fischarten
 Quests an der Donau
+
 Fischnamen der neuen Fische ins deutsche übersetzt:
 Wolgazander (war schon auf deutsch vorhanden)
 Moustache Balkan -> Hundsbarbe
