@@ -332,7 +332,7 @@
     <weapon id="1010">
       <name>Wurm</name>
       <info>Fängig für:
-Aland, Bachforelle, Baltischer Lachs, Barbe, Blutegel, Brachse, Europäischer Flusskrebs, Europäischer Wels, Flussbarsch, Flusskrebs, Frosch, Giebel, Goldforelle, Großkopfmeeräsche, Gründling, Güster, Hasel, Karausche, Kaspischer Hering, Kaulbarsch, Maräne (Weißfisch), Meerzander, Quappe, Rapfen, Regenbogenforelle, Regenbogenforelle, Schläfergrundel, Schleie, Schuppenkarpfen, See Elritze, Taran, Tiberbarbe, Wobla, Zander, Zope
+Aland, Bachforelle, Baltischer Lachs, Barbe, Blutegel, Brachse, Europäischer Flusskrebs, Europäischer Wels, Felsenbarsch, Flussbarsch, Flusskrebs, Frosch, Giebel, Goldforelle, Großkopfmeeräsche, Gründling, Güster, Hasel, Karausche, Kaspischer Hering, Kaulbarsch, Maräne (Weißfisch), Meerzander, Quappe, Rapfen, Regenbogenforelle, Regenbogenforelle, Schläfergrundel, Schleie, Schuppenkarpfen, See Elritze, Taran, Tiberbarbe, Wobla, Zander, Zope
 	  </info>
     </weapon>
     <weapon id="1011">
@@ -364,7 +364,7 @@ Giebel, Grundel, Karausche, Laube, Rotauge, Rotfeder, Schuppenkarpfen, Spiegelka
     <weapon id="1016">
       <name>Silikonwurm</name>
       <info>Fängig für:
-Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1017">
@@ -3406,13 +3406,13 @@ Giebel, Karausche, Rotauge, Schuppenkarpfen, Spiegelkarpfen, Wildkarpfen
     <weapon id="1569">
       <name>Silikonwurm M1</name>
       <info>Fängig für:
-Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1570">
       <name>Silikonwurm M2</name>
       <info>Fängig für:
-Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1571">
@@ -3812,7 +3812,7 @@ Dicklippige Meeräsche, Europäischer Wolfsbarsch, Goldbrasse, Großkopfmeeräsc
     <weapon id="1648">
       <name>Wattwurm</name>
       <info>Fängig für:
-Barbe, Brachse, Dicklippige Meeräsche, Europäischer Wels, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Meerzander, Schwarzbarsch, Tiberbarbe
+Barbe, Brachse, Dicklippige Meeräsche, Europäischer Wels, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Meerzander, Schwarzbarsch, Tiberbarbe, Zander
       </info>
     </weapon>
     <weapon id="1649">
@@ -4509,14 +4509,14 @@ Aland, Döbel, Europäische Äsche, Goldforelle, Rapfen, Regenbogenforelle, Mair
       <name>WB Streamer M1</name>
       <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
 Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
-Döbel, Grashecht, Quappe, Rotauge, Rotfeder, Saimaa-Forelle, Zander
+Döbel, Europäische Äsche, Grashecht, Quappe, Rotauge, Rotfeder, Saimaa-Forelle, Zander
 	</info>
     </weapon>
     <weapon id="1792">
       <name>WB Streamer M2</name>
       <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
 Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für:
-Aland, Baltischer Lachs, Forellenbarsch, Grashecht, Hecht, Rotauge, Saibling
+Aland, Baltischer Lachs, Europäische Äsche, Forellenbarsch, Grashecht, Hecht, Rotauge, Saibling
 	</info>
     </weapon>
     <weapon id="1793">
