@@ -1,4 +1,4 @@
-Patch 1.30.4
+Patch 1.30.4 
 Es wurde die Möglichkeit hinzugefügt, Spielerinformationen im Chat anzuzeigen.
 Fisch im Kühlschrank nach Gewicht sortiert
 Kleinere Korrekturen an der Benutzeroberfläche

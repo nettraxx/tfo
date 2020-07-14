@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+gi_um_12=PROFILE
+-------------------
 clubInfo_1=Club level: {0}
 clubInfo_2=Members: {0} / {1}
 clubInfo_3=Club rating: {0}
