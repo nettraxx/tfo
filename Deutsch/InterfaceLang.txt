@@ -4,7 +4,7 @@ clubInfo_1=Clublevel: {0}
 clubInfo_2=Mitglieder: {0} / {1}
 clubInfo_3=Clubbewertung: {0}
 
-capt_trof1=Trophäe und Ziele
+capt_trof1=Trophäe und Erfolge
 -------------------
 
 act_inf4e=[E] Öffnen
