@@ -1,5 +1,12 @@
 ﻿[INTERFACE]
 
+clubInfo_1=Clublevel: {0}
+clubInfo_2=Mitglieder: {0} / {1}
+clubInfo_3=Clubbewertung: {0}
+
+capt_trof1=Trophäe und Ziele
+-------------------
+
 act_inf4e=[E] Öffnen
 dntpck_135_act=+ 7 Tage VIP als Geschenk
 -------------------

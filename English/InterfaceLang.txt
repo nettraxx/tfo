@@ -1,5 +1,12 @@
 ﻿[INTERFACE]
 
+clubInfo_1=Club level: {0}
+clubInfo_2=Members: {0} / {1}
+clubInfo_3=Club rating: {0}
+
+capt_trof1=Trophy and achives
+-------------------
+
 act_inf4e=[E] Оpen
 dntpck_135_act=+ 7 days VIP card as a gift
 -------------------
@@ -561,8 +568,8 @@ specNY2018=+NORD TWS-III ICE
 happyny=HAPPY\nNEW YEAR!
 
 prk_max=MAXIMUM
-usr_inf_a1=Level: {0}\nIs located: {1}-{2}
-usr_inf_a2=NO ARTEL
+usr_inf_a1=Level: {0}\nIs located: {1}
+usr_inf_a2=NO CLUB
 usr_inf_a3=Steam name: {0}
 usr_inf_a4=Account creation date\n{0:d.M.yyyy HH:mm}
 

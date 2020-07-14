@@ -1,4 +1,11 @@
 [INTERFACE]
+
+clubInfo_1=Уровень клуба: {0}
+clubInfo_2=Участников: {0} / {1}
+clubInfo_3=Рейтинг клуба: {0}
+capt_trof1=Трофеи и достижения
+-------------------
+
 act_inf4e=[E] Открыть
 dntpck_135_act=+карточка 7 дней VIP в подарок
 -------------------
@@ -565,8 +572,8 @@ rait_btn5=Меценат
 specNY2018=+NORD TWS-III ICE
 happyny=С НОВЫМ\nГОДОМ!
 
-usr_inf_a1=Уровень: {0}\nНаходится: {1}-{2}
-usr_inf_a2=НЕТ АРТЕЛИ
+usr_inf_a1=Уровень: {0}\nНаходится: {1}
+usr_inf_a2=НЕТ КЛУБА
 usr_inf_a3=Steam имя: {0}
 usr_inf_a4=Дата создания аккаунта\n{0:d/M/yyyy HH:mm}
 
