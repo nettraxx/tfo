@@ -1,5 +1,6 @@
 ﻿[INTERFACE]
 
+act_inf4e=[E] Öffnen
 dntpck_135_act=+ 7 Tage VIP als Geschenk
 -------------------
 

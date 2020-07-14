@@ -1,3 +1,26 @@
+Patch 1.30.3
+Hallo Freunde. Ich präsentiere Ihnen ein neues experimentelles System zum Einfrieren von Fischen.
+Große Boote (Finnland, Donau, Kaspisches Meer) haben Gefrierschränke, in die Sie Fische aus Ihrem Kescher legen können. 
+Der Fisch wird gefroren. Um gefrorenen Fisch zu verkaufen, müssen Sie das Boot zu einer der Verkaufsstellen für gefrorenen Fisch bringen, der wie ein Kran mit blauen Kästchen aussieht, das Boot anhalten (besser verankern) und die R-Taste drücken, wenn eine Meldung angezeigt wird. 
+Bitte beachten Sie, dass Gefrierschränke keine Einschränkungen hinsichtlich des Gewichts von Fischen und nur hinsichtlich der Anzahl haben. 
+So können Sie 100 Kilogramm Fische darin platzieren und so Ihren Kescher für das weiteres Fischen freigeben, ohne die Verkaufsstelle zu betreten. 
+Bitte beachten Sie, dass die Preise für gefrorenen Fisch dynamisch sind und von den Preisen für frischen Fisch abweichen können.
+
+Dieser Mechanik öffnet den Weg zu großen Meeresstandorten und neuen Möglichkeiten, Seefische zu fangen.
+
+Darüber hinaus im Update:
+Korrektur von Geodatenfehlern bei der Donau
+Korrektur eines Staus beim Bewegen auf großen Booten und beim Verlassen
+Korrektur von Fischverhaltensfehlern bei Annäherung an das Ufer
+Korrektur einiger 3D-Modelle
+
+Balance-Korrekturen:
+Die Anzahl und der Preis von Kaulbarsch auf der Donaubasis wurde reduziert.
+Preise und Erfahrung von Malamida, Strömer, Vardar Podust erhöht.
+Die Ernährung von Zingel, Wolgazander, wurde geändert - jetzt werden sie hauptsächlich mit Jigködern gefangen
+Die Ernährung der Fische wurde geändert: Malamida, Hundsbarbe, Strömer - jetzt ernähren sie sich von verschiedenen Larven und Körnern
+Rotfeder, Karausche und Aland in kleinen Mengen hinzugefügt.
+
 Patch 1.30.1+2
 Visuelle Modelle und Animationen der folgenden Typen haben sich geändert:
 Seeforelle

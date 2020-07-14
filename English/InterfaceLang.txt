@@ -1,6 +1,6 @@
 ﻿[INTERFACE]
 
-
+act_inf4e=[E] Оpen
 dntpck_135_act=+ 7 days VIP card as a gift
 -------------------
 
