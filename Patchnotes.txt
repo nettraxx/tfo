@@ -2,7 +2,7 @@ Patch 1.30.4
 Es wurde die Möglichkeit hinzugefügt, Spielerinformationen im Chat anzuzeigen.
 Fisch im Kühlschrank nach Gewicht sortiert
 Kleinere Korrekturen an der Benutzeroberfläche
-
+ 
 Patch 1.30.3
 Hallo Freunde. Ich präsentiere Ihnen ein neues experimentelles System zum Einfrieren von Fischen.
 Große Boote (Finnland, Donau, Kaspisches Meer) haben Gefrierschränke, in die Sie Fische aus Ihrem Kescher legen können. 
