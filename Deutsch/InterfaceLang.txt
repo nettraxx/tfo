@@ -558,7 +558,7 @@ specNY2018=+NORD TWS-III ICE
 happyny=HAPPY\nNEW YEAR!
 
 prk_max=MAXIMUM
-usr_inf_a1=Level: {0}\nIs gefunden: {1}-{2}
+usr_inf_a1=Level: {0}\nDerzeit in: {1}
 usr_inf_a2=KEIN CLUB
 usr_inf_a3=Steamname: {0}
 usr_inf_a4=Accounterstellungsdatum\n{0:d.M.yyyy HH:mm}
