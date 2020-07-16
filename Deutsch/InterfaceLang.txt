@@ -1,4 +1,28 @@
 ﻿[INTERFACE]
+
+stat_finfo1=Insgesamt {0} Stk
+stat_finfo2=Größte {0}
+
+unv_count={0} Stk
+stat_uinf_0=Online-Zeit: {0}
+stat_turn_crt=TURNIER ERSTELLEN
+stat_capt_1=Aufgaben erledigt
+stat_capt_2=Anzahl der Fische
+stat_capt_3=Anzahl der Trophäen
+stat_capt_4=Datensätze gesetzt
+
+stat_capt_5=Fischart
+stat_capt_6=Freigegebener Fisch
+stat_capt_7=Rotes Buch
+
+stat_capt_8=AUF EINER POSENRUTE
+stat_capt_9=AUF EINER SPINNRUTE
+stat_capt_10=AUF EINER GRUNDRUTE
+stat_capt_11=AUF EINER FLIEGENRUTE
+
+stat_capt_big=Größter FISCH
+stat_capt_dat=* Die Zählung startet ab 15.07.20
+
 gi_um_12=PROFIL
 -------------------
 clubInfo_1=Clublevel: {0}
@@ -103,7 +127,7 @@ dntpck_1_info=Das Kit enthält eine leichte Castingrute (+75% Erf.), eine LP-Rol
 wptype_offset=Offset Haken
 wptype_jhead=Jigkopf
 
-ny_later = Heute gibt es keine Geschenke mehr. Komme morgen wieder
+ny_later=Heute gibt es keine Geschenke mehr. Komme morgen wieder
 ufstat_trof=Trophäe:
 
 chtset_alfa=Hintergrund-Transparenz
@@ -195,8 +219,8 @@ setbtn_1=Klänge
 setbtn_2=Steuerelemente
 setbtn_3=Spiel
 
-btn_makeoutinf = Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten zerlegen. Alle Gegenstände der zusammengebauten Ruten landen im Inventar.
-btn_makeout = OK - MACH ES 
+btn_makeoutinf=Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten zerlegen. Alle Gegenstände der zusammengebauten Ruten landen im Inventar.
+btn_makeout=OK - MACH ES 
 
 btn_ext1=zurück zum Hauptmenü
 btn_ext2=zurück zu Windows

@@ -1,3 +1,9 @@
+Patch 1.30.5 
+Eine signifikante Erhöhung der Informationen beim Anzeigen des Profils eines Spielers und seines Profils.
+Es ist erlaubt, einem anderen Spieler einen Bastelköder zu geben, wenn der Geber einen VIP hat
+Wenn Sie jetzt Informationen über Fische an einem See öffnen, haben Fische, die Sie noch nicht gefangen haben, nur einen Umriss. Wenn Sie einen Fisch fangen, geben die Informationen das maximale Gewicht des von Ihnen gefangenen Fisches und den Köder an, der an dieser Stelle gefangen wurde
+Ausgleich der Anzahl bestimmter Arten an der Donau (Äsche, Taimen, Wels, Barbe)
+
 Patch 1.30.4 
 Es wurde die Möglichkeit hinzugefügt, Spielerinformationen im Chat anzuzeigen.
 Fisch im Kühlschrank nach Gewicht sortiert

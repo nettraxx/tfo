@@ -1,5 +1,28 @@
 [INTERFACE]
 
+stat_finfo1=Всего {0} шт
+stat_finfo2=Наибольшая {0}
+
+unv_count={0} шт
+stat_uinf_0=Время онлайн: {0}
+stat_turn_crt=СОЗДАТЬ ТУРНИР
+stat_capt_1=Заданий выполнено
+stat_capt_2=Рыб поймано
+stat_capt_3=Трофеев поймано
+stat_capt_4=Мировых рекордов
+
+stat_capt_5=Видов рыб
+stat_capt_6=Отпущено рыб
+stat_capt_7=Краснокнижных 
+
+stat_capt_8=НА ПОПЛАВОЧНУЮ
+stat_capt_9=НА СПИННИНГ 
+stat_capt_10=НА ДОННУЮ 
+stat_capt_11=НА НАХЛЫСТ
+
+stat_capt_big=Наибольшая рыба
+stat_capt_dat=* подсчёт ведется с 15.07.20
+
 gi_um_12=ПРОФИЛЬ
 -------------------
 
