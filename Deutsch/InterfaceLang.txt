@@ -1,7 +1,7 @@
 ﻿[INTERFACE]
 
 stat_finfo1=Insgesamt {0} Stk
-stat_finfo2=Größte {0}
+stat_finfo2=Größter {0}
 
 unv_count={0} Stk
 stat_uinf_0=Online-Zeit: {0}
@@ -9,18 +9,18 @@ stat_turn_crt=TURNIER ERSTELLEN
 stat_capt_1=Aufgaben erledigt
 stat_capt_2=Anzahl der Fische
 stat_capt_3=Anzahl der Trophäen
-stat_capt_4=Datensätze gesetzt
+stat_capt_4=Anzahl der Rekordfische
 
-stat_capt_5=Fischart
-stat_capt_6=Freigegebener Fisch
-stat_capt_7=Rotes Buch
+stat_capt_5=Gefangene Fischarten
+stat_capt_6=Freigelassene Fische
+stat_capt_7=Geschonte Fische
 
-stat_capt_8=AUF EINER POSENRUTE
-stat_capt_9=AUF EINER SPINNRUTE
-stat_capt_10=AUF EINER GRUNDRUTE
-stat_capt_11=AUF EINER FLIEGENRUTE
+stat_capt_8=POSENRUTE
+stat_capt_9=SPINNRUTE
+stat_capt_10=GRUNDRUTE
+stat_capt_11=FLIEGENRUTE
 
-stat_capt_big=Größter FISCH
+stat_capt_big=Größter Fisch
 stat_capt_dat=* Die Zählung startet ab 15.07.20
 
 gi_um_12=PROFIL
