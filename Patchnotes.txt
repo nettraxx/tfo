@@ -1,3 +1,16 @@
+Patch 1.30.6 
+Dynamische Erfahrung für den Fischfang hinzugefügt
+Wenn Sie die Registerkarte "Fisch im See" öffnen, können Sie die Größe Ihres Fischfangs in diesem Reservoir sehen.
+Mit einer grünen Skala von 0-100% erhalten Sie einen Bonus von bis zu 25%, wenn Sie diesen Fisch fangen
+Mit einer gelben Skala von 100-300% sammeln Sie keine zusätzlichen Erfahrungen
+Wenn die rote Skala> 300% ist, nimmt die Erfahrung ab, wenn dieser Fisch in diesem Reservoir gefangen wird.
+Wenn Sie aufhören, diese Art von Fisch in diesem Reservoir zu fangen, verringert sich die Skala innerhalb eines Monats auf 0% und Sie können wieder Bonuserfahrung erhalten.
+Bitte beachten Sie, dass sich die Skala nur auf die Fischart in diesem Reservoir bezieht. Wenn der Fisch in einem anderen Gewässer lebt, gibt es eine separate Skala dafür
+Ebenfalls:
+Änderungen am Turnierplan in Frankreich und Finnland. Jetzt finden jeden zweiten Tag abwechselnd verschiedene Turniere statt.
+Testen Sie Blitz-Turniere auf dem Fluss Pra und Finnland jetzt mit Auszeichnungen
+Es wurde die Möglichkeit hinzugefügt, Informationen zu Clubmitgliedern und andere kleinere Korrekturen an der Benutzeroberfläche anzuzeigen
+
 Patch 1.30.5 
 Eine signifikante Erhöhung der Informationen beim Anzeigen des Profils eines Spielers und seines Profils.
 Es ist erlaubt, einem anderen Spieler einen Bastelköder zu geben, wenn der Geber einen VIP hat
