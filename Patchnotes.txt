@@ -1,3 +1,13 @@
+Patch 1.31.0
+Es wurde eine Mechanik für Trophäenbelohnungen für verschiedene Spieleraktionen hinzugefügt.
+Trophäenbelohnungen werden dem Profil des Spielers hinzugefügt und können von anderen angezeigt werden.
+Trophäen werden in Trophäen aus Erfolgen (in Entwicklung), Trophäen aus Fischereibasen, Trophäen aus Turnieren und Trophäen aus Fischen unterteilt.
+Turnier-Trophäen werden für einen Platz in einem Turnier vergeben. Um eine Basistrophäe zu erhalten, müssen Sie alle Arten von Fischen an dieser Basis fangen. Trophäen von Fischarten werden durch Fangen dieser Fische erhalten.
+Ebenfalls,
+visuelle und akustische Warnung zum Neustart des Servers hinzugefügt
+Wenn der Spieler das Spiel auf dem Boot verlassen hat, befindet er sich beim nächsten Anmelden am selben Ort auf demselben Boot.
+Andere kleinere Korrekturen
+
 Patch 1.30.6 
 Dynamische Erfahrung für den Fischfang hinzugefügt
 Wenn Sie die Registerkarte "Fisch im See" öffnen, können Sie die Größe Ihres Fischfangs in diesem Reservoir sehen.

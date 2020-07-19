@@ -1,6 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <quests>
 
+
+
+  <tropy_name>
+	<tr id="100" shortname="Trophy|«[IDNAME]»" name="Trophy «[IDNAME]»" 
+	info_1="Trophy is awarded for entering the top ten players of the tournament «[IDNAME]»" 
+	info_2="The trophy is awarded for the third place in the tournament «[IDNAME]»||People start to recognize you on the streets" 
+	info_3="The trophy is given for the second place in the  tournament «[IDNAME]»|| You were invited to the «Talents program»" 
+	info_4="Trophy is awarded for first place in the tournament «[IDNAME]»||Chuck Norris wants to get your autograph"/> 
+	
+	<tr id="200" shortname="Trophy|«[IDNAME]»" name="Trophy «[IDNAME]»" 
+	info_1="" 
+	info_2="The trophy is awarded for capturing all types of fish|on the lake «[IDNAME]»" 
+	info_3="" 
+	info_4=""/> 
+	
+	<tr id="300" shortname="Trophy|«[IDNAME]»" name="Trophy «[IDNAME]»" 
+	info_1="" 
+	info_2="The trophy is awarded for catching a certain weight||Increases the biting intensity of this species by 3%" 
+	info_3="The trophy is awarded for catching a certain weight||Increases the biting intensity of this species by 6%" 
+	info_4="The trophy is awarded for catching a certain weight||Increases the biting intensity of this species by 9%" /> 	
+
+  </tropy_name>
+
+
+
  <tnames>
     <turn id="1" name="France standings"   info="--"/>   
     <turn id="2" name="Trout mastery"  info="--"/>   
@@ -10,10 +35,14 @@
     <turn id="6" name="Finland" info="--"/>   	
 	<turn id="7" name="Stick blitz" info="--"/>
 
-	<turn id="10" name="⭔Spinning-blitz" info="--"/>
-	<turn id="11" name="⭔Bottom-blitz" info="--"/> 
-	<turn id="12" name="⭔Fly-blitz" info="--"/>  	
+	<turn id="10" name="Spinning-blitz" info="--"/>
+	<turn id="11" name="Bottom-blitz" info="--"/> 
+	<turn id="12" name="Fly-blitz" info="--"/>  	
   </tnames>
+
+
+
+
 
 
   <qdynamic>

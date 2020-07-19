@@ -1,5 +1,20 @@
 [INTERFACE]
 
+trof_mtype_0=ДЕРЕВЯННЫЙ
+trof_mtype_1=МЕДНЫЙ
+trof_mtype_2=БРОНЗОВЫЙ
+trof_mtype_3=СЕРЕБРЯНЫЙ
+trof_mtype_4=ЗОЛОТОЙ
+
+trof_capt_1=ТРОФЕИ ДОСТИЖЕНИЙ
+trof_capt_100=ТРОФЕИ ТУРНИРОВ
+trof_capt_200=ТРОФЕИ БАЗ
+trof_capt_300=ТРОФЕИ ВИДОВ РЫБ
+
+stat_capt_luck=Рыба удачи
+stat_capt_love=Любимая рыба
+untrof_count=Трофеев {0} шт
+
 stat_finfo1=Всего {0} шт
 stat_finfo2=Наибольшая {0}
 

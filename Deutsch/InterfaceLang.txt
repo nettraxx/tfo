@@ -1,5 +1,22 @@
 ﻿[INTERFACE]
 
+trof_mtype_0=HOLZ
+trof_mtype_1=KUPFER
+trof_mtype_2=BRONZE
+trof_mtype_3=SILBER
+trof_mtype_4=GOLD
+
+trof_capt_1=TROPHÄEN AUS WETTBEWERBEN
+trof_capt_100=TURNIER TROPHÄEN
+trof_capt_200=TROPHÄEN AUS GEWÄSSERN
+trof_capt_300=TROPHÄEN VON FISCHARTEN
+
+stat_capt_luck=Glücksfisch
+stat_capt_love=Lieblingsfisch
+untrof_count=Trophäen {0} Stk
+
+-------------------
+
 stat_finfo1=Insgesamt {0} Stk
 stat_finfo2=Größter {0}
 

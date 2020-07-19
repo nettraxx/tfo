@@ -1,5 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <quests>
+
+  <tropy_name>
+	<tr id="100" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
+	info_1="Trophäe wird für die Teilnahme an den zehn besten Spielern des Turniers vergeben «[IDNAME]»" 
+	info_2="Die Trophäe wird für den dritten Platz im Turnier vergeben «[IDNAME]»||Die Leute erkennen dich auf der Straße" 
+	info_3="Die Trophäe wird für den zweiten Platz im Turnier vergeben «[IDNAME]»||Sie wurden zum «Talentprogramm» eingeladen" 
+	info_4="Die Trophäe wird für den ersten Platz im Turnier vergeben «[IDNAME]»||Chuck Norris möchte ein Autogramm von ihnen"/> 
+	
+	<tr id="200" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
+	info_1="" 
+	info_2="Die Trophäe wird für das Fangen aller Arten von Fischen|auf dem See vergeben «[IDNAME]»" 
+	info_3="" 
+	info_4=""/> 
+	
+	<tr id="300" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
+	info_1="" 
+	info_2="Die Trophäe wird für das Fangen eines bestimmten Gewichts vergeben||Erhöht die Beißintensität dieser Art um 3%" 
+	info_3="Die Trophäe wird für das Fangen eines bestimmten Gewichts vergeben||Erhöht die Beißintensität dieser Art um 6%" 
+	info_4="Die Trophäe wird für das Fangen eines bestimmten Gewichts vergeben||Erhöht die Beißintensität dieser Art um 9%" /> 	
+
+  </tropy_name>
+
 	<tnames>
 		<turn id="1" name="Teichklassifizierung"   info="--"/>   
 		<turn id="2" name="Forellenbeherrschung"  info="--"/>   

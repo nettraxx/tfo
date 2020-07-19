@@ -1,5 +1,22 @@
 ﻿[INTERFACE]
 
+trof_mtype_0=WOODEN
+trof_mtype_1=COPPER
+trof_mtype_2=BRONZE
+trof_mtype_3=SILVER
+trof_mtype_4=GOLD
+
+trof_capt_1=TROPHIES OF ACHIEVEMENTS
+trof_capt_100=TOURNAMENT TROPHIES
+trof_capt_200=TROPHIES OF LAKES 
+trof_capt_300=FISH SPECIES TROPHIES
+
+stat_capt_luck=Lucky fish
+stat_capt_love=Love fish
+untrof_count=Trophies {0} pcs
+
+-------------------
+
 stat_finfo1=Total {0} pcs
 stat_finfo2=Greatest {0}
 
