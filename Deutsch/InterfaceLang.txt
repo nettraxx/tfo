@@ -741,12 +741,12 @@ post_21=<color='#000000'>Letter send cost:</color>
 post_22=Money
 post_23=Attachment sum in the letter:
 
-post_msg1=Letter sent successfully
-post_msg2=The recipient not found!
-post_msg3=Not enough money!
-post_msg4=Internal sending error!
-post_msg5=Items not found!
-post_msg6=You cannot send letters to yourself!
+post_msg1=Geschenk erfolgreich zugestellt
+post_msg2=Empfänger nicht gefunden!
+post_msg3=Nicht genug Geld!
+post_msg4=Interner Sendefehler!
+post_msg5=Gegenstand nicht gefunden!
+post_msg6=Sie können keine Geschenk an sich selbst senden!
 post_msg7=The letter contains attachments!\nTo delete the letter take all the attachments first
 
 #------------------------------------
