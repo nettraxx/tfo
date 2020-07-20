@@ -8,7 +8,7 @@ Neue Futtermischungen zum Geschäft hinzugefügt
 Die Chance, Trophäenfische zu fangen, wurde um 15% erhöht
 Das Boot wird jetzt mit dem Heck des Baches anstatt mit dem Bug eingesetzt
 Andere Fehlerbehebungen und Schnittstellenbehebungen
-
+ 
 Patch 1.31.0
 Es wurde eine Mechanik für Trophäenbelohnungen für verschiedene Spieleraktionen hinzugefügt.
 Trophäenbelohnungen werden dem Profil des Spielers hinzugefügt und können von anderen angezeigt werden.

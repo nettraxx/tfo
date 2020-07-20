@@ -12,7 +12,7 @@ trof_capt_200=TROPHÄEN AUS GEWÄSSERN
 trof_capt_300=TROPHÄEN VON FISCHARTEN
 
 stat_capt_luck=Glücksfisch
-stat_capt_love=<size=30>Lieblingsfisch</size>
+stat_capt_love=Lieblingsfisch
 untrof_count=Trophäen {0} Stk
 
 -------------------
