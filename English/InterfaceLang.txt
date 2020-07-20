@@ -1,5 +1,5 @@
 ﻿[INTERFACE]
-
+trof_give=TROPHY RECEIVED
 trof_mtype_0=WOODEN
 trof_mtype_1=COPPER
 trof_mtype_2=BRONZE
@@ -12,7 +12,7 @@ trof_capt_200=TROPHIES OF LAKES
 trof_capt_300=FISH SPECIES TROPHIES
 
 stat_capt_luck=Lucky fish
-stat_capt_love=Love fish
+stat_capt_love=<size=30>Love fish</size>
 untrof_count=Trophies {0} pcs
 
 -------------------

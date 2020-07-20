@@ -1,3 +1,14 @@
+Patch 1.31.1
+Hallo Freunde. Ich freue mich, Ihnen mitteilen zu können, dass der Pra-Fluss zugenommen hat. Jetzt flussabwärts des Flusses steht ein weiterer 800 Meter langer Ort zur Verfügung. Sie können mit dem Boot dorthin gelangen, es gibt auch einen Strand, an dem Sie vom Ufer aus angeln können.
+Darüber hinaus hat der Standort seine Details erweitert, viele Modelle und Texturen wurden aktualisiert
+In den Fluss wurde eine seltene Fischnase aus dem Roten Buch (geschont) eingepflanzt, die für einen Fischer zu einer wertvollen Trophäe werden kann.
+Darüber hinaus im Update:
+Clubfähigkeiten für Clubs ab 15 Level hinzugefügt
+Neue Futtermischungen zum Geschäft hinzugefügt
+Die Chance, Trophäenfische zu fangen, wurde um 15% erhöht
+Das Boot wird jetzt mit dem Heck des Baches anstatt mit dem Bug eingesetzt
+Andere Fehlerbehebungen und Schnittstellenbehebungen
+
 Patch 1.31.0
 Es wurde eine Mechanik für Trophäenbelohnungen für verschiedene Spieleraktionen hinzugefügt.
 Trophäenbelohnungen werden dem Profil des Spielers hinzugefügt und können von anderen angezeigt werden.

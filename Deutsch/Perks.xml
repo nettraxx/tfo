@@ -10,4 +10,8 @@
 	<aperk id="104" name="Effektivität" info="erhöht um 3% die Cluberfahrung aus allen Quellen"/>
 	<aperk id="105" name="Jugendschule" info="erhöht die Anzahl der Clubmitglieder um 2"/>
 	
+	<aperk id="106" name="Effektivität II" info="erhöht um 7% die Cluberfahrung aus allen Quellen"/>
+	<aperk id="107" name="Erfahrung II" info="erhöht um 2% die Erfahrung beim Angeln aller Clubmitglieder"/>
+	<aperk id="108" name="Einkommen II" info="erhöht um 2% das Einkommen aus dem Verkauf von Fisch aller Clubmitglieder"/>
+	
 </perks>	 

@@ -2786,16 +2786,16 @@ Brachse, Giebel, Güster, Karausche, See Elritze, Tiberbarbe
       </info>
     </weapon>
     <weapon id="1454">
-      <name>Futter "Karpfen"</name>
-      <info>Ein Fertig-Mix-Futter. Speziell für Karpfenartige gemacht. Um es zu benutzen, musst du es mit Wasser mischen.</info>
+      <name>Futter "Karpfen-Honig"</name>
+      <info>Ein Fertig-Mix-Futter. Speziell für Karpfenartige gemacht.</info>
     </weapon>
     <weapon id="1455">
-      <name>Futter "Schleie"</name>
-      <info>Ein Fertig-Mix-Futter. Speziell für Schleien gemacht. Um es zu benutzen, musst du es mit Wasser mischen.</info>
+      <name>Futter "Schleie-Karausche"</name>
+      <info>Ein Fertig-Mix-Futter. Speziell für Schleien und Karauschen gemacht.</info>
     </weapon>
     <weapon id="1456">
       <name>Futter "Brachse"</name>
-      <info>Ein Fertig-Mix-Futter. Speziell für Brachsen gemacht. Um es zu benutzen, musst du es mit Wasser mischen.</info>
+      <info>Ein Fertig-Mix-Futter. Speziell für Brachsen gemacht.</info>
     </weapon>
     <weapon id="1457">
       <name>Mein Futter-Mix</name>
@@ -2806,8 +2806,8 @@ Brachse, Giebel, Güster, Karausche, See Elritze, Tiberbarbe
       <info>Fertig-Mix Futter für Karpfen</info>
     </weapon>
     <weapon id="1459">
-      <name>Futter "Für Schleie"</name>
-      <info>Fertig-Mix Futter für Schleie</info>
+      <name>Futter "SportFEED"</name>
+      <info>Fertig-Mix Futter</info>
     </weapon>
     <weapon id="1460">
       <name>Futter "Für Brachse"</name>

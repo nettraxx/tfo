@@ -1,5 +1,5 @@
 ﻿[INTERFACE]
-
+trof_give=TROPHÄEN GEFANGEN
 trof_mtype_0=HOLZ
 trof_mtype_1=KUPFER
 trof_mtype_2=BRONZE
@@ -12,7 +12,7 @@ trof_capt_200=TROPHÄEN AUS GEWÄSSERN
 trof_capt_300=TROPHÄEN VON FISCHARTEN
 
 stat_capt_luck=Glücksfisch
-stat_capt_love=Lieblingsfisch
+stat_capt_love=<size=30>Lieblingsfisch</size>
 untrof_count=Trophäen {0} Stk
 
 -------------------

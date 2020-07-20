@@ -4,12 +4,14 @@
 	<aperk id="100" name="Officers" info="by 1 increases the count of officers" />
 	<aperk id="101" name="Main group" info="by 2 increases the count of club members"/>
 	
-	<aperk id="102" name="An experience" info="by 1% increases the experience gained from fishing for all members of the club"/>
+	<aperk id="102" name="Experience" info="by 1% increases the experience gained from fishing for all members of the club"/>
 	<aperk id="103" name="Income" info="by 1% increases the income from the sale of fish to all club members"/>
 	
 	<aperk id="104" name="Efficiency" info="by 3% increases the club’s experience from all sources"/>
 	<aperk id="105" name="College" info="by 2 increases the count of club members"/>
 	
-	
+	<aperk id="106" name="Efficiency II" info="by 7% increases the club’s experience from all sources"/>
+	<aperk id="107" name="Experience II" info="by 2% increases the experience gained from fishing for all members of the club"/>
+	<aperk id="108" name="Income II" info="by 2% increases the income from the sale of fish to all club members"/>
 	
 </perks>    

@@ -1,5 +1,5 @@
 [INTERFACE]
-
+trof_give=ТРОФЕЙ ПОЛУЧЕН
 trof_mtype_0=ДЕРЕВЯННЫЙ
 trof_mtype_1=МЕДНЫЙ
 trof_mtype_2=БРОНЗОВЫЙ

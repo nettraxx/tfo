@@ -2707,16 +2707,16 @@ Size 3</info>
       </info>
     </weapon>
     <weapon id="1454">
-      <name>Attractant "Carp"</name>
-      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of all crucian species. To use it you have to mix it with water.</info>
+      <name>Attractant "Carp-honey"</name>
+      <info> Specially made for the increasing of the biting intensity of all crucian species. </info>
     </weapon>
     <weapon id="1455">
-      <name>Attractant "Tench"</name>
-      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of tench. To use it you have to mix it with water.</info>
+      <name>Attractant "Tench-Crucian"</name>
+      <info>Specially made for the increasing of the biting intensity of tench and crucians. </info>
     </weapon>
     <weapon id="1456">
       <name>Attractant "Bream"</name>
-      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of bream. To use it you have to mix it with water.</info>
+      <info>Specially made for the increasing of the biting intensity of bream. </info>
     </weapon>
     <weapon id="1457">
       <name>My mixture</name>
@@ -2727,8 +2727,8 @@ Size 3</info>
       <info>Ready-made attractant for crucian</info>
     </weapon>
     <weapon id="1459">
-      <name>Attractant "For tench"</name>
-      <info>Ready-made attractant for tench</info>
+      <name>Attractants "SportFEED"</name>
+      <info></info>
     </weapon>
     <weapon id="1460">
       <name>Attractant "For bream"</name>
