@@ -746,7 +746,7 @@ post_msg2=Empfänger nicht gefunden!
 post_msg3=Nicht genug Geld!
 post_msg4=Interner Sendefehler!
 post_msg5=Gegenstand nicht gefunden!
-post_msg6=Sie können keine Geschenk an sich selbst senden!
+post_msg6=Sie können kein Geschenk an sich selbst senden!
 post_msg7=The letter contains attachments!\nTo delete the letter take all the attachments first
 
 #------------------------------------
