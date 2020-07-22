@@ -2,6 +2,12 @@
 <quests>
 
   <tropy_name>
+	<tr id="10" shortname="Trophäe|«Gesamtbewertung»" name="Trophäe «Gesamtbewertung»" 
+	info_1="Die Trophäe wird für die Eingabe der TOP 200-Bewertung vergeben" 
+	info_2="Die Trophäe wird für die Eingabe der TOP 50-Bewertung vergeben" 
+	info_3="Die Trophäe wird für die Eingabe der TOP 10-Bewertung vergeben" 
+	info_4="Die Trophäe wird für den 1. Platz in der Gesamtbewertung vergeben"/>     
+
 	<tr id="100" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
 	info_1="Trophäe wird für die Teilnahme an den zehn besten Spielern des Turniers vergeben «[IDNAME]»" 
 	info_2="Die Trophäe wird für den dritten Platz im Turnier vergeben «[IDNAME]»||Die Leute erkennen dich auf der Straße" 
@@ -118,7 +124,7 @@
 		<cat id="1010" glava="2000" name="Club oder Köder Aufgabe">
 			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
 			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
-			<task id="4" txt="[fish] trophy: [curcnt] / [maxcnt] Stk"/>	
+			<task id="4" txt="[fish] Trophäe: [curcnt] / [maxcnt] Stk"/>	
 			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
 			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
 			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
@@ -127,7 +133,7 @@
 		<cat id="1020" glava="2000" name="Erfahrungs Aufgabe">
 			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
 			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
-			<task id="4" txt="[fish] trophy: [curcnt] / [maxcnt] Stk"/>	
+			<task id="4" txt="[fish] Trophäe: [curcnt] / [maxcnt] Stk"/>	
 			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
 			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
 			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>

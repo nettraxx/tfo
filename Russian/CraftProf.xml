@@ -1,51 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <craft_data>
-
-
 	<categories>
 		<category id="0" name="Общие рецепты"/>
 		<category id="10" name="Задания"/>
-		
-		<category id="50" name="Разделка рыбы">
-      		<category id="150" name="Любительская разделка рыбы"/>
-	    </category>
-
 		<category id="55" name="Прикормы"/>
-		
-		
 	    <category id="60" name="Механика"/>
-
-		<category id="80" name="Любительская химия"/>
-		
-		
-		<category id="100" name="Медикаменты"/>
 		<category id="200" name="Еда и напитки"/>
 		<category id="400" name="Наживки"/>
-		<category id="500" name="Снасти"/>
+		<category id="500" name="Поплавочные"/>
 		<category id="515" name="Донные"/>
 		<category id="510" name="Спиннинг"/>
-		<category id="410" name="Блесны и имитации"/>
+		<category id="520" name="Нахлыст"/>
+		<category id="410" name="Приманки"/>
 		<category id="520" name="Техническое обеспечение"/>
-		
-
-
-		<category id="1020" name="Детали разные"/>
-		<category id="1021" name="Детали удочка"/>
-		<category id="1022" name="Детали катушка"/>
-		<category id="1023" name="Детали леска"/>
-
-
 		<category id="1000" name="Материалы"/>
-		<category id="1010" name="Компоненты"/>
 		<category id="1030" name="Расходные"/>
-		
-		<category id="1050" name="Коллекции общие"/>
-		<category id="1052" name="Коллекции Убежище"/>
-		<category id="1054" name="Коллекции Пруд"/>
-		<category id="1056" name="Коллекции Пустошей"/>
-		<category id="1058" name="Коллекции Озеро"/>
-		<category id="1059" name="Коллекции Разливы"/>
-		<category id="1060" name="Коллекции Дельта"/>
 	</categories>
-
 </craft_data>

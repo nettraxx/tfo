@@ -1,3 +1,19 @@
+Patch 1.31.3
+Mit diesem Update wurde dem Spiel die Möglichkeit hinzugefügt, große Köder zu erstellen - "Bündel" zum Fangen großer Fische.
+Große Köder sind groß, weil nur große Fische auf sie beißen. Dementsprechend benötigt die Takelage für diese Köder leistungsstarke. Speziell für sie wurden dem Meer an Seestellen (Italien und Kaspisch) Seehaken in den Größen 4 bis 5 hinzugefügt. Aber Sie sollten nicht denken, dass große Fische genauso oft beißen wie kleine. Es gibt viel weniger große Fische im Stausee, daher können Sie lange auf einen Biss warten. Es besteht jedoch die Garantie, dass Ihr Köder nicht von interessierten Brassen verschlungen wird. Er kann es einfach nicht schlucken, weil es riesig ist.
+Für Liebhaber des Feederfischens auf kleine Fische oder für Anfänger wurde dem Spiel ein Spendenpaket mit einem 6 kg Picker und allem, was dazu notwendig ist, hinzugefügt. Wenn Sie mit einem solchen Picker angeln, erhalten Sie zusätzlich 50% Erfahrung. Bei großen Fischen müssen Sie jedoch kämpfen.
+Darüber hinaus im Update:
+Donau - gestreifte Halskrause hinzugefügt
+Fluss Pra - Gudgeon hinzugefügt
+Brasse - verminderte Aktivität in allen Gewässern. Ausgleich zu einem überwiegend nächtlichen Lebensstil
+Wels - eine Ernährungsumstellung, eine Abnahme der Aktivität in allen Gewässern, neue Köder wurden hinzugefügt
+Quappe - neue Köder hinzugefügt
+Alle Störe - Ernährungsumstellung, neue Köder hinzugefügt
+Lachs - neue Köder hinzugefügt
+Thunfisch, Seehecht. Meeräsche - neue Köder hinzugefügt
+Feste Modelle und Texturen einiger Fische
+Andere kleinere Korrekturen an der Benutzeroberfläche wirken sich nicht auf die Spielbalance aus
+
 Patch 1.31.1
 Hallo Freunde. Ich freue mich, Ihnen mitteilen zu können, dass der Pra-Fluss zugenommen hat. Jetzt flussabwärts des Flusses steht ein weiterer 800 Meter langer Ort zur Verfügung. Sie können mit dem Boot dorthin gelangen, es gibt auch einen Strand, an dem Sie vom Ufer aus angeln können.
 Darüber hinaus hat der Standort seine Details erweitert, viele Modelle und Texturen wurden aktualisiert

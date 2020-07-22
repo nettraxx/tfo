@@ -1,4 +1,12 @@
 ﻿[INTERFACE]
+
+craftwp_btn=Craft table
+dntpck_3_name=Packet "Bee Picker"
+dntpck_3_info=The pack contains a light picker (feeder rig 6 kg, + 50% to the experience gained), a spinning reel and a line. An unopened pack can be gifted to a friend.
+wpn_ibsize_4=Size bunch\n(Hooks №3-5)
+//---------------------
+
+
 trof_give=TROPHY RECEIVED
 trof_mtype_0=WOODEN
 trof_mtype_1=COPPER
@@ -325,6 +333,7 @@ wpn_hook_sz1=Small
 wpn_hook_sz2=Medium
 wpn_hook_sz3=Big
 wpn_hook_sz4=Huge
+wpn_hook_sz5=Huge
 
 recsts_btn1=BY NAME
 recsts_btn2=BY WEIGHT
@@ -789,7 +798,7 @@ cht_msg2=Received {0} from fish sale
 cht_msg3=VIP patent has been bought
 cht_msg4=Not enough funds
 cht_msg5=Auction: sold {0} х{1} pcs
-cht_msg6=<color='#ff0000'>Server restarts in {0} seconds</color>
+cht_msg6=<color='#ff0000'>Server restarts in {0}</color>
 cht_msg7=record: {0} {1}
 cht_msg8=<color='#ffa020'>You have set {0}</color>
 cht_msg9=<color='#ffa020'>Player {0} has set {1}</color>

@@ -1452,8 +1452,9 @@
       <info> Ресурс для создания снастей</info>
     </weapon>
     <weapon id="1270">
-      <name>Синтетика</name>
-      <info> Ресурс для создания лесок</info>
+      <name>ПВА Материал</name>
+      <info>25 mm x5m 
+Материал, для создания пакетов прикорма, связок, мешочков наживки</info>
     </weapon>
     <weapon id="1271">
       <name>Химопласт</name>
@@ -2235,8 +2236,7 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1440">
       <name>Kitana DeepStream 8</name>
-      <info>Класс Picker
-Прекрасно бросает небольшие кормушки на дальнее расстояние</info>
+      <info>Прекрасно бросает небольшие кормушки на дальнее расстояние</info>
     </weapon>
     <weapon id="1441">
       <name>Корзина-30гр</name>
@@ -2357,8 +2357,10 @@ VIP не даёт бонуса.</info>
       <info>Класс Light</info>
     </weapon>
     <weapon id="1470">
-      <name>Пикер-I</name>
-      <info>Облегченный вариант донной снасти для точного заброса</info>
+      <name>Пикер Bee-Gold</name>
+      <info>Класс Picker
+Облегченный вариант донной снасти для точного заброса лёгких кормушек
++50% опыта</info>
     </weapon>
     <weapon id="1471">
       <name>Костюм "Листопад"</name>
@@ -3864,6 +3866,36 @@ VIP не даёт бонуса.</info>
     <weapon id="1799">
       <name>Подлесок 17.2 кг</name>
       <info>Конический подлесок с поводком для нахлыста</info>
+    </weapon>
+    <weapon id="1800">
+      <name>Морская связка</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1801">
+      <name>Мешочек с икрой</name>
+      <info>  Деликатесная наживка для лососевой рыбы</info>
+    </weapon>
+    <weapon id="1802">
+      <name>BeeFeeder RSL</name>
+      <info>Профессиональная фидерная катушка лёгкого класса</info>
+    </weapon>
+    <weapon id="1803">
+      <name>BeeFluo 5.8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1804">
+      <name>Комплект BeePicker</name>
+      <info>Комплект содержит удочку-пикер, катушку, леску  из "пчелиного" фидерного комплекта известного производителя Basser</info>
+    </weapon>
+    <weapon id="1805">
+      <name>SeaHook FH-4</name>
+      <info>Прочные и острые крючки размера 2/0 предназначенные для морской рыбалки на связки наживок</info>
+    </weapon>
+    <weapon id="1806">
+      <name>SeaHook FH-5</name>
+      <info>Прочные и острые крючки размера 5/0 предназначенные для морской рыбалки на связки наживок</info>
     </weapon>
   </weapons>
 </wpnlang>

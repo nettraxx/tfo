@@ -1,4 +1,11 @@
 ﻿[INTERFACE]
+
+craftwp_btn=Handwerkstisch
+dntpck_3_name=Paket "Bee Picker"
+dntpck_3_info=Das Kit enthält eine Leichte Picker (6 kg Feeder Rig, + 50% Erfahrungsgewinn), eine Feederrolle und eine Schnur. Ein ungeöffnetes Set kann an einen Freund geschickt werden.
+wpn_ibsize_3=Gr. Ultra (Haken Nr.3-5)
+---------------------
+
 trof_give=TROPHÄEN GEFANGEN
 trof_mtype_0=HOLZ
 trof_mtype_1=KUPFER

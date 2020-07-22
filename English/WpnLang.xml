@@ -1718,10 +1718,8 @@ To activate press right mouse button on the item and select "Use".</info>
       </info>
     </weapon>
     <weapon id="1270">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>PVA Material</name>
+      <info>Material for making packages of feed, bundles, bait bags </info>
     </weapon>
     <weapon id="1271">
       <name>
@@ -2779,8 +2777,10 @@ Size 3</info>
       </info>
     </weapon>
     <weapon id="1470">
-      <name>--</name>
-      <info>
+      <name>Picker Bee-Gold</name>
+      <info>Picker class
+A lightweight version of the bottom tackle for precise casting of light feeders basket.
++50% exp
       </info>
     </weapon>
     <weapon id="1471">
@@ -3829,17 +3829,17 @@ Reels size: 1000-2500</info>
       </info>
     </weapon>
     <weapon id="1684">
-      <name>Связка рыбьего мяса</name>
+      <name>Bunch of fish meat</name>
       <info>
       </info>
     </weapon>
     <weapon id="1685">
-      <name>Связка потрохов</name>
+      <name>Bunch of giblets</name>
       <info>
       </info>
     </weapon>
     <weapon id="1686">
-      <name>Связка ракового мяса</name>
+      <name>Crayfish bunch</name>
       <info>
       </info>
     </weapon>
@@ -3849,7 +3849,7 @@ Reels size: 1000-2500</info>
       </info>
     </weapon>
     <weapon id="1688">
-      <name>Связка моллюсков</name>
+      <name>Bunch of clams</name>
       <info>
       </info>
     </weapon>
@@ -4382,5 +4382,37 @@ wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along
       <name>Fly leader 17.2 kg</name>
       <info>cone tapered leader for flyfishing</info>
     </weapon>	
+	
+    <weapon id="1800">
+      <name>Sea bunch</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1801">
+      <name>Caviar bag</name>
+      <info>Delicacy Salmon Bait</info>
+    </weapon>
+    <weapon id="1802">
+      <name>BeeFeeder RSL</name>
+      <info>Lightweight professional feeder reel</info>
+    </weapon>
+    <weapon id="1803">
+      <name>BeeFluo 5.8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1804">
+      <name>Complect BeePicker</name>
+      <info>The set contains a picker rod, a reel, a line from a "bee" feeder set from a well-known manufacturer Basser</info>
+    </weapon>
+    <weapon id="1805">
+      <name>SeaHook FH-4</name>
+      <info>Strong and sharp hooks in size 2/0 designed for saltwater fishing with bundles of baits</info>
+    </weapon>
+    <weapon id="1806">
+      <name>SeaHook FH-5</name>
+      <info>Strong and sharp hooks in size 5/0 designed for saltwater fishing with bundles of baits</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

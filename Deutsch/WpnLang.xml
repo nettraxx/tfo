@@ -1773,10 +1773,8 @@ Wildkarpfen
       </info>
     </weapon>
     <weapon id="1270">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>PVA-Material</name>
+      <info>Material zur Herstellung von Futterverpackungen, Bündeln, Köderbeuteln</info>
     </weapon>
     <weapon id="1271">
       <name>
@@ -4554,6 +4552,36 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
     <weapon id="1799">
       <name>Fliegen Vorfach 17,2 kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
-    </weapon>		
+    </weapon>			
+    <weapon id="1800">
+      <name>Seebündel</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1801">
+      <name>Kaviartasche</name>
+      <info>Delikatesse Lachsköder</info>
+    </weapon>
+    <weapon id="1802">
+      <name>BeeFeeder RSL</name>
+      <info>Leichte professionelle Feeder-Rolle</info>
+    </weapon>
+    <weapon id="1803">
+      <name>BeeFluo 5,8 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1804">
+      <name>Komplettset BeePicker</name>
+      <info>Das Set enthält eine Picker-Rute, eine Rolle, eine Schnur aus einem "Bienen" -Futter-Set eines bekannten Herstellers Basser</info>
+    </weapon>
+    <weapon id="1805">
+      <name>SeaHook FH-4</name>
+      <info>Starke und scharfe Haken in Größe 2/0 für das Salzwasserfischen mit Köderbündeln</info>
+    </weapon>
+    <weapon id="1806">
+      <name>SeaHook FH-5</name>
+      <info>Starke und scharfe Haken in Größe 5/0 für das Salzwasserfischen mit Köderbündeln</info>
+    </weapon>	
   </weapons>
 </wpnlang>
