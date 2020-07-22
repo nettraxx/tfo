@@ -13,7 +13,7 @@ Lachs - neue Köder hinzugefügt
 Thunfisch, Seehecht. Meeräsche - neue Köder hinzugefügt
 Feste Modelle und Texturen einiger Fische
 Andere kleinere Korrekturen an der Benutzeroberfläche wirken sich nicht auf die Spielbalance aus
- 
+
 Patch 1.31.1
 Hallo Freunde. Ich freue mich, Ihnen mitteilen zu können, dass der Pra-Fluss zugenommen hat. Jetzt flussabwärts des Flusses steht ein weiterer 800 Meter langer Ort zur Verfügung. Sie können mit dem Boot dorthin gelangen, es gibt auch einen Strand, an dem Sie vom Ufer aus angeln können.
 Darüber hinaus hat der Standort seine Details erweitert, viele Modelle und Texturen wurden aktualisiert

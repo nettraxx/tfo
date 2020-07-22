@@ -2856,8 +2856,10 @@ Brachse, Giebel, Güster, Karausche, See Elritze, Tiberbarbe
       </info>
     </weapon>
     <weapon id="1470">
-      <name>--</name>
-      <info>
+      <name>Picker Bee-Gold</name>
+      <info>Picker-Klasse
+Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
++ 50% exp
       </info>
     </weapon>
     <weapon id="1471">
@@ -3987,17 +3989,17 @@ Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenba
       <info>      </info>
     </weapon>	
 	<weapon id="1684">
-      <name>Ein Haufen Fischfleisch</name>
+      <name>Fischfetzenbündel</name>
       <info>
       </info>
     </weapon>
     <weapon id="1685">
-      <name>Ein Haufen Innereien</name>
+      <name>Innereienbündel</name>
       <info>
       </info>
     </weapon>
     <weapon id="1686">
-      <name>Ein Haufen Krebsfleisch</name>
+      <name>Krebsfleischbündel</name>
       <info>
       </info>
     </weapon>
