@@ -320,6 +320,7 @@ wpn_hook_sz1=klein
 wpn_hook_sz2=mittel
 wpn_hook_sz3=groß
 wpn_hook_sz4=riesig
+wpn_hook_sz5=ultra
 
 recsts_btn1=NACH NAME
 recsts_btn2=NACH GEWICHT
@@ -764,7 +765,7 @@ cht_msg2= {0} vom Fischverkauf erhalten
 cht_msg3=VIP wurde aktiviert
 cht_msg4=Nicht genug Geld
 cht_msg5=Auction: {0} х{1} Stück verkauft
-cht_msg6=<color='#ff0000'>Server Neustart in {0} Sekunden</color>
+cht_msg6=<color='#ff0000'>Server Neustart in {0}</color>
 cht_msg7=Rekord: {0} {1}
 cht_msg8=<color='#ffa020'>You have set {0}</color>
 cht_msg9=<color='#ffa020'>Spieler {0} hat den neuen {1}</color>
