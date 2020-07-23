@@ -1,3 +1,10 @@
+Patch 1.31.4
+Ein Rodpod zum Testen der Mechanik wurde hinzugefügt.
+Um es zu benutzen, müssen Sie es im Laden kaufen und in der Rodpod-Zelle installieren. Halten Sie zum Installieren auf dem Boden die Leertaste gedrückt, wählen Sie einen Ort aus und drücken Sie die linke Maustaste. Um einen Rodpod aufzunehmen, schauen Sie ihn sich an und drücken Sie E.
+Wenn Sie die erste Siegerkranzehrung erhalten, wird unter dem Kranz der Prozentsatz angezeigt, wie viel Sie vor dem zweiten Kranz noch fangen müssen
+Bei der Halskrause und Nase gibt es jetzt eine Bewertung
+Die Rezeptanforderungen für große Köder wurden reduziert
+
 Patch 1.31.3
 Mit diesem Update wurde dem Spiel die Möglichkeit hinzugefügt, große Köder zu erstellen - "Bündel" zum Fangen großer Fische.
 Große Köder sind groß, weil nur große Fische auf sie beißen. Dementsprechend benötigt die Takelage für diese Köder leistungsstarke. Speziell für sie wurden dem Meer an Seestellen (Italien und Kaspisch) Seehaken in den Größen 4 bis 5 hinzugefügt. Aber Sie sollten nicht denken, dass große Fische genauso oft beißen wie kleine. Es gibt viel weniger große Fische im Stausee, daher können Sie lange auf einen Biss warten. Es besteht jedoch die Garantie, dass Ihr Köder nicht von interessierten Brassen verschlungen wird. Er kann es einfach nicht schlucken, weil es riesig ist.

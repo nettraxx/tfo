@@ -7,12 +7,11 @@
 	    <category id="60" name="Механика"/>
 		<category id="200" name="Еда и напитки"/>
 		<category id="400" name="Наживки"/>
+		<category id="410" name="Приманки"/>		
 		<category id="500" name="Поплавочные"/>
 		<category id="515" name="Донные"/>
 		<category id="510" name="Спиннинг"/>
 		<category id="520" name="Нахлыст"/>
-		<category id="410" name="Приманки"/>
-		<category id="520" name="Техническое обеспечение"/>
 		<category id="1000" name="Материалы"/>
 		<category id="1030" name="Расходные"/>
 	</categories>
