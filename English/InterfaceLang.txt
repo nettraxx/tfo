@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+act_inf5=RODPODE
+act_inf5e=[E] Pick up
+
+//---------------------
 craftwp_btn=Craft table
 dntpck_3_name=Packet "Bee Picker"
 dntpck_3_info=The pack contains a light picker (feeder rig 6 kg, + 50% to the experience gained), a spinning reel and a line. An unopened pack can be gifted to a friend.

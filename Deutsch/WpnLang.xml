@@ -2858,7 +2858,7 @@ Brachse, Giebel, Güster, Karausche, See Elritze, Tiberbarbe
       <name>Picker Bee-Gold</name>
       <info>Picker-Klasse
 Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
-+ 50% exp
++ 50% Erfahrung
       </info>
     </weapon>
     <weapon id="1471">
@@ -4003,7 +4003,7 @@ Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenba
       </info>
     </weapon>
     <weapon id="1687">
-      <name>Seeköder</name>
+      <name>Seeköderbündel</name>
       <info>
       </info>
     </weapon>
@@ -4583,6 +4583,41 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
     <weapon id="1806">
       <name>SeaHook FH-5</name>
       <info>Starke und scharfe Haken in Größe 5/0 für das Salzwasserfischen mit Köderbündeln</info>
+    </weapon>
+    <weapon id="1807">
+      <name>Akma VB1 Gold</name>
+      <info>Schwerer Köder für die vertikale Führung</info>
+    </weapon>
+    <weapon id="1808">
+      <name>Akma VB2 Silver</name>
+      <info>Schwerer Köder für die vertikale Führung</info>
+    </weapon>
+    <weapon id="1809">
+      <name>Akma VB3 Fluo</name>
+      <info>Schwerer Köder für die vertikale Führung. Für Nachts</info>
+    </weapon>
+    <weapon id="1810">
+      <name>Akma Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1811">
+      <name>Picker USens SL5</name>
+      <info>Picker-Klasse
+Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
+Nur Rollengröße 2500 und kleiner sind zulässig
++ 30% Erfahrung</info>
+    </weapon>
+    <weapon id="1812">
+      <name>Picker USens UL3</name>
+      <info>Picker-Klasse
+Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
+Nur Rollengröße 2500 und kleiner sind zulässig
++ 50% Erfahrung</info>
+    </weapon>
+    <weapon id="1813">
+      <name>Pickers USens</name>
+      <info>Picker-Klasse</info>
     </weapon>	
   </weapons>
 </wpnlang>

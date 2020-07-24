@@ -4413,5 +4413,41 @@ wet fly on a "stretched cord" (downstream), Catching a wet fly with a play along
       <info>Strong and sharp hooks in size 5/0 designed for saltwater fishing with bundles of baits</info>
     </weapon>	
 	
+    <weapon id="1807">
+      <name>Akma VB1 gold</name>
+      <info>Heavy lure for vertical guiding</info>
+    </weapon>
+    <weapon id="1808">
+      <name>Akma VB2 silver</name>
+      <info>Heavy lure for vertical guiding</info>
+    </weapon>
+    <weapon id="1809">
+      <name>Akma VB3 fluo</name>
+      <info>Heavy lure for vertical guiding. Night</info>
+    </weapon>
+    <weapon id="1810">
+      <name>Akma Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1811">
+      <name>Picker USens SL5</name>
+      <info>Picker class
+A lightweight version of the bottom tackle for precise casting of light feeders
+Rells size 2500 and smaller are suitable
++ 30% experience</info>
+    </weapon>
+    <weapon id="1812">
+      <name>Picker USens UL3</name>
+      <info>Picker class
+A lightweight version of the bottom tackle for precise casting of light feeders
+Rells size 2500 and smaller are suitable
++ 50% experience</info>
+    </weapon>
+    <weapon id="1813">
+      <name>Pickers USens</name>
+      <info>Picker class</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>
