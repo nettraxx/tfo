@@ -3092,7 +3092,7 @@ VIP не даёт бонуса.</info>
       </info>
     </weapon>
     <weapon id="1635">
-      <name>Поводок 2.8 кг</name>
+      <name>Поводок 2.7 кг</name>
       <info>
       </info>
     </weapon>
@@ -3167,12 +3167,12 @@ VIP не даёт бонуса.</info>
       </info>
     </weapon>
     <weapon id="1650">
-      <name>NS XG light</name>
+      <name>NS XG7 light</name>
       <info>Шнур для нахлыстовой ловли, зелёный
 </info>
     </weapon>
     <weapon id="1651">
-      <name>Поводок 17 кг</name>
+      <name>Поводок 16.9 кг</name>
       <info>
       </info>
     </weapon>
@@ -3931,8 +3931,63 @@ VIP не даёт бонуса.</info>
       <name>Пикеры USens</name>
       <info>Класс Picker
 Облегченный вариант донной снасти для точного заброса лёгких кормушек
-Подходят катушки размера 2000 и меньше
+Подходят катушки размера 2500 и меньше
 +50% опыта</info>
+    </weapon>
+    <weapon id="1814">
+      <name>Пикер USens SL7</name>
+      <info>Класс Picker
+Облегченный вариант донной снасти для точного заброса лёгких кормушек
+Подходят катушки размера 2500 и меньше
++10% опыта</info>
+    </weapon>
+    <weapon id="1815">
+      <name>STK LineStar 2.8</name>
+      <info>5 lb</info>
+    </weapon>
+    <weapon id="1816">
+      <name>Подлесок 10,4 кг</name>
+      <info>Конический подлесок с поводком для нахлыста</info>
+    </weapon>
+    <weapon id="1817">
+      <name>NS XG11 light</name>
+      <info>Шнур для нахлыстовой ловли, зелёный
+</info>
+    </weapon>
+    <weapon id="1818">
+      <name>USens Line</name>
+      <info>Плетеные лески серии "Usens" предназначены для оснащения одноименных пикеров этой серии</info>
+    </weapon>
+    <weapon id="1819">
+      <name>USens L-3</name>
+      <info>Плетеные лески серии "Usens" предназначены для оснащения одноименных пикеров этой серии.
+Обязательно использование поводков.</info>
+    </weapon>
+    <weapon id="1820">
+      <name>USens L-5</name>
+      <info>Плетеные лески серии "Usens" предназначены для оснащения одноименных пикеров этой серии.
+Обязательно использование поводков.</info>
+    </weapon>
+    <weapon id="1821">
+      <name>USens L-7</name>
+      <info>Плетеные лески серии "Usens" предназначены для оснащения одноименных пикеров этой серии.
+Обязательно использование поводков.</info>
+    </weapon>
+    <weapon id="1822">
+      <name>USens RSL Series</name>
+      <info>Профессиональная катушка лёгкого класса</info>
+    </weapon>
+    <weapon id="1823">
+      <name>USens RSL 3</name>
+      <info>Профессиональная катушка лёгкого класса</info>
+    </weapon>
+    <weapon id="1824">
+      <name>USens RSL 5</name>
+      <info>Профессиональная катушка лёгкого класса</info>
+    </weapon>
+    <weapon id="1825">
+      <name>USens RSL 7</name>
+      <info>Профессиональная катушка лёгкого класса</info>
     </weapon>
   </weapons>
 </wpnlang>
