@@ -333,6 +333,7 @@ recsts_btn4=ПО ИГРОКУ
 
 recsts_btn5=ПО КОЛИЧЕСТВУ
 recsts_btn6=ПО РЕКОРДУ
+recsts_btn7=ПО РЕЙТИНГУ
 
 setVol_musc=Громкость музыки
 setVol_envr=Громкость окружения

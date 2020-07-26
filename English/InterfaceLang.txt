@@ -1,6 +1,6 @@
 ﻿[INTERFACE]
 
-act_inf5=RODPODE
+act_inf5=RODPOD
 act_inf5e=[E] Pick up
 
 //---------------------
@@ -346,6 +346,7 @@ recsts_btn4=BY FISHER
 
 recsts_btn5=BY COUNT
 recsts_btn6=BY RECORD
+recsts_btn7=BY RATING
 
 setVol_musc=Music volume
 setVol_envr=Enviro volume
