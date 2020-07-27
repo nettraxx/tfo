@@ -1,4 +1,11 @@
 Patch 1.31.7
+Russland - fester Lagerfeuerlärmbereich, kleine Details hinzugefügt, Bootslandezone im nördlichen Sumpf hinzugefügt
+Finnland - Eine weitere Insel für die Landung vom Boot aus wurde hinzugefügt
+Italien - Starke Strömung im Meer behoben, Beleuchtung einstellen, Hintergrund einstellen
+Update der Game Engine-Version
+<<Keine Übersetzung und Versionstand Update>>
+
+Patch 1.31.7
 Fütterungsmischungen bis zu 999 Packungen gestapelt werden.
 Der Lockstoff "Karpfen" wurde aus dem Verkauf genommen. Verbleibende werden weiter funktionieren
 Die Schaltfläche "Nach Bewertung sortieren" wurde zur Statistik der gefangenen Fische hinzugefügt
