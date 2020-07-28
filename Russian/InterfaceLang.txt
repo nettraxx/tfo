@@ -1,5 +1,14 @@
 [INTERFACE]
 
+pturntype_0=Количество
+pturntype_1=Общий вес
+pturntype_2=Три крупнейших
+pturntype_3=Максимальный вес
+pturntype_4=Разница
+
+
+
+
 act_inf5=РОДПОД
 act_inf5e=[E] Убрать
 
