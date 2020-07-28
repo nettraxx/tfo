@@ -928,7 +928,7 @@
     </weapon>
     <weapon id="1148">
       <name>Зеленые водоросли</name>
-      <info> Водоросли. Используются для создания  наживки.</info>
+      <info> Водоросли. Используются для создания реагентов или как наживка.</info>
     </weapon>
     <weapon id="1149">
       <name>Красные водоросли</name>
@@ -3070,12 +3070,12 @@ VIP не даёт бонуса.</info>
       </info>
     </weapon>
     <weapon id="1630">
-      <name>Ваглер-8-6 C0</name>
+      <name>Ваглер-8-6</name>
       <info>
       </info>
     </weapon>
     <weapon id="1631">
-      <name>Ваглер-10-8 C0</name>
+      <name>Ваглер-10-8</name>
       <info>
       </info>
     </weapon>
@@ -3989,36 +3989,6 @@ VIP не даёт бонуса.</info>
     <weapon id="1825">
       <name>USens RSL 7</name>
       <info>Профессиональная катушка лёгкого класса</info>
-    </weapon>
-    <weapon id="1826">
-      <name>Ваглер-8-6 С1</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1827">
-      <name>Ваглер-8-6 С2</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1828">
-      <name>Ваглер-8-6 С3</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1829">
-      <name>Ваглер-10-8 C1</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1830">
-      <name>Ваглер-10-8 C2</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1831">
-      <name>Ваглер-10-8 C3</name>
-      <info>
-      </info>
     </weapon>
   </weapons>
 </wpnlang>

@@ -4500,36 +4500,5 @@ Rells size 2500 and smaller are suitable
       <name>USens RSL 7</name>
       <info>Lightweight professional feeder reel</info>
     </weapon>	
-	
-    <weapon id="1826">
-      <name>Waggler-8-6 С1</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1827">
-      <name>Waggler-8-6 С2</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1828">
-      <name>Waggler-8-6 С3</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1829">
-      <name>Waggler-10-8 C1</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1830">
-      <name>Waggler-10-8 C2</name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1831">
-      <name>Waggler-10-8 C3</name>
-      <info>
-      </info>
-    </weapon>	
   </weapons>
 </wpnlang>
