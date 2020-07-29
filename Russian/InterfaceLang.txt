@@ -1,12 +1,34 @@
 [INTERFACE]
 
+ptur_otCount=ОДНА УДОЧКА
+ptur_otBoat=ЛОДКА РАЗРЕШЕНА
+
+ptur_ot_00=Любая
+ptur_ot_90=Маховая
+ptur_ot_100=Болонское или матчевое
+ptur_ot_101=Донное
+ptur_ot_102=Спиннинговое
+ptur_ot_103=Нахлыст
+
+ptur_otypec=ТИП СНАСТИ
+ptur_time=ДЛИТЕЛЬНОСТЬ ТУРНИРА (МИНУТ)
+ptur_fondt=РАСПРЕДЕЛЕНИЕ ФОНДА
+ptur_stavk=СТАВКА - ТУРНИРНЫХ ЖЕТОНОВ
+ptur_ttype=ТИП ТУРНИРА
+ptur_fvid=ВИД РЫБЫ
+ptur_pass=ПАРОЛЬ
+ptur_namt=НАЗВАНИЕ ТУРНИРА
+ptur_header=СОЗДАНИЕ ПРИВАТНОГО ТУРНИРА
+
 pturntype_0=Количество
 pturntype_1=Общий вес
 pturntype_2=Три крупнейших
 pturntype_3=Максимальный вес
 pturntype_4=Разница
 
-
+pturnfond_0=Один победитель получает всё
+pturnfond_1=Разделение фонда на три победителя
+pturnfond_2=Разделение фонда на десять победителей
 
 
 act_inf5=РОДПОД

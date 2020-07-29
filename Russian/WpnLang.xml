@@ -1589,8 +1589,9 @@
       <info>Поплавок оснащен светящейся окраской </info>
     </weapon>
     <weapon id="1300">
-      <name>Баланс-B3</name>
-      <info>Поплавок оснащен светящейся окраской</info>
+      <name>Баланс-B3-C0</name>
+      <info>
+      </info>
     </weapon>
     <weapon id="1301">
       <name>Баланс-B4 (увеличенный)</name>
@@ -4017,6 +4018,21 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1831">
       <name>Ваглер-10-8 C3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1832">
+      <name>Баланс-B3-C1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1833">
+      <name>Баланс-B3-C2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1834">
+      <name>Баланс-B3-C3</name>
       <info>
       </info>
     </weapon>
