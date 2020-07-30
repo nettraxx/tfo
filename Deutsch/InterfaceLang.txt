@@ -1132,9 +1132,9 @@ gi_nach=Neue Auszeichnung\n{0}
 gi_ach=Auszeichnung
 
 //Холодильник
-gi_fridgiceno=<color='#ff6000'>KEIN PLATZ AUF DEM EIS! Anzahl: {0}/{1}</color>
-gi_fridgice=At ice: {0} / {1} Stk
-gi_fridge=Kühlschrank
+gi_fridgiceno=<color='#ff6000'>KEIN PLATZ IM KÜHLFACH! Anzahl: {0}/{1}</color>
+gi_fridgice=Tiefgekühlt: {0} / {1} Stk
+gi_fridge=Kühlfach
 
 //Сообщ. в чат
 gi_cachfish=Fisch gefangen

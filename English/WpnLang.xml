@@ -4548,5 +4548,27 @@ Rells size 2500 and smaller are suitable
       <info>
       </info>
     </weapon>	
+	
+    <weapon id="1835">
+      <name>WOB Shad-F1</name>
+      <info>Wobbler class shad (floating) has a pronounced game and is perfect for fishing in the stream or trolling. </info>
+    </weapon>
+    <weapon id="1836">
+      <name>WOB Shad-F2</name>
+      <info>Wobbler class shad (floating) has a pronounced game and is perfect for fishing in the stream or trolling. </info>
+    </weapon>
+    <weapon id="1837">
+      <name>WOB Shad-F3</name>
+      <info>Wobbler class shad (floating) has a pronounced game and is perfect for fishing in the stream or trolling. </info>
+    </weapon>
+    <weapon id="1838">
+      <name>WOB Shad Series</name>
+      <info>Wobbler class shad (floating) has a pronounced game and is perfect for fishing in the stream or trolling. </info>
+    </weapon>
+    <weapon id="1839">
+      <name>WOB Shad-F4</name>
+      <info>Wobbler class shad (floating) has a pronounced game and is perfect for fishing in the stream or trolling. </info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>
