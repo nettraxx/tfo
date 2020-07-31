@@ -802,7 +802,7 @@ cht_msg4=Nicht genug Geld
 cht_msg5=Auction: {0} х{1} Stück verkauft
 cht_msg6=<color='#ff0000'>Server Neustart in {0}</color>
 cht_msg7=Rekord: {0} {1}
-cht_msg8=<color='#ffa020'>You have set {0}</color>
+cht_msg8=<color='#ffa020'>Du hast den neuen {0}</color>
 cht_msg9=<color='#ffa020'>Spieler {0} hat den neuen {1}</color>
 
 cht_msg10=Der Gegenstand `{0}` ist abgenutzt
