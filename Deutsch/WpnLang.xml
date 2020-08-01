@@ -344,7 +344,7 @@ Brachse, Giebel, Güster, Karausche, Quappe, Rotauge, Schuppenkarpfen
     <weapon id="1012">
       <name>Brot</name>
       <info>Fängig für:
-Giebel, Grundel, Karausche, Laube, Rotauge, Rotfeder, Schuppenkarpfen, Spiegelkarpfen, Wildkarpfen, Zobel, Zope
+Giebel, Grundel, Güster, Karausche, Laube, Rotauge, Rotfeder, Schuppenkarpfen, Spiegelkarpfen, Wildkarpfen, Zobel, Zope
 	  </info>
     </weapon>
     <weapon id="1013">
@@ -375,7 +375,7 @@ Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Dö
     <weapon id="1018">
       <name>Blutwurm</name>
       <info>Fängig für:
-Aland, Bachschmerle, Baltischer Lachs, Döbel, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Forellenbarsch, Frosch, Giebel, Grundel, Gründling, Hasel, Karausche, Kaspischer Kutum, Kaulbarsch, Maräne (Weißfisch), Nase, Perkarina, Rotauge, Rotfeder, Schlammpeitzger, Schrimp, Schwarzbarsch, See Elritze, Sprotte, Taran, Weißbauchflunder, Wobla, Zobel, Zope
+Aland, Bachschmerle, Baltischer Lachs, Döbel, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Forellenbarsch, Frosch, Giebel, Grundel, Gründling, Güster, Hasel, Karausche, Kaspischer Kutum, Kaulbarsch, Maräne (Weißfisch), Nase, Perkarina, Rotauge, Rotfeder, Schlammpeitzger, Schleie, Schrimp, Schwarzbarsch, See Elritze, Sprotte, Taran, Weißbauchflunder, Wobla, Zobel, Zope
       </info>
     </weapon>
     <weapon id="1019">
@@ -393,13 +393,13 @@ Barbe, Quappe, Schleie, Schuppenkarpfen
     <weapon id="1021">
       <name>Köderfisch</name>
       <info>Fängig für:
-Aal, Bachforelle, Belugastör, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Glatt-Stör, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Pazifischer Kabeljau, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Schwarzbarsch, Russischer Stör, Saibling, Seesaibling, Tintenfisch, Weißer Thunfisch
+Aal, Bachforelle, Belugastör, Blaubarsch, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Glatt-Stör, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Pazifischer Kabeljau, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Schwarzbarsch, Russischer Stör, Saibling, Seesaibling, Tintenfisch, Weißer Thunfisch
       </info>
     </weapon>
     <weapon id="1022">
       <name>Mais</name>
       <info>Fängig für:
-Aland, Lederkarpfen, Schuppenkarpfen, Wildkarpfen
+Aland, Graskarpfen, Lederkarpfen, Schuppenkarpfen, Wildkarpfen
       </info>	  
     </weapon>
     <weapon id="1023">
@@ -1601,7 +1601,7 @@ Right-click to open the box and select "Use"</info>
     <weapon id="1239">
       <name>Blutegel</name>
       <info>Fängig für:
-Barbe, Brachse, Europäischer Wels, Frosch, Giebel, Karausche, Quappe, Zander
+Barbe, Brachse, Europäischer Wels, Frosch, Giebel, Karausche, Meerzander, Quappe, Zander
 	  </info>
     </weapon>
     <weapon id="1240">
@@ -3345,7 +3345,7 @@ Maräne (Weißfisch), Meerzander,  Peledmaräne
     <weapon id="1558">
       <name>Schrimp</name>
       <info>Fängig für:
-Bachforelle, Dicklippige Meeräsche, Goldbrasse, Goldforelle, Grashecht, Meerzander, Pazifischer Kabeljau, Regenbogenforelle, Russischer Stör, Teichforelle, Weißbauchflunder, Zander
+Bachforelle, Blaubarsch, Dicklippige Meeräsche, Goldbrasse, Goldforelle, Grashecht, Meerzander, Pazifischer Kabeljau, Regenbogenforelle, Russischer Stör, Teichforelle, Weißbauchflunder, Zander
 	  </info>
     </weapon>
     <weapon id="1559">
@@ -3815,7 +3815,7 @@ Barbe, Brachse, Dicklippige Meeräsche, Europäischer Wels, Flussbarsch, Forelle
     <weapon id="1649">
       <name>Tintenfisch</name>
       <info>Fängig für:
-Dicklippige Meeräsche, Europäischer Wolfsbarsch, Felsenbarsch, Goldbrasse, Großkopfmeeräsche, Meeräsche, Tintenfisch, Weißbauchflunder
+Blaubarsch, Dicklippige Meeräsche, Europäischer Wolfsbarsch, Felsenbarsch, Goldbrasse, Großkopfmeeräsche, Meeräsche, Tintenfisch, Weißbauchflunder
       </info>
     </weapon>
      <weapon id="1650">
@@ -4007,7 +4007,8 @@ Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenba
     </weapon>
     <weapon id="1688">
       <name>Muschelbündel</name>
-      <info>
+      <info>Fängig für:
+Russischer Stör
       </info>
     </weapon>
     <weapon id="1689">
@@ -4367,7 +4368,7 @@ Bachforelle, Barbe, Frosch, Güster, Hasel, Kaspischer Hering, Maräne, Regenbog
     <weapon id="1763">
       <name>Köcherfliegenlarve</name>
       <info>Fängig für:
-Aland, Giebel, Güster, Hundsbarbe, Karausche, Malamida, Rotauge, Rotfeder, Saibling, Seesaibling, Sterlet, Strömer, Wobla
+Aland, Barbe, Giebel, Güster, Hundsbarbe, Karausche, Malamida, Rotauge, Rotfeder, Saibling, Seesaibling, Sterlet, Strömer, Wobla
 		</info>
     </weapon>
     <weapon id="1764">
@@ -4379,7 +4380,7 @@ Aland, Rotauge, Taran
     <weapon id="1765">
       <name>Blutköder</name>
       <info>Fängig für:
-Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
+Barbe, Dnieper Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
 		</info>
     </weapon>
     <weapon id="1766">
@@ -4430,31 +4431,31 @@ Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
     <weapon id="1776">
       <name>VibroTail Shad M1 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Seesaibling, Zander
+Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1777">
       <name>VibroTail Shad M2 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Seesaibling, Zander
+Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1778">
       <name>VibroTail Shad M3 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Seesaibling, Zander
+Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1779">
       <name>VibroTail Shad M4 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Seesaibling, Zander
+Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1780">
       <name>VibroTail Shad M5 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Seesaibling, Zander
+Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
       </info>
     </weapon>
     <weapon id="1781">
@@ -4499,7 +4500,7 @@ Regenbogenforelle, Rotauge
     <weapon id="1790">
       <name>RF Hummel</name>
       <info>Imitation einer Hummel. Fängig für:
-Aland, Döbel, Europäische Äsche, Goldforelle, Rapfen, Regenbogenforelle, Mairenke
+Aland, Döbel, Europäische Äsche, Goldforelle, Mairenke, Rapfen, Regenbogenforelle, Seeforelle
       </info>
     </weapon>
     <weapon id="1791">
@@ -4559,7 +4560,9 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
     </weapon>
     <weapon id="1801">
       <name>Kaviartasche</name>
-      <info>Delikatesse Lachsköder</info>
+      <info>Delikatesse Lachsköder. Fängig für:
+	  Seesaibling
+	  </info>
     </weapon>
     <weapon id="1802">
       <name>BeeFeeder RSL</name>
@@ -4584,15 +4587,21 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
     </weapon>
     <weapon id="1807">
       <name>Akma VB1 Gold</name>
-      <info>Schwerer Köder für die vertikale Führung</info>
+      <info>Schwerer Köder für die vertikale Führung. Fängig für:
+Europäischer Wolfsbarsch, Königslachs, Pazifischer Kabeljau
+	  </info>
     </weapon>
     <weapon id="1808">
       <name>Akma VB2 Silver</name>
-      <info>Schwerer Köder für die vertikale Führung</info>
+      <info>Schwerer Köder für die vertikale Führung. Fängig für:
+	  Pazifischer Kabeljau, Schwarzbarsch
+	  </info>
     </weapon>
     <weapon id="1809">
       <name>Akma VB3 Fluo</name>
-      <info>Schwerer Köder für die vertikale Führung. Für Nachts</info>
+      <info>Schwerer Köder für die vertikale Führung. Für Nachts. Fängig für:
+Blaubarsch, Seesaibling, Zander	  
+	  </info>
     </weapon>
     <weapon id="1810">
       <name>Akma Series</name>
@@ -4715,15 +4724,21 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     </weapon>
     <weapon id="1835">
       <name>WOB Shad-F1</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für:
+	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+	  </info>
     </weapon>
     <weapon id="1836">
       <name>WOB Shad-F2</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für:
+	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+	  </info>
     </weapon>
     <weapon id="1837">
       <name>WOB Shad-F3</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für:
+	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+	  </info>
     </weapon>
     <weapon id="1838">
       <name>WOB Shad Series</name>
@@ -4731,7 +4746,9 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     </weapon>
     <weapon id="1839">
       <name>WOB Shad-F4</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für:
+	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+	  </info>
     </weapon>		
   </weapons>
 </wpnlang>
