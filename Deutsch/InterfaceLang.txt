@@ -1,5 +1,19 @@
 ﻿[INTERFACE]
 
+wrksh_upErr=LADEFEHLER
+wrksh_upOK=ERFOLGREICH HOCHGELADEN
+wrksh_upokinf=SIE KÖNNEN DIE AKTUALISIERUNG DER ÄNDERUNG AUF DER STEAM WORKSHOP-WEBSITE PRÜFEN \ nDie Veröffentlichung kann einige Zeit dauern
+wrksh_upoopen=OPEN SITE
+wrksh_upld=UPLOAD MOD
+wrksh_updt=UPDATE MOD
+wrksh_nowork=ÄNDERUNGSDATEIEN \ n NICHT VORBEREITET! \ nAnweisungen im Steamforum
+wrksh_modIDnew=STEAM MODID: NEU
+wrksh_modID=STEAM MODID:
+wrksh_loczname=MOD NAME
+wrksh_loczdescr=KURZE BESCHREIBUNG
+wrksh_btnlocz=LOKALISIERUNG
+wrksh_btntextr=DATEIEN
+
 ptur_otCount=EINE ANGELRUTE
 ptur_otBoat=BOOT ERLAUBT
 

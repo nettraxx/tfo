@@ -1,5 +1,21 @@
 [INTERFACE]
 
+wrksh_upErr=ОШИБКА ЗАГРУЗКИ МОДИФИКАЦИИ
+wrksh_upOK=ЗАГРУЖЕНО УСПЕШНО
+wrksh_upokinf=ВЫ МОЖЕТЕ ПРОВЕРИТЬ ЗАГРУЗКУ МОДИФИКАЦИИ НА САЙТЕ STEAM WORKSHOP\nПубликация может занять какое-то время
+wrksh_upoopen=ОТКРЫТЬ САЙТ
+wrksh_upld=UPLOAD MOD
+wrksh_updt=UPDATE MOD
+wrksh_nowork=ФАЙЛЫ МОДИФИКАЦИИ\nНЕ ГОТОВЫ\nИНСТРУКЦИЯ ДОСТУПНА НА ФОРУМЕ STEAM
+wrksh_modIDnew=STEAM MODID: НОВЫЙ
+wrksh_modID=STEAM MODID:
+wrksh_loczname=НАЗВАНИЕ МОДИФИКАЦИИ
+wrksh_loczdescr=КРАТКОЕ ОПИСАНИЕ
+wrksh_btnlocz=ЛОКАЛИЗАЦИЯ
+wrksh_btntextr=ТЕКСТУРПАК
+
+
+
 ptur_otCount=ОДНА УДОЧКА
 ptur_otBoat=ЛОДКА РАЗРЕШЕНА
 
@@ -30,6 +46,7 @@ pturnfond_0=Один победитель получает всё
 pturnfond_1=Разделение фонда на три победителя
 pturnfond_2=Разделение фонда на десять победителей
 
+//---------------------
 
 act_inf5=РОДПОД
 act_inf5e=[E] Убрать

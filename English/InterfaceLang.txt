@@ -1,5 +1,53 @@
 ﻿[INTERFACE]
 
+wrksh_upErr=LOADING ERROR 
+wrksh_upOK=UPLOADED SUCCESSFULLY
+wrksh_upokinf=YOU CAN CHECK UPDATING THE MODIFICATION ON THE STEAM WORKSHOP SITE\nPublishing may take some time
+wrksh_upoopen=OPEN SITE
+wrksh_upld=UPLOAD MOD
+wrksh_updt=UPDATE MOD
+wrksh_nowork=MODIFICATION FILES \nNOT PREPARED! \nINSTRUCTIONS AVAILABLE ON THE STEAM FORUM
+wrksh_modIDnew=STEAM MODID: NEW
+wrksh_modID=STEAM MODID:
+wrksh_loczname=MOD NAME
+wrksh_loczdescr=SHORT DESCRIPTION
+wrksh_btnlocz=LOCALIZATION
+wrksh_btntextr=FILES
+
+
+ptur_otCount=ONE ROD
+ptur_otBoat=BOAT ALLOW
+
+ptur_ot_00=Any
+ptur_ot_90=STICK
+ptur_ot_100=FLOATING
+ptur_ot_101=WEIGHTED
+ptur_ot_102=SPINNING
+ptur_ot_103==FLY
+
+
+ptur_otypec=ROD TYPE
+ptur_time=TOURNAMENT DURATION (MINUTES)
+ptur_fondt=FUND DISTRIBUTION
+ptur_stavk=BET - TOURNAMENT TOKENS
+ptur_ttype=TOURNAMENT TYPE
+ptur_fvid=TYPE OF FISH
+ptur_pass=PASSWORD
+ptur_namt=TOURNAMENT NAME
+ptur_header=CREATION OF A PRIVATE TOURNAMENT
+
+pturntype_0=Amount
+pturntype_1=Total weight
+pturntype_2=Three largest
+pturntype_3=Weight Limit
+pturntype_4=Difference
+
+pturnfond_0=One winner takes it all
+pturnfond_1=Division of the fund into three winners
+pturnfond_2=Division of the fund into ten winners
+
+//---------------------
+
 act_inf5=RODPOD
 act_inf5e=[E] Pick up
 
