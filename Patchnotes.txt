@@ -1,3 +1,6 @@
+Patch 1.32.2
+Beta Workshop Test
+
 Patch 1.32.1
 Der Verkauf wurde um vierfarbige Shad-Wobbler erweitert
 Wobblers Shad - eine Klasse von Bulk-Spinnködern, deren Name vom gleichnamigen amerikanischen Fisches der Heringsfamilie stammt. 
