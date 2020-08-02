@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
 
+setVol_reel=Angelrollenvolumen
+wrksh_btnmods=INSTALLIERT
+wrksh_modscapt=INSTALLIERTE MODS
+wrksh_modbtnsite=MEHR MODS
+wrksh_unsubscrb=ABMELDEN
+
 wrksh_upErr=LADEFEHLER
 wrksh_upOK=ERFOLGREICH HOCHGELADEN
 wrksh_upokinf=SIE KÖNNEN DIE AKTUALISIERUNG DER ÄNDERUNG AUF DER STEAM WORKSHOP-WEBSITE PRÜFEN \ nDie Veröffentlichung kann einige Zeit dauern

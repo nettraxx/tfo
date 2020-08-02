@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
 
+setVol_reel=Fishing reel volume
+wrksh_btnmods=INSTALLED
+wrksh_modscapt=INSTALLED MODS
+wrksh_modbtnsite=MORE MODS
+wrksh_unsubscrb=UNSUBSCRIBE
+--------------------
 wrksh_upErr=LOADING ERROR 
 wrksh_upOK=UPLOADED SUCCESSFULLY
 wrksh_upokinf=YOU CAN CHECK UPDATING THE MODIFICATION ON THE STEAM WORKSHOP SITE\nPublishing may take some time

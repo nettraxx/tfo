@@ -1,5 +1,12 @@
 [INTERFACE]
 
+setVol_reel=Громкость катушки
+wrksh_btnmods=УСТАНОВЛЕННЫЕ
+wrksh_modscapt=УСТАНОВЛЕННЫЕ МОДИФИКАЦИИ
+wrksh_modbtnsite=БОЛЬШЕ МОДИФИКАЦИЙ
+wrksh_unsubscrb=ОТПИСАТЬСЯ
+--------------------
+
 wrksh_upErr=ОШИБКА ЗАГРУЗКИ МОДИФИКАЦИИ
 wrksh_upOK=ЗАГРУЖЕНО УСПЕШНО
 wrksh_upokinf=ВЫ МОЖЕТЕ ПРОВЕРИТЬ ЗАГРУЗКУ МОДИФИКАЦИИ НА САЙТЕ STEAM WORKSHOP\nПубликация может занять какое-то время
