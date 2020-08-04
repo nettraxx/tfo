@@ -1,3 +1,17 @@
+Patch 1.33.0
+Der Workshop verlässt die Beta in Update 33.0
+Verschiedene von Spielern erstellte Kunstwerke stehen Ihnen zur Verfügung - Skins für Boote, Symbole, Texturen, Sounds und Lokalisierungen. 
+Alles, was Sie tun müssen, um die Änderung zu installieren, ist, in den Workshop zu gehen und die Änderung zu abonnieren. 
+Es wird automatisch in Ihrem Spieleclient installiert und im Hintergrund zeitnah aktualisiert.
+
+zusätzlich im Update:
+Beim Anzeigen des Profils eines anderen Spielers wird dessen Steam-Avatar angezeigt
+Erhöhte Geschwindigkeit beim Aufrollen der Schnur, feste Animation zum Spielen von Fischen
+Separate Sounds für verschiedene Arten von Rollen - Spinnen, Casting, Low Profile
+Clubgründerplaketten sind als Geschenk erhältlich
+Viel Arbeit am Posenfischen, Verbesserung des Posenverhaltens
+Andere kleinere Korrekturen, die die Spielbalance nicht beeinflussen
+
 Patch 1.32.5
 Fliegenruten zum selbstbemalen
 
