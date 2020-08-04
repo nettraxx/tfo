@@ -4,4 +4,4 @@
 
 # [**Inoffizieller Köder Guide**](https://sites.google.com/view/tfo-unofficial-bait-guide)
 
-# [**TFO German Online Patcher**](https://github.com/nettraxx/tfo-patcher/raw/master/TheFisherOnline-Patcher.zip)
+# [**TFO WorkShop Link**](https://steamcommunity.com/sharedfiles/filedetails/?id=2184562261)
