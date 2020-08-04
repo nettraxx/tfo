@@ -943,8 +943,8 @@
       <info>тестовый</info>
     </weapon>
     <weapon id="1152">
-      <name>--</name>
-      <info> Самодельная бамбуковая удочка.</info>
+      <name>ModStick-4m</name>
+      <info>Маховое удилище, предназначенное для самостоятельной окраски</info>
     </weapon>
     <weapon id="1153">
       <name>Рукоять</name>
@@ -1506,8 +1506,8 @@
       </info>
     </weapon>
     <weapon id="1282">
-      <name>--</name>
-      <info> Удилище рыбаков Пустошей. Редкая штука</info>
+      <name>ModStick-6m</name>
+      <info>Маховое удилище, предназначенное для самостоятельной окраски</info>
     </weapon>
     <weapon id="1283">
       <name>Рецепт "Удочка пустошей"</name>
@@ -1527,8 +1527,8 @@
 </info>
     </weapon>
     <weapon id="1287">
-      <name>--</name>
-      <info> Традиционное удилище из прочного бамбукового ствола.</info>
+      <name>ModStick-8m</name>
+      <info>Маховое удилище, предназначенное для самостоятельной окраски</info>
     </weapon>
     <weapon id="1288">
       <name>STK Motoi 1.5</name>

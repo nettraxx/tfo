@@ -1105,9 +1105,8 @@ Donaulachs, Grashecht, Regenbogenforelle, Saibling, Wolgazander
       <info>Testing</info>
     </weapon>
     <weapon id="1152">
-      <name>--</name>
-      <info>
-      </info>
+      <name>ModStick-4m</name>
+      <info>Fliegenrute zum Selbstbemalen</info>
     </weapon>
     <weapon id="1153">
       <name>
@@ -1837,9 +1836,8 @@ Wildkarpfen
       </info>
     </weapon>
     <weapon id="1282">
-      <name>--</name>
-      <info>
-      </info>
+      <name>ModStick-6m</name>
+      <info>Fliegenrute zum Selbstbemalen</info>
     </weapon>
     <weapon id="1283">
       <name>
@@ -1864,9 +1862,8 @@ Wildkarpfen
       </info>
     </weapon>
     <weapon id="1287">
-      <name>--</name>
-      <info>
-      </info>
+      <name>ModStick-8m</name>
+      <info>Fliegenrute zum Selbstbemalen</info>
     </weapon>
     <weapon id="1288">
       <name>STK Motoi 1.5</name>
