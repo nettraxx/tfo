@@ -393,7 +393,7 @@ Barbe, Quappe, Schleie, Schuppenkarpfen
     <weapon id="1021">
       <name>Köderfisch</name>
       <info>Fängig für:
-Aal, Bachforelle, Belugastör, Blaubarsch, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Glatt-Stör, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Pazifischer Kabeljau, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Schwarzbarsch, Russischer Stör, Saibling, Seesaibling, Tintenfisch, Weißer Thunfisch
+Aal, Bachforelle, Bachsaibling, Belugastör, Blaubarsch, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Glatt-Stör, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Pazifischer Kabeljau, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Schwarzbarsch, Russischer Stör, Saibling, Tintenfisch, Weißer Thunfisch
       </info>
     </weapon>
     <weapon id="1022">
@@ -549,7 +549,7 @@ Aland, Graskarpfen, Lederkarpfen, Schuppenkarpfen, Wildkarpfen
     <weapon id="1052">
       <name>Muschelstückchen</name>
       <info>Fängig für:
-Aal, Belugastör, Brachse, Europäischer Stör, Europäischer Wels, Flussbarsch, Glatt-Stör, Kaspischer Kutum, Kaulbarsch, Lederkarpfen, Maräne (Weißfisch), Pazifischer Kabeljau, Persischer Stör, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Seesaibling, Spiegelkarpfen, Sterlet, Tiberbarbe, Zährte
+Aal, Bachsaibling, Belugastör, Brachse, Europäischer Stör, Europäischer Wels, Flussbarsch, Glatt-Stör, Kaspischer Kutum, Kaulbarsch, Lederkarpfen, Maräne (Weißfisch), Pazifischer Kabeljau, Persischer Stör, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Spiegelkarpfen, Sterlet, Tiberbarbe, Zährte
       </info>
     </weapon>
     <weapon id="1053">
@@ -1248,7 +1248,7 @@ Donaulachs, Grashecht, Regenbogenforelle, Saibling, Wolgazander
     <weapon id="1176">
       <name>Fischfetzen</name>
       <info>Fängig für:
-Aal, Blutegel, Dicklippige Meeräsche, Dorade royal, Europäischer Wels, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kaspi Maifisch, Meeräsche, Muschel, Pazifischer Kabeljau, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schrimp, Seesaibling, Sprotte, Stint, Taimen
+Aal, Bachsaibling, Blutegel, Dicklippige Meeräsche, Dorade royal, Europäischer Wels, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kaspi Maifisch, Meeräsche, Muschel, Pazifischer Kabeljau, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schrimp, Sprotte, Stint, Taimen
       </info>
     </weapon>
     <weapon id="1177">
@@ -1651,7 +1651,7 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
     <weapon id="1249">
       <name>Krebsschwanz</name>
       <info>Fängig für:
-Aal, Baltischer Lachs, Brachse, Europäischer Stör, Europäischer Wels, Forellenbarsch, Glatt-Stör, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Lachs, Lederkarpfen, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Schwarzbarsch, Seesaibling, Sterlet
+Aal, Bachsaibling, Baltischer Lachs, Brachse, Europäischer Stör, Europäischer Wels, Forellenbarsch, Glatt-Stör, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Lachs, Lederkarpfen, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Schwarzbarsch, Sterlet
 	  </info> 
     </weapon>
     <weapon id="1250">
@@ -2460,19 +2460,19 @@ Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, G
     <weapon id="1397">
       <name>JIG TwistNord I</name>
       <info>Silikonköder 40 mm, fängig für:
-Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Seesaibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
+Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
 	  </info>
     </weapon>
     <weapon id="1398">
       <name>JIG TwistNord II</name>
       <info>Silikonköder 75 mm, fängig für:
-Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Seesaibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander,Zander
+Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander,Zander
 	  </info>
     </weapon>
     <weapon id="1399">
       <name>JIG TwistNord III</name>
       <info>Silikonköder 100 mm, fängig für:
-Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Seesaibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
+Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
 	  </info>
     </weapon>
     <weapon id="1400">
@@ -3537,7 +3537,7 @@ Graskarpfen, Lederkarpfen, Marmorkarpfen, Spiegelkarpfen
     <weapon id="1593">
       <name>Boilie "Krabbe"</name>
       <info>Fängig für:
-Aal, Baltischer Lachs, Brachse, Europäischer Wels, Forellenbarsch, Graskarpfen, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Kaspischer Lachs, Marmorkarpfen, Peledmaräne, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Seesaibling, Silberkarpfen, Spiegelkarpfen, Sterlet, Wildkarpfen, Zährte
+Aal, Bachsaibling, Baltischer Lachs, Brachse, Europäischer Wels, Forellenbarsch, Graskarpfen, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Kaspischer Lachs, Marmorkarpfen, Peledmaräne, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Silberkarpfen, Spiegelkarpfen, Sterlet, Wildkarpfen, Zährte
       </info>
     </weapon>
     <weapon id="1594">
@@ -3943,19 +3943,19 @@ Aland, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldf
 	<weapon id="1675">
 	  <name>VIB MD Cyclope M1</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1676">
 	  <name>VIB MD Cyclope M2</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1677">
 	  <name>VIB MD Cyclope M3</name>
 	  <info>Fängig für:
-Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Seesaibling, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	  <weapon id="1678">
@@ -4019,19 +4019,19 @@ Russischer Stör
     <weapon id="1691">
       <name>VOB DeepTail M1</name>
       <info>Size 4, spezieller großer Köder zum Schleppen. Fängig für:
-Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Seesaibling, Taimen, Zander
+Bachsaibling, Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1692">
       <name>VOB DeepTail M2</name>
       <info>Size 4, spezieller großer Köder zum Schleppen. Fängig für:
-Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Seesaibling, Taimen, Zander
+Bachsaibling, Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1693">
       <name>VOB DeepTail M3</name>
       <info>Size 4, spezieller großer Köder zum Schleppen. Fängig für:
-Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Seesaibling, Taimen, Zander
+Bachsaibling, Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1694">
@@ -4365,7 +4365,7 @@ Bachforelle, Barbe, Frosch, Güster, Hasel, Kaspischer Hering, Maräne, Regenbog
     <weapon id="1763">
       <name>Köcherfliegenlarve</name>
       <info>Fängig für:
-Aland, Barbe, Giebel, Güster, Hundsbarbe, Karausche, Malamida, Rotauge, Rotfeder, Saibling, Seesaibling, Sterlet, Strömer, Wobla
+Aland, Bachsaibling, Barbe, Giebel, Güster, Hundsbarbe, Karausche, Malamida, Rotauge, Rotfeder, Saibling, Sterlet, Strömer, Wobla
 		</info>
     </weapon>
     <weapon id="1764">
@@ -4428,31 +4428,31 @@ Barbe, Dnieper Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfis
     <weapon id="1776">
       <name>VibroTail Shad M1 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
+Bachsaibling, Baltischer Lachs, Hecht, Meerzander, Zander
       </info>
     </weapon>
     <weapon id="1777">
       <name>VibroTail Shad M2 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
+Bachsaibling, Baltischer Lachs, Hecht, Meerzander, Zander
       </info>
     </weapon>
     <weapon id="1778">
       <name>VibroTail Shad M3 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
+Bachsaibling, Baltischer Lachs, Hecht, Meerzander, Zander
       </info>
     </weapon>
     <weapon id="1779">
       <name>VibroTail Shad M4 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
+Bachsaibling, Baltischer Lachs, Hecht, Meerzander, Zander
       </info>
     </weapon>
     <weapon id="1780">
       <name>VibroTail Shad M5 120mm</name>
       <info>Fängig für:
-Baltischer Lachs, Hecht, Meerzander, Seesaibling, Zander
+Bachsaibling, Baltischer Lachs, Hecht, Meerzander, Zander
       </info>
     </weapon>
     <weapon id="1781">
@@ -4558,7 +4558,7 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
     <weapon id="1801">
       <name>Kaviartasche</name>
       <info>Delikatesse Lachsköder. Fängig für:
-	  Seesaibling
+	  Bachsaibling
 	  </info>
     </weapon>
     <weapon id="1802">
@@ -4597,7 +4597,7 @@ Europäischer Wolfsbarsch, Königslachs, Pazifischer Kabeljau
     <weapon id="1809">
       <name>Akma VB3 Fluo</name>
       <info>Schwerer Köder für die vertikale Führung. Für Nachts. Fängig für:
-Blaubarsch, Seesaibling, Zander	  
+Bachsaibling, Blaubarsch, Zander	  
 	  </info>
     </weapon>
     <weapon id="1810">
