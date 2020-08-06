@@ -1,3 +1,11 @@
+Patch 1.33.1
+Finnland - Die Küste (links von der Basis) wurde um 350 Meter verlängert. Verbesserung der Qualität von Texturen und etwas Vegetation. 
+Tiefenänderungen in der Nähe der Basis und der Küste. Korrektur von Fehlern am Standort
+Castingrute - Das Rückspulgeräusch ist jetzt geräuschlos und leiser. Das Baitrunner-Geräusch funktioniert jetzt nur, wenn sich die Rute im Bootsständer befindet
+Die Nacht wird auf allen Basen heller gemacht
+Fehlerbehebungen beim Posenfischen - Bisse, Fische zu fangen und andere Fehler
+Seesaibling zu Bachsaibling umbenannt
+
 Patch 1.33.0
 Der Workshop verlässt die Beta in Update 33.0
 Verschiedene von Spielern erstellte Kunstwerke stehen Ihnen zur Verfügung - Skins für Boote, Symbole, Texturen, Sounds und Lokalisierungen. 
