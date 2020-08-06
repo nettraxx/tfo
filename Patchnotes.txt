@@ -1,3 +1,9 @@
+Patch 1.33.2
+Stippruten für 12 kg wurden in die Läden aufgenommen. Diese Stippen sind mit Farbänderung erhältlich
+Beim angeln von Fischen wurden Vibrationen für Gamepads hinzugefügt
+Eine Angelrute von einem feststehenden Rodpod nehmen
+Einstellung für Trägheit einer Angelrute in Händen hinzugefügt
+
 Patch 1.33.1
 Finnland - Die Küste (links von der Basis) wurde um 350 Meter verlängert. Verbesserung der Qualität von Texturen und etwas Vegetation. 
 Tiefenänderungen in der Nähe der Basis und der Küste. Korrektur von Fehlern am Standort
