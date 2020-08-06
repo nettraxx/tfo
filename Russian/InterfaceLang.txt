@@ -1,5 +1,10 @@
 [INTERFACE]
 
+setng_inercia=Инерция удочки
+
+
+--------------------
+
 setVol_reel=Громкость катушки
 wrksh_btnmods=УСТАНОВЛЕННЫЕ
 wrksh_modscapt=УСТАНОВЛЕННЫЕ МОДИФИКАЦИИ

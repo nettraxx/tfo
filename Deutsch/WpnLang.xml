@@ -4746,6 +4746,10 @@ Nur Rollengröße 2500 und kleiner sind zulässig
       <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für:
 	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
-    </weapon>		
+    </weapon>
+    <weapon id="1840">
+      <name>ModStick-Series</name>
+      <info></info>
+    </weapon>			
   </weapons>
 </wpnlang>

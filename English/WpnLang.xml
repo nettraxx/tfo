@@ -4570,5 +4570,10 @@ Rells size 2500 and smaller are suitable
       <info>Wobbler class shad (floating) has a pronounced game and is perfect for fishing in the stream or trolling. </info>
     </weapon>	
 	
+    <weapon id="1840">
+      <name>ModStick-Series</name>
+      <info> </info>
+    </weapon>		
+	
   </weapons>
 </wpnlang>

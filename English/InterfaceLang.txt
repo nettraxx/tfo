@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+setng_inercia=Rod inertia
+--------------------
 setVol_reel=Fishing reel volume
 wrksh_btnmods=INSTALLED
 wrksh_modscapt=INSTALLED MODS

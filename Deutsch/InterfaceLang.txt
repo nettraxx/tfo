@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+setng_inercia=Inertia Rute
+--------------------
 setVol_reel=Angelrollenvolumen
 wrksh_btnmods=INSTALLIERT
 wrksh_modscapt=INSTALLIERTE MODS
