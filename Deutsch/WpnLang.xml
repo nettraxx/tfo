@@ -332,7 +332,7 @@
     <weapon id="1010">
       <name>Wurm</name>
       <info>Fängig für:
-Aland, Bachforelle, Baltischer Lachs, Barbe, Blutegel, Brachse, Europäischer Flusskrebs, Europäischer Wels, Felsenbarsch, Flussbarsch, Flusskrebs, Frosch, Giebel, Goldforelle, Großkopfmeeräsche, Gründling, Güster, Hasel, Karausche, Kaspischer Hering, Kaulbarsch, Maräne (Weißfisch), Meerzander, Quappe, Rapfen, Regenbogenforelle, Regenbogenforelle, Schläfergrundel, Schleie, Schuppenkarpfen, See Elritze, Taran, Tiberbarbe, Wobla, Zander, Zope
+Aland, Bachforelle, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Blutegel, Brachse, Europäischer Flusskrebs, Europäischer Wels, Felsenbarsch, Flussbarsch, Flusskrebs, Frosch, Giebel, Goldforelle, Großkopfmeeräsche, Gründling, Güster, Hasel, Karausche, Kaspischer Hering, Kaulbarsch, Maräne (Weißfisch), Meerzander, Quappe, Rapfen, Regenbogenforelle, Regenbogenforelle, Schläfergrundel, Schleie, Schuppenkarpfen, See Elritze, Taran, Tiberbarbe, Wobla, Zander, Zope
 	  </info>
     </weapon>
     <weapon id="1011">
@@ -375,7 +375,7 @@ Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Dö
     <weapon id="1018">
       <name>Blutwurm</name>
       <info>Fängig für:
-Aland, Bachschmerle, Baltischer Lachs, Döbel, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Forellenbarsch, Frosch, Giebel, Grundel, Gründling, Güster, Hasel, Karausche, Kaspischer Kutum, Kaulbarsch, Maräne (Weißfisch), Nase, Perkarina, Rotauge, Rotfeder, Schlammpeitzger, Schleie, Schrimp, Schwarzbarsch, See Elritze, Sprotte, Taran, Weißbauchflunder, Wobla, Zobel, Zope
+Aland, Bachschmerle, Baltischer Lachs, Döbel, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Forellenbarsch, Frosch, Giebel, Grundel, Gründling, Güster, Hasel, Karausche, Kaspischer Kutum, Kaulbarsch, Laube, Maräne (Weißfisch), Nase, Perkarina, Rotauge, Rotfeder, Schlammpeitzger, Schleie, Schrimp, Schwarzbarsch, See Elritze, Sprotte, Taran, Weißbauchflunder, Wobla, Zobel, Zope
       </info>
     </weapon>
     <weapon id="1019">
@@ -2689,7 +2689,7 @@ Size 3</info>
     <weapon id="1436">
       <name>Fliege</name>
       <info>Fängig für:
-Laube, Europäische Äsche, Bachforelle, Regenbogenforelle, Goldforelle, Saimaa-Forelle, Seeforelle, Frosch, Königslachs, Saibling, Hasel
+Bachforelle, Europäische Äsche, Frosch, Goldforelle, Hasel, Königslachs, Laube, Regenbogenforelle, Saibling, Saimaa-Forelle, Seeforelle, Sichling
 	  </info>
     </weapon>
     <weapon id="1437">
