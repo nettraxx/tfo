@@ -29,6 +29,11 @@
 10_Name=Iran: Kaspisches Meer
 10_Info=
 
+11_Name=Norwegen
+12_Name=Russland: Taimyr
+13_Name=USA: Amerikanischer Fluss
+14_Name=Niederlande: Kanal
+
 [LOC_NAMES]
 ---------------------
 # Брезинер
