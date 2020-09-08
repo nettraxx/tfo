@@ -1,3 +1,26 @@
+Patch 1.34.0
+Dem Spiel wurden die Niederlande hinzugefügt.
+Der Standort ist ein Fragment eines der vielen Kanäle, in denen sowohl Süßwasser- als auch Meeresfischarten leben.
+Diese Basis ist ab Stufe 20 verfügbar
+
+Patch 1.33.6
+Flunder-Animationen hinzugefügt
+Animation Meeräsche Singil hinzugefügt
+Neues Modell + Animationen Meeräsche Schwarzbarbe
+Neues Modell + Animation Meeräsche Pilengas
+Ein Fehler ohne Ton beim Fangen von Algen wurde behoben
+Der Ton einer privaten Chat-Nachricht ist lauter und kann geändert werden (Sound / pmmessage.ogg).
+
+Patch 1.33.4
+Animation des Fischmodells "Rapfen" hinzugefügt
+Das Fischmodell "Grundel" wurde geändert
+Das Fischmodell "Saibling" wurde geändert
+Die Fischmodelle "Güster" und "Karausche" wurden geändert
+Es wurde die Möglichkeit hinzugefügt, Schwimmer der "Balance" -Serie zu bemalen.(Bearbeitet)
+
+Patch 1.33.3
+Fehlerbehebungen am Standort Finnland
+
 Patch 1.33.2 
 Stippruten für 12 kg wurden in die Läden aufgenommen. Diese Stippen sind mit Farbänderung erhältlich
 Beim angeln von Fischen wurden Vibrationen für Gamepads hinzugefügt
