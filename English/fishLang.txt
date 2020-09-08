@@ -385,7 +385,7 @@ type_108=Salmon roe
 510_Name = Lake perch
 511_Name = White sturgeon
 
-512_Name=Mullet black
+512_Name=Flathead mullet
 513_Name=Mullet singil
 514_Name=Mullet pilengas
 515_Name=Seabass lavrak
@@ -401,3 +401,18 @@ type_108=Salmon roe
 525_Name=Dorade rose
 526_Name=Dorade royale
 527_Name=Bluefish
+
+528_Name=Fint
+528_Latn=Alosa fallax
+
+529_Name=Allis shad
+529_Latn=Alosa alosa
+
+530_Name=Ramada mullet
+530_Latn=Chelon ramada
+
+531_Name=Thicklip mullet
+531_Latn=Chelon labrosus
+
+532_Name=Crucian carp
+531_Latn=Carassius F1

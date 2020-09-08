@@ -398,3 +398,24 @@ type_108=Красная икра
 525_Name=Дорада красная
 526_Name=Дорада царская
 527_Name=Луфарь
+
+528_Name=Финта
+528_Latn=Alosa fallax
+
+529_Name=Алоса европейская
+529_Latn=Alosa alosa
+
+530_Name=Кефаль рамада
+530_Latn=Chelon ramada
+
+531_Name=Кефаль губач
+531_Latn=Chelon labrosus
+
+532_Name=Карасекарп
+531_Latn=karper-giebel hybride
+
+
+
+
+
+
