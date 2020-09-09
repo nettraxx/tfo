@@ -408,5 +408,5 @@ type_108=Lachs Rogen
 530_Latn=Chelon ramada
 531_Name=Dicklippige Meeräsche
 531_Latn=Chelon labrosus
-532_Name=Karausche Giebel Hybrid
+532_Name=F1 Karpfen (Hybride)
 531_Latn=Carassius F1
