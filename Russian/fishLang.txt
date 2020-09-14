@@ -46,6 +46,7 @@ type_105=Оборванный плавник
 type_106=Шрам от укуса
 type_107=Метка "Толина рыба"
 type_108=Красная икра
+type_109=Черная икра
 
 [SMALLFISHES]
 52_NameSmall=Подлещик
@@ -411,7 +412,7 @@ type_108=Красная икра
 531_Name=Кефаль губач
 531_Latn=Chelon labrosus
 
-532_Name=Карасекарп
+532_Name=Гибрид карпа F1
 531_Latn=karper-giebel hybride
 
 

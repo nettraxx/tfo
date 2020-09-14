@@ -4061,5 +4061,40 @@ VIP не даёт бонуса.</info>
       <info>
       </info>
     </weapon>
+    <weapon id="1841">
+      <name>DS Breamer Pro 12</name>
+      <info>Фидерное удилище от голландского производителя DammSPRO. Обладает отличной баллистикой для заброса тяжелых кормушек на дальнее расстояние.
+Подходят катушки размера 4000 и меньше
++10% опыта</info>
+    </weapon>
+    <weapon id="1842">
+      <name>DS TwLine-12</name>
+      <info>Монофильная леска от голландского производителя DammSPRO</info>
+    </weapon>
+    <weapon id="1843">
+      <name>DS Breamer Pro F</name>
+      <info>Катушка от голландского производителя
+DammSPRO. Ориентирована на фидерную ловлю</info>
+    </weapon>
+    <weapon id="1844">
+      <name>DS TwLine-8</name>
+      <info>Монофильная леска от голландского производителя DammSPRO</info>
+    </weapon>
+    <weapon id="1845">
+      <name>DS TwLine-18</name>
+      <info>Монофильная леска от голландского производителя DammSPRO</info>
+    </weapon>
+    <weapon id="1846">
+      <name>DS TwLine</name>
+      <info>Монофильная леска от голландского производителя DammSPRO</info>
+    </weapon>
+    <weapon id="1847">
+      <name>DS Basket 30-40 гр</name>
+      <info>Кормушка типа "корзина" для фидерной ловли на течении</info>
+    </weapon>
+    <weapon id="1848">
+      <name>Комплект DS Breamer</name>
+      <info>Комплект содержит удочку, катушку, леску и кормушку из наградного комплекта Breamer Pro</info>
+    </weapon>
   </weapons>
 </wpnlang>

@@ -2398,7 +2398,7 @@ Lederkarpfen, Schuppenkarpfen, Spiegelkarpfen
       </info>
     </weapon>
     <weapon id="1387">
-      <name>Lachsrogen</name>
+      <name>Roter Kaviar</name>
       <info>Fängig für:
 Aal, Bachforelle, Mairenke, Maräne (Weißfisch), Quappe, Regenbogenforelle, Saibling, Schrimp, Stint
 	  </info>
@@ -4750,6 +4750,39 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     <weapon id="1840">
       <name>ModStick-Series</name>
       <info></info>
-    </weapon>			
+    </weapon>
+    <weapon id="1841">
+      <name>DS Breamer Pro 12</name>
+      <info>Feederrute des niederländischen Herstellers DammSPRO. Verfügt über eine hervorragende Ballistik zum werfen schwerer Köder über große Entfernungen.
++10% Erfahrung</info>
+    </weapon>
+    <weapon id="1842">
+      <name>DS TwLine-12</name>
+      <info>Monoschnur des niederländischen Herstellers DammSPRO</info>
+    </weapon>
+    <weapon id="1843">
+      <name>DS Breamer Pro F</name>
+      <info>Rolle des niederländischen Herstellers DammSPRO. Konzipiert fürs Feederfischen</info>
+    </weapon>
+    <weapon id="1844">
+      <name>DS TwLine-8</name>
+      <info>Monoschnur des niederländischen Herstellers DammSPRO</info>
+    </weapon>
+    <weapon id="1845">
+      <name>DS TwLine-18</name>
+      <info>Monoschnur des niederländischen Herstellers DammSPRO</info>
+    </weapon>
+    <weapon id="1846">
+      <name>DS TwLine</name>
+      <info>Монофильная леска от голландского производителя DammSPRO</info>
+    </weapon>
+    <weapon id="1847">
+      <name>DS Basket 30-40 gr</name>
+      <info>Feederkorb vom Typ "Basket" für das Feederfischen</info>
+    </weapon>
+    <weapon id="1848">
+      <name>DS Breamer Kit</name>
+      <info>Das Kit enthält eine Rute, eine Rolle, eine Schnur und einen Feederkorb aus dem Premium Breamer Pro Kit</info>
+    </weapon>	
   </weapons>
 </wpnlang>

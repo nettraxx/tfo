@@ -43,8 +43,8 @@ type_104=Label "GreenPeace"
 type_105=Label "Hochschule für Ökologie"
 type_106=Label "University of Bonn ECO"
 type_107=Label "Universite de Paris PFP"
-type_108=Lachs Rogen
-
+type_108=Roter Kaviar
+type_109=Schwarzer Kaviar
 
 
 [MESSAGES]

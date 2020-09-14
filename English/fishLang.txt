@@ -44,8 +44,8 @@ type_104=Sign "GreenPeace"
 type_105=Sign "Wyższa Szkoła Ekologii"
 type_106=Sign "University of Bonn ECO"
 type_107=Sign "Universite de Paris PFP"
-type_108=Salmon roe
-
+type_108=Red caviar
+type_109=Black caviar
 
 
 [MESSAGES]
