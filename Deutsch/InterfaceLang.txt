@@ -1,6 +1,6 @@
 ﻿[INTERFACE]
 
-setng_inercia=Inertia Rute
+setng_inercia=Trägheit der Rute
 --------------------
 setVol_reel=Angelrollenvolumen
 wrksh_btnmods=INSTALLIERT
