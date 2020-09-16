@@ -1,4 +1,4 @@
-Patch 1.35.0
+Patch 1.35.1
 Niederlande: Zope hinzugefügt
 Niederlande: Das wöchentliche niederländische Brassen-Turnier ist mit guten Preisen eröffnet. Das Turnier findet jeden Mittwoch statt
 Es wurde eine Option zum Ausschalten des Nebels (in den Einstellungen des Hauptmenüs) für schwache Computer hinzugefügt
