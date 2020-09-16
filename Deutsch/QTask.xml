@@ -39,7 +39,10 @@
 
 		<turn id="10" name="Spinn Blitzturnier" info="--"/>
 		<turn id="11" name="Grund Blitzturnier" info="--"/> 
-		<turn id="12" name="Fliegen Blitzturnier" info="--"/>  	
+		<turn id="12" name="Fliegen Blitzturnier" info="--"/>
+		
+		
+		<turn id="50" name="Holländische Brasse" info="--"/>
   </tnames>
 
 	<qdynamic>

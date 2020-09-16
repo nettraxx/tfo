@@ -1335,8 +1335,8 @@ crpers_cancel=Abbrechen
 
 startgame=SPIEL STARTEN
 steamconnect2=I have an existing account
-delacc=Delete account
-delaccconfirm=You really want to delete your account?
+delacc=Konto zurücksetzen
+delaccconfirm=Möchten Sie Ihr Konto wirklich zurücksetzen?
 newletter=To send messages, your character must up level 5
 newrega=CONGRATULATIONS!/nYou have successfully signed up for the game!/n/nCreate your character now and go fishing!
 

@@ -4575,5 +4575,44 @@ Rells size 2500 and smaller are suitable
       <info> </info>
     </weapon>		
 	
+	
+	
+   <weapon id="1841">
+      <name>DS Breamer Pro 12</name>
+      <info>Feeder rod from the Dutch manufacturer DammSPRO. Has excellent ballistics for casting heavy feeders over long distances.
+Reel size 4000 and smaller are suitable
++10% exp</info>
+    </weapon>
+    <weapon id="1842">
+      <name>DS TwLine-12</name>
+      <info>Monofilament line from the Dutch manufacturer DammSPRO</info>
+    </weapon>
+    <weapon id="1843">
+      <name>DS Breamer Pro F</name>
+      <info>Reel from Dutch manufacturer
+DammSPRO. Focused on feeder fishing</info>
+    </weapon>
+    <weapon id="1844">
+      <name>DS TwLine-8</name>
+      <info>Monofilament line from the Dutch manufacturer DammSPRO</info>
+    </weapon>
+    <weapon id="1845">
+      <name>DS TwLine-18</name>
+      <info>Monofilament line from the Dutch manufacturer DammSPRO</info>
+    </weapon>
+    <weapon id="1846">
+      <name>DS TwLine</name>
+      <info>Monofilament line from the Dutch manufacturer DammSPRO</info>
+    </weapon>
+    <weapon id="1847">
+      <name>DS Basket 30-40 гр</name>
+      <info>Feeder type "basket" for feeder fishing on the stream</info>
+    </weapon>
+    <weapon id="1848">
+      <name>Kit DS Breamer</name>
+      <info>The kit contains a rod, reel, line and feeder from the premium Breamer Pro kit</info>
+    </weapon>	
+	
+	
   </weapons>
 </wpnlang>

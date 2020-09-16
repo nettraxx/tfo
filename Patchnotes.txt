@@ -1,13 +1,19 @@
 Patch 1.35.0
+Niederlande: Zope hinzugefügt
+Niederlande: Das wöchentliche niederländische Brassen-Turnier ist mit guten Preisen eröffnet. Das Turnier findet jeden Mittwoch statt
+Es wurde eine Option zum Ausschalten des Nebels (in den Einstellungen des Hauptmenüs) für schwache Computer hinzugefügt
+Korrektur von Fehlern und visuellen Artefakten.
+
+Patch 1.35.0
 Optimierung und Verbesserung von Holland, Deutschland, Frankreich, Italien, Serbien
 Globale Verbesserung von Beleuchtungs- und Nebelsystemen
-Die Clip-Einstellung zeigt Entfernungsmesser an
+Die Clip-Einstellung zeigt die Entfernung an
 Optimierung der Wasserreflexionen
 Sonnenblendung auf dem Wasser hinzugefügt
 Der schwarze Punkt in der Sonne wurde entfernt
 Die Wahrscheinlichkeit, Fische mit rotem Kaviar zu fangen erhöht
 Schwarzer Kaviar für Störfische hinzugefügt
-Animation Blaue Brasse hinzugefügt
+Animation Zope hinzugefügt
 Animation von Blitzen hinzugefügt
 Änderungen und Ergänzungen am Sounddesign des Fischfangs
 Korrektur vieler kleinerer Fehler und Mängel
