@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+setfloatload=Schwimmerlast
+--------------------
 
 setng_inercia=Trägheit der Rute
 --------------------

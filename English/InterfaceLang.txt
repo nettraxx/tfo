@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+setfloatload=Float load
+--------------------
 
 setng_inercia=Rod inertia
 --------------------
