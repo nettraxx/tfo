@@ -295,7 +295,7 @@ key_osmart=Smartphone öffnen (Q)
 key_invntr=Inventar öffnen (I)
 key_ftank=Kescher öffnen (C)
 key_slight=Taschenlampe (P)
-key_rodpode=Ziel Rodpod (STRG+Space)
+key_rodpode=Rodpod aufstellen (STRG+Space)
 key_showui=Benutzeroberfläche umschalten (F9)
 
 setbtn_0=Grafik
