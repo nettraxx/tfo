@@ -169,7 +169,12 @@ type_109=Black caviar
 106_Name = Taimen
 107_Name = rammed
 108_Name = Silver carp White
-109_Name = Red Carp
+
+
+109_Name=Golden carp
+109_Latn=Cyprinus Carpio Albino
+
+
 110_Name = Northern pike
 111_Name = Eel
 112_Name = Bleak

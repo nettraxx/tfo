@@ -1,3 +1,15 @@
+Patch 1.36.0
+Frankreich - Ein großer See wurde hinzugefügt
+Frankreich - Boot hinzugefügt
+Frankreich - Es wurden Fischarten hinzugefügt, die zuvor hier nicht gefunden wurden
+Frankreich - neuer Fisch Goldkarpfen (Cyprinus Carpio Albino) hinzugefügt
+Frankreich - Optimierung
+Serbien - Optimierung
+In einigen Booten kann man aufstehen, wenn sie vor Anker liegen
+Schwarzbarsch - maximales Gewicht verringert, Kosten erhöht, Rekorde zurückgesetzt
+Nackter Karpfen - Preis und Erfahrung erhöht
+Traditionelle Fehlerbehebung
+
 Patch 1.35.1
 Niederlande: Zope hinzugefügt
 Niederlande: Das wöchentliche niederländische Brassen-Turnier ist mit guten Preisen eröffnet. Das Turnier findet jeden Mittwoch statt
