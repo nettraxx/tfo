@@ -1,4 +1,10 @@
 ﻿[INTERFACE]
+
+key_rodpode=Set rodpod
+key_showui=UI off
+delacccnfrm=ATTENTION!\nThis action will reset your account to level 1 with the loss of all gear and achievements, including bonus ones.\n\nTo confirm the action, type "DELETE"
+--------------------
+
 setfloatload=Float load
 --------------------
 
@@ -212,6 +218,7 @@ club_err1=Only letters, numbers and space are allowed
 club_err2=Club name is incorrect
 club_err3=Club tag is incorrect
 club_err4=Name or tag already exists
+
 
 btn_qtaskvip=On bases
 

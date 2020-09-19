@@ -7,8 +7,21 @@ Frankreich - Optimierung
 Serbien - Optimierung
 In einigen Booten kann man aufstehen, wenn sie vor Anker liegen
 Schwarzbarsch - maximales Gewicht verringert, Kosten erhöht, Rekorde zurückgesetzt
-Nackter Karpfen - Preis und Erfahrung erhöht
+Lederkarpfen - Preis und Erfahrung erhöht
 Traditionelle Fehlerbehebung
+
+Balance fixes
+Lederkarpfen - Preis um 20% reduziert
+Goldener Karpfen - Preis um 25% erhöht
+Schwarzbarsch - Leistung wird erhöht, Menge erhöht, Preis um 20% erhöht
+Die Reichweite der von anderen Spielern gefangenen Fische wurde auf 250 m verringert
+Die Änderungen werden nach einem täglichen Neustart des Servers wirksam
+Client-Update:
+Verbesserte Karpfenstrukturen
+Verbesserte Dynamik der Spinnführungen
+Einstellung weichere Morgen- und Abendbeleuchtung
+Zusätzlicher Schutz gegen versehentliches Zurücksetzen des Kontos hinzugefügt
+Die Helligkeit des Morgennebels wird reduziert
 
 Patch 1.35.1
 Niederlande: Zope hinzugefügt

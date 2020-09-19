@@ -1,4 +1,8 @@
 ﻿[INTERFACE]
+
+delacccnfrm = ACHTUNG! \ nDiese Aktion setzt Ihr Konto auf Level 1 zurück, wobei alle Ausrüstungsgegenstände und Erfolge, einschließlich der Bonusausrüstung, verloren gehen. \ n \ nUm die Aktion zu bestätigen, geben Sie "LÖSCHEN" ein.
+--------------------
+
 setfloatload=Schwimmerlast
 --------------------
 
@@ -296,7 +300,7 @@ key_invntr=Inventar öffnen (I)
 key_ftank=Kescher öffnen (C)
 key_slight=Taschenlampe (P)
 key_rodpode=Rodpod aufstellen (Space)
-key_showui=Benutzeroberfläche umschalten (F9)
+key_showui=Benutzeroberfläche aus/ein (F9)
 
 setbtn_0=Grafik
 setbtn_1=Klänge

@@ -1603,7 +1603,8 @@
     </weapon>
     <weapon id="1303">
       <name>VOB IceCruncher 5g</name>
-      <info>Из дневника сталкера.. Особый воблер, предназначенный именно для ловли ледяной форели.  Размер 1.</info>
+      <info>
+      </info>
     </weapon>
     <weapon id="1304">
       <name>Юниор</name>
@@ -2198,12 +2199,8 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1432">
       <name>JIG TwistNord Ice 25g</name>
-      <info> 
-
-Специальный твистер, предназначенный для поимки крупной ледяной рыбы
-
-Входит в состав специального реал-пакета
-Размер 3</info>
+      <info>
+      </info>
     </weapon>
     <weapon id="1433">
       <name>Карповая-MD</name>
@@ -4095,6 +4092,26 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     <weapon id="1848">
       <name>Комплект DS Breamer</name>
       <info>Комплект содержит удочку, катушку, леску и кормушку из наградного комплекта Breamer Pro</info>
+    </weapon>
+    <weapon id="1849">
+      <name>Bombard FLT - 35</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1850">
+      <name>Bombard FLT - 40</name>
+      <info>
+</info>
+    </weapon>
+    <weapon id="1851">
+      <name>Bombard FLT - 45</name>
+      <info>
+</info>
+    </weapon>
+    <weapon id="1852">
+      <name>Bombard FLT Series</name>
+      <info>
+      </info>
     </weapon>
   </weapons>
 </wpnlang>
