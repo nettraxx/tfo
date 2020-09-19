@@ -2663,13 +2663,8 @@ Can be enhanced.
 VIP gives no bonus.</info>
     </weapon>
     <weapon id="1432">
-      <name>Nord TWS-III ICE</name>
-      <info> 
-
-This special twister is designed for catching big ice fish.
-
-Is a part of the special real-package.
-Size 3</info>
+      <name>JIG TwistNord Ice 25g</name>
+      <info></info>
     </weapon>
     <weapon id="1433">
       <name>--</name>
@@ -4784,6 +4779,26 @@ Rollengröße 4000 und kleiner sind geeignet
     <weapon id="1848">
       <name>DS Breamer Kit</name>
       <info>Das Kit enthält eine Rute, eine Rolle, eine Schnur und einen Feederkorb aus dem Premium Breamer Pro Kit</info>
+    </weapon>
+    <weapon id="1849">
+      <name>Bombard FLT - 35</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1850">
+      <name>Bombard FLT - 40</name>
+      <info>
+	</info>
+    </weapon>
+    <weapon id="1851">
+      <name>Bombard FLT - 45</name>
+      <info>
+	</info>
+    </weapon>
+    <weapon id="1852">
+      <name>Bombard FLT Series</name>
+      <info>
+      </info>
     </weapon>	
   </weapons>
 </wpnlang>
