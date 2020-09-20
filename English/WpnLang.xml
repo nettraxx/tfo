@@ -4614,5 +4614,66 @@ DammSPRO. Focused on feeder fishing</info>
     </weapon>	
 	
 	
+	<weapon id="1849">
+      <name>Bombard FLT - 35</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1850">
+      <name>Bombard FLT - 40</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1851">
+      <name>Bombard FLT - 45</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1852">
+      <name>Bombard FLT Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1853">
+      <name>Offset Hook #1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1854">
+      <name>Offset Hook #2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1855">
+      <name>Offset Hook #3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1856">
+      <name>Offset Hook #4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1857">
+      <name>Offset Hook #5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1858">
+      <name>Offset Worm Hooks</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1859">
+      <name>Tehno plankton</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1860">
+      <name>Tehnoplankton floating</name>
+      <info>
+      </info>
+    </weapon>
+	
   </weapons>
 </wpnlang>

@@ -1,3 +1,14 @@
+Patch 1.36.1
+Navigator - erhöhte Genauigkeit, sowohl für Basic als auch für VIP
+Der Grund für die häufigen Fischausschlitzer wurde analysiert und behoben
+Offset Haken für Silikonköder und Würmer wurden zum Shop hinzugefügt
+Graskarpfen, Silberkarpfen - verminderte Kraft, verminderte Ausdauer
+Forellenbarsch - reduziertes Maximalgewicht, Rekorde und persönliche Statistiken zurückgesetzt
+Forellenbarsch und Schwarzbarsch - Erfahrung erhöht, Preis erhöht
+Die Kapazität des Spielservers wurde auf 1000 Personen erweitert
+Brassen fressen jetzt weniger Schalentiere
+Castingrute - Die Verwendung von Gewichtskugeln ist nur noch mit Jigködern möglich
+
 Patch 1.36.0
 Frankreich - Ein großer See wurde hinzugefügt
 Frankreich - Boot hinzugefügt
