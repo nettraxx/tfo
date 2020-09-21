@@ -1,3 +1,9 @@
+Patch 1.36.2
+Behebung von physikalischen Fehlern im Spiel
+Zobel - erhöhter Preis und Erfahrung
+Hecht - gesteigerte Erfahrung
+Barsche - der Preis reduziert sich um 10%
+
 Patch 1.36.1
 Navigator - erhöhte Genauigkeit, sowohl für Basic als auch für VIP
 Der Grund für die häufigen Fischausschlitzer wurde analysiert und behoben

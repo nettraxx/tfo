@@ -4832,13 +4832,23 @@ Rollengröße 4000 und kleiner sind geeignet
     </weapon>
     <weapon id="1859">
       <name>Technoplankton</name>
-      <info>
-      </info>
+      <info>Technoplankton-Tablette zum Fangen von Silber- und Graskarpfen. Für die Installation auf einem Schwimmgerät ist ein Busafa und für das Grundfischen ein spezieller Feeder erforderlich.
+
+Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info>
     </weapon>
     <weapon id="1860">
-      <name>Technoplankton schwimmend</name>
+      <name>--</name>
+      <info>
+      </info>
+    </weapon>	
+    <weapon id="1861">
+      <name>Technoplankton Futter</name>
       <info>
       </info>
     </weapon>
+    <weapon id="1862">
+      <name>Trempel</name>
+      <info>Busafa oder Trempel ist ein Rig für Technoplankton. Wird in Verbindung mit einer Posenrute verwendet. Enthält einen Rahmen für die Installation einer Technoplankton-Tablette und eine kurze Leine mit einem Haken der Größe 2, an dem eine Schaumkugel haftet</info>
+    </weapon>	
   </weapons>
 </wpnlang>
