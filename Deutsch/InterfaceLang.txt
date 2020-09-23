@@ -74,7 +74,7 @@ act_inf5e=[E] Entfernen
 ---------------------
 craftwp_btn=Handwerkstisch
 dntpck_3_name=Paket "Bee Picker"
-dntpck_3_info=Das Kit enthält eine Leichte Picker (6 kg Feeder Rig, + 50% Erfahrungsgewinn), eine Feederrolle und eine Schnur. Ein ungeöffnetes Set kann an einen Freund geschickt werden.
+dntpck_3_info=Das Kit enthält eine Leichte Picker (6kg Feeder Rig, + 50% Erfahrungsgewinn), eine Feederrolle und eine Schnur. Ein ungeöffnetes Set kann an einen Freund geschickt werden.
 wpn_ibsize_4=Gr. ultra (Haken Nr.3-5)
 ---------------------
 
@@ -413,11 +413,11 @@ setVol_motr=Motor-Lautstärke
 #the Fisher
 #------------------------------------
 
-tf_wpr1=Traglast: {0}kg\nLänge: {1}m
-tf_wpr2=Bremskraft {1}kg\nZugkraft {0}kg
-tf_wpr3=Traglast: {1} kg\nDicke: {0} mm
-tf_wpr4=Anzahl: {0}Stk\nGewicht: {1}
-tf_wpr5=Tiefe {0}m
+tf_wpr1=Traglast: {0}\nLänge:{1}m
+tf_wpr2=Bremskraft: {1}\nZugkraft:{0}
+tf_wpr3=Traglast: {1}\nDicke:{0}mm
+tf_wpr4=Anzahl: {0}Stk\nGewicht:{1}
+tf_wpr5=Tiefe: {0}m
 
 stm_1=SPIEL STARTEN
 stm_2=Einstellung
@@ -998,15 +998,15 @@ wpn_med1=Life recovery: <color='#102000'>{0}</color>\n
 wpn_med2=Life damage: <color='#201000'>{0}</color>\n
 
 wpn_tank1=Maximales Gewicht: {0}
-wpn_tank2=Maximale Anzahl: {0} Stk
+wpn_tank2=Maximale Anzahl: {0}Stk
 
 wpn_bait1=Attraktivität: {0}%
 wpn_popl1=+Bisssignalalarm
-wpn_hook1=Schärfe: {0} %\n
+wpn_hook1=Schärfe: {0}%\n
 wpn_hook2=Größe: {0}
 
-wpn_line1=Traglast: {0} kg\n
-wpn_line2=Länge: {0} m
+wpn_line1=Traglast: {0}\n
+wpn_line2=Länge: {0}m
 
 wpn_cat1=Zugkraft:
 wpn_cat2=Ausgleich:
@@ -1250,7 +1250,7 @@ wpn_izn=\nDurability:
 wpn_onlym=<color='#{0}'>Male</color>
 wpn_onlyw=<color='#{0}'>Female</color>
 
-wpn_rod1=Traglast: {0}kg\n
+wpn_rod1=Traglast: {0}\n
 wpn_rod2=Länge: {0}m \n 
 wpn_rod3=Tiefe: {0}m
 wpn_rod4=Wurfgewicht: {0}

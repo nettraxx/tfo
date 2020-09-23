@@ -3728,57 +3728,57 @@ Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Ro
       <info>Fertige Futterkugeln</info>
     </weapon>
     <weapon id="1634">
-      <name>Vorfach 1,5 kg</name>
+      <name>Vorfach 1,5kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1635">
-      <name>Vorfach 2,7 kg</name>
+      <name>Vorfach 2,7kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1636">
-      <name>Vorfach 4,5 kg</name>
+      <name>Vorfach 4,5kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1637">
-      <name>Vorfach 6,4 kg</name>
+      <name>Vorfach 6,4kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1638">
-      <name>Vorfach 9,7 kg</name>
+      <name>Vorfach 9,7kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1639">
-      <name>Vorfach 11,4 kg</name>
+      <name>Vorfach 11,4kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1640">
-      <name>Vorfach 14,5 kg</name>
+      <name>Vorfach 14,5kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1641">
-      <name>Vorfach 19,2 kg</name>
+      <name>Vorfach 19,2kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1642">
-      <name>Vorfach 24,6 kg</name>
+      <name>Vorfach 24,6kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1643">
-      <name>Vorfach 29,1 kg</name>
+      <name>Vorfach 29,1kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1644">
-      <name>Vorfach 39,2 kg</name>
+      <name>Vorfach 39,2kg</name>
       <info>
       </info>
     </weapon>
@@ -3815,7 +3815,7 @@ Blaubarsch, Dicklippige Meeräsche, Europäischer Wolfsbarsch, Felsenbarsch, Gol
       <info>Schnur für´s Fliegenfischen (Gelb)</info>	
 	</weapon>	
     <weapon id="1651">
-      <name>Vorfach 16,9 kg</name>
+      <name>Vorfach 16,9kg</name>
       <info>     </info>
 	  </weapon>
     <weapon id="1652">
@@ -4263,12 +4263,12 @@ Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1744">
 		<name>Kit BeeCast</name>
-		<info>Das Kit enthält eine leichte Castingrute (6 kg, + 75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern von Basser
+		<info>Das Kit enthält eine leichte Castingrute (6kg, + 75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern von Basser
 </info>
     </weapon>
     <weapon id="1745">
 		<name>Kit SeaCast</name>
-		<info>Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle, Angelschnur vom Meerescasting-Kit von Basser</info>
+		<info>Dieses Kit enthält eine schwere Castingrute (52kg), eine Multirolle, Angelschnur vom Meerescasting-Kit von Basser</info>
     </weapon>
     <weapon id="1746">
 		<name>Basser St-5</name>
@@ -4392,7 +4392,7 @@ Barbe, Dnieper Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfis
       <info>Fertige Köderbällchen mit kleinen Krebstieren. Gut zum Fangen von Seefisch, Schrimps und Tintenfisch.</info>
     </weapon>	
 	 <weapon id="1770">
-      <name>Vorfach 7.9 kg</name>
+      <name>Vorfach 7.9kg</name>
       <info>
       </info>
     </weapon>
@@ -4467,19 +4467,19 @@ Bachsaibling, Baltischer Lachs, Hecht, Meerzander, Zander
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1785">
-      <name>Fliegen Vorfach 1,5 kg</name>
+      <name>Fliegen Vorfach 1,5kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1786">
-      <name>Fliegen Vorfach 6,4 kg</name>
+      <name>Fliegen Vorfach 6,4kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1787">
-      <name>Fliegen Vorfach 14,5 kg</name>
+      <name>Fliegen Vorfach 14,5kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1788">
-      <name>Fliegen Vorfach 19,2 kg</name>
+      <name>Fliegen Vorfach 19,2kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1789">
@@ -4538,11 +4538,11 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
       </info>
     </weapon>
     <weapon id="1798">
-      <name>Fliegen Vorfach 11,2 kg</name>
+      <name>Fliegen Vorfach 11,2kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>	
     <weapon id="1799">
-      <name>Fliegen Vorfach 17,2 kg</name>
+      <name>Fliegen Vorfach 17,2kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>			
     <weapon id="1800">
@@ -4561,7 +4561,7 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
       <info>Leichte professionelle Feeder-Rolle</info>
     </weapon>
     <weapon id="1803">
-      <name>BeeFluo 5,8 kg</name>
+      <name>BeeFluo 5,8kg</name>
       <info>
       </info>
     </weapon>
@@ -4630,7 +4630,7 @@ Nur Rollengröße 2500 und kleiner sind zulässig
       <info></info>
     </weapon>
     <weapon id="1816">
-      <name>Fly leader 10,4 kg</name>
+      <name>Fliegen Vorfach 10,4kg</name>
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1817">
