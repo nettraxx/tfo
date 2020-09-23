@@ -312,7 +312,7 @@
       </info>
     </weapon>
     <weapon id="1006">
-      <name>Sinker 0,4 g</name>
+      <name>Sinker 0,4g</name>
       <info> Ein einfaches Blei.</info>
     </weapon>
     <weapon id="1007">
@@ -4219,17 +4219,17 @@ Nur für Rollen mit maximal 2000er Größe</info>
       </info>
     </weapon>
 	<weapon id="1758">
-      <name>Exceller 5 m</name>
+      <name>Exceller 5m</name>
       <info>
       </info>
     </weapon>
     <weapon id="1759">
-      <name>Exceller 6 m</name>
+      <name>Exceller 6m</name>
       <info>
       </info>
     </weapon>
     <weapon id="1760">
-      <name>Exceller 7 m</name>
+      <name>Exceller 7m</name>
       <info>
       </info>
     </weapon>
@@ -4295,7 +4295,7 @@ Nur für Rollen mit maximal 2000er Größe</info>
 +100 Cluberfahrung</info>
     </weapon>	
 	    <weapon id="1774">
-      <name>Exceller 3 m</name>
+      <name>Exceller 3m</name>
       <info>Sondermodell zum Angeln vom Boot aus oder unter beengten Verhältnissen</info>
     </weapon>
     <weapon id="1775">
@@ -4438,7 +4438,7 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1804">
       <name>Komplettset BeePicker</name>
-      <info>Das Set enthält eine Picker-Rute, eine Rolle, eine Schnur aus einem "Bienen" -Futter-Set eines bekannten Herstellers Basser</info>
+      <info>Das Set enthält eine Picker-Rute, eine Rolle, eine Schnur aus einem BeePicker-Set des bekannten Herstellers Basser</info>
     </weapon>
     <weapon id="1805">
       <name>SeaHook FH-4</name>
@@ -4455,7 +4455,7 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1808">
       <name>Akma VB2 Silver</name>
-      <info>Schwerer Köder für die vertikale Führung. Fängig für: 	  Pazifischer Kabeljau, Schwarzbarsch
+      <info>Schwerer Köder für die vertikale Führung. Fängig für: Pazifischer Kabeljau, Schwarzbarsch
 	  </info>
     </weapon>
     <weapon id="1809">
@@ -4584,17 +4584,17 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     </weapon>
     <weapon id="1835">
       <name>WOB Shad-F1</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: 	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1836">
       <name>WOB Shad-F2</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: 	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1837">
       <name>WOB Shad-F3</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: 	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1838">
@@ -4603,7 +4603,7 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     </weapon>
     <weapon id="1839">
       <name>WOB Shad-F4</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: 	  Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1840">
@@ -4634,7 +4634,7 @@ Rollengröße 4000 und kleiner sind geeignet
     </weapon>
     <weapon id="1846">
       <name>DS TwLine</name>
-      <info>Монофильная леска от голландского производителя DammSPRO</info>
+      <info>Monoschnur des niederländischen Herstellers DammSPRO</info>
     </weapon>
     <weapon id="1847">
       <name>DS Basket 30-40 gr</name>
