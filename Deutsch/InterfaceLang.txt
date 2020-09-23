@@ -203,11 +203,11 @@ club_err4=Name oder Label existieren bereits
 
 btn_qtaskvip=Andere Orte
 dntpck_2_name=Paket "SeaCast"
-dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52kg), eine Multirolle (50kg), Angelschnur (51kg) und 500 Silber. Ungeöffnet kann es an einen Freund verschickt werden.
 
 dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
 dntpck_1_name=Paket "BeeCast"
-dntpck_1_info=Das Kit enthält eine leichte Castingrute (+75% Erf.), eine LP-Rolle, Angelschnur und ein zufälliges Set aus 3 UL Ködern. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_1_info=Das Kit enthält eine leichte Castingrute (6kg +75% Erf.), eine LP-Rolle (5kg), Angelschnur (5,5kg) und 3 UL Ködern. Ungeöffnet kann es an einen Freund verschickt werden.
 
 
 wptype_offset=Offset Haken
