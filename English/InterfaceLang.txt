@@ -1,5 +1,15 @@
 ﻿[INTERFACE]
 
+set_compass=Show compass
+takclbcharmsg2=Transfer the rights of the Head\n{0} ?
+takclbcharmsg1=Head of Club
+--------------------
+
+wgt_poz=oz
+wgt_plb=lb 
+wgt_pound=Weight in pounds
+--------------------
+
 key_rodpode=Set rodpod
 key_showui=UI off
 delacccnfrm=ATTENTION!\nThis action will reset your account to level 1 with the loss of all gear and achievements, including bonus ones.\n\nTo confirm the action, type "DELETE"
@@ -422,9 +432,9 @@ setVol_motr=Engines volume
 #the Fisher
 #------------------------------------
 
-tf_wpr1=Durability: {0}кг\nLenght: {1}m
-tf_wpr2=Friction {1}кг\nPower {0}kg
-tf_wpr3=Durability: {1} kg\nThickness: {0} mm
+tf_wpr1=Strength: {0}\nLenght: {1}m
+tf_wpr2=Friction {1}\nPower {0}
+tf_wpr3=Strength: {1}\nThickness: {0} mm
 tf_wpr4=Count: {0}pcs\nWeight: {1}
 tf_wpr5=Deep {0}m
 
@@ -1033,7 +1043,7 @@ wpn_popl1=+Bite signalling alerter
 wpn_hook1=Sharpness: {0} %\n
 wpn_hook2=Size: {0}
 
-wpn_line1=Breaking weight: {0} kg\n
+wpn_line1=Breaking weight: {0}\n
 wpn_line2=Length: {0} m
 
 wpn_cat1=Strengthening:
@@ -1279,10 +1289,10 @@ wpn_izn=\nDurability:
 wpn_onlym=<color='#{0}'>Male</color>
 wpn_onlyw=<color='#{0}'>Female</color>
 
-wpn_rod1=Weight: {0}kg\n
+wpn_rod1=Weight: {0}\n
 wpn_rod2=Length: {0}m \n 
 wpn_rod3=Depth: {0}m
-wpn_rod4=Bait weight: {0}
+wpn_rod4=Test: {0}
 
 wpn_lv=lvl.
 wpn_lvf=Level

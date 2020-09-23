@@ -4163,5 +4163,64 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <name>Тремпель</name>
       <info>Busafa или тремпель - оснастка для технопланктона. Используется совместно с поплавочной удочкой. Включает в себя рамку для установки таблетки технопланктона и короткий поводок с крючком второго размера, на который цепляется пенопластовый шарик</info>
     </weapon>
+    <weapon id="1863">
+      <name>Ваглер-20-12 C1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1864">
+      <name>Ваглер-20-12 C2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1865">
+      <name>Ваглер-20-12 C3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1866">
+      <name>Ваглер-20-12 N</name>
+      <info>Ночной</info>
+    </weapon>
+    <weapon id="1867">
+      <name>Ваглеры 20-12</name>
+      <info>Ночной</info>
+    </weapon>
+    <weapon id="1868">
+      <name>Salmon GT-30 Series</name>
+      <info>Серия блесен для ловли лососевых. Подходят как для ловли с берега, так и для троллинга
+</info>
+    </weapon>
+    <weapon id="1869">
+      <name>VIB Salmon GT-1</name>
+      <info>Серия блесен для ловли лососевых
+</info>
+    </weapon>
+    <weapon id="1870">
+      <name>VIB Salmon GT-2</name>
+      <info>Серия блесен для ловли лососевых
+</info>
+    </weapon>
+    <weapon id="1871">
+      <name>VIB Salmon GT-3</name>
+      <info>Серия блесен для ловли лососевых
+</info>
+    </weapon>
+    <weapon id="1872">
+      <name>CRL DeepGracia</name>
+      <info>Огруженная вертушка для глубоководной ловли</info>
+    </weapon>
+    <weapon id="1873">
+      <name>CRL DG-M1</name>
+      <info>Огруженная вертушка для глубоководной ловли</info>
+    </weapon>
+    <weapon id="1874">
+      <name>CRL DG-M2</name>
+      <info>Огруженная вертушка для глубоководной ловли</info>
+    </weapon>
+    <weapon id="1875">
+      <name>CRL DG-M3</name>
+      <info>Огруженная вертушка для глубоководной ловли</info>
+    </weapon>
   </weapons>
 </wpnlang>

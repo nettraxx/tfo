@@ -1,5 +1,15 @@
 ﻿[INTERFACE]
 
+set_compass=Kompass anzeigen
+takclbcharmsg2=Sind Sie sicher, den Club auf Spieler \ n {0} zu übertragen?
+takclbcharmsg1=Transfer Club
+--------------------
+wgt_poz = oz
+wgt_plb = lb.
+
+wgt_pound = Gewicht in Pfund
+--------------------
+
 delacccnfrm = ACHTUNG! \ nDiese Aktion setzt Ihr Konto auf Level 1 zurück, wobei alle Ausrüstungsgegenstände und Erfolge, einschließlich der Bonusausrüstung, verloren gehen. \ n \ nUm die Aktion zu bestätigen, geben Sie "LÖSCHEN" ein.
 --------------------
 

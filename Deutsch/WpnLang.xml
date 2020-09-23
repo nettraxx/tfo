@@ -4849,6 +4849,61 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     <weapon id="1862">
       <name>Trempel</name>
       <info>Busafa oder Trempel ist ein Rig für Technoplankton. Wird in Verbindung mit einer Posenrute verwendet. Enthält einen Rahmen für die Installation einer Technoplankton-Tablette und eine kurze Leine mit einem Haken der Größe 2, an dem eine Schaumkugel haftet</info>
+    </weapon>
+    <weapon id="1863">
+      <name>Waggler-20-12 C1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1864">
+      <name>Waggler-20-12 C2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1865">
+      <name>Waggler-20-12 C3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1866">
+      <name>Waggler-20-12 N</name>
+      <info>Nacht</info>
+    </weapon>
+    <weapon id="1867">
+      <name>Waggler 20-12</name>
+      <info>Nacht</info>
+    </weapon>
+    <weapon id="1868">
+      <name>Salmon GT-30 Series</name>
+      <info>Eine Reihe von Ködern zum Lachsfischen. Geeignet zum Angeln an Land und zum Trolling</info>
+    </weapon>
+    <weapon id="1869">
+      <name>VIB Salmon GT-1</name>
+      <info>Lachsfischköder-Serie</info>
+    </weapon>
+    <weapon id="1870">
+      <name>VIB Salmon GT-2</name>
+      <info>Lachsfischköder-Serie</info>
+    </weapon>
+    <weapon id="1871">
+      <name>VIB Salmon GT-3</name>
+      <info>Lachsfischköder-Serie</info>
+    </weapon>
+    <weapon id="1872">
+      <name>CRL DeepGracia</name>
+      <info>Spinner zum Tiefseefischen</info>
+    </weapon>
+    <weapon id="1873">
+      <name>CRL DG-M1</name>
+      <info>Spinner zum Tiefseefischen</info>
+    </weapon>
+    <weapon id="1874">
+      <name>CRL DG-M2</name>
+      <info>Spinner zum Tiefseefischen</info>
+    </weapon>
+    <weapon id="1875">
+      <name>CRL DG-M3</name>
+      <info>Spinner zum Tiefseefischen</info>
     </weapon>	
   </weapons>
 </wpnlang>

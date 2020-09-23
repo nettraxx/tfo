@@ -1,3 +1,13 @@
+Patch 1.37.0 BETA
+Eine experimentelle Beta-Version des Clients wurde für zusätzliche Tests gestartet
+Anzeige des Gewichts in Pfund hinzugefügt
+Änderungen in der Dynamik des Posenfischens
+Kompass hinzugefügt
+Einige Arten haben neue Drillmechaniken erhalten (alle Forellen, Lachse, Barsche)
+Die Möglichkeit für den Gründer, den Club auf einen anderen Offizier zu übertragen
+Um am Testen teilzunehmen, öffne deine Steam-Bibliothek, klicke mit der rechten Maustaste auf das Symbol des Spiels und wähle Eigenschaften. 
+Wählen Sie im folgenden Fenster "An Betatests teilnehmen -> betabuild".
+
 Patch 1.36.2
 Behebung von physikalischen Fehlern im Spiel
 Zobel - erhöhter Preis und Erfahrung
