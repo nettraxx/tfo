@@ -360,7 +360,7 @@
     </weapon>
     <weapon id="1016">
       <name>Silikonwurm</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1017">
@@ -385,7 +385,7 @@
     </weapon>
     <weapon id="1021">
       <name>Köderfisch</name>
-      <info>Fängig für: Aal, Bachforelle, Bachsaibling, Belugastör, Blaubarsch, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Glatt-Stör, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Pazifischer Kabeljau, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Schwarzbarsch, Russischer Stör, Saibling, Tintenfisch, Weißer Thunfisch
+      <info>Fängig für: Aal, Bachforelle, Bachsaibling, Belugastör, Blaubarsch, Donaulachs, Europäische Äsche, Europäischer Stör, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Forellenbarsch, Getüpfelter Gabelwels, Glatt-Stör, Grashecht, Großkopfmeeräsche, Hecht, Maräne (Weißfisch), Meerzander, Seehecht, Peledmaräne, Persischer Stör, Quappe, Regenbogenforelle, Schwarzbarsch, Russischer Stör, Saibling, Tintenfisch, Weißer Thunfisch
       </info>
     </weapon>
     <weapon id="1022">
@@ -539,7 +539,7 @@
     </weapon>
     <weapon id="1052">
       <name>Muschelstückchen</name>
-      <info>Fängig für: Aal, Bachsaibling, Belugastör, Brachse, Europäischer Stör, Europäischer Wels, Flussbarsch, Glatt-Stör, Kaspischer Kutum, Kaulbarsch, Lederkarpfen, Maräne (Weißfisch), Pazifischer Kabeljau, Persischer Stör, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Spiegelkarpfen, Sterlet, Tiberbarbe, Zährte
+      <info>Fängig für: Aal, Bachsaibling, Belugastör, Brachse, Europäischer Stör, Europäischer Wels, Flussbarsch, Glatt-Stör, Kaspischer Kutum, Kaulbarsch, Lederkarpfen, Maräne (Weißfisch), Seehecht, Persischer Stör, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Spiegelkarpfen, Sterlet, Tiberbarbe, Zährte
       </info>
     </weapon>
     <weapon id="1053">
@@ -1220,7 +1220,7 @@
     </weapon>
     <weapon id="1176">
       <name>Fischfetzen</name>
-      <info>Fängig für: Aal, Bachsaibling, Blutegel, Dicklippige Meeräsche, Dorade royal, Europäischer Wels, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kaspi Maifisch, Meeräsche, Muschel, Pazifischer Kabeljau, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schrimp, Sprotte, Stint, Taimen
+      <info>Fängig für: Aal, Bachsaibling, Blutegel, Dicklippige Meeräsche, Dorade royal, Europäischer Wels, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kaspi Maifisch, Meeräsche, Muschel, Seehecht, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schrimp, Sprotte, Stint, Taimen
       </info>
     </weapon>
     <weapon id="1177">
@@ -2398,17 +2398,17 @@ Thanks for your votings!</info>
     </weapon>
     <weapon id="1393">
       <name>VIB Raiwa 12g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Pazifischer Kabeljau, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1394">
       <name>VIB Raiwa 18g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Pazifischer Kabeljau, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1395">
       <name>VIB Raiwa 25g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Pazifischer Kabeljau, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1396">
@@ -2419,17 +2419,17 @@ Thanks for your votings!</info>
     </weapon>
     <weapon id="1397">
       <name>JIG TwistNord I</name>
-      <info>Silikonköder 40 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
+      <info>Silikonköder 40 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
 	  </info>
     </weapon>
     <weapon id="1398">
       <name>JIG TwistNord II</name>
-      <info>Silikonköder 75 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander,Zander
+      <info>Silikonköder 75 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander,Zander
 	  </info>
     </weapon>
     <weapon id="1399">
       <name>JIG TwistNord III</name>
-      <info>Silikonköder 100 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Pazifischer Kabeljau, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
+      <info>Silikonköder 100 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander
 	  </info>
     </weapon>
     <weapon id="1400">
@@ -2834,17 +2834,17 @@ Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder K
     </weapon>
     <weapon id="1476">
       <name>VIB Rima M1 12g</name>
-      <info>Fängig für: Donaulachs, Kaspischer Hering, Meeräsche, Pazifischer Kabeljau, Zander
+      <info>Fängig für: Donaulachs, Kaspischer Hering, Meeräsche, Seehecht, Zander
       </info>
     </weapon>
     <weapon id="1477">
       <name>VIB Rima M1 18g</name>
-      <info>Fängig für: Donaulachs, Kaspischer Hering, Meeräsche, Pazifischer Kabeljau, Zander
+      <info>Fängig für: Donaulachs, Kaspischer Hering, Meeräsche, Seehecht, Zander
       </info>
     </weapon>
     <weapon id="1478">
       <name>VIB Rima M1 25g</name>
-      <info>Fängig für: Donaulachs, Kaspischer Hering, Meeräsche, Pazifischer Kabeljau, Zander
+      <info>Fängig für: Donaulachs, Kaspischer Hering, Meeräsche, Seehecht, Zander
       </info>
     </weapon>
     <weapon id="1479">
@@ -3039,17 +3039,17 @@ Kann gegen Belohnungen eingelöst werden.
     </weapon>
     <weapon id="1516">
       <name>Minnow TWS-I M1</name>
-      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Europäischer Wolfsbarsch, Meerzander, Pazifischer Kabeljau
+      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Europäischer Wolfsbarsch, Meerzander, Seehecht
 		</info>
     </weapon>
     <weapon id="1517">
       <name>Minnow TWS-I M2</name>
-      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Europäischer Wels, Flussbarsch, Grashecht, Großkopfmeeräsche, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Seeforelle, Zander
+      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Europäischer Wels, Flussbarsch, Grashecht, Großkopfmeeräsche, Seehecht, Quappe, Regenbogenforelle, Seeforelle, Zander
 		</info>
     </weapon>
     <weapon id="1518">
       <name>Minnow TWS-I M3</name>
-      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Döbel, Europäischer Wels, Europäischer Wolfsbarsch, Grashecht, Pazifischer Kabeljau, Zander
+      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Döbel, Europäischer Wels, Europäischer Wolfsbarsch, Grashecht, Seehecht, Zander
 		</info>
     </weapon>
     <weapon id="1519">
@@ -3270,7 +3270,7 @@ der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
     </weapon>
     <weapon id="1558">
       <name>Schrimp</name>
-      <info>Fängig für: Bachforelle, Blaubarsch, Dicklippige Meeräsche, Goldbrasse, Goldforelle, Grashecht, Meerzander, Pazifischer Kabeljau, Regenbogenforelle, Russischer Stör, Teichforelle, Weißbauchflunder, Zander
+      <info>Fängig für: Bachforelle, Blaubarsch, Dicklippige Meeräsche, Goldbrasse, Goldforelle, Grashecht, Meerzander, Seehecht, Regenbogenforelle, Russischer Stör, Teichforelle, Weißbauchflunder, Zander
 	  </info>
     </weapon>
     <weapon id="1559">
@@ -3326,12 +3326,12 @@ der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
     </weapon>
     <weapon id="1569">
       <name>Silikonwurm M1</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1570">
       <name>Silikonwurm M2</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Pazifischer Kabeljau, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1571">
@@ -3451,7 +3451,7 @@ der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
     </weapon>
     <weapon id="1594">
       <name>Boilie "Austern"</name>
-      <info>Fängig für: Belugastör, Brachse, Europäische Äsche, Flussbarsch, Glatt-Stör, Graskarpfen, Großkopfmeeräsche, Kaspischer Kutum, Maräne (Weißfisch), Meeräsche, Pazifischer Kabeljau, Persischer Stör, Russischer Stör, Scherg, Silberkarpfen, Sterlet, Wildkarpfen, Zährte
+      <info>Fängig für: Belugastör, Brachse, Europäische Äsche, Flussbarsch, Glatt-Stör, Graskarpfen, Großkopfmeeräsche, Kaspischer Kutum, Maräne (Weißfisch), Meeräsche, Seehecht, Persischer Stör, Russischer Stör, Scherg, Silberkarpfen, Sterlet, Wildkarpfen, Zährte
       </info>
     </weapon>
     <weapon id="1595">
@@ -3502,7 +3502,7 @@ der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
     <weapon id="1604">
       <name>VIB Raiwa 30g</name>
       <info>Fängig für:	
-Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Pazifischer Kabeljau, Regenbogenforelle, Taimen, Zander
+Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
       </info>
     </weapon>
     <weapon id="1605">
@@ -3833,17 +3833,17 @@ Rollengröße: 1000-2500.</info>
 	</weapon>
 	<weapon id="1675">
 	  <name>VIB MD Cyclope M1</name>
-	  <info>Fängig für: Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+	  <info>Fängig für: Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1676">
 	  <name>VIB MD Cyclope M2</name>
-	  <info>Fängig für: Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+	  <info>Fängig für: Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1677">
 	  <name>VIB MD Cyclope M3</name>
-	  <info>Fängig für: Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Pazifischer Kabeljau, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+	  <info>Fängig für: Bachsaibling, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	  <weapon id="1678">
@@ -4450,12 +4450,12 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1807">
       <name>Akma VB1 Gold</name>
-      <info>Schwerer Köder für die vertikale Führung. Fängig für: Europäischer Wolfsbarsch, Königslachs, Pazifischer Kabeljau
+      <info>Schwerer Köder für die vertikale Führung. Fängig für: Europäischer Wolfsbarsch, Königslachs, Seehecht
 	  </info>
     </weapon>
     <weapon id="1808">
       <name>Akma VB2 Silver</name>
-      <info>Schwerer Köder für die vertikale Führung. Fängig für: Pazifischer Kabeljau, Schwarzbarsch
+      <info>Schwerer Köder für die vertikale Führung. Fängig für: Seehecht, Schwarzbarsch
 	  </info>
     </weapon>
     <weapon id="1809">
