@@ -372,7 +372,7 @@ prov_prov_5=Strippen
 prov_prov_6=Mehrfach Strippen
 prov_prov_7=Step-by-Step
 
-wpn_catfly=Spule: {0:0.0} m (wenn 1mm Schnur verwendet wird)
+wpn_catfly=Spule: {0:0.0}m (wenn 1mm Schnur verwendet wird)
 
 treel_type0=Stationär
 treel_type1=Single Action
@@ -573,8 +573,8 @@ line_type3=Type: Fliegenfischen
 #Added 22.02.2018
 #------------------------------------
 
-rod_inf1=Schnur auf der Spule: {0:0.0} m
-rod_inf2=Optimal für Fische ab {0} kg
+rod_inf1=Schnur auf der Spule: {0:0.0}m
+rod_inf2=Optimal für Fische ab {0}kg
 
 #Added 15.02.2018
 #------------------------------------
@@ -593,7 +593,7 @@ wpn_bait_typ_7=Wobbler
 wpn_bait_vob_0=Topwater
 wpn_bait_vob_1=Über Wasser
 wpn_bait_vob_2=Absinken
-wpn_bait_vob_deep=Tiefe: {0} m
+wpn_bait_vob_deep=Tiefe: {0}m
 
 wpn_bait_inf_4=Blinker eignen sich sowohl für die gleichmäßige Führung als auch für die schrittweise Führung
 wpn_bait_inf_5=Spinner funktioniert am besten, während der langsamen einheitlichen Führung
@@ -612,8 +612,8 @@ prov_prov_3=Jig Führung
 prov_prov_4=Twitch Führung
 
 
-wpn_cat5=Spule: {0:0.0} m (bei Nutzung von 0.2mm)
-cnt_dstall={0:0.0} m / {1:0.0} m
+wpn_cat5=Spule: {0:0.0}m (bei Nutzung von 0.2mm)
+cnt_dstall={0:0.0}m / {1:0.0}m
 
 
 #Added 03.02.2018
@@ -768,7 +768,7 @@ userdeadmsg=Player died...
 tankfullmsg1=<color='#ff6000'>Dein Netz ist überfüllt!</color>
 droprodmsg1=<color='#ff0000'>Rute zerbrochen!</color>
 droplinemsg1=<color='#ff0000'>Du hast Schnur verloren: {0}</color>
-droplinemsg2=<color='#ff0000'>Deine Schnur ist gerissen: {0} m</color>
+droplinemsg2=<color='#ff0000'>Deine Schnur ist gerissen: {0}m</color>
 
 msg_other=TOO CLOSE!
 delcharmsg2=Spieler wirklich entfernen? \n{0}?
@@ -788,7 +788,7 @@ exitmsg_3=Beenden
 #------------------------------------
 cnt_energ=Energy consumption on casting: {0}
 cnt_line=Schnur:
-cnt_dst={0:0.0} m
+cnt_dst={0:0.0}m
 
 #------------------------------------
 #Added 12.04.2017
@@ -1431,9 +1431,9 @@ fwgt_trof_w=
 fwgt_uniq_m=Trophäen
 fwgt_uniq_w=Trophäen
 
-time_format1={0} min
-time_format2={0}Std {1} min
-time_format3={0}T {1}Std {2} min
+time_format1={0}min
+time_format2={0}Std {1}min
+time_format3={0}T {1}Std {2}min
 
 wgt_gr=g
 wgt_kg=kg 
