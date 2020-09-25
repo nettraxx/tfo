@@ -1,5 +1,16 @@
 ﻿[INTERFACE]
+ptur_statwrk=Is active
+ptur_statreg=Preparing
+ptur_allfond=FUND (TOURNAMENT TOKENS)
+pturn_out=Exit
+pturn_regin=Registration
+pturn_prisin=Rewarding
+pturn_start=Start
+pturn_msg={0} created a tournament "{1}: {2}"
 
+
+
+--------------------
 set_compass=Show compass
 takclbcharmsg2=Transfer the rights of the Head\n{0} ?
 takclbcharmsg1=Head of Club

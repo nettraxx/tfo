@@ -1,5 +1,15 @@
 ﻿[INTERFACE]
+ptur_statwrk=Ist aktiv
+ptur_statreg=Vorbereiten
+ptur_allfond=Einsätze (TURNIERMARKEN)
+pturn_out=Beenden
+pturn_regin=Registrierung
+pturn_prisin=Belohnung
+pturn_start=Start
+pturn_msg={0} hat ein Turnier "{1}: {2}" erstellt.
 
+
+--------------------
 set_compass=Kompass anzeigen
 takclbcharmsg2=Sind Sie sicher, den Club auf Spieler \ n {0} zu übertragen?
 takclbcharmsg1=Transfer Club

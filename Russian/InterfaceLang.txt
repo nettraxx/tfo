@@ -1,5 +1,16 @@
 [INTERFACE]
+ptur_statwrk=ПРОХОДИТ
+ptur_statreg=ПОДГОТОВКА
+ptur_allfond=ФОНД (ТУРНИРНЫХ ЖЕТОНОВ)
+pturn_out=Выход
+pturn_regin=Регистрация
+pturn_prisin=Награждение
+pturn_start=Запуск
+pturn_msg={0} создал турнир "{1}: {2}"
 
+
+
+--------------------
 set_compass=Показывать компас
 takclbcharmsg2=Действительно передать клуб игроку\n{0} ?
 takclbcharmsg1=Передать клуб

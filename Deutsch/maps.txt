@@ -20,7 +20,7 @@
 7_Name=Italien: Fluss Po
 7_Info=
 
-8_Name=Polen: Fluss San
+8_Name=Polen: Karpaten
 8_Info=
 
 9_Name=Serbien: Fluss Donau
