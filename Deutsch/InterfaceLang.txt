@@ -29,7 +29,7 @@ setfloatload=Schwimmerlast
 
 setng_inercia=Trägheit der Rute
 --------------------
-setVol_reel=Angelrollenlautstärke
+setVol_reel=Angelrollen-Lautstärke
 wrksh_btnmods=INSTALLIERT
 wrksh_modscapt=INSTALLIERTE MODS
 wrksh_modbtnsite=MEHR MODS
