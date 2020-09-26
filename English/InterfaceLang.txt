@@ -1,4 +1,5 @@
 ﻿[INTERFACE]
+ptur_newleader=New leader {0}: {1}
 ptur_statwrk=Is active
 ptur_statreg=Preparing
 ptur_allfond=FUND (TOURNAMENT TOKENS)
