@@ -29,7 +29,7 @@ setfloatload=Schwimmerlast
 
 setng_inercia=Trägheit der Rute
 --------------------
-setVol_reel=Angelrollenvolumen
+setVol_reel=Angelrollenlautstärke
 wrksh_btnmods=INSTALLIERT
 wrksh_modscapt=INSTALLIERTE MODS
 wrksh_modbtnsite=MEHR MODS
@@ -324,8 +324,8 @@ key_rodpode=Rodpod aufstellen (Space)
 key_showui=Benutzeroberfläche aus/ein (F9)
 
 setbtn_0=Grafik
-setbtn_1=Klänge
-setbtn_2=Steuerelemente
+setbtn_1=Sounds
+setbtn_2=Tastenbelegung
 setbtn_3=Spiel
 
 btn_makeoutinf=Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten zerlegen. Alle Gegenstände der zusammengebauten Ruten landen im Inventar.
