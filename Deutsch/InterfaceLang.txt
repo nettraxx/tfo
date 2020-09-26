@@ -1264,7 +1264,7 @@ wpn_onlyw=<color='#{0}'>Female</color>
 wpn_rod1=Traglast: {0}\n
 wpn_rod2=Länge: {0}m \n 
 wpn_rod3=Tiefe: {0}m
-wpn_rod4=Wurfgewicht: {0}
+wpn_rod4=Wurfgewicht: {0}g
 
 wpn_lv=lvl.
 wpn_lvf=Level
