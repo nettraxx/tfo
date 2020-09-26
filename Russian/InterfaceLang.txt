@@ -1,4 +1,5 @@
 [INTERFACE]
+ptur_newleader=Новый лидер {0}: {1}
 ptur_statwrk=ПРОХОДИТ
 ptur_statreg=ПОДГОТОВКА
 ptur_allfond=ФОНД (ТУРНИРНЫХ ЖЕТОНОВ)

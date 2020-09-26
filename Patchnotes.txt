@@ -1,3 +1,7 @@
+Patch 1.37.2 BETA
+Fehlerkorrektur
+Das Testen von privaten Turnieren im eingeschränkten Modus ohne Preispools ist offen
+
 Patch 1.37.0 BETA
 Eine experimentelle Beta-Version des Clients wurde für zusätzliche Tests gestartet
 Anzeige des Gewichts in Pfund hinzugefügt

@@ -1,4 +1,5 @@
 ﻿[INTERFACE]
+ptur_newleader=Neuer Führender {0}: {1}
 ptur_statwrk=Ist aktiv
 ptur_statreg=Vorbereiten
 ptur_allfond=Einsätze (TURNIERMARKEN)
