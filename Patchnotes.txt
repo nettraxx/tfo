@@ -1,3 +1,10 @@
+Patch 1.37.3 BETA
+Es wurde die Möglichkeit hinzugefügt, den Smartphone-Bildschirm zu ändern
+Möglichkeit hinzugefügt, die Handstruktur zu ändern
+Animationen für Sichling, Finte und Maifisch hinzugefügt
+Erweiterung des Standortes Polen (Artenzusammensetzung gleich geblieben)
+Fehlerkorrektur
+
 Patch 1.37.2 BETA
 Fehlerkorrektur
 Das Testen von privaten Turnieren im eingeschränkten Modus ohne Preispools ist offen
