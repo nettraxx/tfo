@@ -31,7 +31,7 @@ type_27=Thermophilic
 type_28=Ausdauernd
 type_29=Große Gewässer
 type_30=Sozial
-type_31=Geschont
+type_31=Geschützte Arten
 type_32=Seltene Größe
 
 #unique
