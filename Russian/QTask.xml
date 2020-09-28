@@ -109,23 +109,7 @@
     <!-- ************************************************************** -->
     <cat id="2000" glava="4000" name="Деяния">
       <task id="1" txt="Поймать [fish]: [curcnt]/[maxcnt] шт"/>
-      <task id="2" txt="Поймать [fish] от [minwgt]: [curcnt]/[maxcnt] шт"/>
-      <task id="3" txt="Поймать [fish] от [minwgt] до [maxwgt]: [curcnt]/[maxcnt] шт"/>
-      <task id="4" txt="Поймать [fish] до [maxwgt]: [curcnt]/[maxcnt] шт"/>
-      
-      <task id="5" txt="Поймать [fish] от [minwgt]: [weight]/[maxweight]"/>
-      <task id="6" txt="Поймать [fish]: [weight]/[maxweight]"/>
-      <task id="7" txt="Поймать [fish] на [baitid]: [weight]/[maxweight]"/>
-      <task id="8" txt="Поймать ледяных рыб: [curcnt]/[maxcnt] шт"/>
-      <task id="9" txt="Поймать пиявок, тритонов или лягушек: [curcnt]/[maxcnt] шт"/>
-      <task id="10" txt="Поймать раков: [curcnt]/[maxcnt] шт"/>
-	  <task id="11" txt="Поймать ледяных рыб на ледышку: [curcnt]/[maxcnt] шт"/>
-	  
-	  <task id="12" txt="Поймать рыбу более 25 кг: [curcnt]/[maxcnt] шт"/>
-	  <task id="13" txt="Выловить палия, голец арктический, сиг: [curcnt]/[maxcnt] шт"/>
-	  <task id="14" txt="Выловить уникальных рыб до 20 кг: [curcnt]/[maxcnt] шт"/>
-	  <task id="15" txt="Ловить осетровых: [curcnt]/[maxcnt] шт"/>
-	  <task id="16" txt="Ловить трофеи на спиннинг: [curcnt]/[maxcnt] шт"/>
+
     </cat>
 
     <!-- ************************************************************** -->
@@ -143,6 +127,8 @@
 	  
 	  <task id="10" txt="Поймать [fish] (разница веса)"/>
 	  <task id="11" txt="Поймать [fish] на [baitid] (разница веса)"/>
+	  
+	  <task id="112" txt="[size=16]Форель общий вес[/size]\n[size=12](золотая х3, ручьёвая х2, радужная х1, кумжа х1)[/size]"/>
     </cat>	
 	
   </cats>

@@ -1,3 +1,9 @@
+Patch 1.37.4 BETA
+Im Beta-Client steht die Möglichkeit, Wetten im Turnier zu platzieren, zum Testen offen. 
+Die Raten zum Zeitpunkt des Tests werden in Würmern durchgeführt.
+ACHTUNG!!!!!
+Der Hauptserver - Turniere sind vorübergehend deaktiviert.
+
 Patch 1.37.3 BETA
 Es wurde die Möglichkeit hinzugefügt, den Smartphone-Bildschirm zu ändern
 Möglichkeit hinzugefügt, die Handstruktur zu ändern
