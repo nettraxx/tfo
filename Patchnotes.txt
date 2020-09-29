@@ -1,3 +1,13 @@
+Patch 1.38.0
+Beta-Version geschlossen
+Polen aktualisiert. Es hat sich erheblich erweitert, neue Orte und Positionen für die Fischerei sind erschienen
+Private Turniere sind offen, die die Spieler selbst erstellen können. Turnierpreise können Turniermarken sein. VIP-Besitzer können solche Turniere erstellen
+Kompass zur einfacheren Positionierung auf der Karte hinzugefügt. Der Kompass kann in den Einstellungen eingeschaltet werden
+Zu Beginn des Spiels werden Anfänger zusätzlich eine Stipprute mit einem Startsatz von Ködern erhalten
+Überarbeitete Fischanimationen und ihr Verhalten im Wasser. Einige Arten sind viel aggressiver geworden.
+Die Turniere in Frankreich und Polen sind wegen Nachjustierung vorübergehend geschlossen
+Der Shop erhielt ein DLC-Paket mit einer 43 kg schweren Float-Matchrute der Bombard FLT-Serie und allem was dazu nötig ist
+
 Patch 1.37.4 BETA
 Im Beta-Client steht die Möglichkeit, Wetten im Turnier zu platzieren, zum Testen offen. 
 Die Raten zum Zeitpunkt des Tests werden in Würmern durchgeführt.

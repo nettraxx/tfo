@@ -1,4 +1,10 @@
 ﻿[INTERFACE]
+
+dntpck_4_name=Packet "Bombard GOLD"
+dntpck_4_info=The kit contains a match float rod (43 kg), reel, line and float from the Bombard Gold kit with warning light. Set for fishing large carp or silver carp
+
+--------------------
+
 ptur_newleader=New leader {0}: {1}
 ptur_statwrk=Is active
 ptur_statreg=Preparing

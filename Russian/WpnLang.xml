@@ -2072,11 +2072,8 @@
       <info>Используйте этот курс, чтобы сбросить ваши параметры в начальное состояние и вернуть вложенные очки параметров</info>
     </weapon>
     <weapon id="1408">
-      <name>Контейнер с ресурсами</name>
-      <info>Небольшой ящик, содержащий ресурсы: 
-металл х10, пластик х10, синтетика х10
-
-Для открытия ящика нажмите правой кнопкой мыши на предмете и выберите пункт "Использовать"</info>
+      <name>Комплект Bombard Gold</name>
+      <info>Комплект содержит поплавочную удочку, катушку, леску и поплавок из комплекта Bombard Gold</info>
     </weapon>
     <weapon id="1409">
       <name>Ваглер-"Матчевый"-6-4</name>
@@ -3307,12 +3304,12 @@ VIP не даёт бонуса.</info>
       </info>
     </weapon>
     <weapon id="1682">
-      <name>Salamo Карповая-Pro</name>
+      <name>Salamo Карповая-35</name>
       <info>
       </info>
     </weapon>
     <weapon id="1683">
-      <name>Salamo Карповая-Expert</name>
+      <name>Salamo Карповая-40</name>
       <info>
       </info>
     </weapon>
@@ -3513,7 +3510,7 @@ VIP не даёт бонуса.</info>
       </info>
     </weapon>
     <weapon id="1725">
-      <name>Salamo Карповая-Gold</name>
+      <name>Salamo Карповая-48</name>
       <info>
       </info>
     </weapon>
@@ -4180,7 +4177,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="1866">
       <name>Ваглер-20-12 N</name>
-      <info>Ночной</info>
+      <info>Ночной с сигнализатором</info>
     </weapon>
     <weapon id="1867">
       <name>Ваглеры 20-12</name>
@@ -4221,6 +4218,16 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     <weapon id="1875">
       <name>CRL DG-M3</name>
       <info>Огруженная вертушка для глубоководной ловли</info>
+    </weapon>
+    <weapon id="1876">
+      <name>Bombard Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1877">
+      <name>Salamo Карповая-42</name>
+      <info>
+      </info>
     </weapon>
   </weapons>
 </wpnlang>

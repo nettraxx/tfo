@@ -2477,10 +2477,8 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1408">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Bombard Gold-Kit</name>
+      <info>Das Kit enthält eine Matchrute, eine Rolle, eine Schnur und einen Schwimmer aus dem Bombard Gold-Kit</info>
     </weapon>
     <weapon id="1409">
       <name>Waggler</name>
@@ -3863,11 +3861,11 @@ Rollengröße: 1000-2500.</info>
       <info>      </info>
     </weapon>
     <weapon id="1682">
-      <name>Salamo Carp-Pro</name>
+      <name>Salamo Carp-35</name>
       <info>      </info>
     </weapon>
     <weapon id="1683">
-      <name>Salamo Carp-Expert</name>
+      <name>Salamo Carp-40</name>
       <info>      </info>
     </weapon>	
 	<weapon id="1684">
@@ -4061,7 +4059,7 @@ Rollengröße: 1000-2500.</info>
       </info>
     </weapon>
     <weapon id="1725">
-      <name>Salamo Carp-Gold</name>
+      <name>Salamo Carp-48</name>
       <info>
       </info>
     </weapon>
@@ -4731,7 +4729,7 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     </weapon>
     <weapon id="1866">
       <name>Waggler-20-12 N</name>
-      <info>Nacht</info>
+      <info>Für Nachts + Alarm</info>
     </weapon>
     <weapon id="1867">
       <name>Waggler 20-12</name>
@@ -4768,6 +4766,16 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     <weapon id="1875">
       <name>CRL DG-M3</name>
       <info>Spinner zum Tiefseefischen</info>
+    </weapon>
+    <weapon id="1876">
+      <name>Bombard Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1877">
+      <name>Salamo Carp-42</name>
+      <info>
+      </info>
     </weapon>	
   </weapons>
 </wpnlang>

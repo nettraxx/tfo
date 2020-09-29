@@ -1,4 +1,9 @@
 ﻿[INTERFACE]
+dntpck_4_name=Paket "Bombard GOLD"
+dntpck_4_info=Das Kit enthält eine Matchrute (43kg), eine Rolle, eine Schnur und einen Schwimmer aus dem Bombard Gold-Kit mit Warnleuchte. Set zum Angeln von großen Karpfen oder Silberkarpfen
+
+--------------------
+
 ptur_newleader=Neuer Führender {0}: {1}
 ptur_statwrk=Ist aktiv
 ptur_statreg=Vorbereiten

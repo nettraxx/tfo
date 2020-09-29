@@ -2451,12 +2451,7 @@ Thanks for your votings!</info>
       <info>
       </info>
     </weapon>
-    <weapon id="1408">
-      <name>
-      </name>
-      <info>
-      </info>
-    </weapon>
+
     <weapon id="1409">
       <name>Waggler</name>
       <info>
@@ -4023,7 +4018,7 @@ The main goal - zander, catfish, pike</info>
       </info>
     </weapon>
     <weapon id="1725">
-      <name>Salamo Karp-Gold</name>
+      <name>Salamo Carp-Gold</name>
       <info>
       </info>
     </weapon>
@@ -4674,6 +4669,87 @@ DammSPRO. Focused on feeder fishing</info>
       <info>
       </info>
     </weapon>
+	
+	
+    <weapon id="1408">
+      <name>Bombard Gold kit</name>
+      <info>The kit contains the float rod, reel, line and float from the Bombard Gold kit</info>
+    </weapon>	
+	
+    <weapon id="1861">
+      <name>---</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1862">
+      <name>Тремпель</name>
+      <info>Busafa или тремпель - оснастка для технопланктона. Используется совместно с поплавочной удочкой. Включает в себя рамку для установки таблетки технопланктона и короткий поводок с крючком второго размера, на который цепляется пенопластовый шарик</info>
+    </weapon>
+    <weapon id="1863">
+      <name>Waggler-20-12 C1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1864">
+      <name>Waggler-20-12 C2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1865">
+      <name>Waggler-20-12 C3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1866">
+      <name>Waggler-20-12 N</name>
+      <info>Night +light signal</info>
+    </weapon>
+    <weapon id="1867">
+      <name>Wagglers 20-12 series</name>
+      <info></info>
+    </weapon>
+    <weapon id="1868">
+      <name>Salmon GT-30 Series</name>
+      <info>A series of baubles for salmon fishing. Suitable for both shore fishing and trolling</info>
+    </weapon>
+    <weapon id="1869">
+      <name>VIB Salmon GT-1</name>
+      <info>A series of baubles for salmon fishing. Suitable for both shore fishing and trolling</info>
+    </weapon>
+    <weapon id="1870">
+      <name>VIB Salmon GT-2</name>
+      <info>A series of baubles for salmon fishing. Suitable for both shore fishing and trolling</info>
+    </weapon>
+    <weapon id="1871">
+      <name>VIB Salmon GT-3</name>
+      <info>A series of baubles for salmon fishing. Suitable for both shore fishing and trolling</info>
+    </weapon>
+    <weapon id="1872">
+      <name>CRL DeepGracia</name>
+      <info>Weighted spinnerbait for deep fishing</info>
+    </weapon>
+    <weapon id="1873">
+      <name>CRL DG-M1</name>
+      <info>Weighted spinnerbait for deep fishing</info>
+    </weapon>
+    <weapon id="1874">
+      <name>CRL DG-M2</name>
+      <info>Weighted spinnerbait for deep fishing</info>
+    </weapon>
+    <weapon id="1875">
+      <name>CRL DG-M3</name>
+      <info>Weighted spinnerbait for deep fishing</info>
+    </weapon>
+    <weapon id="1876">
+      <name>Bombard Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1877">
+      <name>Salamo Carp-42</name>
+      <info>
+      </info>
+    </weapon>	
 	
   </weapons>
 </wpnlang>
