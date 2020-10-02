@@ -360,7 +360,7 @@
     </weapon>
     <weapon id="1016">
       <name>Silikonwurm</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1017">
@@ -2398,17 +2398,17 @@ Thanks for your votings!</info>
     </weapon>
     <weapon id="1393">
       <name>VIB Raiwa 12g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1394">
       <name>VIB Raiwa 18g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1395">
       <name>VIB Raiwa 25g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1396">
@@ -3324,12 +3324,12 @@ der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
     </weapon>
     <weapon id="1569">
       <name>Silikonwurm M1</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1570">
       <name>Silikonwurm M2</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnieper Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1571">
@@ -3500,7 +3500,7 @@ der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
     <weapon id="1604">
       <name>VIB Raiwa 30g</name>
       <info>Fängig für:	
-Baltischer Lachs, Barbe, Dnieper Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
+Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne (Weißfisch), Seehecht, Regenbogenforelle, Taimen, Zander
       </info>
     </weapon>
     <weapon id="1605">
@@ -3812,17 +3812,17 @@ Rollengröße: 1000-2500.</info>
 	</weapon>
 	<weapon id="1671">
 	  <name>VIB UL Cyclope M1</name>
-	  <info>Fängig für: Aland, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1672">
 	  <name>VIB UL Cyclope M2</name>
-	  <info>Fängig für: Aland, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1673">
 	  <name>VIB UL Cyclope M3</name>
-	  <info>Fängig für: Aland, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnieper Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1674">
@@ -4253,7 +4253,7 @@ Nur für Rollen mit maximal 2000er Größe</info>
     </weapon>
     <weapon id="1765">
       <name>Blutköder</name>
-      <info>Fängig für: Barbe, Dnieper Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
+      <info>Fängig für: Barbe, Dnepr Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
 		</info>
     </weapon>
     <weapon id="1766">
