@@ -1,6 +1,6 @@
 ﻿[INTERFACE]
-dntpck_4_name=Paket "Bombard GOLD"
-dntpck_4_info=Das Kit enthält eine Matchrute (43kg), eine Rolle, eine Schnur und einen Schwimmer aus dem Bombard Gold-Kit mit Warnleuchte. Set zum Angeln von großen Karpfen oder Silberkarpfen
+dntpck_4_name=Paket "Bombard GOLD-Kit"
+dntpck_4_info=Das Kit enthält eine Matchrute (43kg), eine Rolle (42kg), eine Schnur (42kg) und einen Waggler aus dem Bombard Gold-Kit mit Warnleuchte. Set zum Angeln von großen Karpfen oder Silberkarpfen
 
 --------------------
 
@@ -20,13 +20,13 @@ set_compass=Kompass anzeigen
 takclbcharmsg2=Sind Sie sicher, den Club auf Spieler \ n {0} zu übertragen?
 takclbcharmsg1=Transfer Club
 --------------------
-wgt_poz = oz
-wgt_plb = lb.
+wgt_poz=oz
+wgt_plb=lb.
 
-wgt_pound = Gewicht in Pfund
+wgt_pound=Gewicht in Pfund
 --------------------
 
-delacccnfrm = ACHTUNG! \ nDiese Aktion setzt Ihr Konto auf Level 1 zurück, wobei alle Ausrüstungsgegenstände und Erfolge, einschließlich der Bonusausrüstung, verloren gehen. \ n \ nUm die Aktion zu bestätigen, geben Sie "LÖSCHEN" ein.
+delacccnfrm=ACHTUNG! \nDiese Aktion setzt Ihr Konto auf Level 1 zurück, wobei alle Ausrüstungsgegenstände und Erfolge, einschließlich der Bonusausrüstung, verloren gehen. \ n \ nUm die Aktion zu bestätigen, geben Sie "LÖSCHEN" ein.
 --------------------
 
 setfloatload=Schwimmerlast
@@ -161,7 +161,7 @@ cntx_gift=GESCHENK
 
 -------------------
 
-turn_uslp1=Boot VERBOTEN
+turn_uslp1=BOOT VERBOTEN
 turn_uslp2=Eine Angelrute (im 1.Slot)
 turn_uslp3=Rutenart: {0}
 
@@ -236,7 +236,7 @@ dntpck_1_name=Paket "BeeCast"
 dntpck_1_info=Das Kit enthält eine leichte Castingrute (6kg +75% Erf.), eine LP-Rolle (5kg), Angelschnur (5,5kg) und 3 UL Ködern. Ungeöffnet kann es an einen Freund verschickt werden.
 
 
-wptype_offset=Offset Haken
+wptype_offset=Offset-Haken
 wptype_jhead=Jigkopf
 
 ny_later=Heute gibt es keine Geschenke mehr. Komme morgen wieder
@@ -285,7 +285,7 @@ setng_lb4=Gamma
 setng_lb5=Kontrast
 setng_lb6=Schatten
 setng_lb7=Bildskalierung
-setng_lb8=Standard Herstellen
+setng_lb8=Standard herstellen
 
 naviinfo1=Koordinaten
 naviinfo2=Distanz
@@ -305,8 +305,8 @@ key_action=Aktion (E)
 key_mrollspd=Schnelles einholen (SHIFT Links)
 key_closerod=Angelrute einpacken (Backspace)
 key_openreel=Rolle öffnen (T)
-key_altroll=Frei für Rolle
-key_altrod=Frei für Angel
+key_altroll=Freie Belegung für Rolle
+key_altrod=Freie Belegung für Angel
 key_ot1=Rutenslot 1 (1)
 key_ot2=Rutenslot 2 (2)
 key_ot3=Rutenslot 3 (3)
@@ -628,7 +628,7 @@ prov_prov_3=Jig Führung
 prov_prov_4=Twitch Führung
 
 
-wpn_cat5=Spule: {0:0.0}m (bei Nutzung von 0.2mm)
+wpn_cat5=Spule: {0:0.0}m (bei Nutzung von 0,2mm)
 cnt_dstall={0:0.0}m / {1:0.0}m
 
 
@@ -1267,8 +1267,8 @@ wpn_onlym=<color='#{0}'>Male</color>
 wpn_onlyw=<color='#{0}'>Female</color>
 
 wpn_rod1=Traglast: {0}\n
-wpn_rod2=Länge: {0}m \n 
-wpn_rod3=Tiefe: {0}m
+wpn_rod2=Länge: {0}m\n 
+wpn_rod3=Tiefe: {0}m\n
 wpn_rod4=Wurfgewicht: {0}g
 
 wpn_lv=lvl.

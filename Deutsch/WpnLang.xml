@@ -2665,15 +2665,15 @@ VIP gives no bonus.</info>
     </weapon>
     <weapon id="1441">
       <name>Futterkorb 30g</name>
-      <info>Die beliebte Futterkorbform in 30gr.</info>
+      <info>Die beliebte Futterkorbform in 30g</info>
     </weapon>
     <weapon id="1442">
       <name>Futterkorb 40g</name>
-      <info>Die beliebte Futterkorbform in 40gr.</info>
+      <info>Die beliebte Futterkorbform in 40g</info>
     </weapon>
     <weapon id="1443">
       <name>Futterkorb 60g</name>
-      <info>Die beliebte Futterkorbform in 60gr.</info>
+      <info>Die beliebte Futterkorbform in 60g</info>
     </weapon>
     <weapon id="1444">
       <name>Grundblei 30g</name>
@@ -4500,7 +4500,7 @@ Nur Rollengröße 2500 und kleiner sind zulässig
       <info>Konisches Vorfach zum Fliegenfischen</info>
     </weapon>
     <weapon id="1817">
-      <name>NS XG11 light</name>
+      <name>NS XG11 Light</name>
       <info>Schnur für´s Fliegenfischen (Grün)</info>
     </weapon>
     <weapon id="1818">
@@ -4688,7 +4688,7 @@ Rollengröße 4000 und kleiner sind geeignet
       </info>
     </weapon>
     <weapon id="1858">
-      <name>Offset Haken</name>
+      <name>Offset-Haken</name>
       <info>
       </info>
     </weapon>
