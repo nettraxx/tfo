@@ -1,3 +1,12 @@
+Patch 1.38.1
+Aktualisierung der Mechanik von Schwimmern und Ruten
+Match- und Bologna-Ruten haben die mögliche Angeltiefe bis max. 6,5 m einzustellen.
+Thunfisch - hat Animationen
+
+Nach dem täglichen Neustart des Servers wird ein neuer Köder für das Posenfischen eingepflegt
+- Technoplants und Spezialwerkzeuge
+- Trempel (Busafa) für die Verwendung von Technoplant ist erforderlich
+
 Patch 1.38.0
 Beta-Version geschlossen
 Polen aktualisiert. Es hat sich erheblich erweitert, neue Orte und Positionen für die Fischerei sind erschienen

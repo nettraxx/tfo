@@ -236,7 +236,7 @@ dntpck_1_name=Paket "BeeCast"
 dntpck_1_info=Das Kit enthält eine leichte Castingrute (6kg +75% Erf.), eine LP-Rolle (5kg), Angelschnur (5,5kg) und 3 UL Ködern. Ungeöffnet kann es an einen Freund verschickt werden.
 
 
-wptype_offset=Offset-Haken
+wptype_offset=Offset
 wptype_jhead=Jigkopf
 
 ny_later=Heute gibt es keine Geschenke mehr. Komme morgen wieder
