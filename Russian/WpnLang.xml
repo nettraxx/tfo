@@ -3284,12 +3284,12 @@ VIP не даёт бонуса.</info>
       <info>Серия узких блёсен-колебалок для глубинной ловли судака</info>
     </weapon>
     <weapon id="1678">
-      <name>Salamo CarpHunter-Pro</name>
+      <name>Salamo CarpHunter-35</name>
       <info>Класс Heavy
 </info>
     </weapon>
     <weapon id="1679">
-      <name>Salamo CarpHunter-Expert</name>
+      <name>Salamo CarpHunter-40</name>
       <info>Класс Heavy
 </info>
     </weapon>
@@ -4232,6 +4232,16 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     <weapon id="1878">
       <name>Kitana FH-0</name>
       <info> Предназначены специально для донных снастей</info>
+    </weapon>
+    <weapon id="1879">
+      <name>Salamo CarpHunter-45</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1880">
+      <name>Salamo CarpHunter-Gold</name>
+      <info>
+      </info>
     </weapon>
   </weapons>
 </wpnlang>

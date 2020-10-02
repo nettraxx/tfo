@@ -3845,11 +3845,11 @@ Rollengröße: 1000-2500.</info>
 	  </info>
 	</weapon>
 	  <weapon id="1678">
-      <name>Salamo CarpHunter-Pro</name>
+      <name>Salamo CarpHunter-35</name>
       <info>Schwere Rute</info>
     </weapon>	
     <weapon id="1679">
-      <name>Salamo CarpHunter-Expert</name>
+      <name>Salamo CarpHunter-40</name>
       <info>Schwere Rute</info>
     </weapon>
     <weapon id="1680">
@@ -4780,6 +4780,16 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     <weapon id="1878">
       <name>Kitana FH-0</name>
       <info></info>
+    </weapon>
+    <weapon id="1879">
+      <name>Salamo CarpHunter-45</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1880">
+      <name>Salamo CarpHunter-Gold</name>
+      <info>
+      </info>
     </weapon>	
   </weapons>
 </wpnlang>

@@ -4745,11 +4745,23 @@ DammSPRO. Focused on feeder fishing</info>
       <info>
       </info>
     </weapon>
+
+
     <weapon id="1877">
       <name>Salamo Carp-42</name>
-      <info>
-      </info>
-    </weapon>	
-	
+      <info>      </info>
+    </weapon>
+    <weapon id="1878">
+      <name>Kitana FH-0</name>
+      <info></info>
+    </weapon>
+    <weapon id="1879">
+      <name>Salamo CarpHunter-45</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1880">
+      <name>Salamo CarpHunter-Gold</name>
+      <info>      </info>
+    </weapon>
   </weapons>
 </wpnlang>
