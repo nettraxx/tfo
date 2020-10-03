@@ -4682,8 +4682,8 @@ DammSPRO. Focused on feeder fishing</info>
       </info>
     </weapon>
     <weapon id="1862">
-      <name>Тремпель</name>
-      <info>Busafa или тремпель - оснастка для технопланктона. Используется совместно с поплавочной удочкой. Включает в себя рамку для установки таблетки технопланктона и короткий поводок с крючком второго размера, на который цепляется пенопластовый шарик</info>
+      <name>Trempel</name>
+      <info>Busafa or trempel - equipment for technoplankton. Used in conjunction with a float rod. It includes a frame for installing a technoplankton tablet and a short leader with a hook on which a foam ball clings</info>
     </weapon>
     <weapon id="1863">
       <name>Waggler-20-12 C1</name>
@@ -4763,5 +4763,30 @@ DammSPRO. Focused on feeder fishing</info>
       <name>Salamo CarpHunter-Gold</name>
       <info>      </info>
     </weapon>
+	
+    <weapon id="1881">
+      <name>Salamo SFox-45</name>
+      <info>
+      </info>
+    </weapon>
+	
+    <weapon id="1882">
+      <name>Salamo Carp-44</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1883">
+      <name>Leader 41,8 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1884">
+      <name>Leader 43,1 kg</name>
+      <info>
+      </info>
+    </weapon>	
+	
+	
+	
   </weapons>
 </wpnlang>

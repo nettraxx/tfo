@@ -3294,12 +3294,12 @@ VIP не даёт бонуса.</info>
 </info>
     </weapon>
     <weapon id="1680">
-      <name>Salamo SFox FX-Pro</name>
+      <name>Salamo SFox 35</name>
       <info>
       </info>
     </weapon>
     <weapon id="1681">
-      <name>Salamo SFox FX-Exprt</name>
+      <name>Salamo SFox 40</name>
       <info>
       </info>
     </weapon>
@@ -4240,6 +4240,26 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="1880">
       <name>Salamo CarpHunter-Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1881">
+      <name>Salamo SFox-45</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1882">
+      <name>Salamo Карповая-44</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1883">
+      <name>Поводок 41,8 кг</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1884">
+      <name>Поводок 43,1 кг</name>
       <info>
       </info>
     </weapon>

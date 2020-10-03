@@ -3853,11 +3853,11 @@ Rollengröße: 1000-2500.</info>
       <info>Schwere Rute</info>
     </weapon>
     <weapon id="1680">
-      <name>Salamo SFox FX-Pro</name>
+      <name>Salamo SFox 35</name>
       <info>      </info>
     </weapon>
     <weapon id="1681">
-      <name>Salamo SFox FX-Exprt</name>
+      <name>Salamo SFox 40</name>
       <info>      </info>
     </weapon>
     <weapon id="1682">
@@ -4273,7 +4273,7 @@ Nur für Rollen mit maximal 2000er Größe</info>
       <info>Fertige Köderbällchen mit kleinen Krebstieren. Gut zum Fangen von Seefisch, Schrimps und Tintenfisch.</info>
     </weapon>	
 	 <weapon id="1770">
-      <name>Vorfach 7.9kg</name>
+      <name>Vorfach 7,9kg</name>
       <info>
       </info>
     </weapon>
@@ -4788,6 +4788,27 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     </weapon>
     <weapon id="1880">
       <name>Salamo CarpHunter-Gold</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1881">
+      <name>Salamo SFox-45</name>
+      <info>
+      </info>
+    </weapon>
+	
+    <weapon id="1882">
+      <name>Salamo Carp-44</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1883">
+      <name>Vorfach 41,8kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1884">
+      <name>Vorfach 43,1kg</name>
       <info>
       </info>
     </weapon>	

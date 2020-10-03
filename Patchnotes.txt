@@ -1,3 +1,14 @@
+Patch 1.38.2
+Dem Geschäft in Frankreich, der Ukraine und dem Kaspischen Meer wurden schwere Matchruten der Klasse "Bombard FLT" hinzugefügt
+45 kg Grundrute hinzugefügt
+Rolle mit 45 kg hinzugefügt
+44 kg Schnur hinzugefügt
+20-12 Waggler in drei Farben hinzugefügt
+Vorfächer für 42 und 44 kg hinzugefügt
+Die Intensität des Beißens von Silberkarpfen und Graskarpfen auf Boilies wird verringert
+Die Intensität des Beißens von Karpfen auf Technoplankton ist erhöht
+Andere kleinere Korrekturen
+
 Patch 1.38.1
 Aktualisierung der Mechanik von Schwimmern und Ruten
 Match- und Bologna-Ruten haben die mögliche Angeltiefe bis max. 6,5 m einzustellen.
