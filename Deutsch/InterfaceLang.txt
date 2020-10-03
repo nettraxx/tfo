@@ -1,4 +1,12 @@
 ﻿[INTERFACE]
+
+key_help=Hilfe
+key_chinfo=Info-Chat
+key_chloc=Standort-Chat
+key_chclub=Club-Chat
+key_chturn=Turnier-Chat
+--------------------
+
 dntpck_4_name=Paket "Bombard GOLD-Kit"
 dntpck_4_info=Das Kit enthält eine Matchrute (43kg), eine Rolle (42kg), eine Schnur (42kg) und einen Waggler aus dem Bombard Gold-Kit mit Warnleuchte. Set zum Angeln von großen Karpfen oder Silberkarpfen
 
