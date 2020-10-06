@@ -1,4 +1,5 @@
 [INTERFACE]
+repr_cnt=Количество ремонтов:
 
 key_help=Помощь
 

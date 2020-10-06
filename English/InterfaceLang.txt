@@ -1,4 +1,5 @@
 ﻿[INTERFACE]
+repr_cnt=Repairs count:
 
 key_help=Help
 key_chinfo=Info chat

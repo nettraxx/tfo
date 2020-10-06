@@ -1,4 +1,5 @@
 ﻿[INTERFACE]
+repr_cnt=Anzahl der Reparaturen:
 
 key_help=Hilfe
 key_chinfo=Info-Chat
