@@ -420,4 +420,10 @@ type_109=Black caviar
 531_Latn=Chelon labrosus
 
 532_Name=Crucian carp
-531_Latn=Carassius F1
+532_Latn=Carassius F1
+
+533_Name=Marble trout
+533_Latn=Salmo marmoratus
+
+534_Name=Wels аlbino
+534_Latn=Silurus glanis аlbino

@@ -1,3 +1,25 @@
+Patch 1.39.0
+Neues Beleuchtungssystem
+Neues dynamisches Wassersystem: Reflektionen, Wellen/Gischt, Interaktion mit Fischen und Ködern
+Aktualisiertes Posenfischensystem
+Aktualisiertes Fischakrobatiksystem
+Frankreich - die endgültige Schaffung des Standortes. Öffnete den letzten Teil des Ortes und fügt einen neuen Fisch hinzu
+Es wurde die Möglichkeit hinzugefügt, die Angelrute im Boot schnell zu wechseln und eine andere Rute zu halten
+Fehlerbehebungen für Turniere, Angelruten, Schwimmer und anderes
+
+Niederländisches Brassen-Turnier auf Freitag verschoben
+Turnier "Forelle" in Polen, verschoben auf Donnerstag
+
+Patch 1.38.4 BETA
+Das Kaspische Meer hat die Farbe des Wassers verändert, die Wellen/Gischt und der Schaum wurden reduziert
+Ukraine, Deutschland, Weißrussland - neues Wassersystem
+Die Mechanik der Einstellungen für Helligkeit, Kontrast und Farbintensität wurde geändert und ihre Wirkung erhöht
+Ukraine - Aktualisierung von Texturen und einigen Modellen auf bessere Qualität
+Polen - auf vielfachen Wunsch wurde das rechte Ufer verändert, die Vegetationsmenge reduziert
+Andere Korrekturen
+experimentelle Beleuchtung
+experimentelles Wasser im Kaspischen Meer
+
 Patch 1.38.2
 Dem Geschäft in Frankreich, der Ukraine und dem Kaspischen Meer wurden schwere Matchruten der Klasse "Bombard FLT" hinzugefügt
 45 kg Grundrute hinzugefügt

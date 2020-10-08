@@ -416,10 +416,12 @@ type_109=Черная икра
 531_Latn=Chelon labrosus
 
 532_Name=Гибрид карпа F1
-531_Latn=karper-giebel hybride
+532_Latn=karper-giebel hybride
 
+533_Name=Форель мраморная
+533_Latn=Salmo marmoratus
 
-
-
+534_Name=Сом альбинос
+534_Latn=Silurus glanis аlbino
 
 
