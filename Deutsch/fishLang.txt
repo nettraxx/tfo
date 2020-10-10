@@ -415,3 +415,5 @@ type_109=Schwarzer Kaviar
 533_Latn=Salmo marmoratus
 534_Name=Albinowels
 534_Latn=Silurus glanis аlbino
+535_Name=Kabeljau
+535_Latn=Gadus morhua

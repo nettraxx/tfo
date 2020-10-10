@@ -1,3 +1,15 @@
+Patch 1.39.2
+Hallo Freunde. Ein Fragment der norwegischen Basis steht zum Testen offen. Jeder, der Level 37 erreicht hat, kann zu dieser Basis gehen und die Umgebung erkunden. Im Süßwasser-Gletschersee werden auch einige der Arten gefangen, die Nähe dieser Basis leben. Im Fjord und im Meer gibt es noch keinen Fisch. Bitte melden Sie Leistung und Fehler am Standort.
+
+Darüber hinaus ist im Update das Trempelnaya-Snap-In jetzt für Grundruten verfügbar, um erkannte Fehler zu beheben.
+
+Patch 1.39.1
+Einstellen der Farbe von Wasser und Reflexionen
+Die Taschenlampe ist heller gemacht
+Nacht von 23-00 bis 3-00 Uhr dunkler gemacht
+Zoomfehler behoben
+Andere Fehler behoben
+
 Patch 1.39.0
 Neues Beleuchtungssystem
 Neues dynamisches Wassersystem: Reflektionen, Wellen/Gischt, Interaktion mit Fischen und Ködern
