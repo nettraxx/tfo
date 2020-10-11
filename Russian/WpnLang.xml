@@ -2688,28 +2688,28 @@ VIP не даёт бонуса.</info>
       <info>Последняя катушка из серии Дон. Улучшаемая</info>
     </weapon>
     <weapon id="1545">
-      <name>Поездка на Убежище</name>
+      <name>--</name>
       <info>Перемещает игрока на указанную локацию</info>
     </weapon>
     <weapon id="1546">
-      <name>Поездка на Карасиный пруд</name>
+      <name>--</name>
       <info>Перемещает игрока на указанную локацию</info>
     </weapon>
     <weapon id="1547">
-      <name>Поездка на Пустошь</name>
+      <name>--</name>
       <info>Перемещает игрока на указанную локацию</info>
     </weapon>
     <weapon id="1548">
-      <name>Поездка на Разливы</name>
+      <name>--</name>
       <info>Перемещает игрока на указанную локацию</info>
     </weapon>
     <weapon id="1549">
-      <name>Поездка на Озеро Кулгу</name>
-      <info>Перемещает игрока на указанную локацию</info>
+      <name>Поездка в Иран</name>
+      <info>Перемещает игрока на указанную локацию на 2 часа</info>
     </weapon>
     <weapon id="1550">
       <name>Поездка в Норвегию</name>
-      <info>Перемещает игрока на указанную локацию</info>
+      <info>Перемещает игрока на указанную локацию на 2 часа</info>
     </weapon>
     <weapon id="1551">
       <name>Экстракт ОР 500</name>
@@ -2729,7 +2729,7 @@ VIP не даёт бонуса.</info>
       </info>
     </weapon>
     <weapon id="1555">
-      <name>Поездка в Норвегию</name>
+      <name>--</name>
       <info>Перемещает игрока на Изумрудное озеро на 4 часа. Учитывается только время онлайн.</info>
     </weapon>
     <weapon id="1556">
@@ -4176,7 +4176,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       </info>
     </weapon>
     <weapon id="1866">
-      <name>Ваглер-20-12 N</name>
+      <name>Ваглер-20-12 N Red</name>
       <info>Ночной с сигнализатором</info>
     </weapon>
     <weapon id="1867">
@@ -4260,6 +4260,43 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="1884">
       <name>Поводок 43,1 кг</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1885">
+      <name>Поводок 34,1 кг</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1886">
+      <name>Ваглер-20-12 N Green</name>
+      <info>Ночной с сигнализатором</info>
+    </weapon>
+    <weapon id="1887">
+      <name>Ваглер-20-12 N Blue</name>
+      <info>Ночной с сигнализатором</info>
+    </weapon>
+    <weapon id="1888">
+      <name>Ваглер-20-12 N Series</name>
+      <info>Ночной с сигнализатором</info>
+    </weapon>
+    <weapon id="1889">
+      <name>IonSpin N-Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1890">
+      <name>IonSpin N-35</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1891">
+      <name>IonSpin N-40</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1892">
+      <name>IonSpin N-45</name>
       <info>
       </info>
     </weapon>

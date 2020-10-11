@@ -3,7 +3,7 @@
 	<icon id="1" name="Strahlenvergiftung" info="Sie haben eine Strahlenbelastung in Höhe von [X] rad/s erhalten" />
 	<icon id="2" name="Angelverbot" info="Du darfst in dieser Gegend nicht angeln." />
 	<icon id="3" name="Lagerfeuer" info="Du bist in der Nähe des Lagerfeuers." />
-	<icon id="4" name="*Travel" info="Du kannst noch nicht in diese Gegend reisen." />
+	<icon id="4" name="*Reisen" info="Du kannst noch nicht in diese Gegend reisen." />
 	<icon id="5" name="*Abstand" info="Du bist zu nahe an einem anderen Angler." />
 	<icon id="6" name="*Realistisch" info="First-Person Ansicht aktiviert." />
 	<icon id="7" name="Siedlung" info="Du bist innerhalb der Siedlungsgrenze." />
@@ -35,4 +35,8 @@
 	<icon id="28" name="*Ausdauerregeneration" info="+ [X] Ausdauer pro Sekunde" />
 	<icon id="29" name="*Sitzen" info="+ [X] Ausdauer pro Sekunde,/n-[Y]% Anglerkraft"/>
 	<icon id="30" name="*Ermüdung" info="Dein Charakter ist müde. Er / sie kann nicht mehr rennen, möchte nicht fischen und Deine Angelstärke ist verringert. / nNehme eine Pause oder einen Energy-Drink"/>
+
+	<icon id="100" name="Smaragdsee" info="Bezahlte Basiszeit"/>
+	<icon id="101" name="Hochebene der Riesen" info="Bezahlte Basiszeit"/>
+
 </icon_data>

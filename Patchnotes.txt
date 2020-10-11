@@ -1,3 +1,20 @@
+Patch 1.39.4
+Optimierung der Taschenlampe
+Der Taschenlampenstrahl wird breiter gemacht
+Der Kompass wird nicht angezeigt, wenn ein gefangener Fisch angezeigt wird
+Holzboot - zusätzliche Angelrutenhalter entfernt
+Vermutlich wurde ein Fehler behoben, bei dem ein Köder nach einem Wurf wegflog
+
+Um Spieler, die Level 37 noch nicht erreicht haben, nicht zu stören, wurde das Testen von Norwegen in die Beta-Version verschoben
+
+Patch 1.39.5 BETA
+Basis Norwegen aktualisiert
+Boote hinzugefügt
+Zwei Arten von Flunder zum Angeln hinzugefügt
+Rosa Lachs zum Angeln hinzugefügt
+Zusätzliche Optimierung
+Experimentelle Mechanik der Dosierung. Bitte erzählen Sie uns von der Leistung von
+
 Patch 1.39.2
 Hallo Freunde. Ein Fragment der norwegischen Basis steht zum Testen offen. Jeder, der Level 37 erreicht hat, kann zu dieser Basis gehen und die Umgebung erkunden. Im Süßwasser-Gletschersee werden auch einige der Arten gefangen, die Nähe dieser Basis leben. Im Fjord und im Meer gibt es noch keinen Fisch. Bitte melden Sie Leistung und Fehler am Standort.
 

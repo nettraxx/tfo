@@ -3182,10 +3182,8 @@ A lightweight version of the bottom tackle for precise casting of light feeders 
       </info>
     </weapon>
     <weapon id="1550">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Travel to Norway</name>
+      <info>Moves the player to the specified location for 2 hours</info>
     </weapon>
     <weapon id="1551">
       <name>
