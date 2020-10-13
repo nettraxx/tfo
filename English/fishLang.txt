@@ -33,6 +33,7 @@ type_29=Big water
 type_30=Social
 type_31=Red book
 type_32=Rare size
+type_33=Live seabait
 
 #unique
 type_100=Big Fish
@@ -258,7 +259,7 @@ type_109=Black caviar
 378_Name = Saika
 379_Name = Saira
 380_Name = Sima
-381_Name = Pacific Herring
+381_Name = Atlantic Herring
 382_Name = Merluzzo
 383_Name = Coley
 384_Name = Lamprey sea
@@ -428,3 +429,6 @@ type_109=Black caviar
 
 534_Name=Wels аlbino
 534_Latn=Silurus glanis аlbino
+
+535_Name=Треска атлантическая
+535_Latn=Gadus morhua

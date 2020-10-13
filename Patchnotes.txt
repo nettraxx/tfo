@@ -1,3 +1,12 @@
+Patch 1.39.7 BETA
+Atlantischer Hering hinzugefügt
+Karte von Norwegen aktualisiert
+Italien - Karte aktualisiert, großes Boot hinzugefügt
+Eine Reihe von Salmon GT-Ködern wurde hinzugefügt
+Eine Reihe von DeepGracia-Ködern wurde hinzugefügt
+Auf dem Kompass wurde eine Bootsrichtungsmarkierung hinzugefügt
+Ausgleichskorrekturen für Preis / Erfahrung / Fischlebensraum in Norwegen
+
 Patch 1.39.6 BETA
 Aktualisierte Karte von Norwegen
 Verkaufsstellen für gefrorenen Fisch hinzugefügt

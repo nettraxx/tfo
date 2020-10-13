@@ -33,6 +33,7 @@ type_29=Große Gewässer
 type_30=Sozial
 type_31=Geschützte Arten
 type_32=Seltene Größe
+type_33=Lebender Seeköder
 
 #unique
 type_100=Großer Fisch
@@ -254,9 +255,9 @@ type_109=Schwarzer Kaviar
 378_Name=Saika
 379_Name=Saira
 380_Name=Sima
-381_Name=Pazifischer Hering
+381_Name=Atlantischer Hering
 382_Name=Seehecht
-383_Name=Coley
+383_Name=Köhler (Seelachs)
 384_Name=Lamprey Sea
 385_Name=Chinook
 386_Name=Schrimp
