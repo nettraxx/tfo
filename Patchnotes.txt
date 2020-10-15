@@ -1,3 +1,18 @@
+Patch 1.39.9 BETA
+Lur Fisch hinzugefügt
+Schellfisch hinzugefügt
+Ein großer und trophäenartiger Grönlandhai wurde hinzugefügt
+Es wurde ein Fehler beim Hochseefischen behoben, der zu einer Verringerung der Beißaktivität führte
+Es wurde ein Fehler mit großem Atlantischer Hering behoben, der es unmöglich machte, ihn zu fangen
+Rebalance der Anzahl der Fische im Reservoir und seines Lebensraums
+Andere Fehler in der Benutzeroberfläche und Visualisierung wurden behoben
+
+Patch 1.39.8 BETA
+Norwegen: Alle geplanten Angelplätze sind offen
+Norwegen: Landung auf der Insel hinzugefügt
+Norwegen: Ausgewogener Biss auf den lebenden Meeresköder
+Optimiertes Rendering an allen Standorten
+
 Patch 1.39.7 BETA
 Atlantischer Hering hinzugefügt
 Karte von Norwegen aktualisiert
