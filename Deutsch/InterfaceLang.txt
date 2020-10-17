@@ -263,7 +263,7 @@ ufstat_trof=Trophäe:
 
 chtset_alfa=Hintergrund-Transparenz
 chtset_fsize=Schriftgröße
-chtset_chide=Chat verbergen
+chtset_chide=Chat ausblenden
 
 cht_bmsg7=Rekord: {0} {1}
 cht_bmsg8=<color='#ffa020'>Du hast den neuen {0}</color>
