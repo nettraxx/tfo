@@ -1,4 +1,9 @@
 [INTERFACE]
+chat_stag=Клубный тэг
+chat_slevel=Уровень игрока
+chat_stmstamp=Время
+chat_stprfx=Префикс чата
+
 chat_scap=Настройки вкладки чата
 chat_sl1=Сохранить
 chat_talk=Беседы

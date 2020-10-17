@@ -1,4 +1,9 @@
 ﻿[INTERFACE]
+chat_stag=Club tag
+chat_slevel=User level
+chat_stmstamp=Time
+chat_stprfx=Chat prfx
+
 chat_scap=Settings of the chat tab
 chat_sl1=Save
 chat_talk=Discrs

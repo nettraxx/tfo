@@ -1,4 +1,9 @@
 ﻿[INTERFACE]
+chat_stag=Club-Label
+chat_slevel=Spielerstufe
+chat_stmstamp=Zeit
+chat_stprfx=Chat-Präfix
+
 chat_scap=Einstellungen der Registerkarte "Chat"
 chat_sl1=Speichern
 chat_talk=Gespräche
