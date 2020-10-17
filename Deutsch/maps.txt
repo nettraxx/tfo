@@ -29,7 +29,7 @@
 10_Name=Iran: Kaspisches Meer
 10_Info=
 
-11_Name=Norwegen: Das Fjord
+11_Name=Norwegen: Der Fjord
 12_Name=X Russland: Taimyr
 13_Name=X USA: American River
 14_Name=Niederlande: Der Kanal
