@@ -3,16 +3,16 @@
 1_Info=
 
 2_Name=Russland: Fluss Pra
-1_Info=
+2_Info=
 
 3_Name=Frankreich: Perruchet Seen
-1_Info=
+3_Info=
 
 4_Name=Finnland: Kulgusee
 4_Info=
 
 5_Name=Ukraine: Fluss Domaha
-1_Info=
+5_Info=
 
 6_Name=Weißrussland: Dukorasee
 6_Info=
@@ -20,7 +20,7 @@
 7_Name=Italien: Fluss Po
 7_Info=
 
-8_Name=Polen: Karpaten
+8_Name=Polen: Die Karpaten
 8_Info=
 
 9_Name=Serbien: Fluss Donau
@@ -29,10 +29,10 @@
 10_Name=Iran: Kaspisches Meer
 10_Info=
 
-11_Name=Norwegen TEST
+11_Name=Norwegen: Das Fjord
 12_Name=X Russland: Taimyr
 13_Name=X USA: American River
-14_Name=Niederlande: Kanal
+14_Name=Niederlande: Der Kanal
 
 [LOC_NAMES]
 ---------------------

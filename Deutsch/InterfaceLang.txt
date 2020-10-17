@@ -1,4 +1,9 @@
 ﻿[INTERFACE]
+chat_scap=Einstellungen der Registerkarte "Chat"
+chat_sl1=Speichern
+chat_talk=Gespräche
+
+--------------------
 repr_cnt=Anzahl der Reparaturen:
 
 key_help=Hilfe

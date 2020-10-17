@@ -1,3 +1,11 @@
+Patch 1.39.10 BETA
+Die Soft-Cap-Stufe wurde von Stufe 35 auf Stufe 37 verschoben
+Die Geschwindigkeit, mit der die Angelschnur mit einer Schicht (ohne Fisch) abgewickelt wird, wird um 30% erhöht
+Die Geschwindigkeit zum Absenken des Feeders wurde um 30% erhöht
+Die Geschwindigkeit beim Absenken des Köders zum Spinnen wurde um 15% erhöht
+Fehlerbehebungen mit blinkender Oberfläche und Abfahrten
+Neues Chat-System
+
 Patch 1.39.9 BETA
 Lur Fisch hinzugefügt
 Schellfisch hinzugefügt

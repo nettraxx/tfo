@@ -430,5 +430,5 @@ type_109=Black caviar
 534_Name=Wels аlbino
 534_Latn=Silurus glanis аlbino
 
-535_Name=Треска атлантическая
+535_Name=Atlantic cod
 535_Latn=Gadus morhua

@@ -1,4 +1,9 @@
 ﻿[INTERFACE]
+chat_scap=Settings of the chat tab
+chat_sl1=Save
+chat_talk=Discrs
+--------------------
+
 repr_cnt=Repairs count:
 
 key_help=Help
@@ -548,8 +553,8 @@ invn_ver6=<color='#303000'>extremely seldom</color>
 
 #Added 16.10.2018
 #------------------------------------
-cht_umsg10=<color='#ff80ff'>You catch {0}</color>
-cht_umsg11=<color='#ff80ff'>{0} catch {1}</color>
+cht_umsg10=You catch {0}
+cht_umsg11={0} catch {1}
 
 #Added 13.10.2018
 #------------------------------------
