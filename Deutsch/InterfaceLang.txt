@@ -533,8 +533,8 @@ invn_ver6=<color='#303000'>extrem selten</color>
 
 #Added 16.10.2018
 #------------------------------------
-cht_umsg10=<color='#ff80ff'>Du hast ein/e {0} gefangen</color>
-cht_umsg11=<color='#ff80ff'>{0} gefangen {1}</color>
+cht_umsg10=Du hast ein/e {0} gefangen
+cht_umsg11={0} gefangen {1}
 
 #Added 13.10.2018
 #------------------------------------
@@ -1331,7 +1331,7 @@ exp_pb=Next lvl experience:
 #Added 01.12.2016
 #------------------------------------
 chat_info=Info
-chat_loc=Lokal
+chat_loc=Ort
 
 chatconnect=Kanal verbunden
 qd_prise=Einnahme
