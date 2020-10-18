@@ -378,7 +378,7 @@ inf_limit=Server ist voll
 
 rd_inf=EARLY ACCESS
 info_help1=F1 für Hilfe
-help_info_keys=[+/-] Posentiefe ändern   [R] aktuelle Posentiefe\n[1-2-3] Angelslot wählen   [V] Rute konfigurieren\n[B] Köder wechseln   [X] Schnurclip   [M] Karte\n[Y] Rute abstellen   [Backspace] Rute einstecken\n[O] Lockstoff werfen   [E] Benutzen / Interaktion\n[T] Wiederauswurf / Schnur geben\n[Z] Zoom   [C] Kescher   [G] Club Menü   [I] Inventar\n[P] Taschenlampe   [Q] Smartphone\n[ENTER] Chat   [SPACE] RodPod aufstellen\n[F2,F3,F4] Chats: Info, Lokal, Club    [SHIFT] Rennen / Schnell einholen\n[W,A,S,D] Bewegen   [ALT] Mauszeiger an/aus\n[ESC] Einstellungen / Menü schliessen\n[J] Bootsmotor an/aus   [K] Anker werfen/heben\n[U] im Boot aufstehen   [CTRL + Maus ziehen] Stapel teilen
+help_info_keys=[+/-] Posentiefe ändern   [R] aktuelle Posentiefe\n[1-2-3] Angelslot wählen   [V] Rute konfigurieren\n[B] Köder wechseln   [X] Schnurclip   [M] Karte\n[Y] Rute abstellen   [Backspace] Rute einstecken\n[O] Lockstoff werfen   [E] Benutzen / Interaktion\n[T] Wiederauswurf / Schnur geben\n[Z] Zoom   [C] Kescher   [G] Club Menü   [I] Inventar\n[P] Taschenlampe   [Q] Smartphone\n[ENTER] Chat   [SPACE] RodPod aufstellen\n[F2,F3,F4,F5] Chats: Info, Ort, Gespräch, Club    [SHIFT] Rennen / Schnell einholen\n[W,A,S,D] Bewegen   [ALT] Mauszeiger an/aus\n[ESC] Einstellungen / Menü schliessen\n[J] Bootsmotor an/aus   [K] Anker werfen/heben\n[U] im Boot aufstehen   [CTRL + Maus ziehen] Stapel teilen
 
 
 act_infact=Drücke Е
