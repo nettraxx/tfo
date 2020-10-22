@@ -1,7 +1,12 @@
 ﻿[INTERFACE]
+
+crft_gray=Nur graue Fische
+crft_green=Grüne und Graue Fische
+
+--------------------
 chat_stag=Club-Label
 chat_slevel=Spielerstufe
-chat_stmstamp=Zeit
+chat_stmstamp=Uhrzeit
 chat_stprfx=Chat-Präfix
 
 chat_scap=Einstellungen der Registerkarte "Chat"

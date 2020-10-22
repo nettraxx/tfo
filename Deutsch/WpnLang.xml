@@ -4845,5 +4845,13 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
       <info>
       </info>
     </weapon>	
+    <weapon id="1893">
+      <name>Preiskiste</name>
+      <info>Enthält einen zufällig gefärbten 20-12 Waggler und 30 Turniermarken</info>
+    </weapon>
+    <weapon id="1894">
+      <name>Waggler kit</name>
+      <info>Das Set enthält drei leuchtende Waggler 20-12 N in verschiedenen Farben</info>
+    </weapon>
   </weapons>
 </wpnlang>

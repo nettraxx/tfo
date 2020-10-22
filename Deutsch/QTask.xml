@@ -29,19 +29,16 @@
   </tropy_name>
 
 	<tnames>
-		<turn id="1" name="Teichklassifizierung"   info="--"/>   
-		<turn id="2" name="Forellenbeherrschung"  info="--"/>   
-		<turn id="3" name="Seefischerei" info="--"/>   
-		<turn id="4" name="Frankreich" info="--"/>   
-		<turn id="5" name="Finnland" info="--"/>   
+		<turn id="1" name="Französischer Karpfen"   info="--"/>   
+		<turn id="2" name="--"  info="--"/>   
+		<turn id="3" name="--" info="--"/>   
+		<turn id="4" name="--" info="--"/>   
+		<turn id="5" name="--" info="--"/>   
 		<turn id="6" name="Finnland" info="--"/>
 		<turn id="7" name="Stipp Blitzturnier" info="--"/>
-
 		<turn id="10" name="Spinn Blitzturnier" info="--"/>
 		<turn id="11" name="Grund Blitzturnier" info="--"/> 
-		<turn id="12" name="Fliegen Blitzturnier" info="--"/>
-		
-		
+		<turn id="12" name="Fliegen Blitzturnier" info="--"/>		
 		<turn id="50" name="Holländische Brasse" info="--"/>
   </tnames>
 
@@ -169,8 +166,10 @@
 			<task id="9" txt="Fange [fish] zu [baitid] (Maximalgewicht)"/>	
 			<task id="10" txt="Fange [fish] (Gewichtsunterschied)"/>
 			<task id="11" txt="Fange [fish] auf [baitid] (Gewichtsunterschied)"/> 	
-	  
-			<task id="112" txt="[size=16]Forellengesamtgewicht[/size]\n[size=12](Gold- х3, Bach х2, Regenbogen- х1, Seeforelle х1)[/size]"/>
+		
+			<task id="101" txt="[size=16]Karpfen Gesamtgewicht[/size]\n[size=12](Gold- х2, Leder- х1, Restliche Karpfen х1)[/size]"/>    	  
+			<task id="112" txt="[size=16]Forellengesamtgewicht[/size]\n[size=12](Gold- х3, Bach- х2, Regenbogen- х1, Seeforelle х1)[/size]"/>
+			<task id="150" txt="[size=16]Brassen Gesamtgewicht[/size]\n[size=12](Zope х3, Zobel х2, Brasse х1, Güster х1)[/size]"/>		
 		</cat>
 	</cats>
 </quests>

@@ -1,4 +1,7 @@
 ﻿[INTERFACE]
+crft_gray=Only Gray
+crft_green=Green and gray
+--------------------
 chat_stag=Club tag
 chat_slevel=User level
 chat_stmstamp=Time

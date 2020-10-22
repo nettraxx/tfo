@@ -2,11 +2,11 @@
 <quests>
 
   <tnames>
-    <turn id="1" name="Прудовой зачёт"   info="--"/>   
-    <turn id="2" name="Форельный"  info="--"/>   
-	<turn id="3" name="Морской" info="--"/>   
-	<turn id="4" name="Французский" info="--"/>   
-    <turn id="5" name="Финский" info="--"/>   
+    <turn id="1" name="Французский карп"   info="--"/>   
+    <turn id="2" name="--"  info="--"/>   
+	<turn id="3" name="--" info="--"/>   
+	<turn id="4" name="--" info="--"/>   
+    <turn id="5" name="--" info="--"/>   
     <turn id="6" name="Финский" info="--"/>   
 	<turn id="7" name="Маховый блиц" info="--"/>  
 	
@@ -121,14 +121,14 @@
       <task id="5" txt="Поймать [fish] от [minwgt] (общий вес)"/>
       <task id="6" txt="Поймать [fish] (три крупнейших)"/>
       <task id="7" txt="Поймать [fish] на [baitid] (количество)"/>
-	  
       <task id="8" txt="Поймать [fish] (максимальный вес)"/>
 	  <task id="9" txt="Поймать [fish] на [baitid] (максимальный вес)"/>
-	  
 	  <task id="10" txt="Поймать [fish] (разница веса)"/>
 	  <task id="11" txt="Поймать [fish] на [baitid] (разница веса)"/>
 	  
+	  <task id="101" txt="[size=16]Карпы общий вес[/size]\n[size=12](Золотой х2, голый х1, обыкновенный х1)[/size]"/>
 	  <task id="112" txt="[size=16]Форель общий вес[/size]\n[size=12](золотая х3, ручьёвая х2, радужная х1, кумжа х1)[/size]"/>
+	  <task id="150" txt="[size=16]Лещ общий вес[/size]\n[size=12](Синец х3, белогразка х2, лещ х1, густера х1)[/size]"/>
     </cat>	
 	
   </cats>

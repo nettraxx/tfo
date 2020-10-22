@@ -1,4 +1,9 @@
 [INTERFACE]
+
+crft_gray=Только серая
+crft_green=Зеленая и серая
+
+--------------------
 chat_stag=Клубный тэг
 chat_slevel=Уровень игрока
 chat_stmstamp=Время
@@ -7,8 +12,6 @@ chat_stprfx=Префикс чата
 chat_scap=Настройки вкладки чата
 chat_sl1=Сохранить
 chat_talk=Беседы
-
-
 
 --------------------
 repr_cnt=Количество ремонтов:

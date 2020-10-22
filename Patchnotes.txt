@@ -1,3 +1,42 @@
+Patch 1.40.3
+Bootsrückwärtsfahrtanzeige hinzugefügt
+Fehlerbehebungen "schweben" auf Wellen
+Ködergewicht "Seeköder" auf 50 Gramm reduziert
+Andere Fehlerbehebungen
+
+Patch 1.40.2
+Schwimmende Objekte und mehr für das Kaspische Meer, Italien und Norwegen:
+Kleine Boote reagieren auf Wellenhöhe
+Größere Boote reagieren weniger auf Wellenhöhe
+Schwimmer reagieren auf die Höhe der Welle
+Die Höhe der Wellen variiert in Flüssen, Seen, in Küstennähe und im offenen Meer
+
+Alle Orte:
+Hinweis der Liegeplätze auf der Karte hinzugefügt
+Anzeige der Fischverkaufsstellen auf der Karte hinzugefügt
+Es wurde die Möglichkeit hinzugefügt, die Anzahl der zu verwendenden Teile anzugeben
+Korrektur von Fehlern beim Angeln mit vertikalen Ködern
+
+Patch 1.40.1
+Ein Fehler mit "fliegenden Fischen" wurde behoben.
+Norwegen - IoN-N-Spinnruten mit einer Festigkeit von 35-40-45 kg wurden in das Geschäft aufgenommen
+
+Patch 1.40.0
+Norwegen verlässt die Beta.
+Tägliche und einfache Aufgaben hinzugefügt.
+Die Kosten für eine Reise zum Ort - 620 Münzen
+
+Sonstige Änderungen:
+aktualisiertes Chat-System
+Das Boot ist mit neuen Haltern mit Alarm ausgestattet
+Italien - die Optimierung und Hinzufügung neuer Landepunkte und der Verkauf von Fisch
+Weißrussland und Deutschland - Optimierung, Fehlerkorrektur
+Betaversion ist geschlossen
+
+Balance-Änderungen:
+Die Kosten für großen Lachs werden reduziert
+Die Anzahl der Doraden aller Art wurde erhöht
+
 Patch 1.39.10 BETA
 Die Soft-Cap-Stufe wurde von Stufe 35 auf Stufe 37 verschoben
 Die Geschwindigkeit, mit der die Angelschnur mit einer Schicht (ohne Fisch) abgewickelt wird, wird um 30% erhöht
