@@ -231,7 +231,10 @@ type_109=Black caviar
 216_Name = 
 304_Name = Hucho taimen
 352_Name = Yellowfin flounder
-353_Name = Terpug
+
+353_Name = Sablefish
+353_Latn = Anoplopoma fimbria
+
 354_Name = Osman Altay
 355_Name = Silver Salmon
 356_Name = Baikal monster
