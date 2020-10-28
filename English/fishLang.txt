@@ -188,7 +188,6 @@ type_109=Black caviar
 119_Name = Chebak
 120_Name = marsh turtle
 121_Name = Amur black
-122_Name = OFF
 123_Name = Sabrefish
 124_Name = big black turtle
 125_Name = OFF
@@ -212,7 +211,6 @@ type_109=Black caviar
 143_Name = Troglobit
 144_Name = Gorceac
 145_Name = Crab white
-146_Name = OFF
 147_Name = coelacanth
 158_Name = 
 200_Name = SnagIt
@@ -295,7 +293,7 @@ type_109=Black caviar
 411_Name = Brigandine pike
 412_Name = Carp Mirror
 413_Name = Сarp Leather
-414_Name = Chernobyl Catfish
+
 415_Name = acanthodii
 416_Name = Dunkleoktus
 417_Name = Kokosteus
@@ -435,3 +433,11 @@ type_109=Black caviar
 
 535_Name=Atlantic cod
 535_Latn=Gadus morhua
+
+414_Name=Chernobyl Catfish
+146_Name=Cardan
+122_Name=Black crawfish
+141_Name=Minion ktulhu
+339_Name=Altufa
+131_Name=Dragon
+

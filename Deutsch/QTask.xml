@@ -7,6 +7,12 @@
 	info_2="Die Trophäe wird für die Eingabe der TOP 50-Bewertung vergeben" 
 	info_3="Die Trophäe wird für die Eingabe der TOP 10-Bewertung vergeben" 
 	info_4="Die Trophäe wird für den 1. Platz in der Gesamtbewertung vergeben"/>     
+  
+	<tr id="11" shortname="Trophäe|«1 Jahr»" name="Trophäe|«1 Jahr»" 
+	info_1="" 
+	info_2="" 
+	info_3="" 
+	info_4="Die Trophäe wird für den Geburtstag des Spiels vergeben"/>      
 
 	<tr id="100" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
 	info_1="Trophäe wird für die Teilnahme an den zehn besten Spielern des Turniers vergeben «[IDNAME]»" 

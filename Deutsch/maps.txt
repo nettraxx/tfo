@@ -33,6 +33,7 @@
 12_Name=X Russland: Taimyr
 13_Name=X USA: American River
 14_Name=Niederlande: Der Kanal
+15_Name=Atom: Ödland
 
 [LOC_NAMES]
 ---------------------

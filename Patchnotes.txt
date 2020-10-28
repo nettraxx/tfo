@@ -1,3 +1,21 @@
+Patch 1.41.0
+Hallo Freunde. Das ist der Moment. Das Spiel ist genau ein Jahr alt, als das Spiel auf Steam veröffentlicht wurde.
+
+In diesem Jahr haben mehr als 25.000 Spieler aus aller Welt (einschließlich der Antarktis) 98 Millionen Fische gefangen, 3,5 Millionen Chat-Nachrichten geschrieben und 2,8 Millionen Aufgaben erledigt.
+
+Zu Ehren dieses Jahrestages wird eine festliche Veranstaltung angekündigt:
+Erledige tägliche Aufgaben in Weißrussland, Deutschland, Frankreich und Russland und erhalte "Ereignis-Token". 
+Verwenden Sie diese Abzeichen, um Reisen nach Norwegen oder zum neu entdeckten mysteriösen Ort "Atom" zu kaufen.
+Jeder, der zum ersten Mal an den Ort "Atom" kommt, erhält eine besondere Gedenk-Trophäe "1 Jahr des Spiels".
+
+* Hinweis: Der Standort "Atom" stellt keine Weltrekorde auf (nur Basisrekorde) und erhält keine Bewertung.
+
+In Ergänzung:
+Erfahrung für den Fischfang, um 25% erhöht
+Die Kosten für den Verkauf von Fisch stiegen um 25%
+
+Die Veranstaltung dauert bis zum 8. November.
+
 Patch 1.40.4
 Wechselnde Modelle und Animationen von Stören: Russischer Stör, Persischer Stör, Europäischer Stör
 Buckellachs Animationen hinzugefügt

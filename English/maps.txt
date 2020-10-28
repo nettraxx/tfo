@@ -31,6 +31,8 @@
 12_Name=X Russia: Taimyr
 13_Name=X USA: American River 
 14_Name=Netherlands:channel
+15_Name=Atom: Wasteland
+
 
 [LOC_NAMES]
 ---------------------

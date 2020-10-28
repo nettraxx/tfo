@@ -1241,7 +1241,7 @@
 Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.</info>
     </weapon>
     <weapon id="1180">
-      <name>Ereignisabzeichen</name>
+      <name>Ereignis-Token</name>
       <info>
       </info>
     </weapon>
@@ -3208,8 +3208,8 @@ der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
       </info>
     </weapon>
     <weapon id="1548">
-      <name>АТОМ Reise</name>
-      <info> Aus dem Fischertagebuch:
+      <name>Reise zum ATOM</name>
+      <info>Aus dem Fischertagebuch:
 Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen Träumen gesehen..</info>
     </weapon>
     <weapon id="1549">
