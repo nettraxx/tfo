@@ -1,10 +1,10 @@
 ﻿[INTERFACE]
 
-dntpck_6_name=Salamo Gold Paket
-dntpck_6_info=Das Paket enthält eine Grundrute (43kg), Rolle (42kg), Schnur (42kg) und Feederkorb aus dem Salamo CarpHunter Gold-Kit.
+dntpck_6_name=Paket "Salamo GOLD-Kit"
+dntpck_6_info=Das Kit enthält eine Grundrute (43kg), Rolle (42kg), Schnur (42kg) und Feederkorb aus dem Salamo CarpHunter Gold-Kit.
 
-dntpck_5_name=Waggler 20-12 N Paket
-dntpck_5_info=Das Paket enthält drei leuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).
+dntpck_5_name=Paket "Waggler 20-12 N"
+dntpck_5_info=Das Kit enthält drei leuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).
 
 sh_pay_day_90=90 Tage
 
