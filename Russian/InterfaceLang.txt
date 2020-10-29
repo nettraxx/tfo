@@ -1,5 +1,15 @@
 [INTERFACE]
 
+dntpck_6_name=Пакет "Salamo Gold"
+dntpck_6_info=Комплект содержит донную удочку (43 кг/4м/тест 50-110), катушку, леску и кормушку из комплекта Salamo CarpHunter Gold
+
+dntpck_5_name=Пакет "Светящиеся поплавки"
+dntpck_5_info=Комплект содержит три светящихся поплавка-ваглера 20-12 разных цветов (красный, синий, зеленый)
+
+sh_pay_day_90=90 дней
+
+--------------------
+
 crft_gray=Только серая
 crft_green=Зеленая и серая
 
@@ -406,7 +416,7 @@ act_inf3=МАГАЗИН
 
 sh_pay_vpadd=Добавлен VIP {0} дней
 sh_pay_overlay=Включите оверлей Steam!
-sh_pay_vppers=ПЕРСОНАЛЬНЫЙ VIP (для себя)
+sh_pay_vppers=ПЕРСОНАЛЬНЫЙ VIP
 sh_pay_vpcard=КАРТОЧКИ VIP (для дарения)
 
 sh_pay_day_1=1 день
@@ -414,6 +424,7 @@ sh_pay_day_3=3 дня
 sh_pay_day_7=7 дней
 sh_pay_day_15=15 дней
 sh_pay_day_30=30 дней
+
 
 fish_mwgt=Макс. вес ~{0}
 

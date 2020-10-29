@@ -421,5 +421,3 @@ type_109=Schwarzer Kaviar
 146_Name = Cardan
 122_Name = Schwarzer Krebs
 141_Name = Minion Cthulhu
-339_Name = Altufa
-131_Name = Drache

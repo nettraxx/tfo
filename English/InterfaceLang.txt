@@ -1,4 +1,15 @@
 ﻿[INTERFACE]
+
+dntpck_6_name=Packet "Salamo Gold"
+dntpck_6_info=The kit contains a bottom fishing rod (43 kg / 4m / test 50-110), a reel, a fishing line and a feeder basket from the Salamo CarpHunter Gold kit
+
+dntpck_5_name=Packet "Luminous floats"
+dntpck_5_info=The kit contains three luminous waggler floats of 20-12 different colors (red, blue, green)
+
+sh_pay_day_90=90 days
+
+--------------------
+
 crft_gray=Only Gray
 crft_green=Green and gray
 --------------------

@@ -1,5 +1,15 @@
 ﻿[INTERFACE]
 
+dntpck_6_name=Salamo Gold Paket
+dntpck_6_info=Das Paket enthält eine Grundrute (43kg), Rolle (42kg), Schnur (42kg) und Feederkorb aus dem Salamo CarpHunter Gold-Kit.
+
+dntpck_5_name=Waggler 20-12 N Paket
+dntpck_5_info=Das Paket enthält drei leuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).
+
+sh_pay_day_90=90 Tage
+
+--------------------
+
 crft_gray=Nur graue Fische
 crft_green=Grüne und Graue Fische
 
@@ -396,8 +406,8 @@ wpn_remf1=Reparatur {0}\n Kosten {1}?
 sh_pay_vpadd={0} Tage VIP wurden hinzufügt
 sh_pay_overlay=Steam Overlay aktivieren (Shift+Tab)!
 
-sh_pay_vppers=PERSONAL VIP (für mich)
-sh_pay_vpcard=VIP CARDS (zum verschenken)
+sh_pay_vppers=PERSÖNLICHE VIP
+sh_pay_vpcard=VIP KARTEN (zum verschenken)
 
 sh_pay_day_1=1 Tag
 sh_pay_day_3=3 Tage

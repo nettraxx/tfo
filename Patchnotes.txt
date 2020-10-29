@@ -1,3 +1,8 @@
+Patch 1.41.2
+Animationen für Atlantischen Kabeljau hinzugefügt
+Animationen und ein neues Modell für Scherg hinzugefügt
+Aktualisierung des Shop´s
+
 Patch 1.41.0
 Hallo Freunde. Das ist der Moment. Das Spiel ist genau ein Jahr alt, als das Spiel auf Steam veröffentlicht wurde.
 
