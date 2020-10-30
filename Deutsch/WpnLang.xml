@@ -3877,8 +3877,8 @@ Rollengröße: 1000-2500.</info>
       </info>
     </weapon>
     <weapon id="1687">
-      <name>Seeköderbündel</name>
-      <info>
+      <name>See-Köderfisch</name>
+      <info>Herstellbar aus: Grundel, Meeräsche
       </info>
     </weapon>
     <weapon id="1688">
@@ -4411,11 +4411,11 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
     <weapon id="1800">
       <name>Seebündel</name>
       <info>
-      </info>
+	  </info>
     </weapon>
     <weapon id="1801">
       <name>Kaviartasche</name>
-      <info>Delikatesse Lachsköder. Fängig für: Bachsaibling, Seesaibling
+      <info>Fängig für: Bachsaibling, Seesaibling
 	  </info>
     </weapon>
     <weapon id="1802">
