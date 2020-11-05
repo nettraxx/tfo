@@ -1,3 +1,16 @@
+Patch 1.41.4
+Verbesserte KI-Fische beim Drillen
+Norwegen: Heilbutt hinzugefügt
+Fehlerkorrektur
+
+Patch 1.41.3
+Lur-Animationen hinzugefügt
+Schellfischanimationen hinzugefügt
+Wenn Sie jetzt eine Trophäe fangen, erhalten Sie +100 Cluberfahrung und bei einer Rekord Trophäe +500 Cluberfahrungen.
+Im Club-Chat wurde ein Hinweis hinzugefügt, der genau die Club-Erfahrung hinzugefügt hat
+Durch Klicken auf eine Nachricht im Chat wird der aktuelle Chat in den Nachrichtenchat umgeschaltet
+Andere Fehler behoben
+
 Patch 1.41.2
 Animationen für Atlantischen Kabeljau hinzugefügt
 Animationen und ein neues Modell für Scherg hinzugefügt

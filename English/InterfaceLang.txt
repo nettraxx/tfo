@@ -162,7 +162,7 @@ stat_turn_crt=CREATE TOURNAMENT
 stat_capt_1=Tasks completed
 stat_capt_2=Fish count
 stat_capt_3=Trophies count
-stat_capt_4=Records set
+stat_capt_4=World Records set
 
 stat_capt_5=Fish species
 stat_capt_6=Released fish

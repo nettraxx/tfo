@@ -155,7 +155,7 @@ stat_turn_crt=TURNIER ERSTELLEN
 stat_capt_1=Aufgaben erledigt
 stat_capt_2=Anzahl der Fische
 stat_capt_3=Anzahl der Trophäen
-stat_capt_4=Anzahl der Rekordfische
+stat_capt_4=Anzahl der Weltrekordfische
 
 stat_capt_5=Gefangene Fischarten
 stat_capt_6=Freigelassene Fische
@@ -262,11 +262,11 @@ club_err3=Club-Kürzel ist falsch
 club_err4=Name oder Label existieren bereits
 
 btn_qtaskvip=Andere Orte
-dntpck_2_name=Paket "SeaCast"
+dntpck_2_name=Paket "SeaCast-Kit"
 dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52kg), eine Multirolle (50kg), Angelschnur (51kg) und 500 Silber. Ungeöffnet kann es an einen Freund verschickt werden.
 
 dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
-dntpck_1_name=Paket "BeeCast"
+dntpck_1_name=Paket "BeeCast-Kit"
 dntpck_1_info=Das Kit enthält eine leichte Castingrute (6kg +75% Erf.), eine LP-Rolle (5kg), Angelschnur (5,5kg) und 3 UL Ködern. Ungeöffnet kann es an einen Freund verschickt werden.
 
 
