@@ -433,3 +433,6 @@ type_109=Черная икра
 141_Name=Миньон-Ктулху
 339_Name=Алтуфа
 131_Name=Дракон
+
+536_Name=Камбала тюрбо
+536_Latn=Scophthalmus maximus

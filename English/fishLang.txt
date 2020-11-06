@@ -441,3 +441,6 @@ type_109=Black caviar
 339_Name=Altufa
 131_Name=Dragon
 
+536_Name=Turbot
+536_Latn=Scophthalmus maximus
+

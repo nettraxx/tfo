@@ -417,9 +417,12 @@ type_109=Schwarzer Kaviar
 535_Name=Kabeljau
 535_Latn=Gadus morhua
 
-414_Name = Tschernobyl-Wels
-146_Name = Cardan
-122_Name = Schwarzer Krebs
-141_Name = Minion Cthulhu
-339_Name = Altufa
-131_Name = Drache
+414_Name=Tschernobyl-Wels
+146_Name=Cardan
+122_Name=Schwarzer Krebs
+141_Name=Minion Cthulhu
+339_Name=Altufa
+131_Name=Drache
+
+536_Name=Steinbutt
+536_Latn=Scophthalmus maximus
