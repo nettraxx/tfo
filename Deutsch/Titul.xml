@@ -4,8 +4,8 @@
 		<category id="1" name="Einfacher Titel"/>
 		<category id="3" name="Erfolge"/>
 		<category id="5" name="Turnier" />
-		<category id="6" name="Gesamt Turniere"/>
-		<category id="7" name="Private Turniere"/>
+		<category id="6" name="Turniere gesamt"/>
+		<category id="7" name="Turniere privat"/>
 		<category id="8" name="Berufe" />
 		<category id="9" name="Ressourcen sammeln"/>
 		<category id="10" name="Produktion"/>
@@ -34,14 +34,14 @@
 		<titul id="120" catid="3" name="Überlebender"/>
 		<titul id="121" catid="11" name="Pionier"/>
 		<titul id="122" catid="3" name="Vorbildlicher Fischer"/>
-		<titul id="123" catid="3" name="Sturm Elritzen"/>
-		<titul id="124" catid="3" name="Karausche Experte"/>
+		<titul id="123" catid="3" name="Sturm-Elritzen"/>
+		<titul id="124" catid="3" name="Karauschenexperte"/>
 		<titul id="125" catid="3" name="Scharfschütze"/>
 		<titul id="126" catid="3" name="Hechtmann"/>
 		<titul id="127" catid="11" name="Spender"/>
 		<titul id="128" catid="3" name="Blaumann"/>
 		<titul id="129" catid="3" name="Eisbrecher"/>
-		<titul id="130" catid="11" name="CBT Mitglied"/>
+		<titul id="130" catid="11" name="CBT-Mitglied"/>
 		<titul id="131" catid="3" name="Duremar"/>
 		<titul id="132" catid="3" name="Flusskrebsfänger"/>
 		<titul id="133" catid="1" name="Gewohnheiten der Bar"/>
@@ -55,7 +55,7 @@
 		<titul id="141" catid="3" name="Tiefenforscher"/>
 		<titul id="142" catid="3" name="Raritätenexperte"/>
 		<titul id="143" catid="3" name="Zarenfischer"/>
-		<titul id="144" catid="3" name="Spinning Meister"/>
+		<titul id="144" catid="3" name="Spinn-Meister"/>
 		<titul id="145" catid="3" name="Zarenfischer II"/>
 		<titul id="146" catid="3" name="Bleaker"/>
 		<titul id="147" catid="3" name="Meister des Döbels"/>

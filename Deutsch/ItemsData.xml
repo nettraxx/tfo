@@ -8,8 +8,8 @@
 		<item id="11" name="Swampy" ondestroy="1"/>
 		<item id="12" name="Boney" ondestroy="1"/>
 		<item id="13" name="Bluevy" ondestroy="1"/>
-		<item id="14" name="Zombie eye" ondestroy="1"/>
-		<item id="21" name="Wild leek" ondestroy="1"/>
+		<item id="14" name="Zombieauge" ondestroy="1"/>
+		<item id="21" name="Aschlauch" ondestroy="1"/>
 		<item id="22" name="Gorloder" ondestroy="1"/>
 		<item id="23" name="Honey" ondestroy="1"/>
 		<item id="24" name="Crayfish bush" ondestroy="1"/>
@@ -19,7 +19,7 @@
         <item id="101" name="Fauler Stumpen" ondestroy="1"/>
 		<item id="102" name="Maulwurfshügel" ondestroy="1"/>
 		<item id="103" name="Fauler Baumstamm" ondestroy="1"/>
-		<item id="104" name="Stalkers Rucksack" ondestroy="1"/>
+		<item id="104" name="Stalkers' Rucksack" ondestroy="1"/>
 		<item id="105" name="Müll" ondestroy="1"/>
 		<item id="10000" name="Zufall" ondestroy="1"/>
 		<item id="10001" name="Misthaufen" ondestroy="1"/>
