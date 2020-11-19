@@ -1,10 +1,10 @@
 ﻿[INTERFACE]
 
-dntpck_6_name=Set "Salamo Gold"
-dntpck_6_info=Das Set enthält eine Grundrute (43kg), eine Rolle (42kg), eine Angelschnur (42kg) und Feederkorb aus der Serie Salamo CarpHunter Gold. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_6_name=Kit "Salamo Gold"
+dntpck_6_info=Das Kit besteht aus Grundrute (43kg), Rolle (42kg), Angelschnur (42kg) und einem Feederkorb./nUngeöffnet kann das Kit verschickt werden.
 
-dntpck_5_name=Set "Waggler 20-12 N"
-dntpck_5_info=Das Set enthält drei nachtleuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).
+dntpck_5_name=Kit "Waggler 20-12 N"
+dntpck_5_info=Das Kit enthält drei nachtleuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).
 
 sh_pay_day_90=90 Tage
 
@@ -33,8 +33,8 @@ key_chclub=Club-Chat
 key_chturn=Turnier-Chat
 --------------------
 
-dntpck_4_name=Set "Bombard GOLD"
-dntpck_4_info=Das Set enthält eine Matchrute (43kg), eine Rolle (42kg), eine Angelschnur (42kg) und einen nachtleuchtenden Waggler aus der Serie Bombard Gold. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_4_name=Kit "Bombard Gold"
+dntpck_4_info=Das Kit besteht aus Matchrute (43kg), Rolle (42kg), Schnur (42kg) und einem nachtleuchtenden Waggler./nUngeöffnet kann das Kit verschickt werden.
 
 --------------------
 
@@ -123,8 +123,8 @@ act_inf5e=[E] Rodpod entfernen
 
 ---------------------
 craftwp_btn=Handwerkstisch
-dntpck_3_name=Set "BeePicker"
-dntpck_3_info=Das Set enthält eine leichte Picker-Rute (6kg, + 50% Erfahrung), eine Rolle und eine Angelschnur. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_3_name=Kit "BeePicker"
+dntpck_3_info=Das Kit besteht aus leichter Picker-Rute (6kg, + 50% Erfahrung), Rolle und Schnur./nUngeöffnet kann das Kit verschickt werden.
 wpn_ibsize_4=Gr. ultra (Haken Nr. 3-5)
 ---------------------
 
@@ -262,12 +262,12 @@ club_err3=Das Clubkürzel ist fehlerhaft.
 club_err4=Name oder Kürzel existieren bereits.
 
 btn_qtaskvip=Andere Orte
-dntpck_2_name=Set "SeaCast"
-dntpck_2_info=Das Set enthält eine schwere Castingrute (52kg), eine Multirolle (50kg), eine Angelschnur (51kg) von Basser und 500 Silber. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_2_name=Kit "SeaCast"
+dntpck_2_info=Das Kit besteht aus schwerer Castingrute (52kg), Multirolle (50kg), Schnur (51kg) und 500 Silber./nUngeöffnet kann das Kit verschickt werden.
 
 dntpck_1_hint=* Der Preis für deine Region kann abweichen.
-dntpck_1_name=Set "BeeCast"
-dntpck_1_info=Das Set enthält eine leichte Castingrute (6kg +75% Erfahrung), eine LP-Rolle (5kg), eine Angelschnur (5,5kg) und 3 UL-Köder. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_1_name=Kit "BeeCast"
+dntpck_1_info=Das Kit besteht aus leichter Castingrute (6kg +75% Erfahrung), LP-Rolle (5kg), Schnur (5,5kg) und 3 UL-Köder./nUngeöffnet kann das Kit verschickt werden.
 
 
 wptype_offset=Offsethaken
@@ -406,8 +406,8 @@ wpn_remf1=Reparatur {0}\n Kosten {1}?
 sh_pay_vpadd={0} Tage VIP-Status wurden hinzufügt.
 sh_pay_overlay=Steam-Overlay aktivieren (Shift+Tab)!
 
-sh_pay_vppers=PERSÖNLICHE VIP
-sh_pay_vpcard=VIP-KARTEN (zum Verschenken)
+sh_pay_vppers=Persönlicher VIP-Status
+sh_pay_vpcard=VIP-Karten zum Verschenken
 
 sh_pay_day_1=1 Tag
 sh_pay_day_3=3 Tage
@@ -1436,7 +1436,7 @@ stshoplabel=Kaufen mit STEAM
 stshoprubl=Für Rubel kaufen
 stshopsel=Auswahl
 
-viptxt=Der Verkauf von Fisch bringt 25% mehr Geld./nAufgaben können 50% schneller angenommen werden./nErfahrung von Fischen um 50% erhöht./nErfahrung für vollständige Aufgaben + 25%./nVerbesserte Karte mit Koordinaten.
+viptxt=+ 25% Geld beim Fischverkauf/n+ 50% Erfahrung von Fischen/n+ 50% schnellere Aufgabenannahme/n+ 25% Erfahrung bei Aufgaben/n+ Verbesserte Karte mit Koordinaten
 vipbuycost=Kaufe 350 <color='#40a0ff'>®</color> für 30 Tage
 vipbuykey=VIP Kaufen
 

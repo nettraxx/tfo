@@ -2476,8 +2476,8 @@ Danke für eure Abstimmungen!</info>
       </info>
     </weapon>
     <weapon id="1408">
-      <name>Set "Bombard Gold"</name>
-      <info>Das Set enthält eine Matchrute (43kg), eine Rolle (42kg), eine Angelschnur (42kg) und einen nachtleuchtenden Waggler aus der Serie Bombard Gold.</info>
+      <name>Kit "Bombard Gold"</name>
+      <info>Das Kit besteht aus Grundrute (43kg), Rolle (42kg), Angelschnur (42kg) und einem Feederkorb. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1409">
       <name>Waggler</name>
@@ -2491,8 +2491,8 @@ Danke für eure Abstimmungen!</info>
       </info>
     </weapon>
     <weapon id="1411">
-      <name>Set "Salamo Gold"</name>
-      <info>Das Set enthält eine Grundrute (43kg), eine Rolle (42kg), eine Angelschnur (42kg) und einen Feederkorb aus der Serie Salamo CarpHunter Gold.</info>
+      <name>Kit "Salamo Gold"</name>
+      <info>Das Kit besteht aus Grundrute (43kg), Rolle (42kg), Angelschnur (42kg) und einem Feederkorb. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1412">
       <name>Frosch</name>
@@ -4138,13 +4138,13 @@ Rollengröße: 1000-2500.</info>
 Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1744">
-		<name>Set "BeeCast"</name>
-		<info>Das Set enthält eine leichte Castingrute (6kg +75% Erfahrung), eine LP-Rolle (5kg), eine Angelschnur (5,5kg) und 3 UL-Köder.
+		<name>Kit "BeeCast"</name>
+		<info>Das Kit besteht aus leichter Castingrute (6kg +75% Erfahrung), LP-Rolle (5kg), Schnur (5,5kg) und 3 UL-Köder. Ungeöffnet kann es verschickt werden.
 </info>
     </weapon>
     <weapon id="1745">
-		<name>Set "SeaCast"</name>
-		<info>Das Set enthält eine schwere Castingrute (52kg), eine Multirolle (50kg), eine Angelschnur (51kg) und 500 Silber.</info>
+		<name>Kit "SeaCast"</name>
+		<info>Das Kit besteht aus schwerer Castingrute (52kg), Multirolle (50kg), Schnur (51kg) und 500 Silber. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1746">
 		<name>Basser St-5</name>
@@ -4426,8 +4426,8 @@ Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für
       </info>
     </weapon>
     <weapon id="1804">
-      <name>Set "BeePicker"</name>
-      <info>Das Set enthält eine leichte Picker-Rute (6kg, + 50% Erfahrung), eine Rolle und eine Angelschnur.</info>
+      <name>Kit "BeePicker"</name>
+      <info>Das Kit besteht aus leichter Picker-Rute (6kg, + 50% Erfahrung), Rolle und Schnur. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1805">
       <name>SeaHook FH-4</name>
@@ -4633,8 +4633,8 @@ Rollengröße 4000 und kleiner sind geeignet.
       <info>Feederkorb vom Typ "Basket" für das Feederfischen.</info>
     </weapon>
     <weapon id="1848">
-      <name>Set "DS Breamer"</name>
-      <info>Das Set enthält eine Rute, eine Rolle, eine Angelschnur und einen Feederkorb aus dem Premium Breamer Pro-Angebot.</info>
+      <name>Kit "DS Breamer"</name>
+      <info>Das Kit besteht aus Rute, Rolle, Schnur und einem Feederkorb aus dem Premium Breamer Pro-Angebot.</info>
     </weapon>
     <weapon id="1849">
       <name>Bombard FLT - 35</name>
@@ -4859,8 +4859,8 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <info>Enthält einen zufälligen farbigen 20-12 Waggler und 30 Turniermarken.</info>
     </weapon>
     <weapon id="1894">
-      <name>Set "Waggler 20-12 N"</name>
-      <info>Das Set enthält drei nachtleuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).</info>
+      <name>Kit "Waggler 20-12 N"</name>
+      <info>Das Kit enthält drei nachtleuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).</info>
     </weapon>
   </weapons>
 </wpnlang>
