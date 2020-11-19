@@ -49,11 +49,7 @@
   </tnames>
 
 	<qdynamic>
-
-	</qdynamic>
-
-	<achivments_name>
-		<qd id="0" name="Ohne Titel" info=""/> 
+		<qd id="0" name="Ohne Titel" imgid="0"/> 
 		<qd id="1" name="Fischkontrolleur" imgid="0"/> 
 		<qd id="2" name="Frachtbrief zum Angeln" imgid="0"/>
 		<qd id="3" name="Freies Angeln" imgid="0"/>
@@ -80,6 +76,11 @@
 		<qd id="24" name="Amurgeschäfte" imgid = "0" />
 		<qd id="25" name="Großkopfkarpfen für große Köpfe" imgid = "0" />
 		<qd id="26" name="Flussmündung-Gesamtgewicht" imgid="0"/>
+	</qdynamic>
+
+	<achivments_name>
+		<qd id="0" name="Ohne Titel" info=""/> 
+
 	</achivments_name>
 
 	<glaves>
