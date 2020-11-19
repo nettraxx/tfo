@@ -278,7 +278,6 @@ type_109=Black caviar
 396_Name = Pollock
 397_Name = Kerchak mnogoigly
 398_Name = Capelin
-399_Name = Redfish
 400_Name = Navaga
 401_Name = Sockeye salmon
 403_Name = Shlemonosets filamentous
@@ -443,4 +442,8 @@ type_109=Black caviar
 
 536_Name=Turbot
 536_Latn=Scophthalmus maximus
+
+399_Name=Sebastes norvegicus 
+399_Latn=Sebastes norvegicus 
+
 
