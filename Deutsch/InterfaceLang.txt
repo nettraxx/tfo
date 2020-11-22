@@ -628,7 +628,7 @@ rod_inf2=Optimal für Fische ab {0}kg
 
 #Added 15.02.2018
 #------------------------------------
-wpn_bait_sz=Größe:
+wpn_bait_sz=Größe: 
 wpn_bait_sz0=winzig
 wpn_bait_sz1=klein
 wpn_bait_sz2=mittel
@@ -641,7 +641,7 @@ wpn_bait_typ_6=Gummifisch
 wpn_bait_typ_7=Wobbler
 
 wpn_bait_vob_0=Topwater
-wpn_bait_vob_1=Über Wasser
+wpn_bait_vob_1=Unter Wasser,
 wpn_bait_vob_2=Absinken
 wpn_bait_vob_deep=Tiefe: {0}m
 
