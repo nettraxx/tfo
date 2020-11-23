@@ -1,3 +1,6 @@
+Patch 1.41.5
+Übersetzungsänderungen von LeLeon übernommen
+
 Patch 1.41.4
 Verbesserte KI-Fische beim Drillen
 Norwegen: Heilbutt hinzugefügt
