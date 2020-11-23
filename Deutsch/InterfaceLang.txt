@@ -1,17 +1,17 @@
 ﻿[INTERFACE]
 
-dntpck_6_name=Paket "Salamo GOLD-Kit"
-dntpck_6_info=Das Kit enthält eine Grundrute (43kg), Rolle (42kg), Schnur (42kg) und Feederkorb aus dem Salamo CarpHunter Gold-Kit.
+dntpck_6_name=Kit "Salamo Gold"
+dntpck_6_info=Das Kit besteht aus Grundrute (43kg), Rolle (42kg), Angelschnur (42kg) und einem Feederkorb./nUngeöffnet kann das Kit verschickt werden.
 
-dntpck_5_name=Paket "Waggler 20-12 N"
-dntpck_5_info=Das Kit enthält drei leuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).
+dntpck_5_name=Kit "Waggler 20-12 N"
+dntpck_5_info=Das Kit enthält drei nachtleuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).
 
 sh_pay_day_90=90 Tage
 
 --------------------
 
-crft_gray=Nur graue Fische
-crft_green=Grüne und Graue Fische
+crft_gray=<color='#a0a2a1'>Graue</color> Fische
+crft_green=<color='#a0a2a1'>Graue</color> und <color='#7df05f'>grüne</color> Fische
 
 --------------------
 chat_stag=Club-Label
@@ -33,8 +33,8 @@ key_chclub=Club-Chat
 key_chturn=Turnier-Chat
 --------------------
 
-dntpck_4_name=Paket "Bombard GOLD-Kit"
-dntpck_4_info=Das Kit enthält eine Matchrute (43kg), eine Rolle (42kg), eine Schnur (42kg) und einen Waggler aus dem Bombard Gold-Kit mit Warnleuchte. Set zum Angeln von großen Karpfen oder Silberkarpfen
+dntpck_4_name=Kit "Bombard Gold"
+dntpck_4_info=Das Kit besteht aus Matchrute (43kg), Rolle (42kg), Schnur (42kg) und einem nachtleuchtenden Waggler./nUngeöffnet kann das Kit verschickt werden.
 
 --------------------
 
@@ -51,8 +51,8 @@ pturn_msg={0} hat ein Turnier "{1}: {2}" erstellt.
 
 --------------------
 set_compass=Kompass anzeigen
-takclbcharmsg2=Sind Sie sicher, den Club auf Spieler \ n {0} zu übertragen?
-takclbcharmsg1=Transfer Club
+takclbcharmsg2=Sind Sie sicher, den Club auf Spieler \ n {0} übertragen zu wollen?
+takclbcharmsg1=Transferiere Club
 --------------------
 wgt_poz=oz
 wgt_plb=lb.
@@ -76,11 +76,11 @@ wrksh_unsubscrb=ABMELDEN
 
 wrksh_upErr=LADEFEHLER
 wrksh_upOK=ERFOLGREICH HOCHGELADEN
-wrksh_upokinf=SIE KÖNNEN DIE AKTUALISIERUNG DER ÄNDERUNG AUF DER STEAM WORKSHOP-WEBSITE PRÜFEN \ nDie Veröffentlichung kann einige Zeit dauern
+wrksh_upokinf=SIE KÖNNEN DIE AKTUALISIERUNG DER ÄNDERUNG IM STEAM WORKSHOP PRÜFEN. \ nDie Veröffentlichung kann einige Zeit dauern.
 wrksh_upoopen=SEITE ÖFFNEN
 wrksh_upld=UPLOAD MOD
 wrksh_updt=UPDATE MOD
-wrksh_nowork=ÄNDERUNGSDATEIEN \ n NICHT VORBEREITET! \ nAnweisungen im Steamforum
+wrksh_nowork=ÄNDERUNGSDATEIEN \ n NICHT VORBEREITET! \ nAnweisungen dazu im Steamforum.
 wrksh_modIDnew=STEAM MODID: NEU
 wrksh_modID=STEAM MODID:
 wrksh_loczname=MOD NAME
@@ -88,15 +88,15 @@ wrksh_loczdescr=KURZE BESCHREIBUNG
 wrksh_btnlocz=LOKALISIERUNG
 wrksh_btntextr=DATEIEN
 
-ptur_otCount=EINE ANGELRUTE
+ptur_otCount=NUR EINE ANGELRUTE
 ptur_otBoat=BOOT ERLAUBT
 
 ptur_ot_00=Beliebig
-ptur_ot_90=Stippe
-ptur_ot_100=Bolo oder Match
-ptur_ot_101=Grund
-ptur_ot_102=Spinn oder Casting
-ptur_ot_103=Fliegenfischen
+ptur_ot_90=Stipprute
+ptur_ot_100=Posenrute, Matchrute
+ptur_ot_101=Grundrute
+ptur_ot_102=Spinnrute, Castingrute
+ptur_ot_103=Fliegenrute
 
 ptur_otypec=RUTENART
 ptur_time=TURNIERDAUER (MINUTEN)
@@ -110,22 +110,22 @@ ptur_header=ERSTELLEN SIE EIN PRIVATES TURNIER
  
 pturntype_0=Anzahl
 pturntype_1=Gesamtgewicht
-pturntype_2=Drei Schwersten
-pturntype_3=Maximales Gewicht
+pturntype_2=Die drei Schwersten
+pturntype_3=Höchstes Gewicht
 pturntype_4=Differenz
 
 pturnfond_0=Der Gewinner bekommt alles
-pturnfond_1=Die ersten drei Teilnehmern gewinnen
-pturnfond_2=Die ersten zehn Teilnehmern gewinnen
+pturnfond_1=Die ersten drei Teilnehmer gewinnen
+pturnfond_2=Die ersten zehn Teilnehmer gewinnen
 ---------------------
-act_inf5=RODPOD
-act_inf5e=[E] Entfernen
+act_inf5=Rodpod
+act_inf5e=[E] Rodpod entfernen
 
 ---------------------
 craftwp_btn=Handwerkstisch
-dntpck_3_name=Paket "Bee Picker"
-dntpck_3_info=Das Kit enthält eine Leichte Picker (6kg Feeder Rig, + 50% Erfahrungsgewinn), eine Feederrolle und eine Schnur. Ein ungeöffnetes Set kann an einen Freund geschickt werden.
-wpn_ibsize_4=Gr. ultra (Haken Nr.3-5)
+dntpck_3_name=Kit "BeePicker"
+dntpck_3_info=Das Kit besteht aus leichter Picker-Rute (6kg, + 50% Erfahrung), Rolle und Schnur./nUngeöffnet kann das Kit verschickt werden.
+wpn_ibsize_4=Gr. ultra (Haken Nr. 3-5)
 ---------------------
 
 trof_give=TROPHÄEN GEFANGEN
@@ -136,18 +136,18 @@ trof_mtype_3=SILBER
 trof_mtype_4=GOLD
 
 trof_capt_1=TROPHÄEN AUS WETTBEWERBEN
-trof_capt_100=TURNIER TROPHÄEN
-trof_capt_200=TROPHÄEN AUS GEWÄSSERN
+trof_capt_100=TURNIERTROPHÄEN
+trof_capt_200=TROPHÄEN VON GEWÄSSERN
 trof_capt_300=TROPHÄEN VON FISCHARTEN
 
 stat_capt_luck=Glücksfisch
-stat_capt_love=Lieblingsfisch
-untrof_count=Trophäen {0} Stk
+stat_capt_love=Meistgefangener Fisch
+untrof_count=Trophäen: {0} Stk
 
 -------------------
 
-stat_finfo1=Insgesamt {0} Stk
-stat_finfo2=Größter {0}
+stat_finfo1=Insgesamt: {0} Stk
+stat_finfo2=Größter Fang: {0}
 
 unv_count={0} Stk
 stat_uinf_0=Online-Zeit: {0}
@@ -167,7 +167,7 @@ stat_capt_10=GRUNDRUTE
 stat_capt_11=FLIEGENRUTE
 
 stat_capt_big=Größter Fisch
-stat_capt_dat=* Die Zählung startet ab 15.07.20
+stat_capt_dat=* Die Zählung startete am 15.07.20
 
 gi_um_12=PROFIL
 -------------------
@@ -199,14 +199,14 @@ turn_uslp1=BOOT VERBOTEN
 turn_uslp2=Eine Angelrute (im 1.Slot)
 turn_uslp3=Rutenart: {0}
 
-turn_uslrt_0=IRGENDEINE
-turn_uslrt_90=STIPPRUTE
-turn_uslrt_100=MATCHRUTE
-turn_uslrt_101=GRUNDRUTE
-turn_uslrt_102=SPINNRUTE
-turn_uslrt_103=FLIEGENRUTE
-turn_uslrt_104=CASTINGRUTE
-turn_uslrt_105=ULTRALIGHTRUTE
+turn_uslrt_0=<color='#ebe498'>beliebig</color>
+turn_uslrt_90=<color='#ebe498'>Stipprute</color>
+turn_uslrt_100=<color='#ebe498'>Posenrute, Matchrute</color>
+turn_uslrt_101=<color='#ebe498'>Grundrute</color>
+turn_uslrt_102=<color='#ebe498'>Spinnrute</color>
+turn_uslrt_103=<color='#ebe498'>Fliegenrute</color>
+turn_uslrt_104=<color='#ebe498'>Castingrute</color>
+turn_uslrt_105=<color='#ebe498'>Ultralight-Rute</color>
 
 turn_uslpyes=JA
 turn_uslpno=NEIN
@@ -215,8 +215,8 @@ turn_uslp_deny=VERBOTEN
 
 -------------------
 
-club_err5=Club Gründer Abzeichen, das für die Bearbeitung benötigt wird
-club_editname=Bearbeiten
+club_err5=Ein Clubgründer-Abzeichen wird für die Bearbeitung benötigt.
+club_editname=Clubnamen bearbeiten
 
 -------------------
 
@@ -234,14 +234,14 @@ club_expadd=Club hat {0} Erfahrung gesammelt
 qd_clname=Club
 
 dntpck_130_name=Gründerpaket
-dntpck_130_info=Enthält das "Club Gründer Abzeichen", mit dem Sie Ihren eigenen Angelclub gründen können
+dntpck_130_info=Enthält das "Clubgründer-Abzeichen", mit dem Sie Ihren eigenen Angelclub gründen können.
 dntpck_130_act=+ 15 Tage VIP als Geschenk
 
 
 club_userout={0} hat das Spiel verlassen
 club_userin={0} hat das Spiel betreten
-key_openclub=Club Übersicht
-club_invmsg4=Spieler {0} hat die Einladung angenommen
+key_openclub=Club-Übersicht
+club_invmsg4=Spieler {0} hat die Einladung angenommen.
 club_invmsg3=Du bist dem Club beigetreten!
 club_invmsg2=Spieler {0} \ n lädt Sie ein, dem Club beizutreten\n {1}
 club_invmsg=Einladung in den Club erhalten {0}
@@ -254,26 +254,26 @@ club_out=Den Club wirklich verlassen \n{0}?
 club_btn1=Club verlassen
 club_inf1=Clubgründung
 club_inf2=Clubname (3-20 Zeichen)
-club_inf3=Club-Label (2-4 Zeichen)
+club_inf3=Clubkürzel (2-4 Zeichen)
 club_inf4=ERSTELLEN
-club_err1=Es sind nur Buchstaben, Zahlen und Leerzeichen zulässig
-club_err2=Der Clubname ist falsch
-club_err3=Club-Kürzel ist falsch
-club_err4=Name oder Label existieren bereits
+club_err1=Es sind nur Buchstaben, Zahlen und Leerzeichen zulässig.
+club_err2=Der Clubname ist fehlerhaft.
+club_err3=Das Clubkürzel ist fehlerhaft.
+club_err4=Name oder Kürzel existieren bereits.
 
 btn_qtaskvip=Andere Orte
-dntpck_2_name=Paket "SeaCast-Kit"
-dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52kg), eine Multirolle (50kg), Angelschnur (51kg) und 500 Silber. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_2_name=Kit "SeaCast"
+dntpck_2_info=Das Kit besteht aus schwerer Castingrute (52kg), Multirolle (50kg), Schnur (51kg) und 500 Silber./nUngeöffnet kann das Kit verschickt werden.
 
-dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
-dntpck_1_name=Paket "BeeCast-Kit"
-dntpck_1_info=Das Kit enthält eine leichte Castingrute (6kg +75% Erf.), eine LP-Rolle (5kg), Angelschnur (5,5kg) und 3 UL Ködern. Ungeöffnet kann es an einen Freund verschickt werden.
+dntpck_1_hint=* Der Preis für deine Region kann abweichen.
+dntpck_1_name=Kit "BeeCast"
+dntpck_1_info=Das Kit besteht aus leichter Castingrute (6kg +75% Erfahrung), LP-Rolle (5kg), Schnur (5,5kg) und 3 UL-Köder./nUngeöffnet kann das Kit verschickt werden.
 
 
-wptype_offset=Offset
+wptype_offset=Offsethaken
 wptype_jhead=Jigkopf
 
-ny_later=Heute gibt es keine Geschenke mehr. Komme morgen wieder
+ny_later=Heute gibt es keine Geschenke mehr. Bitte komm morgen wieder.
 ufstat_trof=Trophäe:
 
 chtset_alfa=Hintergrund-Transparenz
@@ -281,8 +281,8 @@ chtset_fsize=Schriftgröße
 chtset_chide=Chat ausblenden
 
 cht_bmsg7=Rekord: {0} {1}
-cht_bmsg8=<color='#ffa020'>Du hast den neuen {0}</color>
-cht_bmsg9=<color='#ffa020'>Spieler {0} hat den neuen {1}</color>
+cht_bmsg8=<color='#ffa020'>Du hältst den neuen {0}</color>
+cht_bmsg9=<color='#ffa020'>Spieler</color> <color='#f5e69f'>{0}</color><color='#ffa020'> erzielte einen neuen {1}</color>
 
 gi_um_11=Reisen
 rect_baserec=Rekorde Lokal
@@ -326,7 +326,7 @@ naviinfo2=Distanz
 
 boat_inf6=[U] Aufstehen
 
-set_grouplb=Montagenauslastung
+set_grouplb=Montageauslastung
 set_groupp1=Ein Balken für alles
 set_groupp2=Einzelne Balken für Schnur/Rute/Rolle
 
@@ -346,32 +346,32 @@ key_ot2=Rutenslot 2 (2)
 key_ot3=Rutenslot 3 (3)
 key_zoom=Zoom (Z)
 key_openrod=Angelsetup anschauen (V)
-key_sragula=Angel hinlegen (Y)
+key_sragula=Angel ablegen (Y)
 key_feeddrop=Futter auswerfen (O)
 key_redrop=Wurf wiederholen (T)
 key_openbait=Köder ändern (B)
 key_openmap=Karte öffnen (M)
 key_getfish=Fisch mitnehmen (Space)
 key_dropfish=Fisch freilassen (J)
-key_cursoronoff=Cursor ein / aus (ALT Links)
+key_cursoronoff=Cursor ein/aus (ALT Links)
 key_spdpanel=Geschwindigkeitsanzeige (R)
 key_osmart=Smartphone öffnen (Q)
 key_invntr=Inventar öffnen (I)
 key_ftank=Kescher öffnen (C)
 key_slight=Taschenlampe (P)
 key_rodpode=Rodpod aufstellen (Space)
-key_showui=Benutzeroberfläche aus/ein (F9)
+key_showui=Benutzeroberfläche ein/aus (F9)
 
 setbtn_0=Grafik
 setbtn_1=Sounds
 setbtn_2=Tastenbelegung
 setbtn_3=Spiel
 
-btn_makeoutinf=Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten zerlegen. Alle Gegenstände der zusammengebauten Ruten landen im Inventar.
+btn_makeoutinf=Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten demontieren. Alle Gegenstände der hierdurch zerlegten Ruten landen im Inventar.
 btn_makeout=OK - MACH ES 
 
-btn_ext1=zurück zum Hauptmenü
-btn_ext2=zurück zu Windows
+btn_ext1=Zum Hauptmenü
+btn_ext2=Spiel verlassen
 
 serv_err1=Fisch auf diesem Server nicht aktzeptiert! Ursache:
 
@@ -393,7 +393,7 @@ inf_limit=Server ist voll
 
 rd_inf=EARLY ACCESS
 info_help1=F1 für Hilfe
-help_info_keys=[+/-] Posentiefe ändern   [R] aktuelle Posentiefe\n[1-2-3] Angelslot wählen   [V] Rute konfigurieren\n[B] Köder wechseln   [X] Schnurclip   [M] Karte\n[Y] Rute abstellen   [Backspace] Rute einstecken\n[O] Lockstoff werfen   [E] Benutzen / Interaktion\n[T] Wiederauswurf / Schnur geben\n[Z] Zoom   [C] Kescher   [G] Club Menü   [I] Inventar\n[P] Taschenlampe   [Q] Smartphone\n[ENTER] Chat   [SPACE] RodPod aufstellen\n[F2,F3,F4,F5] Chats: Info, Ort, Gespräch, Club    [SHIFT] Rennen / Schnell einholen\n[W,A,S,D] Bewegen   [ALT] Mauszeiger an/aus\n[ESC] Einstellungen / Menü schliessen\n[J] Bootsmotor an/aus   [K] Anker werfen/heben\n[U] im Boot aufstehen   [CTRL + Maus ziehen] Stapel teilen
+help_info_keys=[+/-] Posentiefe ändern   [R] aktuelle Posentiefe\n[1-2-3] Angelslot wählen   [V] Rute konfigurieren\n[B] Köder wechseln   [X] Schnurclip   [M] Karte\n[Y] Rute abstellen   [Backspace] Rute einstecken\n[O] Lockstoff werfen   [E] Benutzen / Interaktion\n[T] Wiederauswurf / Bremse lösen\n[Z] Zoom   [C] Kescher   [G] Club-Menü   [I] Inventar\n[P] Taschenlampe   [Q] Smartphone\n[ENTER] Chat   [SPACE] RodPod aufstellen\n[F2,F3,F4,F5] Chats: Info, Lokal, Gespräch, Club    [SHIFT] Rennen/Schnell einholen\n[W,A,S,D] Bewegen   [ALT] Mauszeiger an/aus\n[ESC] Einstellungen/Menü schliessen\n[J] Bootsmotor an/aus   [K] Anker werfen/heben\n[U] Im Boot aufstehen   [CTRL + Maus ziehen] Stapel teilen
 
 
 act_infact=Drücke Е
@@ -403,11 +403,11 @@ act_inf3=Händler
 
 
 wpn_remf1=Reparatur {0}\n Kosten {1}?
-sh_pay_vpadd={0} Tage VIP wurden hinzufügt
-sh_pay_overlay=Steam Overlay aktivieren (Shift+Tab)!
+sh_pay_vpadd={0} Tage VIP-Status wurden hinzufügt.
+sh_pay_overlay=Steam-Overlay aktivieren (Shift+Tab)!
 
-sh_pay_vppers=PERSÖNLICHE VIP
-sh_pay_vpcard=VIP KARTEN (zum verschenken)
+sh_pay_vppers=Persönlicher VIP-Status
+sh_pay_vpcard=VIP-Karten zum Verschenken
 
 sh_pay_day_1=1 Tag
 sh_pay_day_3=3 Tage
@@ -416,10 +416,10 @@ sh_pay_day_15=15 Tage
 sh_pay_day_30=30 Tage
 
 
-fish_mwgt=Max Gewicht ~{0}
+fish_mwgt=Max. Gewicht ~{0}
 
 prov_prov_5=Strippen
-prov_prov_6=Mehrfach Strippen
+prov_prov_6=Mehrfach-Strippen
 prov_prov_7=Step-by-Step
 
 wpn_catfly=Spule: {0:0.0}m (wenn 1mm Schnur verwendet wird)
@@ -431,13 +431,13 @@ treel_type3=Multirolle
 
 
 boat_inf4=Motorboot
-boat_inf5=[E] ins Boot setzen
+boat_inf5=[E] Ins Boot setzen
 
 boat_inf3=Geschwindigkeit
 boat_inf2=[E] Boot verlassen
 boat_inf1=Motor An/Aus [J]\nAnker rauf/runter [K]\nGeschwindigkeit [W-S]\nLenkung [A-D]
 
-wpdropinfo=zuerst Angel demontieren
+wpdropinfo=Zuerst Angel demontieren
 
 wpn_hook_sz0=winzig
 wpn_hook_sz1=klein
@@ -465,12 +465,12 @@ setVol_motr=Motor-Lautstärke
 
 tf_wpr1=Traglast: {0}\nLänge:{1}m
 tf_wpr2=Bremskraft: {1}\nZugkraft:{0}
-tf_wpr3=Traglast: {1}\nDicke:{0}mm
+tf_wpr3=Traglast: {1}\nStärke:{0}mm
 tf_wpr4=Anzahl: {0}Stk\nGewicht:{1}
 tf_wpr5=Tiefe: {0}m
 
 stm_1=SPIEL STARTEN
-stm_2=Einstellung
+stm_2=Einstellungen
 stm_3=Spiel verlassen
 
 tdsad_cnt=Anzahl:
@@ -490,47 +490,47 @@ tdbtn_saleall=Alles verkaufen
 showmetr=Fischdistanz
 bs_nodonate=Ticket benötigt
 
-chatconnecthelp=<color='#80ff40'>Attention! This is a help channel for newcomers. Flood, unnecessary topics discussion and profanity are strictly prohibited and will be punished in accordance with the laws of Wasteland!</color>
+chatconnecthelp=<color='#80ff40'>Achtung! Dies ist ein Hilfe-Chatkanal für Neulinge. Spam, unpassende Diskussionen, Sexismus und Rassismus sind strengstens untersagt. Zuwiderhandlungen werden nach Ödlandrecht geahndet!</color>
 fshop_btn3=Verkaufe alles
 
 #Added 21.10.2018
 #------------------------------------
 invn_win1=Recycling
-invn_rec1=Recycling Ergebnis:
+invn_rec1=Recyclingergebnis:
 invn_rec2={0} x{1} Stk
 invn_rec3=Abbau
-invn_rec4=Fixing:{0}\nGrundhaltbarkeit verloren: {1}
+invn_rec4=Reparatur:{0}\nGrundhaltbarkeit verloren: {1}
 invn_rec5=Beim Aufrüsten
-invn_rec6=Upgrade Kosten:
+invn_rec6=Upgradekosten:
 invn_rec7=Aufrüstglück (+{0}):
 invn_rec8=Verbessern
-invn_rec9=Item Reparatur
+invn_rec9=Gegenstandsreparatur
 invn_rec10=Aktuelle Haltbarkeit: {0}/{1}
 invn_rec11Keine gewählten Reparaturkits
-invn_rec12=benutzen
+invn_rec12=Benutzen
 
-invn_rec13=Item wegwerfen
+invn_rec13=Gegenstand wegwerfen
 invn_rec14=Möchtest Du das wirklich wegwerfen \n{0}?
-invn_rec15=benutzen
-invn_rec16=Item zerlegen
-invn_rec17=Beim Zerlegen bekommst du:
-invn_rec18=und auch mit ein wenig Glück:
+invn_rec15=Benutzen
+invn_rec16=Gegenstand demontieren
+invn_rec17=Bei der Demontage erhältst Du:
+invn_rec18=und mit ein wenig Glück:
 invn_rec19={0} x{1}-{2} Stk
 invn_rec20=- nichts -
 invn_rec21=Demontieren
-invn_rec22=Mögliches Recycling-Ergebnis:
+invn_rec22=Mögliches Recyclingergebnis:
 invn_rec23={0} +{1} Stk\n{2}
-invn_rec24=Recycling-Kosten {0} WP/Stk\nFür alles: {1}/{2} WP
+invn_rec24=Recyclingkosten {0} WP/Stk\nFür alles: {1}/{2} WP
 invn_rec25=Verwerten
 invn_rec26=Lernen
 invn_rec27=Der Gegenstand benötigt eine Reparatur!
 invn_rec28=Beim Reparieren wird der Gegenstand schlechter!
 invn_rec29=Repariere
 invn_rec30=Aktionen
-invn_rec31=Item aufteilen
+invn_rec31=Gegenstand aufteilen
 invn_rec32=Anzahl:
-invn_rec33=aufteilen
-invn_rec34=Gebietskarte
+invn_rec33=Aufteilen
+invn_rec34=Gewässerkarte
 
 chat_n1=Beliebte Kanäle
 chat_n2=Neuer Chatkanal
@@ -566,9 +566,9 @@ fwgt_uniq_w=Trophäe:
 
 #Added 28.09.2018
 #------------------------------------
-trn_start=Das Turnier `{0}` hat begonnen
-trn_end=Das Turnier `{0}` ist vorbei
-trn_reg=Vorbereitung auf das Turnier `{0}`
+trn_start=Das Turnier '{0}' hat begonnen.
+trn_end=Das Turnier '{0}' ist vorbei.
+trn_reg=Vorbereitung auf das Turnier '{0}'
 
 anfish=Fange Fische
 prisefond=Preise:
@@ -579,8 +579,8 @@ pf4_10m=4-10. Platz: {0}
 
 #Added 28.02.2018
 #------------------------------------
-turn_base1=Vor Ort: {0}
-turn_levels=für Level\n{0}-{1}
+turn_base1=Austragungsort: {0}
+turn_levels=Für Level\n{0}-{1}
 turn_tminfo=Dauer: {0} min
 turn_state0=Wartezeit\nnoch {0}
 turn_state1=Startet\nin {0}
@@ -628,12 +628,12 @@ rod_inf2=Optimal für Fische ab {0}kg
 
 #Added 15.02.2018
 #------------------------------------
-wpn_bait_sz=Größe:
+wpn_bait_sz=Größe: 
 wpn_bait_sz0=winzig
 wpn_bait_sz1=klein
 wpn_bait_sz2=mittel
 wpn_bait_sz3=groß
-wpn_bait_sz4=rießig
+wpn_bait_sz4=riesig
 
 wpn_bait_typ_4=Blinker
 wpn_bait_typ_5=Spinner
@@ -641,14 +641,14 @@ wpn_bait_typ_6=Gummifisch
 wpn_bait_typ_7=Wobbler
 
 wpn_bait_vob_0=Topwater
-wpn_bait_vob_1=Über Wasser
+wpn_bait_vob_1=Unter Wasser,
 wpn_bait_vob_2=Absinken
 wpn_bait_vob_deep=Tiefe: {0}m
 
-wpn_bait_inf_4=Blinker eignen sich sowohl für die gleichmäßige Führung als auch für die schrittweise Führung
-wpn_bait_inf_5=Spinner funktioniert am besten, während der langsamen einheitlichen Führung
-wpn_bait_inf_6=Gummifische erfordern das Führen von Jigs oder das schrittweise Führen. Fleischfresser greifen meistens in dem Moment an, in dem der Köder den Boden berührt
-wpn_bait_inf_7=Wobbler geben ihr Bestes beim langsamen Führen, aber die beste Option ist das Zucken
+wpn_bait_inf_4=Blinker eignen sich sowohl für die gleichmäßige Führung, als auch für die schrittweise Führung.
+wpn_bait_inf_5=Spinner funktioniert am besten während der langsamen einheitlichen Führung.
+wpn_bait_inf_6=Gummifische erfordern das Führen von Jigs oder das schrittweise Führen. Fleischfresser greifen meistens in dem Moment an, in dem der Köder den Boden berührt.
+wpn_bait_inf_7=Wobbler sind stark beim langsamen Führen, aber die beste Option ist das Zucken.
 
 prov_sob_1=Kontakt mit der Oberfläche
 prov_sob_2=Grundberührung
@@ -657,18 +657,18 @@ prov_sob_4=Strömung folgend
 
 prov_prov_0=Gewöhnliche Führung
 prov_prov_1=Einfache Führung
-prov_prov_2=Step-by-Step Führung
-prov_prov_3=Jig Führung
-prov_prov_4=Twitch Führung
+prov_prov_2=Step-by-Step-Führung
+prov_prov_3=Jig-Führung
+prov_prov_4=Twitch-Führung
 
 
-wpn_cat5=Spule: {0:0.0}m (bei Nutzung von 0,2mm)
+wpn_cat5=Spulenkapazität: {0:0.0}m (bei Nutzung von 0,2mm)
 cnt_dstall={0:0.0}m / {1:0.0}m
 
 
 #Added 03.02.2018
 #------------------------------------
-echo_spec0=Relief: Platte
+echo_spec0=Relief: Ebene
 echo_spec1=Relief: Kante
 echo_spec2=Relief: Felsvorsprung
 echo_spec3=Relief: Vertiefung
@@ -677,7 +677,7 @@ echo_spec4=Relief: Ebenerdig
 echo_spec10=Bottom: Schlamm
 echo_spec11=Bottom: Sand
 echo_spec12=Bottom: Stein
-echo_spec13=Bottom: Muscheln
+echo_spec13=Bottom: Muschelschalen
 
 echo_spec20=Flora: Nichts
 echo_spec21=Flora: Gras
@@ -705,7 +705,7 @@ wpn_fid1=Futtermenge in Gramm: {0}
 wpn_fid2=Haltbarkeit des Futters in Echtminuten: {0}
 wpn_fid3=Futterkorbtarnung: {0}%
 
-wpn_line3=Dicke (mm): {0}
+wpn_line3=Stärke (mm): {0}
 wpn_hook3=Selbsthakwahrscheinlichkeit: {0}%
 wpn_wgt=Gewicht: {0}
 
@@ -714,22 +714,22 @@ wpn_wgt=Gewicht: {0}
 #------------------------------------
 reel_type=Rollentyp: {0}
 reel_type0=Ausgeglichen
-reel_type1=höhere Geschwindigkeit
-reel_type2=höhere Zugkraft
-rait_1=The richest
-rait_2=Leaders by catching\nin amount
-rait_3=Leaders by catching\nin weight
-rait_4=Honorable\ntrophies catchers
-rait_5=Honorable\nmaecenas
+reel_type1=Höhere Geschwindigkeit
+reel_type2=Höhere Zugkraft
+rait_1=Die Reichsten
+rait_2=Führend bei Fängen\nnach Anzahl
+rait_3=Führend bei Fängen\nnach Gewicht
+rait_4=Ehrenhafte\nTrophäenjäger
+rait_5=Ehrwürdige\nMäzene
 rait_btn1=Einkommen
 rait_btn2=Fang
 rait_btn3=Nach Gewicht
 rait_btn4=Trophäe
-rait_btn5=Maecenas
+rait_btn5=Mäzene
 
 
 specNY2018=+NORD TWS-III ICE
-happyny=HAPPY\nNEW YEAR!
+happyny=FROHES\nNEUES JAHR!
 
 prk_max=MAXIMUM
 usr_inf_a1=Level: {0}\nDerzeit in: {1}
@@ -783,20 +783,20 @@ fishdrop_3=<color='#ff8000'>Zu großer Fisch</color>
 
 #Added 06.06.2017
 sw_txt1=Freier Rollenklang
-sw_txt2=Klang Lautstärke
-sw_txt3=Klang Tonalität
-sw_txt4=Posen Signalklang
+sw_txt2=Klang-Lautstärke
+sw_txt3=Klang-Tonalität
+sw_txt4=Posensignal-Klang
  
  
 #Added 03.06.2017
 #------------------------------------
-wpn_iwgt=Köder Gewicht: {0}
-wpn_ibsize_0=Gr. klein (Haken Nr.0-1)
-wpn_ibsize_1=Gr. mittel (Haken Nr.0-2)
-wpn_ibsize_2=Gr. groß (Haken Nr.1-3)
-wpn_ibsize_3=Gr. riesig (Haken Nr.2-4)
+wpn_iwgt=Ködergewicht: {0}
+wpn_ibsize_0=Gr. klein (Haken Nr. 0-1)
+wpn_ibsize_1=Gr. mittel (Haken Nr. 0-2)
+wpn_ibsize_2=Gr. groß (Haken Nr. 1-3)
+wpn_ibsize_3=Gr. riesig (Haken Nr. 2-4)
  
-wpn_hookf=Für den Fisch von {0} bis {1}
+wpn_hookf=Für Fische von {0} bis {1}.
 
 
 #Added 28.04.2017
@@ -825,10 +825,10 @@ delcharmsg2=Spieler wirklich entfernen? \n{0}?
 delcharmsg1=Spieler entfernen
 rewgt_msg=Inventar voll - Überprüfen Sie Ihren Mülleimer!
 fishdrop_1=<color='#ff8000'>Der Fisch ist entkommen!</color>
-fishdrop_2=<color='#ff8000'>Der Fisch hat die Schnur leer gezogen</color>
+fishdrop_2=<color='#ff8000'>Der Fisch hat die Schnur leer gezogen!</color>
 ust_msg=Tiredness!
 inv_bonus=<color='#002040'>Effekte beim Tragen:</color>
-exitmsg_1=Bist Du sicher, das Du das Spiel verlassen willst?
+exitmsg_1=Möchtest Du das Spiel wirklich verlassen?
 exitmsg_2=Zurück zur Charakterauswahl?
 exitmsg_3=Beenden
 
@@ -874,49 +874,49 @@ post_21=<color='#000000'>Letter send cost:</color>
 post_22=Money
 post_23=Attachment sum in the letter:
 
-post_msg1=Geschenk erfolgreich zugestellt
+post_msg1=Geschenk erfolgreich zugestellt.
 post_msg2=Empfänger nicht gefunden!
 post_msg3=Nicht genug Geld!
 post_msg4=Interner Sendefehler!
 post_msg5=Gegenstand nicht gefunden!
 post_msg6=Sie können kein Geschenk an sich selbst senden!
-post_msg7=The letter contains attachments!\nTo delete the letter take all the attachments first
+post_msg7=Die Nachricht enthält Anhänge!\nUm Nachricht zu löschen, alle Anhänge entnehmen.
 
 #------------------------------------
 #Added 07.04.2017
 #------------------------------------
-cht_msg1= {0}+{1}= {2} vom Fischverkauf erhalten
-cht_msg2= {0} vom Fischverkauf erhalten
-cht_msg3=VIP wurde aktiviert
+cht_msg1= {0}+{1}= {2} vom Fischverkauf erhalten.
+cht_msg2= {0} vom Fischverkauf erhalten.
+cht_msg3=VIP-Status wurde aktiviert.
 cht_msg4=Nicht genug Geld
-cht_msg5=Auction: {0} х{1} Stück verkauft
-cht_msg6=<color='#ff0000'>Server Neustart in {0}</color>
+cht_msg5=Auktion: {0} х{1} Stück verkauft
+cht_msg6=<color='#ff0000'>Servernachricht: Neustart in {0}</color>
 cht_msg7=Rekord: {0} {1}
-cht_msg8=<color='#ffa020'>Du hast den neuen {0}</color>
-cht_msg9=<color='#ffa020'>Spieler {0} hat den neuen {1}</color>
+cht_msg8=<color='#ffa020'>Du hältst den neuen {0}</color>
+cht_msg9=<color='#ffa020'>Spieler</color> <color='#f5e69f'>{0}</color><color='#ffa020'> erzielte einen neuen {1}</color>
 
-cht_msg10=Der Gegenstand `{0}` ist abgenutzt
-cht_msg11=Auseinandernehmen abgeschlossen
-cht_msg12=<color='#80ff00'>Rezept erlernt für {0} </color>
-cht_msg13=Sie haben Post
+cht_msg10=Der Gegenstand '{0}' ist abgenutzt.
+cht_msg11=Demontage abgeschlossen.
+cht_msg12=<color='#80ff00'>Rezept für {0} erlernt.</color>
+cht_msg13=Sie haben Post!
 
-cht_msg14=Es gibt keinen solchen Artikel
-cht_msg15=Zu wenig WP für die Verarbeitung
-cht_msg16=Dieser Artikel kann nicht recycelt werden
+cht_msg14=Es gibt keinen solchen Gegenstand.
+cht_msg15=Zu wenig WP für die Verarbeitung.
+cht_msg16=Dieser Gegenstand kann nicht recycelt werden.
 
-cht_msg17=Neue Fraktion ist eröffnet '{0}'
+cht_msg17=Neue Fraktion wurde eröffnet '{0}'
 cht_msg18=Neues Reputationslevel '{0}': {1}
-cht_msg19=Reputationssteigerung: '{0}' on {1}
-cht_msg20=Der Artikel wurde zur Auktion freigegeben
-cht_msg21=Nicht genug Geld für die Auktionsgebühr
-cht_msg22=Sie haben keinen solchen Artikel
-cht_msg23=<color='#6080ff'> für Aufgabe angenommen</color>
+cht_msg19=Reputationssteigerung: '{0}' auf {1}
+cht_msg20=Der Gegenstand wurde zur Auktion freigegeben.
+cht_msg21=Nicht genug Geld für die Auktionsgebühr.
+cht_msg22=Sie haben keinen solchen Gegenstände.
+cht_msg23=<color='#6080ff'> für Aufgabe angenommen.</color>
 
-cht_msg24=Diese Aufgabe ist nicht verfügbar
-cht_msg25=Ein höheres Reputationslevel wird benötigt
-cht_msg26=Sie können diese Aufgabe nicht annehmen
-cht_msg27=Sie haben bereits eine Aufgabe dieses Typs angenommen
-cht_msg28=Sie können die Aufgabe nicht öfter als einmal pro 40 Minuten annehmen
+cht_msg24=Diese Aufgabe ist nicht verfügbar.
+cht_msg25=Ein höheres Reputationslevel wird benötigt.
+cht_msg26=Sie können diese Aufgabe nicht annehmen.
+cht_msg27=Sie haben bereits eine Aufgabe dieses Typs angenommen.
+cht_msg28=Sie können die Aufgabe nicht öfter als einmal pro 40 Minuten annehmen.
 cht_msg29={0} die Rute zerbrochen '{1}'
 cht_msg30={0} die Schnur zerrissen '{1}'
 cht_msg31=Nicht genügend Geld!
@@ -926,29 +926,29 @@ cht_msg34=Gekauft: {0} {1} {2}x{3} Stk.
 cht_msg35=Die Fertigkeit wurde nicht erlernt!
 cht_msg36=Die Fertigkeit hat das maximale Level erreicht.
 cht_msg37=Niedriges Niveau der Grundfertigkeit
-cht_msg38=Fertigkeiterlernt '{0}' {1} level
-cht_msg39=Fertigkeit erhalten '{0}'
+cht_msg38=Fertigkeit erlernt: '{0}' Level {1}
+cht_msg39=Fertigkeit erhalten: '{0}'
 cht_msg40=Das Rezept wurde gespeichert.
 
 
 chan_head=Kanäle
 chan_nam=Kanal
 
-gameban=Der Account wurde gesperrt!\nBis: {0} (Server Zeit)\nWegen: {1}
+gameban=Der Account wurde gesperrt!\nSperre bis: {0} (Server Zeit)\nGrund: {1}
 gameexist=Ein Spieler mit den gleichen Namen ist bereits im Spiel!
 
-wpn_drop=<color='#ff8000'>Item </color>{0}<color='#ff8000'> verloren!</color>
+wpn_drop=<color='#ff8000'>Gegenstand </color>{0}<color='#ff8000'> verloren!</color>
 myrec=<color='#a040ff'>Persönlicher Rekordfang: {0} (Erfahrung x3)</color>
 settitul=Neuen Titel vergeben:
 newtitul=Einen neuen Titel erhalten:
 
 chnam1=Namensprüfung
-chnam2=Der Name des Charakters kann verwendet werden
+chnam2=Der Name des Charakters kann verwendet werden.
 chnam3=Namensprüfungsfehler
-chnam4=Dieser Charaktername wird bereits verwendet,\n oder widerspricht den Regeln!\nZulässige sind russische oder englische Buchstaben und Zahlen, der Name sollte nicht kürzer \nals 3 Zeichen sein und nicht länger als 16 Zeichen
+chnam4=Dieser Charaktername wird bereits verwendet,\n oder widerspricht den Regeln!\nZulässig sind russische oder englische Buchstaben und Zahlen, der Name sollte nicht kürzer \nals 3 Zeichen sein und nicht länger als 16 Zeichen.
 
-cht_ach1=Eine Urkunde wird eröffnet
-cht_ach2=Weitere Informationen finden Sie im Abschnitt Informationen zu Urkunden
+cht_ach1=Eine Urkunde wird eröffnet.
+cht_ach2=Weitere Informationen finden Sie im Abschnitt Informationen zu Urkunden.
 cht_ach3=Die Urkunde wurde geschlossen:
 
 cht_exp1=+ <color='#ff80ff'>{0}</color> Erfahrung
@@ -958,14 +958,14 @@ cht_exp1=+ <color='#ff80ff'>{0}</color> Erfahrung
 
 fshop_header=Fischhändler
 fshop_hd1=Fischpreise
-fshop_hd2=Catch selling
+fshop_hd2=Fang verkaufen
 fshop_hd3=Du hast keine Fische zum Verkaufen!
 fshop_hd4=Feilschen
 fshop_msg1=Verkauft {0} {1} Stk Gewicht {2}
-fshop_msg2=<color='#000000'>{0} Stk. Gesamtgewicht {1}</color>\n<color='#000000'>aktueller Preis für 1 kg ist {2}</color>\n\n<color='#002000'>Gesamter Verkaufswert dieser Fischsorte ist</color>\n
+fshop_msg2=<color='#000000'>{0} Stk. Gesamtgewicht {1}</color>\n<color='#000000'>aktueller Preis für 1 kg ist {2}</color>\n\n<color='#002000'>Gesamter Verkaufswert dieser Fischart ist</color>\n
 
 fshop_btn1=Preise herausfinden
-fshop_btn2=Diese Fischsorte verkaufen
+fshop_btn2=Diese Fischart verkaufen
 
 fshop_ks1=Nach Fang
 fshop_ks2=Nach Name
@@ -976,7 +976,7 @@ fshop_fcost2={0} {1} Stk\nverkaufen für {2}
 
 shop_bccount= (have x{0})
 shop_bccost=<color='{0}'>Kosten x{1}: </color>{2}
-shop_ycnt=Du hast {0} Stk
+shop_ycnt=Du hast {0} Stk.
 shop_wl=Verkaufe {0} sek
 shop_header=Ausrüstungsgeschäft
 
@@ -990,7 +990,7 @@ shop_t7=Grundruten
 shop_t8=Rollen
 shop_t9=Schnur
 shop_t10=Haken/Jigköpfe
-shop_t11=VF/Posen/Blei
+shop_t11=VF/Posen/Bleie
 shop_t12=Zubehör
 shop_t13=Signale
 shop_t14=Nahrung/Medizin
@@ -1048,7 +1048,7 @@ wpn_med1=Life recovery: <color='#102000'>{0}</color>\n
 wpn_med2=Life damage: <color='#201000'>{0}</color>\n
 
 wpn_tank1=Maximales Gewicht: {0}
-wpn_tank2=Maximale Anzahl: {0}Stk
+wpn_tank2=Maximale Anzahl: {0} Stk
 
 wpn_bait1=Attraktivität: {0}%
 wpn_popl1=+Bisssignalalarm
@@ -1076,8 +1076,8 @@ pt_setok=Security Pin-code has been set up
 #------------------------------------
 qd_day=TAGESAUFGABEN
 qd_week=TURNIERE
-usrto_ignor=Spieler {0} wurde zu Deiner Ignorierenliste hinzugefügt
-usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierenliste entfernt
+usrto_ignor=Spieler {0} wurde zu Deiner Ignorierliste hinzugefügt.
+usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierliste entfernt.
 
 specvalentine=+3 package card
 
@@ -1133,7 +1133,7 @@ btn_cancel=Abbrechen
 #Added 27.12.2016
 #------------------------------------
 get_lut=<color='#80ff00'>Gefangen: {0}</color>"
-nick_info=Character’s name has to be from 5 to 12 symbols with no spaces and special symbols. Allowed either only Russians or only English letters in character’s name.
+nick_info=Charakternamen müssen zwischen 5 und 12 Zeichen lang sein. Es sind keine Leerstellen oder Sonderbuchstaben erlaubt. Nur russische oder englische Schrift im Charakternamen möglich.
 
 
 
@@ -1204,9 +1204,9 @@ gi_um_nosel=PERK NOT CHOSEN
 
 
 //садки
-gi_sadokfull=<color='#801000'>Setzkescher ist voll! Menge: {0} Stk Total Gewicht: {1}</color>
+gi_sadokfull=<color='#801000'>Setzkescher ist voll! Menge: {0} Stk gesamt. Gewicht: {1}</color>
 gi_sadoknone=<color='#801000'>Kein Setzkescher!</color>
-gi_sadok=<color='#000000'>In: {0} / {1} Stk   Total Gewicht: {2} / {3}</color>
+gi_sadok=<color='#000000'>In: {0} / {1} Stk gesamt. Gewicht: {2} / {3}</color>
 gi_nlheader1=<color='#000040'>Neue Stufe erreicht {0}</color>
 gi_nlheader2="Neue Stufe: {0}"
 
@@ -1233,14 +1233,14 @@ gi_letgoshe=Freigelassen {0}
 gi_cachhe=Gefangen {0}
 gi_cachshe=Gefangen {0}
 
-cht_delfrendmsg=Player deleted from friends
+cht_delfrendmsg=Spieler von Freundesliste entfernt.
 
 #Added 19.12.2016
 #------------------------------------
 crft_useres=Resources used: {0}/{1}
 crft_wpnpr=<color='#000030'>Source item</color>
 crft_qlt=<color='#003000'> Quality increasing, chance: {0}%</color>"
-frnd_ingame=Your friend {0} came into game
+frnd_ingame=Dein Freund {0} hat das Spiel betreten.
 
 
 #Added 18.12.2016
@@ -1248,8 +1248,8 @@ frnd_ingame=Your friend {0} came into game
 stng_no_dress=Don’t show suits (experimental)
 stng_frmrate=Frame frequency
 stng_frm0=Maximum FPS
-stng_frm1=Set limitation to 60 FPS
-stng_frm2=Set limitation to 30 FPS
+stng_frm1=Limit auf 60 FPS
+stng_frm2=Limit auf 30 FPS
 
 stng_reflect=Reflektionen im Wasser
 stng_rflct0=Einfaches Wasser
@@ -1264,8 +1264,8 @@ cht_ignore=IGNORIEREN
 cht_copy=KOPIEREN
 cht_tofrend=FREUND HINZUFÜGEN
 cht_tofrendno=FREUND LÖSCHEN
-cht_tofrendmsg=Freund wurde hinzugefügt
-cht_ae=Freund wurde bereits hinzugefügt
+cht_tofrendmsg=Freund wurde hinzugefügt.
+cht_ae=Freund wurde bereits hinzugefügt.
 cht_maxcnt=Nicht mehr als {0} Freunde!
 
 
@@ -1282,13 +1282,13 @@ chat_open=CHAT
 
 #------------------------------------
 specoff=SONDERANGEBOTE
-specwobprise=+Spezial Wobbler VOB-I-ICE\nals Geschenk
+specwobprise=+Spezial-Wobbler VOB-I-ICE\nals Geschenk!
 
 #Added 05.12.2016
 #------------------------------------
 bs_cost=Kosten: {0}
 bs_lev=Für Stufe: {0}-{1}
-bs_lowlv=Stufe zu niedrig!
+bs_lowlv=Deine Stufe ist zu niedrig!
 bs_hilv=Deine Stufe ist zu hoch!
 
 
@@ -1297,8 +1297,8 @@ bs_noprip=Nicht genug Material!
 
 
 wpn_izn=\nDurability:
-wpn_onlym=<color='#{0}'>Male</color>
-wpn_onlyw=<color='#{0}'>Female</color>
+wpn_onlym=<color='#{0}'>Männlich</color>
+wpn_onlyw=<color='#{0}'>Weiblich</color>
 
 wpn_rod1=Traglast: {0}\n
 wpn_rod2=Länge: {0}m\n 
@@ -1307,31 +1307,31 @@ wpn_rod4=Wurfgewicht: {0}g
 
 wpn_lv=lvl.
 wpn_lvf=Level
-wpn_cmp=Component
+wpn_cmp=Komponente
 
 
 
 #Added 04.12.2016
 #------------------------------------
-silence=<color='#ff0000'>Moderator mute you. Left {0} min.</color>
+silence=<color='#ff0000'>Ein Moderator hat dich stumm geschaltet. {0} min verbleiben.</color>
 crft_none=NOTHING
-crft_krit=<color='#ffdd40'>glückliches Händchen: {0}</color>
+crft_krit=<color='#ffdd40'>Glückliches Händchen: {0}</color>
 crft_konstr=Konstruktion
 crft_sbor=Zusammenbau
 crft_ingr=Zutaten:
-crft_cnt=Benötigt {0} Stk im Vorrat {1}
+crft_cnt=Benötigt {0} Stk im Vorrat {1}.
 crft_from=von
 crft_to=bis
 crft_treb=Anforderungen:
 crft_norec=Keine Rezepte
 crft_norec2=KEINE REZEPTE
 crft_unl=Unbegrenzt
-crft_recnt=Rezept Anzahl:
+crft_recnt=Rezeptanzahl:
 crft_cost=Arbeitspreis:
 crft_costwp=Arbeitspunkte (WP):
-crft_cnt2={0}/nbenötigt {1} Stk
+crft_cnt2={0}/nbenötigt {1} Stk.
 crft_use=Im Gebrauch: {0}+{1}={2}
-crft_selwpn=Nehme Gegenstand
+crft_selwpn=Nimm Gegenstand
 crft_crft=Erstellung
 crft_btn1=Erstellen
 crft_btn2=Alles filetieren
@@ -1411,32 +1411,32 @@ newrega=CONGRATULATIONS!/nYou have successfully signed up for the game!/n/nCreat
 
 #Added 20.11.2016
 #------------------------------------
-hellost=Hallo, {0}
+hellost=Hallo, {0}!
 autherror=Fehler beim Login
 oldvermsg=Alte Clientversion/nAktuelle Version:
-steamider=Deine SteamID ist nicht korrekt
+steamider=Deine SteamID ist nicht korrekt.
 steamno=Steam ist nicht gestartet!
 noemail=Email noch nicht bestätigt!
-steamconnect=Steam verknüpfen.
-steampaninfo=Steam zu verknüpfen gibt die diese Vorteile.
+steamconnect=Steam verknüpfen
+steampaninfo=Steam zu verknüpfen, gibt dir diese Vorteile.
 
-staccok=Glückwunsch. Du hast Deinen Account mit Steam verknüpft. Nun kannst Du Auszeichnungen sammeln, Zahlungen vornehmen und andere Steam Funktionen nutzen.
+staccok=Glückwunsch! Du hast Deinen Account mit Steam verknüpft. Nun kannst Du Auszeichnungen sammeln, Zahlungen vornehmen und andere Steamfunktionen nutzen.
 staccerr=Error! This Steam account already linked to other account. 
 stacheaderprocess=Binds...
 stacheadererror=<color='#ff2000'>Error binding!</color>
 stacheaderok=Beendet!
 
 togamebtn= SPIEL STARTEN
-selpers=Character auswählen
-delpers=Character löschen
-newpers=Character anlegen
+selpers=Charakter auswählen
+delpers=Charakter löschen
+newpers=Charakter anlegen
 buykey=Kaufen
 realshop=VIP-Shop
 stshoplabel=Kaufen mit STEAM 
 stshoprubl=Für Rubel kaufen
 stshopsel=Auswahl
 
-viptxt=Der Verkauf von Fischen bringt zusätzlich 25% mehr Geld./nAufgaben können 50% schneller angenommen werden/nErfahrung von Fischen um 50% erhöht/nErfahrung für vollständige Aufgabe + 25%/nVerbesserte Map mit Koordinaten
+viptxt=+ 25% Geld beim Fischverkauf/n+ 50% Erfahrung von Fischen/n+ 50% schnellere Aufgabenannahme/n+ 25% Erfahrung bei Aufgaben/n+ Verbesserte Karte mit Koordinaten
 vipbuycost=Kaufe 350 <color='#40a0ff'>®</color> für 30 Tage
 vipbuykey=VIP Kaufen
 
@@ -1457,18 +1457,18 @@ cntx_close=Schließen
 #------------------------------------
 close=Schließen
 pass=Passwort
-mempass=Meine Daten merken.
-reg=Erstelle Konto.
+mempass=Meine Daten merken
+reg=Erstelle Konto
 serv_off1=Autsch! Der Server antwortet nicht!
-serv_off2=Überprüfen Sie Ihre Verbindung zum Internet oder Serverstatus auf der Spieleseite
+serv_off2=Überprüfen Sie Ihre Verbindung zum Internet oder den Serverstatus auf der Spieleseite.
 
-settings=Einstellung
+settings=Einstellungen
 set_view=Realistische Sichtweite
-set_stui=Standart UI position
-set_volamb=Umgebung Lautstärke
-set_volmus=Musik Lautstärke
+set_stui=Standard-UI-Position
+set_volamb=Umgebungslautstärke
+set_volmus=Musiklautstärke
 set_dist=Sichtweite
-set_graf=Grafik Einstellung
+set_graf=Grafikeinstellung
 
 
 #-----
@@ -1517,7 +1517,7 @@ qname_6=gold
 active_obj_1=Post
 active_obj_2=Werkbank
 active_obj_3=Filetiertisch
-active_obj_4=Einfaches Craften
+active_obj_4=Einfaches Herstellen
 active_obj_5=Tisch mit Werkzeugen
 active_obj_6=Kühlschrank
 active_obj_7=Werkbank
@@ -1539,13 +1539,13 @@ bag1_name=Angelruten
 bag1_info=Posenrute
 
 bag2_name=Ausrüstung
-bag2_info=Sehnen, Rollen, Posen, Haken
+bag2_info=Schnur, Rollen, Posen, Haken
 
 bag3_name=Ausrüstung
 bag3_info=Ausrüstung
 
-bag4_name=Medizin
-bag4_info=Medizin, Nahrung, Getränke
+bag4_name=Regeneration
+bag4_info=Medizin und Nahrung
 
 bag5_name=Herstellung
 bag5_info=Zutaten, Komponenten und Rezepte
@@ -1563,10 +1563,10 @@ bag9_name=Sammlung
 bag9_info=Gesammelte Gegenstände
 
 bag10_name=Sonstiges
-bag10_info=Verschiedene Artikel nicht in der Kategorie enthalten
+bag10_info=Verschiedene Gegenstände ohne Kategorie enthalten
 
 bag11_name=Spinnköder
-bag11_info=Spinnköder Zubehör
+bag11_info=Spinnköder-Zubehör
 
 bag12_name=Lockstoffe
 bag12_info=Futtermischungen

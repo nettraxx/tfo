@@ -4,7 +4,7 @@
     <type id="1" name="Posenrute">
       <main_cmt>---</main_cmt>
       <par1>Traglast "kg"</par1>
-      <par2>Rute länge "m" (entscheident für Wurfweite)</par2>
+      <par2>Rutenlänge "m" (entscheidend für Wurfweite)</par2>
       <par3>Maximale Tiefe "sm"</par3>
     </type>
     <type id="2" name="Grundrute">
@@ -19,7 +19,7 @@
     </type>
     <type id="4" name="Rolle">
       <par1>Zugkraft</par1>
-      <par2>compensation</par2>
+      <par2>Kompensation</par2>
       <par3>Bremskraft</par3>
     </type>
     <type id="5" name="Schnur">
@@ -137,7 +137,7 @@
       <par2>parametr2 - how much rad-resistance recovers</par2>
       <par3>parametr3 - how much stamina recovers</par3>
     </type>
-    <type id="24" name="Resources">
+    <type id="24" name="Ressource">
       <par1>-no-</par1>
       <par2>-no-</par2>
       <par3>-no-</par3>
@@ -308,7 +308,7 @@
     </weapon>
     <weapon id="1005">
       <name>STK Hk-0</name>
-      <info>von 0g -700g
+      <info>von 0g bis 700g
       </info>
     </weapon>
     <weapon id="1006">
@@ -331,7 +331,7 @@
     </weapon>
     <weapon id="1010">
       <name>Wurm</name>
-      <info>Fängig für: Aland, Bachforelle, Bachschmerle, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Blutegel, Brachse, Europäischer Flusskrebs, Europäischer Wels, Felsenbarsch, Flussbarsch, Flusskrebs, Frosch, Giebel, Goldforelle, Großkopfmeeräsche, Gründling, Güster, Hasel, Karausche, Kaspischer Hering, Kaulbarsch, Maräne, Meerzander, Quappe, Rapfen, Regenbogenforelle, Regenbogenforelle, Schläfergrundel, Schleie, Schuppenkarpfen, See Elritze, Taran, Tiberbarbe, Wobla, Zander, Zobel, Zope
+      <info>Fängig für: Aland, Bachforelle, Bachschmerle, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Blutegel, Brachse, Europäischer Flusskrebs, Europäischer Wels, Felsenbarsch, Flussbarsch, Flusskrebs, Frosch, Giebel, Goldforelle, Großkopfmeeräsche, Gründling, Güster, Hasel, Karausche, Kaspischer Hering, Kaulbarsch, Maräne, Meerzander, Quappe, Rapfen, Regenbogenforelle, Regenbogenforelle, Schläfergrundel, Schleie, Schuppenkarpfen, See-Elritze, Taran, Tiberbarbe, Wobla, Zander, Zobel, Zope
 	  </info>
     </weapon>
     <weapon id="1011">
@@ -360,7 +360,7 @@
     </weapon>
     <weapon id="1016">
       <name>Silikonwurm</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr-Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1017">
@@ -370,12 +370,12 @@
     </weapon>
     <weapon id="1018">
       <name>Blutwurm</name>
-      <info>Fängig für: Aland, Bachschmerle, Baltischer Lachs, Döbel, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Forellenbarsch, Frosch, Gelbflossenflunder, Giebel, Grundel, Gründling, Güster, Hasel, Karausche, Kaspischer Kutum, Kaulbarsch, Laube, Maräne, Nase, Perkarina, Rotauge, Rotfeder, Schlammpeitzger, Schleie, Schrimp, Schwarzbarsch, See Elritze, Sprotte, Sternflunder, Taran, Weißbauchflunder, Wobla, Zobel, Zope
+      <info>Fängig für: Aland, Bachschmerle, Baltischer Lachs, Döbel, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Forellenbarsch, Frosch, Gelbflossenflunder, Giebel, Grundel, Gründling, Güster, Hasel, Karausche, Kaspischer Kutum, Kaulbarsch, Laube, Maräne, Nase, Perkarina, Rotauge, Rotfeder, Schlammpeitzger, Schleie, Garnele, Schwarzbarsch, See-Elritze, Sprotte, Sternflunder, Taran, Weißbauchflunder, Wobla, Zobel, Zope
       </info>
     </weapon>
     <weapon id="1019">
       <name>Made</name>
-      <info>Fängig für: Aland, Bachforelle, Bachschmerle, Barbe, Blauer Sonnenbarsch, Brachse, Europäische Äsche, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Frosch, Giebel, Grundel, Hasel, Karausche, Kaspi Maifisch, Kaspischer Hering, Kaulbarsch, Malamida, Perkarina, Rotauge, Rotfeder, Saibling, Schläfergrundel, Schlammpeitzger, See Elritze, Sichling, Sterlet, Strömer, Taran, Tiberbarbe, Wobla, Zährte, Zingel
+      <info>Fängig für: Aland, Bachforelle, Bachschmerle, Barbe, Blauer Sonnenbarsch, Brachse, Europäische Äsche, Europäischer Flusskrebs, Flussbarsch, Flusskrebs, Frosch, Giebel, Grundel, Hasel, Karausche, Kaspi-Maifisch, Kaspischer Hering, Kaulbarsch, Malamida, Perkarina, Rotauge, Rotfeder, Saibling, Schläfergrundel, Schlammpeitzger, See-Elritze, Sichling, Sterlet, Strömer, Taran, Tiberbarbe, Wobla, Zährte, Zingel
       </info>
     </weapon>
     <weapon id="1020">
@@ -405,12 +405,12 @@
     </weapon>
     <weapon id="1025">
       <name>Grünes Glöckchen</name>
-      <info>Ein einfacher Bissanzeiger
+      <info>Ein einfacher Bissanzeiger.
       </info>
     </weapon>
     <weapon id="1026">
       <name>Elektronischer Bissanzeiger</name>
-      <info>Piepst und leuchtet zuverlässig
+      <info>Piepst und leuchtet zuverlässig.
       </info>
     </weapon>
     <weapon id="1027">
@@ -438,16 +438,16 @@
       </info>
     </weapon>
     <weapon id="1032">
-      <name>Water 0.33</name>
-      <info>Small jar with pure water. Well, some stalkers believe it's pure.</info>
+      <name>Wasser 0.33l</name>
+      <info>Kleines Glas frischen Wassers. Nun, manch ein Stalker denkt, es wäre rein.</info>
     </weapon>
     <weapon id="1033">
-      <name>Water 0.5</name>
+      <name>Wasser 0.5l</name>
       <info>
       </info>
     </weapon>
     <weapon id="1034">
-      <name>Water 1</name>
+      <name>Water 1l</name>
       <info>
       </info>
     </weapon>
@@ -457,12 +457,12 @@
       </info>
     </weapon>
     <weapon id="1036">
-      <name>Sandwich with lard</name>
-      <info>Great food but it is really hard to find.</info>
+      <name>Sandwich mit Schmalz</name>
+      <info>Großartiges Nahrungsmittel, aber schwer zu finden.</info>
     </weapon>
     <weapon id="1037">
-      <name>Tourist breakfest</name>
-      <info>Old canned food, where did it come from?</info>
+      <name>Touristfrühstück</name>
+      <info>Alte Dosennahrung. Wo kommt die bloß her?</info>
     </weapon>
     <weapon id="1038">
       <name>
@@ -482,12 +482,12 @@
     </weapon>
     <weapon id="1041">
       <name>Elektronisches Glöckchen</name>
-      <info>Klingelt und leuchtet bei Biss
+      <info>Klingelt und leuchtet bei Biss.
       </info>
     </weapon>
     <weapon id="1042">
       <name>Salamo Rodpod 3R</name>
-      <info>Aluminiumständer für Angelruten</info>
+      <info>Aluminiumgestell zur Aufnahme von drei Angelruten.</info>
     </weapon>
     <weapon id="1043">
       <name>--</name>
@@ -518,7 +518,7 @@
       </info>
     </weapon>
     <weapon id="1048">
-      <name>Energy Drink</name>
+      <name>Energy-Drink</name>
       <info>
       </info>
     </weapon>
@@ -538,7 +538,7 @@
       </info>
     </weapon>
     <weapon id="1052">
-      <name>Muschelstückchen</name>
+      <name>Muschelfleisch</name>
       <info>Fängig für: Aal, Bachsaibling, Belugastör, Brachse, Europäischer Stör, Europäischer Wels, Flussbarsch, Glatt-Stör, Kabeljau, Kaspischer Kutum, Kaulbarsch, Lederkarpfen, Maräne, Seehecht, Persischer Stör, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Spiegelkarpfen, Sterlet, Tiberbarbe, Zährte
       </info>
     </weapon>
@@ -788,17 +788,17 @@
     </weapon>
     <weapon id="1100">
       <name>JIG TwistGreen I</name>
-      <info>Gewöhnlicher Silikonköder 50 mm, Fängig für: Baltischer Lachs, Dicklippige Meeräsche, Felsenbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht, Meeräsche, Meerzander, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Zander
+      <info>Gewöhnlicher Silikonköder 50 mm. Fängig für: Baltischer Lachs, Dicklippige Meeräsche, Felsenbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht, Meeräsche, Meerzander, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Zander
 	  </info>
     </weapon>
     <weapon id="1101">
       <name>JIG TwistGreen II</name>
-      <info>Gewöhnlicher Silikonköder 75 mm, Fängig für: Baltischer Lachs, Dicklippige Meeräsche, Felsenbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht, Meeräsche, Meerzander, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Zander
+      <info>Gewöhnlicher Silikonköder 75 mm. Fängig für: Baltischer Lachs, Dicklippige Meeräsche, Felsenbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht, Meeräsche, Meerzander, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Zander
 	  </info>
     </weapon>
     <weapon id="1102">
       <name>JIG TwistGreen III</name>
-      <info>Gewöhnlicher Silikonköder 100 mm, Fängig für: Baltischer Lachs, Dicklippige Meeräsche, Felsenbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht, Meeräsche, Meerzander, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Zander
+      <info>Gewöhnlicher Silikonköder 100 mm. Fängig für: Baltischer Lachs, Dicklippige Meeräsche, Felsenbarsch, Flussbarsch, Grashecht, Großkopfmeeräsche, Hecht, Meeräsche, Meerzander, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Zander
 	  </info>
     </weapon>
     <weapon id="1103">
@@ -818,19 +818,19 @@
     </weapon>
     <weapon id="1106">
       <name>STK Rocket 2</name>
-      <info>China Angelrute. Leichte Spinnrute.</info>
+      <info>Chinesische Angelrute. Leichte Spinnrute.</info>
     </weapon>
     <weapon id="1107">
       <name>STK Rocket 3</name>
-      <info>China Angelrute. Leichte Spinnrute.</info>
+      <info>Chinesische Angelrute. Leichte Spinnrute.</info>
     </weapon>
     <weapon id="1108">
       <name>STK Rocket 5</name>
-      <info>China Angelrute. Leichte Spinnrute.</info>
+      <info>Chinesische Angelrute. Leichte Spinnrute.</info>
     </weapon>
     <weapon id="1109">
       <name>STK Rocket 8</name>
-      <info>China Angelrute. Leichte Spinnrute.</info>
+      <info>Chinesische Angelrute. Leichte Spinnrute.</info>
     </weapon>
     <weapon id="1110">
       <name>Kitana X-Spin 10</name>
@@ -1059,7 +1059,7 @@
     </weapon>
     <weapon id="1148">
       <name>Grünalge</name>
-      <info>Wird zum Erstellen von Ködern verwendet</info>
+      <info>Wird zur Herstellung von Ködern verwendet.</info>
     </weapon>
     <weapon id="1149">
       <name>
@@ -1220,7 +1220,7 @@
     </weapon>
     <weapon id="1176">
       <name>Fischfetzen</name>
-      <info>Fängig für: Aal, Bachsaibling, Blutegel, Dicklippige Meeräsche, Dorade royal, Europäischer Wels, Finte, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kabeljau, Kaspi Maifisch, Meeräsche, Muschel, Seehecht, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schellfisch, Schrimp, Sprotte, Sternflunder, Stint, Taimen
+      <info>Fängig für: Aal, Bachsaibling, Blutegel, Dicklippige Meeräsche, Dorade Royal, Europäischer Wels, Finte, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kabeljau, Kaspi-Maifisch, Meeräsche, Muschel, Seehecht, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schellfisch, Garnele, Sprotte, Sternflunder, Stint, Taimen
       </info>
     </weapon>
     <weapon id="1177">
@@ -1333,7 +1333,7 @@ Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.
     </weapon>
     <weapon id="1197">
       <name>Fischinnereien</name>
-      <info>Fängig für: Blutegel, Europäischer Wels, Flusskrebs, Kaspi Maifisch, Muschel, Quappe
+      <info>Fängig für: Blutegel, Europäischer Wels, Flusskrebs, Kaspi-Maifisch, Muschel, Quappe
 	  </info>
     </weapon>
     <weapon id="1198">
@@ -1497,12 +1497,12 @@ Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.
       </info>
     </weapon>
     <weapon id="1226">
-      <name>Geschenk Box</name>
-      <info>Öffne die Box um herauszufinden, was drin ist</info>
+      <name>Geschenkbox</name>
+      <info>Öffne die Box um herauszufinden, was drin ist.</info>
     </weapon>
     <weapon id="1227">
-      <name>Bar-Scheck</name>
-      <info>Benutzen um den Scheck einzulösen</info>
+      <name>Barscheck</name>
+      <info>Benutzen, um den Scheck einzulösen.</info>
     </weapon>
     <weapon id="1228">
       <name>Reparatursatz für Angelruten</name>
@@ -1514,11 +1514,11 @@ Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.
     </weapon>
     <weapon id="1230">
       <name>Ersatzteile</name>
-      <info>Verschieden Teile die übrig sind.</info>
+      <info>Verschiedene Teile, die übrig sind.</info>
     </weapon>
     <weapon id="1231">
-      <name>Universales Reparaturset</name>
-      <info>Universales Reparaturset, dass Rolle UND Rute der Klasse A repariert.</info>
+      <name>Universelles Reparaturset</name>
+      <info>Universelles Reparaturset, dass Rolle UND Rute der Klasse A repariert.</info>
     </weapon>
     <weapon id="1232">
       <name>
@@ -1579,19 +1579,19 @@ Right-click to open the box and select "Use"</info>
     </weapon>
     <weapon id="1241">
       <name>VIP 1 Tag</name>
-      <info>Premium Bonus für 1 Tag.
+      <info>Gewährt alle Premiumboni für 1 Tag.
 
 Zum Aktivieren drücken Sie auf "Benutzen".</info>
     </weapon>
     <weapon id="1242">
       <name>VIP 7 Tage</name>
-      <info>Premium Bonus für 7 Tage.
+      <info>Gewährt alle Premiumboni für 7 Tage.
 
 Zum Aktivieren drücken Sie auf "Benutzen".</info>
     </weapon>
     <weapon id="1243">
       <name>VIP 15 Tage</name>
-      <info>Premium Bonus für 15 Tage.
+      <info>Gewährt alle Premiumboni für 15 Tage.
 
 Zum Aktivieren drücken Sie auf "Benutzen".</info>
     </weapon>
@@ -1618,7 +1618,7 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
     </weapon>
     <weapon id="1249">
       <name>Krebsschwanz</name>
-      <info>Fängig für: Aal, Bachsaibling, Baltischer Lachs, Brachse, Europäischer Stör, Europäischer Wels, Forellenbarsch, Glatt-Stör, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Lachs, Lederkarpfen, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Schwarzbarsch, Sterlet
+      <info>Fängig für: Aal, Bachsaibling, Baltischer Lachs, Brachse, Europäischer Stör, Europäischer Wels, Forellenbarsch, Glatt-Stör, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Kutum, Lachs, Lederkarpfen, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Schwarzbarsch, Sterlet
 	  </info> 
     </weapon>
     <weapon id="1250">
@@ -1634,7 +1634,7 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
     </weapon>
     <weapon id="1252">
       <name>Basislarve</name>
-      <info>Der dicke Geruch von Bernsteinharz zieht einige Mutanten an.</info>
+      <info>Der schwere Geruch von Bernsteinharz zieht einige Mutanten an.</info>
     </weapon>
     <weapon id="1253">
       <name>
@@ -1695,12 +1695,12 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
       </info>
     </weapon>
     <weapon id="1263">
-      <name>Promo box</name>
+      <name>Promobox</name>
       <info>
       </info>
     </weapon>
     <weapon id="1264">
-      <name>Card "Training +50%"</name>
+      <name>Karte "Training +50%"</name>
       <info>
       </info>
     </weapon>
@@ -1736,7 +1736,7 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
     </weapon>
     <weapon id="1270">
       <name>PVA-Material</name>
-      <info>Material zur Herstellung von Futterverpackungen, Bündeln, Köderbeuteln</info>
+      <info>Material zur Herstellung von Futterverpackungen, Bündeln und Köderbeuteln.</info>
     </weapon>
     <weapon id="1271">
       <name>
@@ -1842,10 +1842,10 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
       </info>
     </weapon>
     <weapon id="1290">
-      <name>Steam-box</name>
-      <info>Steam Greenlight gift.
+      <name>Steam-Box</name>
+      <info>Steam Greenlight-Geschenk.
 
-Thanks for your votings!</info>
+Danke für eure Abstimmungen!</info>
     </weapon>
     <weapon id="1291">
       <name>
@@ -1883,7 +1883,7 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1298">
-      <name>Erbsen</name>
+      <name>Erbse</name>
       <info>Fängig für: Aland, Brachse, Europäischer Wels, Hundsbarbe, Marmorkarpfen, Schwarzer Amur, Silberkarpfen, Wildkarpfen
 	  </info>
     </weapon>
@@ -2041,7 +2041,7 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1327">
-      <name>Food ration</name>
+      <name>Essensration</name>
       <info>
       </info>
     </weapon>
@@ -2128,13 +2128,13 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1343">
-      <name>Smoked eel</name>
+      <name>Geräucherter Aal</name>
       <info>
       </info>
     </weapon>
     <weapon id="1344">
       <name>Gelber Boilie</name>
-      <info>Boilies - gerollte Köder mit verschiedenen Inhaltsstoffen.</info>
+      <info>Boilies sind gerollte Köder mit verschiedenen Inhaltsstoffen.</info>
     </weapon>
     <weapon id="1345">
       <name>
@@ -2203,17 +2203,17 @@ Thanks for your votings!</info>
     </weapon>
     <weapon id="1357">
       <name>STK Hk-1</name>
-      <info>von 700g - 3kg
+      <info>von 700g bis 3kg
       </info>
     </weapon>
     <weapon id="1358">
       <name>STK Hk-2</name>
-      <info>von 3kg - 7kg
+      <info>von 3kg bis 7kg
       </info>
     </weapon>
     <weapon id="1359">
       <name>STK Hk-3</name>
-      <info>von 7kg - 20kg
+      <info>von 7kg bis 20kg
       </info>
     </weapon>
     <weapon id="1360">
@@ -2363,7 +2363,7 @@ Thanks for your votings!</info>
     </weapon>
     <weapon id="1387">
       <name>Roter Kaviar</name>
-      <info>Fängig für: Aal, Bachforelle, Mairenke, Maräne, Quappe, Regenbogenforelle, Saibling, Schrimp, Stint
+      <info>Fängig für: Aal, Bachforelle, Mairenke, Maräne, Quappe, Regenbogenforelle, Saibling, Garnele, Stint
 	  </info>
     </weapon>
     <weapon id="1388">
@@ -2392,22 +2392,22 @@ Thanks for your votings!</info>
     </weapon>
     <weapon id="1392">
       <name>Algen</name>
-      <info>Fängig für: Lederkarpfen, Rotauge, Schrimp, Schwarzer Amur
+      <info>Fängig für: Lederkarpfen, Rotauge, Garnele, Schwarzer Amur
 	  </info>
     </weapon>
     <weapon id="1393">
       <name>VIB Raiwa 12g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne, Seeforelle, Seehecht, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr-Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi-Maifisch, Maräne, Seeforelle, Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1394">
       <name>VIB Raiwa 18g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne, Seeforelle, Seehecht, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr-Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi-Maifisch, Maräne, Seeforelle, Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1395">
       <name>VIB Raiwa 25g</name>
-      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne, Seeforelle, Seehecht, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr-Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi-Maifisch, Maräne, Seeforelle, Seehecht, Regenbogenforelle, Taimen, Zander
 	  </info>
     </weapon>
     <weapon id="1396">
@@ -2418,17 +2418,17 @@ Thanks for your votings!</info>
     </weapon>
     <weapon id="1397">
       <name>JIG TwistNord I</name>
-      <info>Silikonköder 40 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander, Zingel
+      <info>Silikonköder 40 mm. Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander, Zingel
 	  </info>
     </weapon>
     <weapon id="1398">
       <name>JIG TwistNord II</name>
-      <info>Silikonköder 75 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander, Zingel
+      <info>Silikonköder 75 mm. Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander, Zingel
 	  </info>
     </weapon>
     <weapon id="1399">
       <name>JIG TwistNord III</name>
-      <info>Silikonköder 100 mm, Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander, Zingel
+      <info>Silikonköder 100 mm. Fängig für: Bachsaibling, Baltischer Lachs, Blauer Sonnenbarsch, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Hecht, Kaspischer Lachs, Meeräsche, Meerzander, Muschel, Seehecht, Quappe, Rapfen, Saibling, Sterlet, Taimen, Weißer Thunfisch, Wolgazander, Zander, Zingel
 	  </info>
     </weapon>
     <weapon id="1400">
@@ -2476,8 +2476,8 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1408">
-      <name>Bombard Gold-Kit</name>
-      <info>Das Kit enthält eine Matchrute, eine Rolle, eine Schnur und einen Schwimmer aus dem Bombard Gold-Kit</info>
+      <name>Kit "Bombard Gold"</name>
+      <info>Das Kit besteht aus Grundrute (43kg), Rolle (42kg), Angelschnur (42kg) und einem Feederkorb. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1409">
       <name>Waggler</name>
@@ -2491,12 +2491,12 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1411">
-      <name>Salamo Gold Kit</name>
-      <info>Das Set enthält eine Grundrute, eine Rolle und eine Schnur aus dem Salamo CarpHunter Gold-Set</info>
+      <name>Kit "Salamo Gold"</name>
+      <info>Das Kit besteht aus Grundrute (43kg), Rolle (42kg), Angelschnur (42kg) und einem Feederkorb. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1412">
       <name>Frosch</name>
-      <info>Fängig für: Europäischer Wels, Flussbarsch, getüpfelter Gabelwels, Grashecht, Hecht, Meerzander, Quappe, Regenbogenforelle, Zander
+      <info>Fängig für: Europäischer Wels, Flussbarsch, Getüpfelter Gabelwels, Grashecht, Hecht, Meerzander, Quappe, Regenbogenforelle, Zander
 	  </info>
     </weapon>
     <weapon id="1413">
@@ -2506,7 +2506,7 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1414">
-      <name>Club Gründer Abzeichen</name>
+      <name>Clubgründer-Abzeichen</name>
       <info>
       </info>
     </weapon>
@@ -2662,15 +2662,15 @@ VIP gives no bonus.</info>
     </weapon>
     <weapon id="1441">
       <name>Futterkorb 30g</name>
-      <info>Die beliebte Futterkorbform in 30g</info>
+      <info>Die beliebte Futterkorbform mit 30g Gewicht.</info>
     </weapon>
     <weapon id="1442">
       <name>Futterkorb 40g</name>
-      <info>Die beliebte Futterkorbform in 40g</info>
+      <info>Die beliebte Futterkorbform mit 40g Gewicht.</info>
     </weapon>
     <weapon id="1443">
       <name>Futterkorb 60g</name>
-      <info>Die beliebte Futterkorbform in 60g</info>
+      <info>Die beliebte Futterkorbform mit 60g Gewicht.</info>
     </weapon>
     <weapon id="1444">
       <name>Grundblei 30g</name>
@@ -2678,22 +2678,22 @@ VIP gives no bonus.</info>
     </weapon>
     <weapon id="1445">
       <name>Mistwurm</name>
-      <info>Fängig für: Brachse, Giebel, Güster, Karausche, See Elritze, Tiberbarbe
+      <info>Fängig für: Brachse, Giebel, Güster, Karausche, See-Elritze, Tiberbarbe
 	  </info>
     </weapon>
     <weapon id="1446">
       <name>Kitana FH-1</name>
-      <info>von 700g - 3kg
+      <info>von 700g bis 3kg
       </info>
     </weapon>
     <weapon id="1447">
       <name>Kitana FH-2</name>
-      <info>von 3kg - 7kg
+      <info>von 3kg bis 7kg
       </info>
     </weapon>
     <weapon id="1448">
       <name>Kitana FH-3</name>
-      <info>von 7kg - 20kg
+      <info>von 7kg bis 20kg
       </info>
     </weapon>
     <weapon id="1449">
@@ -2713,53 +2713,53 @@ VIP gives no bonus.</info>
     </weapon>
     <weapon id="1452">
       <name>CarpPro-3</name>
-      <info>von 7kg - 20kg
+      <info>von 7kg bis 20kg
       </info>
     </weapon>
     <weapon id="1453">
       <name>CarpPro-4</name>
-      <info>von 20kg - .....
+      <info>von 20kg bis .....
       </info>
     </weapon>
     <weapon id="1454">
       <name>Futter "Karpfen-Honig"</name>
-      <info>Ein Fertig-Mix-Futter. Speziell für Karpfenartige gemacht.</info>
+      <info>Ein Fertigfutter-Mix. Speziell für Karpfenartige gemacht.</info>
     </weapon>
     <weapon id="1455">
       <name>Futter "Schleie-Karausche"</name>
-      <info>Ein Fertig-Mix-Futter. Speziell für Schleien und Karauschen gemacht.</info>
+      <info>Ein Fertigfutter-Mix. Speziell für Schleien und Karauschen gemacht.</info>
     </weapon>
     <weapon id="1456">
       <name>Futter "Brachse"</name>
-      <info>Ein Fertig-Mix-Futter. Speziell für Brachsen gemacht.</info>
+      <info>Ein Fertigfutter-Mix. Speziell für Brachsen gemacht.</info>
     </weapon>
     <weapon id="1457">
       <name>Mein Futter-Mix</name>
-      <info>Ein Futter nach meinem eigenen Rezept</info>
+      <info>Ein Futter nach meinem eigenen Rezept.</info>
     </weapon>
     <weapon id="1458">
       <name>Futter "Für Karpfen"</name>
-      <info>Fertig-Mix Futter für Karpfen - Nicht mehr erhältlich</info>
+      <info>Fertigfutter-Mix für Karpfen - Nicht mehr erhältlich.</info>
     </weapon>
     <weapon id="1459">
       <name>Futter "SportFEED"</name>
-      <info>Fertig-Mix Futter</info>
+      <info>Allgemeiner Fertigfutter-Mix.</info>
     </weapon>
     <weapon id="1460">
       <name>Futter "Für Brachse"</name>
-      <info>Fertig-Mix Futter für Brachse</info>
+      <info>Ein Fertigfutter-Mix für Brachsen.</info>
     </weapon>
     <weapon id="1461">
       <name>Mein Futter-Mix</name>
-      <info>Trocken-Mix nach meinem eigenen Rezept</info>
+      <info>Trockenfutter-Mix nach meinem eigenen Rezept</info>
     </weapon>
     <weapon id="1462">
       <name>Brauner Boilie</name>
-      <info>Boilies - gerollte Köder mit verschiedenen Inhaltsstoffen, für Karpfen.</info>
+      <info>Boilies sind gerollte Köder mit verschiedenen Inhaltsstoffen. Speziell für Karpfen hergestellt.</info>
     </weapon>
     <weapon id="1463">
       <name>Grüner Boilie</name>
-      <info>Boilies - gerollte Köder mit verschiedenen Inhaltsstoffen, für große Graskarpfen, schwarzen Amur, Marmorkarpfen und Silberkaprfen.</info>
+      <info>Boilies sind gerollte Köder mit verschiedenen Inhaltsstoffen. Speziell für große Graskarpfen, schwarzen Amur, Marmorkarpfen und Silberkarpfen hergestellt.</info>
     </weapon>
     <weapon id="1464">
       <name>
@@ -2796,7 +2796,7 @@ VIP gives no bonus.</info>
     <weapon id="1470">
       <name>Picker Bee-Gold</name>
       <info>Picker-Klasse
-Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
+Eine leichte Version einer Grundangel zum präzisen Werfen des leichten Feederkorbs.
 + 50% Erfahrung
       </info>
     </weapon>
@@ -2897,11 +2897,11 @@ Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder K
     </weapon>
     <weapon id="1490">
       <name>Futter "Universal"</name>
-      <info>Aus dem Stalker Tagebuch: Fertigfutter zum anrühren mit Wasser, lockt Fische an.</info>
+      <info>Aus dem Stalker Tagebuch: Fertigfutter zum Anrühren mit Wasser. Lockt unterschiedliche Fische an.</info>
     </weapon>
     <weapon id="1491">
       <name>"Universal"</name>
-      <info>Universelles Fertig-Mix-Futter</info>
+      <info>Universeller Fertigfutter-Mix.</info>
     </weapon>
     <weapon id="1492">
       <name>--</name>
@@ -3034,22 +3034,22 @@ Kann gegen Belohnungen eingelöst werden.
     </weapon>
     <weapon id="1516">
       <name>Minnow TWS-I M1</name>
-      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Europäischer Wolfsbarsch, Meerzander, Seehecht, Weißer Thunfisch
+      <info>Leichte 8 Gramm Silikonimitationen von Fischen. Fängig für: Europäischer Wolfsbarsch, Meerzander, Seehecht, Weißer Thunfisch
 		</info>
     </weapon>
     <weapon id="1517">
       <name>Minnow TWS-I M2</name>
-      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Europäischer Wels, Flussbarsch, Grashecht, Großkopfmeeräsche, Seehecht, Quappe, Regenbogenforelle, Seeforelle, Zander
+      <info>Leichte 8 Gramm Silikonimitationen von Fischen. Fängig für: Europäischer Wels, Flussbarsch, Grashecht, Großkopfmeeräsche, Seehecht, Quappe, Regenbogenforelle, Seeforelle, Zander
 		</info>
     </weapon>
     <weapon id="1518">
       <name>Minnow TWS-I M3</name>
-      <info>Leichte 8 Gramm Silikonimitationen von Fischen, Fängig für: Döbel, Europäischer Wels, Europäischer Wolfsbarsch, Grashecht, Seehecht, Weißer Thunfisch, Zander
+      <info>Leichte 8 Gramm Silikonimitationen von Fischen. Fängig für: Döbel, Europäischer Wels, Europäischer Wolfsbarsch, Grashecht, Seehecht, Weißer Thunfisch, Zander
 		</info>
     </weapon>
     <weapon id="1519">
       <name>Wacky Wurmlutscher</name>
-      <info>Kleiner Silikonwurm für Wacky-Jig. Neujahrsfarbe</info>
+      <info>Kleiner Silikonwurm für Wacky-Jig in Neujahrsfarbe.</info>
     </weapon>
     <weapon id="1520">
       <name>--</name>
@@ -3074,7 +3074,7 @@ Kann gegen Belohnungen eingelöst werden.
     </weapon>
     <weapon id="1524">
       <name>CRL Atom JS 5g</name>
-      <info>Fängig für: Europäischer Wolfsbarsch, Kaspi Maifisch, Kaspischer Hering, Rapfen, Zander
+      <info>Fängig für: Europäischer Wolfsbarsch, Kaspi-Maifisch, Kaspischer Hering, Rapfen, Zander
       </info>
     </weapon>
     <weapon id="1525">
@@ -3119,7 +3119,7 @@ Kann gegen Belohnungen eingelöst werden.
     <weapon id="1532">
       <name>Popper "Frog-III-М5"</name>
       <info>Aus dem Tagebuch von Stalker. Ein spezieller Wobbler für Frösche, 
-der für das Top-Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels, Forellenbarsch, Grashecht, Rapfen, Regenbogenforelle, Wolgazander
+der für das Top Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels, Forellenbarsch, Grashecht, Rapfen, Regenbogenforelle, Wolgazander
 </info>
     </weapon>
     <weapon id="1533">
@@ -3212,11 +3212,11 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1549">
       <name>Reise in den Iran</name>
-      <info>Spieler reist 2 Stunden lang an den angegebenen Ort</info>
+      <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
     </weapon>
     <weapon id="1550">
       <name>Reise nach Norwegen</name>
-      <info>Spieler reist 2 Stunden lang an den angegebenen Ort</info>
+      <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
     </weapon>
     <weapon id="1551">
       <name>
@@ -3259,7 +3259,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
       </info>
     </weapon>
     <weapon id="1558">
-      <name>Schrimp</name>
+      <name>Garnele</name>
       <info>Fängig für: Bachforelle, Blaubarsch, Dicklippige Meeräsche, Gelbflossenflunder, Goldbrasse, Goldforelle, Grashecht, Kabeljau, Kohlenfisch, Köhler, Meerzander, Seehecht, Sternflunder, Regenbogenforelle, Russischer Stör, Teichforelle, Weißbauchflunder, Zander
 	  </info>
     </weapon>
@@ -3316,12 +3316,12 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1569">
       <name>Silikonwurm M1</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr-Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1570">
       <name>Silikonwurm M2</name>
-      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
+      <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr-Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
     <weapon id="1571">
@@ -3411,7 +3411,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1588">
       <name>Boilie "Gras"</name>
-      <info>Fängig für: Brachse, Graskarpfen, Lederkarpfen, Marmorkarpfen, Rotauge, Schrimp, Schwarzer Amur, Silberkarpfen
+      <info>Fängig für: Brachse, Graskarpfen, Lederkarpfen, Marmorkarpfen, Rotauge, Garnele, Schwarzer Amur, Silberkarpfen
       </info>
     </weapon>
     <weapon id="1589">
@@ -3436,7 +3436,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1593">
       <name>Boilie "Krabbe"</name>
-      <info>Fängig für: Aal, Bachsaibling, Baltischer Lachs, Brachse, Europäischer Wels, Forellenbarsch, Graskarpfen, Kaspi Maifisch, Kaspischer Hering, Kaspischer Kutum, Kaspischer Lachs, Marmorkarpfen, Peledmaräne, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Silberkarpfen, Spiegelkarpfen, Sterlet, Wildkarpfen, Zährte
+      <info>Fängig für: Aal, Bachsaibling, Baltischer Lachs, Brachse, Europäischer Wels, Forellenbarsch, Graskarpfen, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Kutum, Kaspischer Lachs, Marmorkarpfen, Peledmaräne, Persischer Stör, Quappe, Russischer Stör, Scherg, Schleie, Schuppenkarpfen, Silberkarpfen, Spiegelkarpfen, Sterlet, Wildkarpfen, Zährte
       </info>
     </weapon>
     <weapon id="1594">
@@ -3451,17 +3451,17 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1596">
       <name>CarpPro-1</name>
-      <info>von 700g - 3kg
+      <info>von 700g bis 3kg
       </info>
     </weapon>
     <weapon id="1597">
       <name>CarpPro-2</name>
-      <info>von 3kg -7kg
+      <info>von 3kg bis 7kg
       </info>
     </weapon>
     <weapon id="1598">
       <name>Kitana FH-4</name>
-      <info>von 20kg - ....
+      <info>von 20kg bis ....
       </info>
     </weapon>
     <weapon id="1599">
@@ -3491,61 +3491,60 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1604">
       <name>VIB Raiwa 30g</name>
-      <info>Fängig für:	
-Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi Maifisch, Maräne, Seehecht, Regenbogenforelle, Taimen, Zander
+      <info>Fängig für: Baltischer Lachs, Barbe, Dnepr-Barbe, Donaulachs, Europäischer Wolfsbarsch, Goldforelle, Grashecht, Hecht, Kaspi-Maifisch, Maräne, Seeforelle, Seehecht, Regenbogenforelle, Taimen, Zander
       </info>
     </weapon>
     <weapon id="1605">
       <name>JR RubinFly-8</name>
-      <info>Rute zum Fliegenfischen</info>
+      <info>Eine leichte Rute zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1606">
       <name>JR RubinFly-12</name>
-      <info>Rute zum Fliegenfischen</info>
+      <info>Eine mittlere Rute zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1607">
       <name>JR RubinFly-18</name>
-      <info>Rute zum Fliegenfischen</info>
+      <info>Eine schwere Rute zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1608">
       <name>JT RubinFly-8</name>
-      <info>Rute zum Fliegenfischen</info>
+      <info>Eine leichte Rolle zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1609">
       <name>JT RubinFly-12</name>
-      <info>Rute zum Fliegenfischen</info>
+      <info>Eine mittlere Rolle zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1610">
       <name>JT RubinFly-18</name>
-      <info>Rolle zum Fliegenfischen</info>
+      <info>Eine schwere Rolle zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1611">
       <name>Series JR RubinFly</name>
-      <info>Rute zum Fliegenfischen</info>
+      <info>Ruten zum Fliegenfischen</info>
     </weapon>
     <weapon id="1612">
       <name>Series JT RubinFly</name>
-      <info>Rolle zum Fliegenfischen</info>
+      <info>Rollen zum Fliegenfischen</info>
     </weapon>
     <weapon id="1613">
       <name>Salamo SFox Gold</name>
-      <info>Premium Rolle mit einer vergrösserten Spindel, entwickelt um grosse Karpfen zu fangen.</info>
+      <info>Premiumrolle mit einer vergrößerten Spindel, entwickelt um große Karpfen zu fangen.</info>
     </weapon>
     <weapon id="1614">
       <name>NS Fluo Gelb</name>
-      <info>Schnur für´s Fliegenfischen</info>
+      <info>Schnur fürs Fliegenfischen</info>
     </weapon>
     <weapon id="1615">
       <name>NS Fluo Orange</name>
-      <info>Schnur für´s Fliegenfischen</info>
+      <info>Schnur fürs Fliegenfischen</info>
     </weapon>
     <weapon id="1616">
       <name>NS Fluo Grün</name>
-      <info>Schnur für´s Fliegenfischen</info>
+      <info>Schnur fürs Fliegenfischen</info>
     </weapon>
     <weapon id="1617">
       <name>NS Fluo</name>
-      <info>Schnur für´s Fliegenfischen</info>
+      <info>Schnur fürs Fliegenfischen</info>
     </weapon>
     <weapon id="1618">
       <name>RF Goldkopfnymphe</name>
@@ -3573,8 +3572,8 @@ Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Gol
       </info>
     </weapon>
     <weapon id="1623">
-      <name>Trockenfliege gestrickt</name>
-      <info>default fly for gameengine</info>
+      <name>Trockenfliege, gestrickt</name>
+      <info>Standardfliege</info>
     </weapon>
     <weapon id="1624">
       <name>Sazan - 12</name>
@@ -3617,13 +3616,13 @@ Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Gol
       </info>
     </weapon>
     <weapon id="1632">
-      <name>WagglerNight-10-8</name>
-      <info>Eine leuchtende Pose zum Nachtfischen.
+      <name>Waggler Night-10-8</name>
+      <info>Eine leuchtende Pose zum Nachtangeln.
       </info>
     </weapon>
     <weapon id="1633">
       <name>SF "Erfolgreiches Fischen"</name>
-      <info>Fertige Futterkugeln</info>
+      <info>Fertige Allzweck-Futterkugeln.</info>
     </weapon>
     <weapon id="1634">
       <name>Vorfach 1,5kg</name>
@@ -3707,7 +3706,7 @@ Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Gol
     </weapon>
      <weapon id="1650">
       <name>NS XG7 Light</name>
-      <info>Schnur für´s Fliegenfischen (Gelb)</info>	
+      <info>Schnur fürs Fliegenfischen (Gelb).</info>	
 	</weapon>	
     <weapon id="1651">
       <name>Vorfach 16,9kg</name>
@@ -3715,17 +3714,17 @@ Baltischer Lachs, Barbe, Dnepr Barbe, Donaulachs, Europäischer Wolfsbarsch, Gol
 	  </weapon>
     <weapon id="1652">
       <name>CRL TroutMaster M1</name>
-      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
+      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1653">
       <name>CRL TroutMaster M2</name>
-      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
+      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1654">
       <name>CRL TroutMaster M3</name>
-      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
+      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1655">
@@ -3756,7 +3755,7 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1660">
       <name>CRL Marss</name>
-      <info>Leichter Spinn-Köder um Äschen zu fangen</info>
+      <info>Leichter Spinn-Köder um Äschen zu fangen.</info>
     </weapon>
     <weapon id="1661">
       <name>TroutMaster-7</name>
@@ -3765,21 +3764,21 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1662">
       <name>TroutMaster RSL</name>
-      <info>Professionelle leichte Rolle</info>
+      <info>Professionelle leichte Rolle.</info>
     </weapon>
 	
 	
 	<weapon id="1663">
       <name>Futterspirale 10g</name>
-      <info>Beliebte Futterspirale für das Grundangeln</info>
+      <info>Beliebte Futterspirale für das Grundangeln.</info>
     </weapon>
     <weapon id="1664">
       <name>Futterspirale 30g</name>
-      <info>Beliebte Futterspirale für das Grundangeln</info>
+      <info>Beliebte Futterspirale für das Grundangeln.</info>
     </weapon>
     <weapon id="1665">
       <name>Futterspirale 60g</name>
-      <info>Beliebte Futterspirale für das Grundangeln</info>
+      <info>Beliebte Futterspirale für das Grundangeln.</info>
     </weapon>
     <weapon id="1666">
       <name>Futterspiralen</name>
@@ -3788,7 +3787,7 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1667">
       <name>Futterkörbe</name>
-      <info>Ein Futterkorb zum Grundangeln</info>
+      <info>Ein Futterkorb zum Grundangeln.</info>
     </weapon>	
 	<weapon id="1668">
 	  <name>Grundblei</name>
@@ -3800,26 +3799,26 @@ Rollengröße: 1000-2500.</info>
 	</weapon>
 	<weapon id="1670">
 	  <name>VIB Agara UL</name>
-	  <info>Eine Reihe von leichten Ködern für das UL Angeln</info>
+	  <info>Eine Reihe von leichten Ködern für das UL Angeln.</info>
 	</weapon>
 	<weapon id="1671">
 	  <name>VIB UL Cyclope M1</name>
-	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1672">
 	  <name>VIB UL Cyclope M2</name>
-	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1673">
 	  <name>VIB UL Cyclope M3</name>
-	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1674">
 	  <name>VIB Agara MD</name>
-	  <info>Eine Reihe von schmalen Ködern zum Tieffischen auf Zander</info>
+	  <info>Eine Reihe von schmalen Ködern zum Tieffischen auf Zander.</info>
 	</weapon>
 	<weapon id="1675">
 	  <name>VIB MD Cyclope M1</name>
@@ -3838,11 +3837,11 @@ Rollengröße: 1000-2500.</info>
 	</weapon>
 	  <weapon id="1678">
       <name>Salamo CarpHunter-35</name>
-      <info>Schwere Rute</info>
+      <info>Schwere Rute.</info>
     </weapon>	
     <weapon id="1679">
       <name>Salamo CarpHunter-40</name>
-      <info>Schwere Rute</info>
+      <info>Schwere Rute.</info>
     </weapon>
     <weapon id="1680">
       <name>Salamo SFox 35</name>
@@ -3862,8 +3861,7 @@ Rollengröße: 1000-2500.</info>
     </weapon>	
 	<weapon id="1684">
       <name>Fischfetzenbündel</name>
-      <info>
-	  Fängig für: Kabeljau
+      <info>Fängig für: Kabeljau
       </info>
     </weapon>
     <weapon id="1685">
@@ -3892,21 +3890,21 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1690">
       <name>VOB Agara DeepTail</name>
-      <info>Eine Reihe von tiefen Wobblern, die speziell für das Trolling entwickelt wurden. Das Hauptziel - Zander, Europäischer Wels, Hecht</info>
+      <info>Eine Reihe von tiefen Wobblern, die speziell für das Trolling entwickelt wurden. Das Hauptziel - Zander, Europäischer Wels, Hecht.</info>
     </weapon>
     <weapon id="1691">
       <name>VOB DeepTail M1</name>
-      <info>Size 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
+      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1692">
       <name>VOB DeepTail M2</name>
-      <info>Size 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
+      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1693">
       <name>VOB DeepTail M3</name>
-      <info>Size 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
+      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1694">
@@ -3984,19 +3982,19 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1709">
       <name>Top 10</name>
-      <info>Geschenkbox für Platz 1-10 in der monatlichen Rangliste</info>
+      <info>Geschenkbox für Platz 1-10 in der monatlichen Rangliste.</info>
     </weapon>
     <weapon id="1710">
       <name>Top 50</name>
-      <info>Geschenkbox für Platz 11-50 in der monatlichen Rangliste</info>
+      <info>Geschenkbox für Platz 11-50 in der monatlichen Rangliste.</info>
     </weapon>
     <weapon id="1711">
       <name>Top 200</name>
-      <info>Geschenkbox für Platz 51-200 in der monatlichen Rangliste</info>
+      <info>Geschenkbox für Platz 51-200 in der monatlichen Rangliste.</info>
     </weapon>
     <weapon id="1712">
       <name>Top 1000</name>
-      <info>Geschenkbox für Platz 201-1000 in der monatlichen Rangliste</info>
+      <info>Geschenkbox für Platz 201-1000 in der monatlichen Rangliste.</info>
     </weapon>
 	<weapon id="1713">
       <name>Basser RCast-I</name>
@@ -4005,11 +4003,11 @@ Rollengröße: 1000-2500.</info>
     </weapon>
 	<weapon id="1714">
       <name>Basser Cast-I</name>
-      <info>Schwere Casting Rute</info>
+      <info>Schwere Castingrute</info>
     </weapon>
     <weapon id="1715">
       <name>Basser Cast-II</name>
-      <info>Schwere Casting Rute</info>
+      <info>Schwere Castingrute</info>
     </weapon>
     <weapon id="1716">
       <name>Basser SeaCast-I</name>
@@ -4017,19 +4015,19 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1717">
       <name>Basser SeaCast-II</name>
-      <info>Extra schwere Casting Rute</info>
+      <info>Extra schwere Castingrute</info>
     </weapon>
     <weapon id="1718">
       <name>Basser SeaCast-III</name>
-      <info>Extra schwere Casting Rute</info>
+      <info>Extra schwere Castingrute</info>
     </weapon>
     <weapon id="1719">
       <name>Basser Cast</name>
-      <info>Schwere Casting Rute</info>
+      <info>Schwere Castingrute</info>
     </weapon>
     <weapon id="1720">
       <name>Basser SeaCast</name>
-      <info>Extra schwere Casting Rute</info>
+      <info>Extra schwere Castingrute</info>
     </weapon>
     <weapon id="1721">
       <name>Basser RCast-II</name>
@@ -4098,35 +4096,35 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1734">
       <name>Kugelbleie</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
     <weapon id="1735">
       <name>Kugelblei 10g</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
     <weapon id="1736">
       <name>Kugelblei 20g</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
     <weapon id="1737">
       <name>Kugelblei 30g</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
     <weapon id="1738">
       <name>Kugelblei 40g</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
     <weapon id="1739">
       <name>Kugelblei 1g</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
     <weapon id="1740">
       <name>Kugelblei 3g</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
     <weapon id="1741">
       <name>Kugelblei 5g</name>
-      <info>Kugelbleie für Casting Rigs</info>
+      <info>Kugelbleie für Castingmontagen.</info>
     </weapon>
 	<weapon id="1742">
 		<name>Basser LPCast-G</name>
@@ -4135,18 +4133,18 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1743">
 		<name>Basser Bee-SL</name>
-		<info>Leichte Casting-Rute
+		<info>Leichte Castingrute.
 +75% Erfahrung
 Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1744">
-		<name>Kit BeeCast</name>
-		<info>Das Kit enthält eine leichte Castingrute (6kg, + 75% Erfahrung), eine Low-Profile Rolle, Angelschnur und ein zufälliges Set von 3 UL Ködern von Basser
+		<name>Kit "BeeCast"</name>
+		<info>Das Kit besteht aus leichter Castingrute (6kg +75% Erfahrung), LP-Rolle (5kg), Schnur (5,5kg) und 3 UL-Köder. Ungeöffnet kann es verschickt werden.
 </info>
     </weapon>
     <weapon id="1745">
-		<name>Kit SeaCast</name>
-		<info>Dieses Kit enthält eine schwere Castingrute (52kg), eine Multirolle, Angelschnur vom Meerescasting-Kit von Basser</info>
+		<name>Kit "SeaCast"</name>
+		<info>Das Kit besteht aus schwerer Castingrute (52kg), Multirolle (50kg), Schnur (51kg) und 500 Silber. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1746">
 		<name>Basser St-5</name>
@@ -4160,7 +4158,7 @@ Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1748">
 		<name>Basser SeaCast-Gld</name>
-		<info>Superschwere Casting Meeresrute</info>
+		<info>Superschwere Casting-Meeresrute</info>
     </weapon>
     <weapon id="1749">
 		<name>Basser St-51</name>
@@ -4169,25 +4167,25 @@ Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1750">
       <name>Basser SteelSL-I</name>
-		<info>Leichte Casting-Rute
+		<info>Leichte Castingrute
 +50% Erfahrung
-Nur für Rollen mit maximal 1500er Größe</info>
+Nur für Rollen mit maximal 1500er Größe.</info>
     </weapon>
     <weapon id="1751">
       <name>Basser SteelSL-II</name>
-      	<info>Medium Casting-Rute
+      	<info>Mittlere Castingrute
 +25% Erfahrung
-Nur für Rollen mit maximal 1500er Größe</info>
+Nur für Rollen mit maximal 1500er Größe.</info>
     </weapon>
     <weapon id="1752">
       <name>Basser SteelSL-III</name>
-		<info>Medium Casting-Rute
+		<info>Mittlere Castingrute
 +10% Erfahrung
-Nur für Rollen mit maximal 2000er Größe</info>
+Nur für Rollen mit maximal 2000er Größe.</info>
     </weapon>
     <weapon id="1753">
       <name>Basser Steel Series</name>
-      <info>Leichte Casting-Ruten Serie</info>
+      <info>Leichte Castingrute</info>
     </weapon>
     <weapon id="1754">
       <name>Basser SteelLP-I</name>
@@ -4231,7 +4229,7 @@ Nur für Rollen mit maximal 2000er Größe</info>
 	  </weapon>
 	  <weapon id="1762">
       <name>Eintagsfliege</name>
-      <info>Fängig für: Bachforelle, Barbe, Frosch, Güster, Hasel, Kaspi Maifisch, Kaspischer Hering, Malamida, Maräne, Regenbogenforelle, Schrimp, Schwarze Äsche, Strömer, Teichforelle, Tiberbarbe, Zwergmaräne
+      <info>Fängig für: Bachforelle, Barbe, Frosch, Güster, Hasel, Kaspi-Maifisch, Kaspischer Hering, Malamida, Maräne, Regenbogenforelle, Garnele, Schwarze Äsche, Strömer, Teichforelle, Tiberbarbe, Zwergmaräne
 		</info>
     </weapon>
     <weapon id="1763">
@@ -4246,7 +4244,7 @@ Nur für Rollen mit maximal 2000er Größe</info>
     </weapon>
     <weapon id="1765">
       <name>Blutköder</name>
-      <info>Fängig für: Barbe, Dnepr Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
+      <info>Fängig für: Barbe, Dnepr-Barbe, Dorade Royal, Goldbrasse, Rotbrasse, Tiberbarbe, Tintenfisch, Wildkarpfen
 		</info>
     </weapon>
     <weapon id="1766">
@@ -4259,11 +4257,11 @@ Nur für Rollen mit maximal 2000er Größe</info>
     </weapon>	
 	<weapon id="1768">
       <name>Tintenfisch-Köder</name>
-      <info>Ein Spezialköder um nachts Tintenfische zu angeln. Vergiss nicht die Stelle mit der Taschenlampe auszuleuchten.</info>
+      <info>Ein Spezialköder, um nachts Tintenfische zu angeln. Vergiss nicht die Stelle mit der Taschenlampe auszuleuchten.</info>
     </weapon>
     <weapon id="1769">
       <name>Krill-Kügelchen</name>
-      <info>Fertige Köderbällchen mit kleinen Krebstieren. Gut zum Fangen von Seefisch, Schrimps und Tintenfisch.</info>
+      <info>Fertige Köderbällchen mit kleinen Krebstieren. Gut zum Fangen von Seefisch, Garnele und Tintenfisch.</info>
     </weapon>	
 	 <weapon id="1770">
       <name>Vorfach 7,9kg</name>
@@ -4271,23 +4269,23 @@ Nur für Rollen mit maximal 2000er Größe</info>
       </info>
     </weapon>
     <weapon id="1771">
-      <name>Kleines Clubangebot</name>
-      <info>Beschaffung für Ihren Club, um Ihnen bei der Aufrüstung Ihres Clubs zu helfen
+      <name>Kleine Cluberweiterung</name>
+      <info>Ressource zur Verbesserung eines Angelclubs.
 +3 Cluberfahrung</info>
     </weapon>
     <weapon id="1772">
-      <name>Mittleres Clubangebot</name>
-      <info>Beschaffung für Ihren Club, um Ihnen bei der Aufrüstung Ihres Clubs zu helfen
+      <name>Mittlere Cluberweiterung</name>
+      <info>Ressource zur Verbesserung eines Angelclubs.
 +10 Cluberfahrung</info>
     </weapon>
     <weapon id="1773">
-      <name>Großes Clubangebot</name>
-      <info>Beschaffung für Ihren Club, um Ihnen bei der Aufrüstung Ihres Clubs zu helfen
+      <name>Große Cluberweiterung</name>
+      <info>Ressource zur Verbesserung eines Angelclubs.
 +100 Cluberfahrung</info>
     </weapon>	
 	    <weapon id="1774">
       <name>Exceller 3m</name>
-      <info>Sondermodell zum Angeln vom Boot aus oder unter beengten Verhältnissen</info>
+      <info>Sondermodell zum Angeln vom Boot aus oder unter beengten Verhältnissen.</info>
     </weapon>
     <weapon id="1775">
       <name>VibroTail Series</name>
@@ -4332,29 +4330,29 @@ Nur für Rollen mit maximal 2000er Größe</info>
       <info>Ideal zum Fangen großer Karpfen. Die besten Ergebnisse werden in Kombination mit Pop-up-Boilies erzielt.</info>
     </weapon>
     <weapon id="1784">
-      <name>Fliegen Vorfach</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <name>FF-Vorfächer</name>
+      <info>Konische Vorfächer zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1785">
-      <name>Fliegen Vorfach 1,5kg</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <name>FF-Vorfach 1,5kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1786">
-      <name>Fliegen Vorfach 6,4kg</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <name>FF-Vorfach 6,4kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1787">
-      <name>Fliegen Vorfach 14,5kg</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <name>FF-Vorfach 14,5kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1788">
-      <name>Fliegen Vorfach 19,2kg</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <name>FF-Vorfach 19,2kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1789">
       <name>RF Bachflohkrebs</name>
-      <info>Flohkrebs Imitation, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für: Regenbogenforelle, Rotauge
+      <info>Flohkrebsimitation, für das Positionieren in der Mitte des Wassers.
+Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für: Regenbogenforelle, Rotauge
 </info>
     </weapon>
     <weapon id="1790">
@@ -4364,20 +4362,20 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1791">
       <name>WB Streamer M1</name>
-      <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für: Dicklippige Meeräsche, Döbel, Europäische Äsche, Grashecht, Quappe, Rotauge, Rotfeder, Saimaa-Forelle, Tintenfisch, Weißbauchflunder, Zander
+      <info>Streamer Woolly Bugger, für das Positionieren in der Mitte des Wassers. 
+Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für: Dicklippige Meeräsche, Döbel, Europäische Äsche, Grashecht, Quappe, Rotauge, Rotfeder, Saimaa-Forelle, Tintenfisch, Weißbauchflunder, Zander
 	</info>
     </weapon>
     <weapon id="1792">
       <name>WB Streamer M2</name>
-      <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für: Aland, Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Grashecht, Hecht, Rotauge, Saibling
+      <info>Streamer Woolly Bugger, für das Positionieren in der Mitte des Wassers. 
+Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für: Aland, Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Grashecht, Hecht, Rotauge, Saibling
 	</info>
     </weapon>
     <weapon id="1793">
       <name>WB Streamer M3</name>
-      <info>Streamer Woolly Bugger, für das positonieren in der Mitte des Wassers 
-Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für: Europäische Äsche, Flussbarsch, Regenbogenforelle, Saibling, Saimaa-Forelle, Seeforelle
+      <info>Streamer Woolly Bugger, für das Positionieren in der Mitte des Wassers. 
+Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für: Europäische Äsche, Flussbarsch, Regenbogenforelle, Saibling, Saimaa-Forelle, Seeforelle
 	</info>
     </weapon>
     <weapon id="1794">
@@ -4386,27 +4384,27 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
       </info>
     </weapon>
     <weapon id="1795">
-      <name>Glöckchenton Mittel</name>
+      <name>Glöckchenton, Mittel</name>
       <info>
       </info>
     </weapon>
     <weapon id="1796">
-      <name>Glöckchenton Hoch</name>
+      <name>Glöckchenton, Hoch</name>
       <info>
       </info>
     </weapon>
     <weapon id="1797">
-      <name>Glöckchenton Tief</name>
+      <name>Glöckchenton, Tief</name>
       <info>
       </info>
     </weapon>
     <weapon id="1798">
       <name>Fliegen Vorfach 11,2kg</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>	
     <weapon id="1799">
       <name>Fliegen Vorfach 17,2kg</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>			
     <weapon id="1800">
       <name>Seebündel</name>
@@ -4420,7 +4418,7 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1802">
       <name>BeeFeeder RSL</name>
-      <info>Leichte professionelle Feeder-Rolle</info>
+      <info>Leichte professionelle Feederrolle.</info>
     </weapon>
     <weapon id="1803">
       <name>BeeFluo 5,8kg</name>
@@ -4428,30 +4426,33 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
       </info>
     </weapon>
     <weapon id="1804">
-      <name>Komplettset BeePicker</name>
-      <info>Das Set enthält eine Picker-Rute, eine Rolle, eine Schnur aus einem BeePicker-Set des bekannten Herstellers Basser</info>
+      <name>Kit "BeePicker"</name>
+      <info>Das Kit besteht aus leichter Picker-Rute (6kg, + 50% Erfahrung), Rolle und Schnur. Ungeöffnet kann es verschickt werden.</info>
     </weapon>
     <weapon id="1805">
       <name>SeaHook FH-4</name>
-      <info>Starke und scharfe Haken in Größe 2/0 für das Salzwasserfischen mit Köderbündeln</info>
+      <info>Starke und scharfe Haken in Größe 2/0 für das Salzwasserfischen mit Köderbündeln.</info>
     </weapon>
     <weapon id="1806">
       <name>SeaHook FH-5</name>
-      <info>Starke und scharfe Haken in Größe 5/0 für das Salzwasserfischen mit Köderbündeln</info>
+      <info>Starke und scharfe Haken in Größe 5/0 für das Salzwasserfischen mit Köderbündeln.</info>
     </weapon>
     <weapon id="1807">
       <name>Akma VB1 Gold</name>
-      <info>Schwerer Köder für die vertikale Führung. Fängig für: Europäischer Wolfsbarsch, Seesaibling, Seehecht
+      <info>Schwerer Köder für die vertikale Führung. 
+Fängig für: Europäischer Wolfsbarsch, Seesaibling, Seehecht
 	  </info>
     </weapon>
     <weapon id="1808">
       <name>Akma VB2 Silver</name>
-      <info>Schwerer Köder für die vertikale Führung. Fängig für: Seehecht, Schwarzbarsch
+      <info>Schwerer Köder für die vertikale Führung. 
+Fängig für: Seehecht, Schwarzbarsch
 	  </info>
     </weapon>
     <weapon id="1809">
       <name>Akma VB3 Fluo</name>
-      <info>Schwerer Köder für die vertikale Führung. Für Nachts. Fängig für: Bachsaibling, Blaubarsch, Zander	  
+      <info>Schwerer Köder für die vertikale Führung. Zum Nachtangeln geeignet. 
+Fängig für: Bachsaibling, Blaubarsch, Zander	  
 	  </info>
     </weapon>
     <weapon id="1810">
@@ -4462,15 +4463,15 @@ Nassfliege für das stromabwärts "Strippen" mit gespannter Schnur. Fängig für
     <weapon id="1811">
       <name>Picker USens LL5</name>
       <info>Picker-Klasse Light
-Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
-Nur Rollengröße 2500 und kleiner sind zulässig
+Eine leichte Version einer Grundangel zum präzisen Werfen des leichten Feederkorbs.
+Nur Rollengröße 2500 und kleiner sind zulässig.
 + 30% Erfahrung</info>
     </weapon>
     <weapon id="1812">
       <name>Picker USens UL3</name>
       <info>Picker-Klasse Ultra Light
-Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
-Nur Rollengröße 2500 und kleiner sind zulässig
+Eine leichte Version einer Grundangel zum präzisen Werfen des leichten Feederkorbs.
+Nur Rollengröße 2500 und kleiner sind zulässig.
 + 50% Erfahrung</info>
     </weapon>
     <weapon id="1813">
@@ -4480,8 +4481,8 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     <weapon id="1814">
       <name>Pickers USens ML7</name>
       <info>Picker-Klasse Medium Light
-Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
-Nur Rollengröße 2500 und kleiner sind zulässig
+Eine leichte Version einer Grundangel zum präzisen Werfen des leichten Feederkorbs.
+Nur Rollengröße 2500 und kleiner sind zulässig.
 + 10% Erfahrung</info>
     </weapon>
     <weapon id="1815">
@@ -4490,43 +4491,43 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     </weapon>
     <weapon id="1816">
       <name>Fliegen Vorfach 10,4kg</name>
-      <info>Konisches Vorfach zum Fliegenfischen</info>
+      <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>
     <weapon id="1817">
       <name>NS XG11 Light</name>
-      <info>Schnur für´s Fliegenfischen (Grün)</info>
+      <info>Schnur fürs Fliegenfischen (Grün).</info>
     </weapon>
     <weapon id="1818">
       <name>USens Line</name>
-      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+      <info>Diese geflochtene Angelschnur der Usens-Serie dient der Ausstattung der gleichnamigen Picker-Rute dieser Serie.</info>
     </weapon>
     <weapon id="1819">
       <name>USens L-3</name>
-      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+      <info>Diese geflochtene Angelschnur der Usens-Serie dient der Ausstattung der gleichnamigen Picker-Rute dieser Serie.</info>
     </weapon>
     <weapon id="1820">
       <name>USens L-5</name>
-      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+      <info>Diese geflochtene Angelschnur der Usens-Serie dient der Ausstattung der gleichnamigen Picker-Rute dieser Serie.</info>
     </weapon>
     <weapon id="1821">
       <name>USens L-7</name>
-      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+      <info>Diese geflochtene Angelschnur der Usens-Serie dient der Ausstattung der gleichnamigen Picker-Rute dieser Serie.</info>
     </weapon>
     <weapon id="1822">
       <name>USens RSL Series</name>
-      <info>Leichte professionelle Feeder-Rolle</info>
+      <info>Leichte professionelle Feederrolle.</info>
     </weapon>
     <weapon id="1823">
       <name>USens RSL 3</name>
-      <info>Leichte professionelle Feeder-Rolle</info>
+      <info>Leichte professionelle Feederrolle.</info>
     </weapon>
     <weapon id="1824">
       <name>USens RSL 5</name>
-      <info>Leichte professionelle Feeder-Rolle</info>
+      <info>Leichte professionelle Feederrolle.</info>
     </weapon>
     <weapon id="1825">
       <name>USens RSL 7</name>
-      <info>Leichte professionelle Feeder-Rolle</info>
+      <info>Leichte professionelle Feederrolle.</info>
     </weapon>	
     <weapon id="1826">
       <name>Waggler-8-6 С1</name>
@@ -4603,8 +4604,8 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     </weapon>
     <weapon id="1841">
       <name>DS Breamer Pro 12</name>
-      <info>Feederrute des niederländischen Herstellers DammSPRO. Verfügt über eine hervorragende Ballistik zum werfen schwerer Köder über große Entfernungen.
-Rollengröße 4000 und kleiner sind geeignet
+      <info>Feederrute des niederländischen Herstellers DammSPRO. Verfügt über eine hervorragende Ballistik zum Werfen schwerer Köder über große Entfernungen.
+Rollengröße 4000 und kleiner sind geeignet.
 +10% Erfahrung</info>
     </weapon>
     <weapon id="1842">
@@ -4613,27 +4614,27 @@ Rollengröße 4000 und kleiner sind geeignet
     </weapon>
     <weapon id="1843">
       <name>DS Breamer Pro F</name>
-      <info>Rolle des niederländischen Herstellers DammSPRO. Konzipiert fürs Feederfischen</info>
+      <info>Rolle des niederländischen Herstellers DammSPRO. Konzipiert fürs Feederfischen.</info>
     </weapon>
     <weapon id="1844">
       <name>DS TwLine-8</name>
-      <info>Monoschnur des niederländischen Herstellers DammSPRO</info>
+      <info>Monoschnur des niederländischen Herstellers DammSPRO.</info>
     </weapon>
     <weapon id="1845">
       <name>DS TwLine-18</name>
-      <info>Monoschnur des niederländischen Herstellers DammSPRO</info>
+      <info>Monoschnur des niederländischen Herstellers DammSPRO.</info>
     </weapon>
     <weapon id="1846">
       <name>DS TwLine</name>
-      <info>Monoschnur des niederländischen Herstellers DammSPRO</info>
+      <info>Monoschnur des niederländischen Herstellers DammSPRO.</info>
     </weapon>
     <weapon id="1847">
       <name>DS Basket 30-40g</name>
-      <info>Feederkorb vom Typ "Basket" für das Feederfischen</info>
+      <info>Feederkorb vom Typ "Basket" für das Feederfischen.</info>
     </weapon>
     <weapon id="1848">
-      <name>DS Breamer Kit</name>
-      <info>Das Kit enthält eine Rute, eine Rolle, eine Schnur und einen Feederkorb aus dem Premium Breamer Pro Kit</info>
+      <name>Kit "DS Breamer"</name>
+      <info>Das Kit besteht aus Rute, Rolle, Schnur und einem Feederkorb aus dem Premium Breamer Pro-Angebot.</info>
     </weapon>
     <weapon id="1849">
       <name>Bombard FLT - 35</name>
@@ -4656,32 +4657,32 @@ Rollengröße 4000 und kleiner sind geeignet
       </info>
     </weapon>
     <weapon id="1853">
-      <name>Offset Haken #1</name>
+      <name>Offset H1</name>
       <info>
       </info>
     </weapon>
     <weapon id="1854">
-      <name>Offset Haken #2</name>
+      <name>Offset H2</name>
       <info>
       </info>
     </weapon>
     <weapon id="1855">
-      <name>Offset Haken #3</name>
+      <name>Offset H3</name>
       <info>
       </info>
     </weapon>
     <weapon id="1856">
-      <name>Offset Haken #4</name>
+      <name>Offset H4</name>
       <info>
       </info>
     </weapon>
     <weapon id="1857">
-      <name>Offset Haken #5</name>
+      <name>Offset H5</name>
       <info>
       </info>
     </weapon>
     <weapon id="1858">
-      <name>Offset</name>
+      <name>Offset Series</name>
       <info>
       </info>
     </weapon>
@@ -4689,7 +4690,7 @@ Rollengröße 4000 und kleiner sind geeignet
       <name>Technoplankton</name>
       <info>Technoplankton-Tablette zum Fangen von Silber- und Graskarpfen. Für die Installation auf einem Schwimmgerät ist ein Busafa und für das Grundfischen ein spezieller Feeder erforderlich.
 
-Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info>
+Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
     </weapon>
     <weapon id="1860">
       <name>--</name>
@@ -4697,13 +4698,13 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
       </info>
     </weapon>	
     <weapon id="1861">
-      <name>Technoplankton Futter</name>
+      <name>Technoplankton-Futter</name>
       <info>
       </info>
     </weapon>
     <weapon id="1862">
       <name>Trempel</name>
-      <info>Busafa oder Trempel ist ein Rig für Technoplankton. Wird in Verbindung mit einer Posenrute verwendet. Enthält einen Rahmen für die Installation einer Technoplankton-Tablette und eine kurze Leine mit einem Haken der Größe 2, an dem eine Schaumkugel haftet</info>
+      <info>Busafa oder Trempel ist eine Montage für Technoplankton. Wird in Verbindung mit einer Posenrute verwendet. Enthält einen Rahmen für die Installation einer Technoplankton-Tablette und eine kurze Leine mit einem Haken der Größe 2, an dem eine Schaumkugel haftet.</info>
     </weapon>
     <weapon id="1863">
       <name>Waggler-20-12 C1</name>
@@ -4722,15 +4723,15 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     </weapon>
     <weapon id="1866">
       <name>Waggler-20-12 N Rot</name>
-      <info>Für Nachts + Alarm</info>
+      <info>Leuchtender Waggler zum Nachtangeln. Er verfügt über einen Alarm.</info>
     </weapon>
     <weapon id="1867">
       <name>Waggler 20-12</name>
-      <info>Nacht</info>
+      <info>Leuchtender Waggler zum Nachtangeln.</info>
     </weapon>
     <weapon id="1868">
       <name>Salmon GT-30 Series</name>
-      <info>Eine Reihe von Ködern zum Lachsfischen. Geeignet zum Angeln an Land und zum Trolling
+      <info>Eine Reihe von Ködern zum Lachsfischen. Geeignet zum Angeln an Land und zum Trolling.
 	  </info>
     </weapon>
     <weapon id="1869">
@@ -4753,21 +4754,21 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     </weapon>
     <weapon id="1872">
       <name>CRL DeepGracia</name>
-      <info>Spinner zum Tiefseefischen</info>
+      <info>Spinner zum Tiefseefischen.</info>
     </weapon>
     <weapon id="1873">
       <name>CRL DG-M1</name>
-      <info>Spinner zum Tiefseefischen
+      <info>Spinner zum Tiefseefischen.
 	  Fängig für: Atlantischer Hering
 	  </info>
     </weapon>
     <weapon id="1874">
       <name>CRL DG-M2</name>
-      <info>Spinner zum Tiefseefischen</info>
+      <info>Spinner zum Tiefseefischen.</info>
     </weapon>
     <weapon id="1875">
       <name>CRL DG-M3</name>
-      <info>Spinner zum Tiefseefischen
+      <info>Spinner zum Tiefseefischen.
 	  Fängig für:Atlantischer Hering
 	  </info>
     </weapon>
@@ -4822,16 +4823,16 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
       </info>
     </weapon>
     <weapon id="1886">
-      <name>Waggler-20-12 N Grün</name>
-      <info>Für Nachts + Alarm</info>
+      <name>Waggler 20-12 N Grün</name>
+      <info>Leuchtender Waggler zum Nachtangeln. Er verfügt über einen Alarm.</info>
     </weapon>
     <weapon id="1887">
-      <name>Waggler-20-12 N Blau</name>
-      <info>Für Nachts + Alarm</info>
+      <name>Waggler 20-12 N Blau</name>
+      <info>Leuchtender Waggler zum Nachtangeln. Er verfügt über einen Alarm.</info>
     </weapon>
     <weapon id="1888">
-      <name>Waggler-20-12 N Serie</name>
-      <info>Für Nachts + Alarm</info>
+      <name>Waggler 20-12 N Series</name>
+      <info>Leuchtende Waggler zum Nachtangeln mit Bissalarm.</info>
     </weapon>
     <weapon id="1889">
       <name>IonSpin N-Series</name>
@@ -4855,11 +4856,11 @@ Zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich</info
     </weapon>	
     <weapon id="1893">
       <name>Preiskiste</name>
-      <info>Enthält einen zufällig gefärbten 20-12 Waggler und 30 Turniermarken</info>
+      <info>Enthält einen zufälligen farbigen 20-12 Waggler und 30 Turniermarken.</info>
     </weapon>
     <weapon id="1894">
-      <name>Waggler kit</name>
-      <info>Das Set enthält drei leuchtende Waggler 20-12 N in verschiedenen Farben</info>
+      <name>Kit "Waggler 20-12 N"</name>
+      <info>Das Kit enthält drei nachtleuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).</info>
     </weapon>
   </weapons>
 </wpnlang>

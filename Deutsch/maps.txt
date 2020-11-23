@@ -5,7 +5,7 @@
 2_Name=Russland: Fluss Pra
 2_Info=
 
-3_Name=Frankreich: Perruchet Seen
+3_Name=Frankreich: Perruchet-Seen
 3_Info=
 
 4_Name=Finnland: Kulgusee

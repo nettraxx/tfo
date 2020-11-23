@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <auk_data>
 	<categories>
-		<category id="-90" name="Auktionswaren">
-		<category idlist="1,2,3,4,5" name="Tackles and accessories"/>
+		<category id="-90" name="Auktionsgegenstände">
+		<category idlist="1,2,3,4,5" name="Angelgeräte und Zubehör"/>
 		<category id="32" name="Reparatursätze"/>
 		<category id="34" name="Handbücher"/>
 		<category idlist="17,18,33" name="Aussehen"/>
 		<category idlist="10,11" name="Köder und Lockmittel"/>
 		<category idlist="12" name="Blinker und Twister"/>
-		<category idlist="21,22,23" name="Medikamente, Essen und Trinken"/>
+		<category idlist="21,22,23" name="Medikamente und Nahrung"/>
 		<category id="26" name="Teile und Modifikationen"/>
 		<category id="25" name="Komponenten"/>
 		<category id="24" name="Ressourcen"/>
