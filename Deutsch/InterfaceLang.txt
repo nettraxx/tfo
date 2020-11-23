@@ -137,7 +137,7 @@ trof_mtype_4=GOLD
 
 trof_capt_1=TROPHÄEN AUS WETTBEWERBEN
 trof_capt_100=TURNIERTROPHÄEN
-trof_capt_200=TROPHÄEN AUS GEWÄSSERN
+trof_capt_200=TROPHÄEN VON GEWÄSSERN
 trof_capt_300=TROPHÄEN VON FISCHARTEN
 
 stat_capt_luck=Glücksfisch
