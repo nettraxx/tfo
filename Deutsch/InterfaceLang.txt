@@ -141,7 +141,7 @@ trof_capt_200=TROPHÄEN VON GEWÄSSERN
 trof_capt_300=TROPHÄEN VON FISCHARTEN
 
 stat_capt_luck=Glücksfisch
-stat_capt_love=Lieblingsfisch
+stat_capt_love=Meistgefangener Fisch
 untrof_count=Trophäen: {0} Stk
 
 -------------------
