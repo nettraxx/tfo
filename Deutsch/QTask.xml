@@ -148,9 +148,9 @@
 			<task id="10" txt="Fange [fish] (Gewichtsunterschied)"/>
 			<task id="11" txt="Fange [fish] auf [baitid] (Gewichtsunterschied)"/> 	
 		
-			<task id="101" txt="[size=16]Karpfen-Gesamtgewicht[/size]\n[size=12](Gold- х2, Leder- х1, Restliche Karpfen х1)[/size]"/>    	  
-			<task id="112" txt="[size=16]Forellen-Gesamtgewicht[/size]\n[size=12](Gold- х3, Bach- х2, Regenbogen- х1, Seeforelle х1)[/size]"/>
-			<task id="150" txt="[size=16]Brachsen-Gesamtgewicht[/size]\n[size=12](Zope х3, Zobel х2, Brachse х1, Güster х1)[/size]"/>		
+			<task id="101" txt="[size=16]Karpfen-Gesamtgewicht[/size]\n[size=12](Gold- х2, Leder-, Spiegel- und Schuppenkarpfen х1)[/size]"/>    	  
+			<task id="112" txt="[size=16]Forellen-Gesamtgewicht[/size]\n[size=12](Gold- х3, Bach- х2, Regenbogen- und Seeforelle х1)[/size]"/>
+			<task id="150" txt="[size=16]Brachsen-Gesamtgewicht[/size]\n[size=12](Zope х3, Zobel х2, Brachse und Güster х1)[/size]"/>		
 		</cat>
 	</cats>
 </quests>
