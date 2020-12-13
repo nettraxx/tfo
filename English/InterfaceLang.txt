@@ -1,4 +1,10 @@
 ﻿[INTERFACE]
+club_trofinf=Club trophies
+club_btn2=Club rating
+arw_h5=CLUB RATING
+setng_lb9=Field of view
+
+--------------------
 
 dntpck_6_name=Packet "Salamo Gold"
 dntpck_6_info=The kit contains a bottom fishing rod (43 kg / 4m / test 50-110), a reel, a fishing line and a feeder basket from the Salamo CarpHunter Gold kit

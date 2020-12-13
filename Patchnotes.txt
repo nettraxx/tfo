@@ -1,3 +1,10 @@
+Patch 1.42.0
+Kamera-FOV-Einstellung hinzugefügt (Einstellungsspiel-Sichtfeld)
+Animationen des Kutum-Fischmodells hinzugefügt
+Bewertung von Clubs im Testmodus hinzugefügt
+Migration auf die aktuelle Version der Game Engine
+andere kleinere Gameplay-Korrekturen
+
 Patch 1.41.5
 Übersetzungsänderungen von LeLeon übernommen
 

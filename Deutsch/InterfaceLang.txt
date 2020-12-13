@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
 
+club_trofinf=Clubtrophäen
+club_btn2=Clubbewertung
+arw_h5=CLUB-BEWERTUNG
+setng_lb9=Sichtfeld
+
+--------------------
 dntpck_6_name=Kit "Salamo Gold"
 dntpck_6_info=Das Kit besteht aus Grundrute (43kg), Rolle (42kg), Angelschnur (42kg) und einem Feederkorb./nUngeöffnet kann das Kit verschickt werden.
 
@@ -230,7 +236,7 @@ boat_inf8=Motor an/aus [J]\nAnker rauf/runter [K]
 -------------------
 
 club_levup=Club auf Stufe {0} aktualisiert
-club_expadd=Club hat {0} Erfahrung gesammelt
+club_expadd=<color='#20d364'>Club hat {0} Erfahrung gesammelt</color>
 qd_clname=Club
 
 dntpck_130_name=Gründerpaket
