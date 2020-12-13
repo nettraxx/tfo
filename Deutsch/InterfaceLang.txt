@@ -367,6 +367,7 @@ key_ftank=Kescher öffnen (C)
 key_slight=Taschenlampe (P)
 key_rodpode=Rodpod aufstellen (Space)
 key_showui=Benutzeroberfläche ein/aus (F9)
+key_showturn=Turnier anzeigen (TAB)
 
 setbtn_0=Grafik
 setbtn_1=Sounds
