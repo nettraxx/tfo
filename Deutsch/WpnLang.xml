@@ -380,7 +380,7 @@
     </weapon>
     <weapon id="1020">
       <name>Wurmbündel</name>
-      <info>Fängig für: Barbe, Quappe, Schleie, Schuppenkarpfen
+      <info>Fängig für: Barbe, getüpfelter Gabelwels, Quappe, Schleie, Schuppenkarpfen
       </info>
     </weapon>
     <weapon id="1021">
@@ -390,7 +390,7 @@
     </weapon>
     <weapon id="1022">
       <name>Mais</name>
-      <info>Fängig für: Aland, Graskarpfen, Lederkarpfen, Schuppenkarpfen, Wildkarpfen
+      <info>Fängig für: Aland, Albino Goldkarpfen, Graskarpfen, Lederkarpfen, Schuppenkarpfen, Wildkarpfen
       </info>	  
     </weapon>
     <weapon id="1023">
@@ -1220,7 +1220,7 @@
     </weapon>
     <weapon id="1176">
       <name>Fischfetzen</name>
-      <info>Fängig für: Aal, Bachsaibling, Blutegel, Dicklippige Meeräsche, Dorade Royal, Europäischer Wels, Finte, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kabeljau, Kaspi-Maifisch, Meeräsche, Muschel, Seehecht, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schellfisch, Garnele, Sprotte, Sternflunder, Stint, Taimen
+      <info>Fängig für: Aal, Albinowels, Bachsaibling, Blutegel, Dicklippige Meeräsche, Dorade Royal, Europäischer Wels, Finte, Flussbarsch, Flusskrebs, Getüpfelter Gabelwels, Goldbrasse, Großkopfmeeräsche, Kabeljau, Kaspi-Maifisch, Meeräsche, Muschel, Seehecht, Peledmaräne, Quappe, Regenbogenforelle, Russischer Stör, Schellfisch, Garnele, Sprotte, Sternflunder, Stint, Taimen
       </info>
     </weapon>
     <weapon id="1177">
@@ -3379,7 +3379,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1582">
       <name>Boilie "Mais"</name>
-      <info>Fängig für: Wildkarpfen	  
+      <info>Fängig für: Spiegelkarpfen, Wildkarpfen	  
       </info>
     </weapon>
     <weapon id="1583">
@@ -3389,7 +3389,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1584">
       <name>Boilie "Sahne"</name>
-      <info>Fängig für: Brachse, Lederkarpfen, Schuppenkarpfen
+      <info>Fängig für: Albino Goldkarpfen, Brachse, Lederkarpfen, Schuppenkarpfen
       </info>
     </weapon>
     <weapon id="1585">
@@ -3419,7 +3419,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1590">
       <name>Boilie "Minze"</name>
-      <info>Fängig für: Graskarpfen, Schuppenkarpfen, Schwarzer Amur, Silberkarpfen, Wildkarpfen
+      <info>Fängig für: Albino Goldkarpfen, Graskarpfen, Schuppenkarpfen, Schwarzer Amur, Silberkarpfen, Wildkarpfen
       </info>
     </weapon>
     <weapon id="1591">
@@ -3694,7 +3694,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1648">
       <name>Wattwurm</name>
-      <info>Fängig für: Barbe, Belugastör, Brachse, Dicklippige Meeräsche, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Kabeljau, Meerzander, Schellfisch, Sternflunder, Schwarzbarsch, Tiberbarbe, Zander
+      <info>Fängig für: Barbe, Belugastör, Brachse, Dicklippige Meeräsche, Europäischer Wels, Europäischer Wolfsbarsch, Flussbarsch, Forellenbarsch, Grashecht, Großkopfmeeräsche, Kabeljau, Kaulbarsch, Meerzander, Schellfisch, Sternflunder, Schwarzbarsch, Tiberbarbe, Zander
       </info>
     </weapon>
     <weapon id="1649">
@@ -3874,7 +3874,7 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1687">
       <name>See-Köderfisch</name>
-      <info>Herstellbar aus: Grundel, Meeräsche
+      <info>Herstellbar aus: Grundel, Meeräsche, Weißer Thunfisch
       </info>
     </weapon>
     <weapon id="1688">
@@ -4227,7 +4227,7 @@ Nur für Rollen mit maximal 2000er Größe.</info>
 	  </weapon>
 	  <weapon id="1762">
       <name>Eintagsfliege</name>
-      <info>Fängig für: Bachforelle, Barbe, Frosch, Güster, Hasel, Kaspi-Maifisch, Kaspischer Hering, Malamida, Maräne, Regenbogenforelle, Garnele, Schwarze Äsche, Strömer, Teichforelle, Tiberbarbe, Zwergmaräne
+      <info>Fängig für: Bachforelle, Barbe, Europäische Äsche, Frosch, Güster, Hasel, Kaspi-Maifisch, Kaspischer Hering, Malamida, Maräne, Regenbogenforelle, Garnele, Schwarze Äsche, Strömer, Teichforelle, Tiberbarbe, Zwergmaräne
 		</info>
     </weapon>
     <weapon id="1763">
@@ -4741,7 +4741,7 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     <weapon id="1870">
       <name>VIB Salmon GT-2</name>
       <info>Lachsfischköder-Serie
-	  Fängig für: Buckellachs, Schellfisch
+	  Fängig für: Buckellachs, Hecht, Schellfisch
 	  </info>
     </weapon>
     <weapon id="1871">
