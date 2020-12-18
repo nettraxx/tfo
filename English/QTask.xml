@@ -171,6 +171,7 @@
       <task id="5" txt="Daily: [fish] from [minwgt]: [weight]/[maxweight]"/>
       <task id="6" txt="Daily: [fish]: [weight]/[maxweight]"/>
       <task id="7" txt="Daily: [fish] on [baitid]: [weight]/[maxweight]"/>
+	  <task id="8" txt="[fish] on [minwgt] to [maxwgt]: [curcnt]/[maxcnt] pcs"/>
     </cat>
 	
 	

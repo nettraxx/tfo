@@ -1,3 +1,12 @@
+Patch 1.43.0
+Vom 18. Dezember bis 10. Januar finden im Spiel "Neujahrsveranstaltungen" statt.
+Erfüllen Sie spezielle Aufgaben in Deutschland, Frankreich, Italien und der Ukraine, um "Event-Token" zu erhalten. 
+An der Basis in Deutschland gibt es einen festlichen Weihnachtsbaum, an dem Sie mit Token nützliche Gegenstände kaufen können.
+Folgen Sie den Nachrichten, um die anderen Phasen der Staffelereignisse, die wir für Sie in diesem neuen Jahr vorbereitet haben, nicht zu verpassen.
+Frohes neues Jahr! Möge dieses Jahr uns viel Glück, viel Glück, Lächeln, Wärme und Licht bringen. 
+Lassen Sie es voller heller Farben, angenehmer Eindrücke und freudiger Ereignisse sein. 
+Ich wünsche allen, dass sie im neuen Jahr gesund, schön und erfolgreich sind!
+
 Patch 1.42.0
 Kamera-FOV-Einstellung hinzugefügt (Einstellungsspiel-Sichtfeld)
 Animationen des Kutum-Fischmodells hinzugefügt

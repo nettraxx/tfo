@@ -3172,10 +3172,8 @@ A lightweight version of the bottom tackle for precise casting of light feeders 
 a Strange and frightening place. I think I've seen it in my dreams before..</info>
     </weapon>
     <weapon id="1549">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Travel to Iran</name>
+	  <info>Moves the player to the specified location for 2 hours</info>
     </weapon>
     <weapon id="1550">
       <name>Travel to Norway</name>
@@ -4819,6 +4817,37 @@ DammSPRO. Focused on feeder fishing</info>
     <weapon id="1894">
       <name>Waggler kit</name>
       <info>The kit contains three luminous wagler floats of 20-12 different colors</info>
+    </weapon>	
+	
+
+
+    <weapon id="1895">
+      <name>Travel to Yenisei</name>
+	  <info>Moves the player to the specified location for 2 hours</info>
+    </weapon>
+    <weapon id="1896">
+      <name>Lure Mouse-М1</name>
+      <info>Special bait simulating a swimming mouse</info>
+    </weapon>
+    <weapon id="1897">
+      <name>Lure Mouse-М2</name>
+      <info>Special bait simulating a swimming mouse</info>
+    </weapon>
+    <weapon id="1898">
+      <name>Lure Mouse-М3</name>
+      <info>Special bait simulating a swimming mouse</info>
+    </weapon>
+    <weapon id="1899">
+      <name>Lure Chipmunk-NY</name>
+      <info>Special bait simulating a swimming chipmunk</info>
+    </weapon>
+    <weapon id="1900">
+      <name>Lure Mouse</name>
+      <info>Special bait simulating a swimming chipmunk</info>
+    </weapon>
+    <weapon id="1901">
+      <name>Travel to Finland</name>
+      <info>Moves the player to the specified location for 2 hours</info>
     </weapon>	
 	
   </weapons>

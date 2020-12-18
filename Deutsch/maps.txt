@@ -30,8 +30,8 @@
 10_Info=
 
 11_Name=Norwegen: Der Fjord
-12_Name=X Russland: Taimyr
-13_Name=X USA: American River
+12_Name=Russland: Taimyr
+13_Name=USA: American River
 14_Name=Niederlande: Der Kanal
 15_Name=Atom: Ödland
 

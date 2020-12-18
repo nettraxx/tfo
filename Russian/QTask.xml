@@ -110,6 +110,7 @@
       <task id="5" txt="Ежедн. [fish] от [minwgt]: [weight]/[maxweight]"/>
       <task id="6" txt="Ежедн. [fish]: [weight]/[maxweight]"/>
       <task id="7" txt="Ежедн. [fish] на [baitid]: [weight]/[maxweight]"/>
+	  <task id="8" txt="[fish] от [minwgt] до [maxwgt]: [curcnt]/[maxcnt] шт"/>
     </cat>	
 
     <!-- ************************************************************** -->

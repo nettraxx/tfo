@@ -3204,16 +3204,16 @@ der für das Top Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels
       </info>
     </weapon>
     <weapon id="1548">
-      <name>Reise zum ATOM</name>
+      <name>Ausflug nach ATOM</name>
       <info>Aus dem Fischertagebuch:
 Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen Träumen gesehen..</info>
     </weapon>
     <weapon id="1549">
-      <name>Reise in den Iran</name>
+      <name>Ausflug nach Iran</name>
       <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
     </weapon>
     <weapon id="1550">
-      <name>Reise nach Norwegen</name>
+      <name>Ausflug nach Norwegen</name>
       <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
     </weapon>
     <weapon id="1551">
@@ -4860,5 +4860,33 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <name>Kit "Waggler 20-12 N"</name>
       <info>Das Kit enthält drei nachtleuchtende Waggler 20-12 N in verschiedenen Farben (rot, blau, grün).</info>
     </weapon>
+    <weapon id="1895">
+      <name>Ausflug nach Jenissei</name>
+	  <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
+    </weapon>
+    <weapon id="1896">
+      <name>Mausköder-М1</name>
+      <info>Spezialköder, der eine schwimmende Maus simuliert.</info>
+    </weapon>
+    <weapon id="1897">
+      <name>Mausköder-М2</name>
+      <info>Spezialköder, der eine schwimmende Maus simuliert.</info>
+    </weapon>
+    <weapon id="1898">
+      <name>Mausköder-М3</name>
+      <info>Spezialköder, der eine schwimmende Maus simuliert.</info>
+    </weapon>
+    <weapon id="1899">
+      <name>Streifenhörnchenköder-NY</name>
+      <info>Spezialköder, der ein schwimmendes Streifenhörnchen simuliert.</info>
+    </weapon>
+    <weapon id="1900">
+      <name>Mausköder</name>
+      <info>Spezialköder, der einen schwimmende Mäuse und Streifenhörnchen simuliert.</info>
+    </weapon>
+    <weapon id="1901">
+      <name>Ausflug nach Finnland</name>
+      <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
+    </weapon>		
   </weapons>
 </wpnlang>

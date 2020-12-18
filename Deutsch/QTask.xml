@@ -127,6 +127,7 @@
 			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
 			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
 			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
+			<task id="8" txt="[fish] von [minwgt] bis [maxwgt]: [curcnt]/[maxcnt] Stk"/>
 		</cat>
 
 		<!-- ************************************************************** -->
