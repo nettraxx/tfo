@@ -3874,7 +3874,7 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1687">
       <name>See-Köderfisch</name>
-      <info>Herstellbar aus: Grundel, Meeräsche, Weißer Thunfisch
+      <info>Herstellbar aus: Grundel, Meeräsche
       </info>
     </weapon>
     <weapon id="1688">
@@ -4798,8 +4798,7 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <name>Salamo SFox-45</name>
       <info>
       </info>
-    </weapon>
-	
+    </weapon>	
     <weapon id="1882">
       <name>Salamo Carp-44</name>
       <info>
