@@ -1,3 +1,11 @@
+Patch 1.43.1
+Hallo Freunde. Aufgrund der Tatsache, dass viele Spieler Schwierigkeiten haben, Event-Quests abzuschließen, wurden die Bedingungen für diese Quests geändert.
+Außerdem kann jeder Spieler jetzt einmal am Tag ein Geschenk erhalten, indem er den Weihnachtsbaum in Deutschland aktiviert.
+Außerdem können Sie beim Angeln manchmal Socken in verschiedenen Farben fangen. 
+Sie können sie einfach öffnen und einen kleinen Preis erhalten, oder drei Socken anschließen und eine Geschenkbox erhalten.
+Auf der Angeltour befinden sich auch Sonderzeichen "Willkommen im Jahr 2021" und "Auf Nimmerwiedersehen 2020". 
+Diese Marker sollen nur den Wert des Fisches erhöhen.
+
 Patch 1.43.0
 Vom 18. Dezember bis 10. Januar finden im Spiel "Neujahrsveranstaltungen" statt.
 Erfüllen Sie spezielle Aufgaben in Deutschland, Frankreich, Italien und der Ukraine, um "Event-Token" zu erhalten. 

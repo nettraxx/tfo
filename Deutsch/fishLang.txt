@@ -47,6 +47,8 @@ type_107=Label "Université de Paris PFP"
 type_108=Roter Kaviar
 type_109=Schwarzer Kaviar
 
+type_110=Auf Nimmerwiedersehen 2020
+type_111=Willkommen im Jahr 2021
 
 [MESSAGES]
 
