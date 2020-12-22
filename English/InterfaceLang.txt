@@ -1,4 +1,7 @@
 ﻿[INTERFACE]
+
+disc_all=discount on everything!
+
 club_trofinf=Club trophies
 club_btn2=Club rating
 arw_h5=CLUB RATING

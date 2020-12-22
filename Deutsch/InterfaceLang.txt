@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+disc_all=Rabatt auf alle Einkäufe!
+
 club_trofinf=Clubtrophäen
 club_btn2=Clubbewertung
 arw_h5=CLUB-BEWERTUNG

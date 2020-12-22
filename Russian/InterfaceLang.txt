@@ -1,4 +1,7 @@
 [INTERFACE]
+
+disc_all=скидка на все покупки!
+
 club_trofinf=Клубные трофеи
 club_btn2=Клубный рейтинг
 arw_h5=КЛУБ РЕЙТИНГ
