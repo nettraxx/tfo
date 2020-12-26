@@ -32,7 +32,7 @@
 13_Name=X USA: American River 
 14_Name=Netherlands:channel
 15_Name=Atom: Wasteland
-
+16_Name=Siberia: Enisey
 
 [LOC_NAMES]
 ---------------------

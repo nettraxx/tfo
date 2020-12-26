@@ -34,6 +34,7 @@ type_30=Sozial
 type_31=Geschützte Arten
 type_32=Seltene Größe
 type_33=Lebender Seeköder
+type_34=Weißfisch
 
 #unique
 type_100=Großer Fisch
@@ -121,7 +122,6 @@ type_111=Willkommen im Jahr 2021
 55_Name=Atlantischer Lachs
 56_Name=Muschel
 57_Name=Baikal-Omul
-58_Name=Muksun
 59_Name=Seelachs
 60_Name=Tugun
 61_Name=Quappe
@@ -133,7 +133,7 @@ type_111=Willkommen im Jahr 2021
 67_Name=Omul-Armur
 68_Name=Asiatischer Stint
 69_Name=Russischer Stör
-70_Name=Sibirische Brachse 
+
 71_Name=Giebel
 72_Name=Blutegel
 73_Name=Peledmaräne
@@ -144,8 +144,6 @@ type_111=Willkommen im Jahr 2021
 78_Name=Kleine Brachse
 79_Name=Mason
 80_Name=Moderlieschen
-81_Name=Sibirischer Hasel
-82_Name=Buckel-Weißfisch
 83_Name=Elritze
 84_Name=Flusskrebs
 85_Name=Zernagter Schuh
@@ -428,3 +426,20 @@ type_111=Willkommen im Jahr 2021
 
 536_Name=Steinbutt
 536_Latn=Scophthalmus maximus
+
+
+------------------------
+35_Name=Sibirischer Stör
+35_Latn=Acipenser baerii
+
+70_Name=Sibirische Brasse
+70_Latn=
+
+81_Name=Sibirische Hasel
+81_Latn=
+
+82_Name=Kleine Bodenrenke
+82_Latn=Coregonus pidschian
+
+58_Name=Сиг муксун
+58_Latn=Muksun

@@ -34,6 +34,7 @@
 13_Name=USA: American River
 14_Name=Niederlande: Der Kanal
 15_Name=Atom: Ödland
+16_Name=Russland: Jenissei
 
 [LOC_NAMES]
 ---------------------

@@ -34,6 +34,7 @@ type_30=Social
 type_31=Red book
 type_32=Rare size
 type_33=Live seabait
+type_34=Whitefish
 
 #unique
 type_100=Big Fish
