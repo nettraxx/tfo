@@ -118,7 +118,7 @@ type_111=Встречаем 2021
 56_Name=Моллюск
 57_Name=Омуль байкальский
 59_Name=Лосось озерный
-60_Name=Тугун
+
 61_Name=Налим
 62_Name=Чир
 63_Name=Нельма
@@ -445,13 +445,16 @@ type_111=Встречаем 2021
 35_Latn=Acipenser baerii
 
 70_Name=Лещ сибирский
-35_Latn=
+70_Latn=
 
 81_Name=Елец сибирский
-35_Latn=
+81_Latn=
 
 82_Name=Сиг пыжьян
 82_Latn=Coregonus pidschian
 
 58_Name=Сиг муксун
 58_Latn=Coregonus muksun
+
+60_Name=Тугун
+60_Latn=Coregonus tugun

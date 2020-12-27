@@ -97,7 +97,7 @@ type_111=Welcome 2021
 //---------------------
 33_Name = Asp
 34_Name = 
-35_Name = Siberian Sturgeon
+
 36_Name = Kaluga
 37_Name = Crucian
 38_Name = Golden Crucian
@@ -122,7 +122,7 @@ type_111=Welcome 2021
 57_Name = Baikal Omul
 58_Name = Muksun
 59_Name = Lake Salmon
-60_Name = Tugun
+
 61_Name = Burbot
 62_Name = Chir
 63_Name = Nelma
@@ -132,7 +132,7 @@ type_111=Welcome 2021
 67_Name = Omul Amur
 68_Name = Asian Smelt
 69_Name = Sturgeon
-70_Name = Siberianeast Bream 
+
 71_Name = Silver Carp
 72_Name = Leech
 73_Name = Peled
@@ -146,7 +146,6 @@ type_111=Welcome 2021
 78_Name = Small Bream
 79_Name = Mason
 80_Name = Sunbleak
-81_Name = Siberian Dace
 82_Name = Humpback Whitefish
 83_Name = Amur Phoxinus
 84_Name = Narrow Crayfish
@@ -450,4 +449,21 @@ type_111=Welcome 2021
 399_Name=Sebastes norvegicus 
 399_Latn=Sebastes norvegicus 
 
+------------------------
+35_Name=Siberian Sturgeon
+35_Latn=Acipenser baerii
 
+70_Name=Siberian Bream 
+70_Latn=Abramis brama orientalis
+
+81_Name=Siberian Dace
+81_Latn=Leuciscus baicalensis
+
+82_Name=Pidschian
+82_Latn=Coregonus pidschian
+
+58_Name=Muksun
+58_Latn=Coregonus muksun
+
+60_Name=Tugun
+60_Latn=Coregonus tugun
