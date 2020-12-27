@@ -126,7 +126,7 @@ type_111=Willkommen im Jahr 2021
 
 61_Name=Quappe
 62_Name=Chir
-63_Name=Weißlachs
+
 64_Name=Sibirische Äsche
 65_Name=Teichforelle
 66_Name=Flussbarsch
@@ -446,3 +446,6 @@ type_111=Willkommen im Jahr 2021
 
 60_Name=Tugun
 60_Latn=Coregonus tugun
+
+63_Name=Weißlachs
+63_Latn=Stenodus leucichthys

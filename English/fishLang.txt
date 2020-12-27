@@ -125,7 +125,7 @@ type_111=Welcome 2021
 
 61_Name = Burbot
 62_Name = Chir
-63_Name = Nelma
+
 64_Name = Siberian Grayling
 65_Name = Pond Trout
 66_Name = Perch
@@ -467,3 +467,6 @@ type_111=Welcome 2021
 
 60_Name=Tugun
 60_Latn=Coregonus tugun
+
+63_Name=White salmon
+63_Latn=Stenodus leucichthys

@@ -1,3 +1,12 @@
+Patch 1.43.6
+Sibirisches Störmodell hinzugefügt
+Ein Fehler mit falschem Lenok-Gewicht wurde behoben
+Bei einigen Wobblern wird eine gleichmäßige Führung hinzugefügt
+Der Weißfischsee wurde zum Reservoir Jenissei-Sayan hinzugefügt (der übliche Weißfisch wurde vom Standort entfernt).
+Weißlachs (Nelma) wurde zu den Stauseen Jenissei-Sayan und Kaspisch hinzugefügt
+Taimen veränderte Lebensraumpräferenzen. 
+Jetzt wird der Taimen besser unter der Küste gefangen, in der Nähe von Felsen und überfluteten Bäumen, auf felsigen Untiefen mit einer schnellen Strömung, wo er nach kleinen Fischen jagt.
+
 Patch 1.43.5
 Hallo Freunde. Ich freue mich, Ihnen mitteilen zu können, dass die Jenissei-Basis für Fischer geöffnet ist. 
 Tickets für diesen Stausee können im Laden für Event-Token gekauft werden.
