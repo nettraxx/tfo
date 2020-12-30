@@ -1,3 +1,11 @@
+Patch 1.43.7
+Anzeige der Kartenränder hinzugefügt
+Sibirische Hasel hinzugefügt
+Metallboot mit zwei Haltern hinzugefügt
+Kleine Details des Ortes hinzugefügt
+Fehler am Standort behoben
+Nach dem geplanten Neustart wird die Arktische Maräne angezeigt
+
 Patch 1.43.6
 Sibirisches Störmodell hinzugefügt
 Ein Fehler mit falschem Lenok-Gewicht wurde behoben

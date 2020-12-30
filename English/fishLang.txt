@@ -129,7 +129,6 @@ type_111=Welcome 2021
 64_Name = Siberian Grayling
 65_Name = Pond Trout
 66_Name = Perch
-67_Name = Omul Amur
 68_Name = Asian Smelt
 69_Name = Sturgeon
 
@@ -470,3 +469,6 @@ type_111=Welcome 2021
 
 63_Name=White salmon
 63_Latn=Stenodus leucichthys
+
+67_Name=Arctic Omul
+67_Latn=Coregonus autumnalis

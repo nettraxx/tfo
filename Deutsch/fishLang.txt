@@ -130,7 +130,7 @@ type_111=Willkommen im Jahr 2021
 64_Name=Sibirische Äsche
 65_Name=Teichforelle
 66_Name=Flussbarsch
-67_Name=Omul-Armur
+
 68_Name=Asiatischer Stint
 69_Name=Russischer Stör
 
@@ -449,3 +449,6 @@ type_111=Willkommen im Jahr 2021
 
 63_Name=Weißlachs
 63_Latn=Stenodus leucichthys
+
+67_Name=Arktische Maräne
+67_Latn=Coregonus autumnalis
