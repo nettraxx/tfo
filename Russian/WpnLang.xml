@@ -4339,5 +4339,25 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <name>Поездка в Финляндию</name>
       <info>Перемещает игрока на указанную локацию на 2 часа</info>
     </weapon>
+    <weapon id="1902">
+      <name>Pro Farmer 3m</name>
+      <info>Профессиональный садок для хранения рыбы.
+Дорого, но эффективно.</info>
+    </weapon>
+    <weapon id="1903">
+      <name>Pro Farmer 4m</name>
+      <info>Профессиональный садок для хранения рыбы.
+Дорого, но эффективно.</info>
+    </weapon>
+    <weapon id="1904">
+      <name>Pro Farmer 5m</name>
+      <info>Профессиональный садок для хранения рыбы.
+Дорого, но эффективно.</info>
+    </weapon>
+    <weapon id="1905">
+      <name>ProFarmer Series</name>
+      <info>Профессиональный садок для хранения рыбы.
+Дорого, но эффективно.</info>
+    </weapon>
   </weapons>
 </wpnlang>

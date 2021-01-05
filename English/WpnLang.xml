@@ -4850,5 +4850,26 @@ DammSPRO. Focused on feeder fishing</info>
       <info>Moves the player to the specified location for 2 hours</info>
     </weapon>	
 	
+    <weapon id="1902">
+      <name>Pro Farmer 3m</name>
+      <info>Professional fish cage for storing fish.
+Expensive, but effective.</info>
+    </weapon>
+    <weapon id="1903">
+      <name>Pro Farmer 4m</name>
+      <info>Professional fish cage for storing fish.
+Expensive, but effective.</info>
+    </weapon>
+    <weapon id="1904">
+      <name>Pro Farmer 5m</name>
+      <info>Professional fish cage for storing fish.
+Expensive, but effective.</info>
+    </weapon>
+    <weapon id="1905">
+      <name>ProFarmer Series</name>
+      <info>Professional fish cage for storing fish.
+Expensive, but effective.</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

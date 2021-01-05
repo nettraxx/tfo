@@ -1,3 +1,8 @@
+Patch 1.43.8
+Ende des Steam Winter Sale
+Korrektur von Texturen, einigen Modellen und Geodaten am Standort Finnland
+Eine neue Serie von Pro Farmer-Fischkeschern ist in Geschäften am Kaspischen Meer, in Finnland und in Norwegen erschienen.
+
 Patch 1.43.7
 Anzeige der Kartenränder hinzugefügt
 Sibirische Hasel hinzugefügt

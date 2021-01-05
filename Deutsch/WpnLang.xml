@@ -4886,6 +4886,26 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     <weapon id="1901">
       <name>Ausflug nach Finnland</name>
       <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
+    </weapon>	
+    <weapon id="1902">
+      <name>Pro Farmer 3m</name>
+      <info>Professioneller Fischkescher zur Lagerung von Fisch.
+Teuer, aber effektiv.</info>
+    </weapon>
+    <weapon id="1903">
+      <name>Pro Farmer 4m</name>
+      <info>Professioneller Fischkescher zur Lagerung von Fisch.
+Teuer, aber effektiv.</info>
+    </weapon>
+    <weapon id="1904">
+      <name>Pro Farmer 5m</name>
+      <info>Professioneller Fischkescher zur Lagerung von Fisch.
+Teuer, aber effektiv.</info>
+    </weapon>
+    <weapon id="1905">
+      <name>ProFarmer Series</name>
+      <info>Professioneller Fischkescher zur Lagerung von Fisch.
+Teuer, aber effektiv.</info>
     </weapon>		
   </weapons>
 </wpnlang>
