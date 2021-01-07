@@ -1,3 +1,9 @@
+Patch 1.43.9
+Änderungen in den Einstellungen des Kontrast-Gammafarbenfilters.
+Es wurde daran gearbeitet, die Stabilität des Servers zu verbessern
+Es wurde eine Reihe von "Grind Master" Fischkeschern für alle Standorte hinzugefügt. 
+Bitte beachten Sie, dass der "Tube-Profi" Kescher für 4500 Münzen nächste Woche aus dem Verkauf genommen wird.
+
 Patch 1.43.8
 Ende des Steam Winter Sale
 Korrektur von Texturen, einigen Modellen und Geodaten am Standort Finnland

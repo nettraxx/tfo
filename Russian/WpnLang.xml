@@ -1657,7 +1657,7 @@
       <info>Коллекционная карта </info>
     </weapon>
     <weapon id="1316">
-      <name>Колба-профи</name>
+      <name>--</name>
       <info>
       </info>
     </weapon>
@@ -1778,7 +1778,7 @@
       <info>  Уникальный эхолот, остатки старых технологий. Показывает глубины до 5 метров и имеет большой радиус сканирования. Имеет интеллектуальную систему определения, какое количество рыбы заинтересовалось вашей наживкой.</info>
     </weapon>
     <weapon id="1342">
-      <name>Труба-профи</name>
+      <name>--Труба-профи--</name>
       <info>
       </info>
     </weapon>
@@ -2776,7 +2776,7 @@ VIP не даёт бонуса.</info>
       <info>Для открытия носочка нажмите правой кнопкой мыши на предмете и выберите пункт "Использовать". Или соберите из трех разноцветных носочков призовой контейнер</info>
     </weapon>
     <weapon id="1567">
-      <name>Колба-мастер</name>
+      <name>-- Колба-мастер --</name>
       <info>
       </info>
     </weapon>
@@ -4358,6 +4358,30 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <name>ProFarmer Series</name>
       <info>Профессиональный садок для хранения рыбы.
 Дорого, но эффективно.</info>
+    </weapon>
+    <weapon id="1906">
+      <name>GrindMaster-I</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1907">
+      <name>GrindMaster-II</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1908">
+      <name>GrindMaster-III</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1909">
+      <name>GrindMaster-IV</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1910">
+      <name>GrindMaster-V</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1911">
+      <name>GrindMaster Series</name>
+      <info>      </info>
     </weapon>
   </weapons>
 </wpnlang>

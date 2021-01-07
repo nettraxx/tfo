@@ -4870,6 +4870,29 @@ Expensive, but effective.</info>
       <info>Professional fish cage for storing fish.
 Expensive, but effective.</info>
     </weapon>	
-	
+    <weapon id="1906">
+      <name>GrindMaster-I</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1907">
+      <name>GrindMaster-II</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1908">
+      <name>GrindMaster-III</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1909">
+      <name>GrindMaster-IV</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1910">
+      <name>GrindMaster-V</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1911">
+      <name>GrindMaster Series</name>
+      <info>      </info>
+    </weapon>	
   </weapons>
 </wpnlang>
