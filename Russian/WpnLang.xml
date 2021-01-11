@@ -1714,8 +1714,10 @@
       </info>
     </weapon>
     <weapon id="1328">
-      <name>Учебник в упаковке</name>
-      <info>Запечатанный пакет, который содержит в себе один случайный учебник навыка</info>
+      <name>Билет на квалификацию</name>
+      <info>Запечатанный билет, который выдаёт задание на квалификацию.
+
+Для тестирования</info>
     </weapon>
     <weapon id="1329">
       <name>Полевая ткань</name>
@@ -4361,27 +4363,43 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="1906">
       <name>GrindMaster-I</name>
-      <info>      </info>
+      <info>
+      </info>
     </weapon>
     <weapon id="1907">
       <name>GrindMaster-II</name>
-      <info>      </info>
+      <info>
+      </info>
     </weapon>
     <weapon id="1908">
       <name>GrindMaster-III</name>
-      <info>      </info>
+      <info>
+      </info>
     </weapon>
     <weapon id="1909">
       <name>GrindMaster-IV</name>
-      <info>      </info>
+      <info>
+      </info>
     </weapon>
     <weapon id="1910">
       <name>GrindMaster-V</name>
-      <info>      </info>
+      <info>
+      </info>
     </weapon>
     <weapon id="1911">
       <name>GrindMaster Series</name>
-      <info>      </info>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1912">
+      <name>Креветочный хвост</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1913">
+      <name>Кусочки кальмара</name>
+      <info>
+      </info>
     </weapon>
   </weapons>
 </wpnlang>

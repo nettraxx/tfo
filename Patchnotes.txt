@@ -1,3 +1,9 @@
+Patch 1.44.0
+Kescher "Tube-Profi" aus dem Verkauf im Laden entfernt.
+Hinweis auf die Länge des gefangenen Fisches in Zentimetern oder Zoll hinzugefügt.
+Das Modell von Zander und Meerzander wurde aktualisiert.
+Änderungen der Licht- und Farbeinstellungen.
+
 Patch 1.43.9
 Änderungen in den Einstellungen des Kontrast-Gammafarbenfilters.
 Es wurde daran gearbeitet, die Stabilität des Servers zu verbessern

@@ -1527,22 +1527,12 @@ Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.
       </info>
     </weapon>
     <weapon id="1233">
-      <name>
-      </name>
-      <info>Box to help the master.
-
-Small box containing components to create Rute: 1 handle, 1 Rute part и 1 passage ring. 
-
-Right-click to open the box and select "Use"</info>
+      <name>Geschenkbox</name>
+      <info>Öffne die Box um herauszufinden, was drin ist.</info>
     </weapon>
     <weapon id="1234">
-      <name>
-      </name>
-      <info>Box to help the master.
-
-Small box containing components to create reel: 1 Spool, 1 Bearing и 1 Body reel. 
-
-Right-click to open the box and select "Use"</info>
+      <name>Barscheck</name>
+      <info>Benutzen, um den Scheck einzulösen.</info>
     </weapon>
     <weapon id="1235">
       <name>
@@ -2044,10 +2034,10 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
       </info>
     </weapon>
     <weapon id="1328">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Qualifikationsticket</name>
+      <info>Ein versiegeltes Ticket, das eine Qualifikationsherausforderung darstellt.
+
+Zum Testen</info>
     </weapon>
     <weapon id="1329">
       <name>
@@ -4888,17 +4878,17 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
     </weapon>	
     <weapon id="1902">
-      <name>Pro Farmer 3m</name>
+      <name>ProFarmer 3m</name>
       <info>Professioneller Fischkescher zur Lagerung von Fisch.
 Teuer, aber effektiv.</info>
     </weapon>
     <weapon id="1903">
-      <name>Pro Farmer 4m</name>
+      <name>ProFarmer 4m</name>
       <info>Professioneller Fischkescher zur Lagerung von Fisch.
 Teuer, aber effektiv.</info>
     </weapon>
     <weapon id="1904">
-      <name>Pro Farmer 5m</name>
+      <name>ProFarmer 5m</name>
       <info>Professioneller Fischkescher zur Lagerung von Fisch.
 Teuer, aber effektiv.</info>
     </weapon>
@@ -4909,27 +4899,43 @@ Teuer, aber effektiv.</info>
     </weapon>
     <weapon id="1906">
       <name>GrindMaster-I</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1907">
       <name>GrindMaster-II</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1908">
       <name>GrindMaster-III</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1909">
       <name>GrindMaster-IV</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1910">
       <name>GrindMaster-V</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1911">
       <name>GrindMaster Series</name>
-      <info>      </info>
-    </weapon>		
+      <info>      
+	  </info>
+    </weapon>
+    <weapon id="1912">
+      <name>Garnelenschwanz</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1913">
+      <name>Tintenfischstücke</name>
+      <info>
+      </info>
+    </weapon>	
   </weapons>
 </wpnlang>

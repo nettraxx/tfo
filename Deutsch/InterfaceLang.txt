@@ -1,5 +1,8 @@
 ﻿[INTERFACE]
+lenght_inch="
+lenght_sm=cm
 
+--------------------
 disc_all=Rabatt auf alle Einkäufe!
 
 club_trofinf=Clubtrophäen
@@ -1019,7 +1022,7 @@ min_lev=<color='#{0}'>Level {1}</color>
 #------------------------------------
 #Added 05.04.2017
 
-wpn_timed=\n\n<color='#402060'>TEMPORARY left: {0} </color>
+wpn_timed=\n\n<color='#ff20a0'>TEMPORARY left: {0} </color>
 wpn_sost=\nСonfiguration:\n
 wpn_master=<color='#104005'>Created by master {0}</color>
 wpn_break=\n<color='#a06000'>BROKEN!</color>\n

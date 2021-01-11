@@ -1,5 +1,8 @@
 [INTERFACE]
+lenght_inch="
+lenght_sm=см
 
+--------------------
 disc_all=скидка на все покупки!
 
 club_trofinf=Клубные трофеи
@@ -1061,7 +1064,7 @@ min_lev=<color='#{0}'>Уровень {1}</color>
 #------------------------------------
 #Added 05.04.2017
 
-wpn_timed=\n\n<color='#402060'>ВРЕМЕННЫЙ Осталось: {0} </color>
+wpn_timed=\n\n<color='#ff20a0'>ВРЕМЕННЫЙ Осталось: {0} </color>
 wpn_sost=\nСостав:\n
 wpn_master=<color='#104005'>Создал мастер {0}</color>
 wpn_break=\n<color='#a06000'>СЛОМАНО!</color>\n
