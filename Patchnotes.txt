@@ -1,3 +1,25 @@
+Patch 1.45.0 BETA
+Offene Tests neuer Mechaniken in Build 45.0.beta wurden gestartet
+In dieser Version:
+Die Spiel-Engine wurde auf die neueste Version aktualisiert
+Passen Sie die Darstellung von Wasser-, Licht-, Nebel- und Fernplänen an und verbessern Sie sie
+Fehlerbehebung mit einem Boot in Italien
+Hinzufügen weiterer Details zum Standort Belarus
+
+Mechanik der Stippruten aktualisiert
+Verbessertes Angelverhalten beim Werfen, Haken und Angeln
+Animationen wurden geglättet und verbessert
+Erhöhte Kontrolle über Fische beim Erlernen von Ausrüstung über Stufe 10
+Aktualisiertes System zum Heben / Erreichen von Fischen
+Jetzt können Sie entscheiden, wann Sie den Kescher bekommen und ob Sie ihn überhaupt bekommen möchten. 
+Kescher kommt durch Drücken der Leertaste. Das neue System ermöglicht es Ihnen, den Fisch, der zuvor Schwierigkeiten hatte und funktioniert, auch vom Boot aus zu holen
+Köderauktion:
+Wenn Sie 30 Meter vom nächsten Geschäft entfernt sind, können Sie einige Köder aus Ihrem Inventar zur Versteigerung schicken. 
+Öffnen Sie dazu die Artikelinformationen und klicken Sie auf das Hammersymbol. 
+Um bei einer Auktion zu kaufen, öffnen Sie Ihr Smartphone und drücken Sie die Taste mit einem Hammer
+
+Da die Gameplay-Änderungen sehr groß sind, wurde beschlossen, alle diese Änderungen zuerst in der Beta-Version zu testen.
+
 Patch 1.44.0
 Kescher "Tube-Profi" aus dem Verkauf im Laden entfernt.
 Hinweis auf die Länge des gefangenen Fisches in Zentimetern oder Zoll hinzugefügt.

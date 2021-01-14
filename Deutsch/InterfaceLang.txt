@@ -1,4 +1,7 @@
 ﻿[INTERFACE]
+
+auc_mylot=MEINE AUKTIONEN
+
 lenght_inch="
 lenght_sm=cm
 
@@ -1105,42 +1108,42 @@ inv_impr=<color='#001040'>Upgradable</color>
 inv_minreq=Minimum requirements:
 inv_useeff=<color='#0080ff'>Effects of usage:</color>
 inv_effectinf=<color='#002010'>{0} on {1}</color>
-inv_post=* mail
-inv_auk=* auction
-inv_inv=Inventory expanding
-inv_icost=Bag expanding cost '{0}'
-inv_money=Money:
-inv_or= OR
-inv_rl=Reals:
-inv_invheader=Inventory
-inv_buymsg=Purchased {0} x{1} pc
-inv_auklotinf=Quantity: {0} \nPrice: {1}\nLot returns: {2:dd/MM HH:mm}
-inv_auklotn=Withdraw
-inv_aukcinf=Minimum price: {0} \nBoard lots with this price: {1}
-inv_auksum=Total purchase sum:
+inv_post=* Post
+inv_auk=* Auktion
+inv_inv=Inventarerweiterung
+inv_icost=Tachenerweiterung kostet '{0}'
+inv_money=Geld:
+inv_or= ODER
+inv_rl=Echtgeld:
+inv_invheader=Inventar
+inv_buymsg=erworben {0} x{1} Stk
+inv_auklotinf=Menge: {0} \nPreis: {1}\nMenge zurück: {2:dd/MM HH:mm}
+inv_auklotn=Zurückziehen
+inv_aukcinf=Minimum Preis: {0} \nMenge mit diesem Preis: {1}
+inv_auksum=Gesamtkaufsumme:
 
-auk_head=Auction
-auk_pbuykey=Buy-out
-auk_pstavka=Stake
-auk_pstinf=Board lot stake from {0} to {1}
-auk_whead=Items auction
-auk_wset=drawing x{0} Stk.
+auk_head=Auktion
+auk_pbuykey=Aufkaufen
+auk_pstavka=Anteil
+auk_pstinf=Einen Teil kaufen von {0} bis {1}
+auk_whead=Artikel Auktion
+auk_wset=eingestellt x{0} Stk
 
-auk_wcnt=Total board lots of this type: {0}
-auk_wmin=Minimum price: {0} for a pc
-auk_wmax=Maximum price: {0} for a pc
-auk_wavg=Starting price: {0} for a pc
-auk_swtcost=Starting price (for all):
-auc_wcstc=Price
-auc_wcswcp=Buy-out price (for all):
-auc_wsbor=Auction fee:
-auc_toauk=To auction
+auk_wcnt=Gesamtanzahl von diesem Artikel: {0}
+auk_wmin=Minimum Preis: {0} pro Stk
+auk_wmax=Maximum Preis: {0} pro Stk
+auk_wavg=Startpreis: {0} pro Stk
+auk_swtcost=Startpreis (alle):
+auc_wcstc=Preis
+auc_wcswcp=Verkaufspreis (alle):
+auc_wsbor=Auktions Gebühr:
+auc_toauk=Zur Auktion
 
-auc_reshdr=Resource auction
-auc_rescst=Sell price (for 1 pc):
-auc_resallcst=Total price for a bundle:
+auc_reshdr=Ressourcen Auktion
+auc_rescst=Verkaufspreis (für 1 Stk):
+auc_resallcst=Gesamtpreis für Paket:
 
-btn_cancel=Abbrechen
+btn_cancel=Ändern
 
 #Added 27.12.2016
 #------------------------------------

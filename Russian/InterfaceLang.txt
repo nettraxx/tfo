@@ -1,4 +1,7 @@
 [INTERFACE]
+
+auc_mylot=МОИ ЛОТЫ
+
 lenght_inch="
 lenght_sm=см
 
@@ -1184,7 +1187,7 @@ auk_swtcost=Стартовая цена (за всё):
 auc_wcstc=Цена
 auc_wcswcp=Цена выкупа (за всё):
 auc_wsbor=Аукционный сбор:
-auc_toauk=На аукцион
+auc_toauk=На аукционе
 
 auc_reshdr=Ресурсный аукцион
 auc_rescst=Цена продажи (за 1 шт):
