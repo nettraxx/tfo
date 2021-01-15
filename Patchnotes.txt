@@ -1,3 +1,12 @@
+Patch 1.45.2 BETA
+Ein Fehler mit dem Fehlen eines Modellfisches während der Erfassung wurde behoben
+Fehler bei der Auktionslieferung behoben
+Die Fischfangentfernung wird eingestellt
+Es wurde eine vorübergehende Möglichkeit hinzugefügt, Elemente aus der E-Mail aufzunehmen
+Die Helligkeit der Wasserreflexionen wurde unter verschiedenen Wetterbedingungen angepasst
+Finnland - Optimierung von Bäumen
+Andere Spiel- und Interface-Korrekturen
+
 Patch 1.45.0 BETA
 Offene Tests neuer Mechaniken in Build 45.0.beta wurden gestartet
 In dieser Version:

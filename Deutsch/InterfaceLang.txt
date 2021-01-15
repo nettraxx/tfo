@@ -858,36 +858,36 @@ cnt_dst={0:0.0}m
 #------------------------------------
 #Added 12.04.2017
 #------------------------------------
-post_1=От: {0} Written{1}\nSubject: {2}
-post_2=Delivery service
-post_3=NO LETTERS
+post_1=От: {0} Geschrieben{1}\nBetreff: {2}
+post_2=Lieferservice
+post_3=KEINE BRIEFE
 
-post_4=Close
-post_5=Write
-post_6=Delete
-post_7=Delete all
+post_4=Schließen
+post_5=Schreiben
+post_6=Löschen
+post_7=Alle Löschen
 
-post_8=Read
-post_9=Written: {1}  From: {0}
+post_8=Lesen
+post_9=Geschrieben: {1}  Von: {0}
 
-post_10=From:
-post_11=Subject:
+post_10=Von:
+post_11=Betreff:
 
-post_12=Answer
-post_13=Take attachments
+post_12=Antwort
+post_13=Anhänge annehmen
 
-post_14=<color='#000000'>Letter send cost:</color>
-post_15=Send a letter
+post_14=<color='#000000'>Kosten für den Briefversand:</color>
+post_15=Brief senden
 
-post_16=To whom
-post_17=Find
-post_18=Friends
-post_19=Letter subject
-post_20=Money to transfer:
-post_21=<color='#000000'>Letter send cost:</color>
+post_16=An wen
+post_17=Suchen
+post_18=Freunde
+post_19=Betreff des Briefes
+post_20=Silber zum Überweisen:
+post_21=<color='#000000'>Kosten für den Briefversand:</color>
 
-post_22=Money
-post_23=Attachment sum in the letter:
+post_22=Silber
+post_23=Anhangssumme im Brief:
 
 post_msg1=Geschenk erfolgreich zugestellt.
 post_msg2=Empfänger nicht gefunden!
@@ -1329,7 +1329,7 @@ wpn_cmp=Komponente
 #Added 04.12.2016
 #------------------------------------
 silence=<color='#ff0000'>Ein Moderator hat dich stumm geschaltet. {0} min verbleiben.</color>
-crft_none=NOTHING
+crft_none=NICHTS
 crft_krit=<color='#ffdd40'>Glückliches Händchen: {0}</color>
 crft_konstr=Konstruktion
 crft_sbor=Zusammenbau
