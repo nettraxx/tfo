@@ -1118,7 +1118,7 @@ inv_rl=Echtgeld:
 inv_invheader=Inventar
 inv_buymsg=erworben {0} x{1} Stk
 inv_auklotinf=Menge: {0} \nPreis: {1}\nMenge zurück: {2:dd/MM HH:mm}
-inv_auklotn=Zurückziehen
+inv_auklotn=Abbrechen
 inv_aukcinf=Minimum Preis: {0} \nMenge mit diesem Preis: {1}
 inv_auksum=Gesamtkaufsumme:
 
