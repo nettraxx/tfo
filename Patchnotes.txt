@@ -1,3 +1,9 @@
+Patch 1.45.3 BETA
+Korrektur von Fehlern mit Wasserausleuchtung zu verschiedenen Tageszeiten
+Korrektur von Fehlern beim Fang von Fischen mit einem Kescher
+Korrektur der Stipprutenmechanik
+Korrektur eines Fehlers mit nicht schwimmendem Köder an Stippruten
+
 Patch 1.45.2 BETA
 Ein Fehler mit dem Fehlen eines Modellfisches während der Erfassung wurde behoben
 Fehler bei der Auktionslieferung behoben

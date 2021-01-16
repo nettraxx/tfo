@@ -423,9 +423,8 @@
       <info> Einfache Rolle mit wenig Kraft.</info>
     </weapon>
     <weapon id="1029">
-      <name>--</name>
-      <info>
-      </info>
+      <name>Herabuna</name>
+      <info>Japanische Karausche</info>
     </weapon>
     <weapon id="1030">
       <name>Kolba-I</name>
