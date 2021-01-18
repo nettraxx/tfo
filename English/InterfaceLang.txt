@@ -1,4 +1,9 @@
 ﻿[INTERFACE]
+
+ui_frndcapt=CONTACTS
+key_opennet=Open landing net
+key_showTurn=Tournament window
+--------------------
 lenght_inch="
 lenght_sm=cm
 

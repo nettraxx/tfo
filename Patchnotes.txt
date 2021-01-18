@@ -1,3 +1,14 @@
+Patch 1.45.5 BETA
+Das Verhalten des Keschers beim Fangen von Fischen wurde behoben
+Es wurde die Möglichkeit hinzugefügt, eine Person zu Ihrer Freundesliste hinzuzufügen
+
+Patch 1.45.4 BETA
+Dynamischer Nebel hinzugefügt (wenn die Option für Volumennebel aktiviert ist)
+Das Zucken des Fisches beim Heben wurde behoben
+Problem, bei dem die Leertaste während der Erfassung des Fisches gedrückt wurde
+Behoben von der Wiedergabe von Nachtwasser
+Fehlerhafte + - Tasten beim Kauf einer Menge bei einer Auktion behoben
+
 Patch 1.45.3 BETA
 Korrektur von Fehlern mit Wasserausleuchtung zu verschiedenen Tageszeiten
 Korrektur von Fehlern beim Fang von Fischen mit einem Kescher

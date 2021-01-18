@@ -1,5 +1,10 @@
 ﻿[INTERFACE]
 
+ui_frndcapt=KONTAKTE
+key_opennet=Kescher öffnen
+key_showTurn=Turnierfenster
+
+--------------------
 auc_mylot=MEINE AUKTIONEN
 
 lenght_inch="

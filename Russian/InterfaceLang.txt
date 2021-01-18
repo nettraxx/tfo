@@ -1,5 +1,10 @@
 [INTERFACE]
 
+ui_frndcapt=КОНТАКТЫ
+key_opennet=Достать подсак
+key_showTurn=Окно турнира
+
+--------------------
 auc_mylot=МОИ ЛОТЫ
 
 lenght_inch="
