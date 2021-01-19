@@ -1,8 +1,7 @@
 ﻿[INTERFACE]
 
 ui_frndcapt=KONTAKTE
-key_opennet=Kescher öffnen
-key_showTurn=Turnierfenster
+key_opennet=Kescher öffnen (Space)
 
 --------------------
 auc_mylot=MEINE AUKTIONEN
@@ -45,11 +44,11 @@ chat_talk=Gespräche
 --------------------
 repr_cnt=Anzahl der Reparaturen:
 
-key_help=Hilfe
-key_chinfo=Info-Chat
-key_chloc=Standort-Chat
-key_chclub=Club-Chat
-key_chturn=Turnier-Chat
+key_help=Hilfe (F1)
+key_chinfo=Info-Chat (F2)
+key_chloc=Standort-Chat (F3)
+key_chturn=Turnier-Chat (F4)
+key_chclub=Club-Chat (F5)
 --------------------
 
 dntpck_4_name=Kit "Bombard Gold"
@@ -259,7 +258,7 @@ dntpck_130_act=+ 15 Tage VIP als Geschenk
 
 club_userout={0} hat das Spiel verlassen
 club_userin={0} hat das Spiel betreten
-key_openclub=Club-Übersicht
+key_openclub=Club-Übersicht (G)
 club_invmsg4=Spieler {0} hat die Einladung angenommen.
 club_invmsg3=Du bist dem Club beigetreten!
 club_invmsg2=Spieler {0} \ n lädt Sie ein, dem Club beizutreten\n {1}
@@ -864,7 +863,7 @@ cnt_dst={0:0.0}m
 #Added 12.04.2017
 #------------------------------------
 post_1=От: {0} Geschrieben{1}\nBetreff: {2}
-post_2=Lieferservice
+post_2=Briefkasten
 post_3=KEINE BRIEFE
 
 post_4=Schließen
@@ -994,7 +993,7 @@ fshop_ks3=Nach Durchschnitt
 fshop_fcost={0}\nKosten für 1 kg: {1}      Durchschnittspreis für 1 Stück: {2}
 fshop_fcost2={0} {1} Stk\nverkaufen für {2}
 
-shop_bccount= (have x{0})
+shop_bccount= (haben x{0})
 shop_bccost=<color='{0}'>Kosten x{1}: </color>{2}
 shop_ycnt=Du hast {0} Stk.
 shop_wl=Verkaufe {0} sek
@@ -1453,7 +1452,7 @@ newpers=Charakter anlegen
 buykey=Kaufen
 realshop=VIP-Shop
 stshoplabel=Kaufen mit STEAM 
-stshoprubl=Für Rubel kaufen
+stshoprubl=Für Euros kaufen
 stshopsel=Auswahl
 
 viptxt=+ 25% Geld beim Fischverkauf/n+ 50% Erfahrung von Fischen/n+ 50% schnellere Aufgabenannahme/n+ 25% Erfahrung bei Aufgaben/n+ Verbesserte Karte mit Koordinaten
