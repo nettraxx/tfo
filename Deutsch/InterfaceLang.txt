@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+ui_setprov=Beeinträchtigt stark die Leistung
+
 ui_frndcapt=KONTAKTE
 key_opennet=Kescher öffnen (Space)
 
@@ -47,8 +49,8 @@ repr_cnt=Anzahl der Reparaturen:
 key_help=Hilfe (F1)
 key_chinfo=Info-Chat (F2)
 key_chloc=Standort-Chat (F3)
-key_chturn=Turnier-Chat (F4)
-key_chclub=Club-Chat (F5)
+key_chclub=Club-Chat (F4)
+key_chturn=Turnier-Chat (F5)
 --------------------
 
 dntpck_4_name=Kit "Bombard Gold"

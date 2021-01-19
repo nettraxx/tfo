@@ -1,5 +1,5 @@
 ﻿[INTERFACE]
-
+ui_setprov=Strongly affect performance
 ui_frndcapt=CONTACTS
 key_opennet=Open landing net
 key_showTurn=Tournament window

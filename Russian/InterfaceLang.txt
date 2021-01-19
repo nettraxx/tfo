@@ -1,5 +1,7 @@
 [INTERFACE]
 
+ui_setprov=Сильно влияют на производительность
+
 ui_frndcapt=КОНТАКТЫ
 key_opennet=Достать подсак
 key_showTurn=Окно турнира

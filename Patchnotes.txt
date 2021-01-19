@@ -1,3 +1,17 @@
+Patch 1.46.0
+Beta-Version beendet
+Dem Spiel wurde eine Auktion hinzugefügt, in der Spieler ihre Köder zum Verkauf anbieten können. 
+Um zur Versteigerung angeboten zu werden, müssen Sie nicht weiter als 30 Meter vom Geschäft entfernt sein
+Globale Verbesserung der Mechanik von Stippruten
+Änderung der Mechanik der Landung von Fischen. Jetzt können Sie mit dem Kescher (Leertaste) einen großen Fisch landen
+Es wurde die Möglichkeit hinzugefügt, einen Spieler zur Kontaktliste hinzuzufügen
+Verbessertes Shader-Rendering von Wasser und Reflexionen
+Dynamischer Nebel hinzugefügt
+Vollständig physikalisch korrekte Beleuchtung hinzugefügt
+Standort Frankreich hat neue Landepunkte hinzugefügt
+Standort Russland - Optimierung der Vegetation
+Standort Belarus - Optimierung der Vegetation und verbesserte Detalisierung
+
 Patch 1.45.5 BETA
 Das Verhalten des Keschers beim Fangen von Fischen wurde behoben
 Es wurde die Möglichkeit hinzugefügt, eine Person zu Ihrer Freundesliste hinzuzufügen
