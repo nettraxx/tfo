@@ -1,3 +1,11 @@
+Patch 1.46.1
+Es wurde die Möglichkeit hinzugefügt, nach einem Spieler zu suchen (eine Schaltfläche mit einem Objektiv unter dem Chat).)
+Es wurde die Möglichkeit hinzugefügt, einen Spieler zu Kontakten hinzuzufügen oder ihm eine Nachricht vom Profil zu senden
+Tintenfisch- und Garnelenköder aus allen Geschäften entfernt
+Aus den gefangenen Garnelen werden die Köder "Garnelenschwanz" und aus Tintenfischen "Tintenfischstücke" hergestellt, die versteigert werden können
+Tintenfisch-Köder zur Auswahl hinzufügen
+Der Absenkwinkel der Castingruten wird verringert
+
 Patch 1.46.0
 Beta-Version beendet
 Dem Spiel wurde eine Auktion hinzugefügt, in der Spieler ihre Köder zum Verkauf anbieten können. 

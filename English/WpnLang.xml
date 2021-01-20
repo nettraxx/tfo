@@ -4777,7 +4777,10 @@ DammSPRO. Focused on feeder fishing</info>
       <info>
       </info>
     </weapon>	
-	
+	<weapon id="1885">
+		<name>Leader 34,1 kg</name>
+		<info> </info>
+	</weapon> 	
     <weapon id="1886">
       <name>Waggler-20-12 N Green</name>
       <info>nightly +light signal</info>
@@ -4893,6 +4896,16 @@ Expensive, but effective.</info>
     <weapon id="1911">
       <name>GrindMaster Series</name>
       <info>      </info>
+    </weapon>	
+    <weapon id="1912">
+      <name>Shrimp tail</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1913">
+      <name>Squid slices</name>
+      <info>
+      </info>
     </weapon>	
   </weapons>
 </wpnlang>
