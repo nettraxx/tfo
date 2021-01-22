@@ -4674,8 +4674,8 @@ Rollengröße 4000 und kleiner sind geeignet.
       </info>
     </weapon>
     <weapon id="1859">
-      <name>Technoplankton</name>
-      <info>Technoplankton-Tablette zum Fangen von Silber- und Graskarpfen. Für die Installation auf einem Schwimmgerät ist ein Busafa und für das Grundfischen ein spezieller Feeder erforderlich.
+      <name>Plankton</name>
+      <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
     </weapon>
@@ -4936,5 +4936,41 @@ Teuer, aber effektiv.</info>
       <info>
       </info>
     </weapon>	
+    <weapon id="1914">
+      <name>Vanille</name>
+      <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.</info>
+
+Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
+    </weapon>
+    <weapon id="1915">
+      <name>Wasserflöhe</name>
+      <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.</info>
+
+Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
+    </weapon>
+    <weapon id="1916">
+      <name>Schokolade</name>
+      <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.</info>
+
+Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
+    </weapon>
+    <weapon id="1917">
+      <name>Knoblauch</name>
+      <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.</info>
+
+Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
+    </weapon>
+    <weapon id="1918">
+      <name>Anis</name>
+      <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.</info>
+
+Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
+    </weapon>
+    <weapon id="1919">
+      <name>Himbeere</name>
+      <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.</info>
+
+Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
+    </weapon>		
   </weapons>
 </wpnlang>

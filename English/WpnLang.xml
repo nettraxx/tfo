@@ -4652,9 +4652,10 @@ DammSPRO. Focused on feeder fishing</info>
       </info>
     </weapon>
     <weapon id="1859">
-      <name>Tehno plankton</name>
-      <info>
-      </info>
+      <name>Technoplants</name>
+      <info>Technoplants used for catching carp and grass carp. For installation on a float tackle requires a trempel, and for bottom fishing-a special feeder.
+
+An additional feed at catching on technoplants, not needed</info>
     </weapon>
     <weapon id="1860">
       <name>Tehnoplankton floating</name>
@@ -4907,5 +4908,43 @@ Expensive, but effective.</info>
       <info>
       </info>
     </weapon>	
+	
+    <weapon id="1914">
+      <name>Vanilla</name>
+      <info>Technoplants used for catching carp and grass carp. For installation on a float tackle requires a trempel, and for bottom fishing-a special feeder.
+
+An additional feed at catching on technoplants, not needed</info>
+    </weapon>
+    <weapon id="1915">
+      <name>Daphnia</name>
+      <info>Technoplants used for catching carp and grass carp. For installation on a float tackle requires a trempel, and for bottom fishing-a special feeder.
+
+An additional feed at catching on technoplants, not needed</info>
+    </weapon>
+    <weapon id="1916">
+      <name>Chocolate</name>
+      <info>Technoplants used for catching carp and grass carp. For installation on a float tackle requires a trempel, and for bottom fishing-a special feeder.
+
+An additional feed at catching on technoplants, not needed</info>
+    </weapon>
+    <weapon id="1917">
+      <name>Garlic</name>
+      <info>Technoplants used for catching carp and grass carp. For installation on a float tackle requires a trempel, and for bottom fishing-a special feeder.
+
+An additional feed at catching on technoplants, not needed</info>
+    </weapon>
+    <weapon id="1918">
+      <name>Anise</name>
+      <info>Technoplants used for catching carp and grass carp. For installation on a float tackle requires a trempel, and for bottom fishing-a special feeder.
+
+An additional feed at catching on technoplants, not needed</info>
+    </weapon>
+    <weapon id="1919">
+      <name>Raspberry</name>
+      <info>Technoplants used for catching carp and grass carp. For installation on a float tackle requires a trempel, and for bottom fishing-a special feeder.
+
+An additional feed at catching on technoplants, not needed</info>
+    </weapon>	
+
   </weapons>
 </wpnlang>

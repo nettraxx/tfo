@@ -1,3 +1,10 @@
+Patch 1.46.2
+Standort Russland: Fluss Pra
+Optimierung, Geodaten und Details geändert
+Standort Serbien: Donau
+Optimierung, Veränderung von fernen Felsen und Bäumen
+Technoplankton: verschiedene Geschmacksrichtungen hinzugefügt (Schokolade, Wasserflöhe, Knoblauch usw.)
+
 Patch 1.46.1
 Es wurde die Möglichkeit hinzugefügt, nach einem Spieler zu suchen (eine Schaltfläche mit einem Objektiv unter dem Chat).)
 Es wurde die Möglichkeit hinzugefügt, einen Spieler zu Kontakten hinzuzufügen oder ihm eine Nachricht vom Profil zu senden
