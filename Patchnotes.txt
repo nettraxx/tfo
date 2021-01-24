@@ -1,3 +1,10 @@
+Patch 1.46.3
+Noch etwas Optimierung der Wasserreflexion
+Fehler beim Fischen mit dem Kescher behoben
+Technoplankton "Himbeere" behoben. Irrtümlicherweise roch es nach einem "Tauwurm", der zu Welsbissen und anderen ungewöhnlichen Fischen führte.
+Die Clubversorgungsaufgaben wurden geändert und in eine separate Gruppe eingeteilt, sie sind jetzt nur für Clubmitglieder sichtbar.
+Hinweis: Das neue Task-System "Club Aufgaben" wird nach einem geplanten Neustart des Servers wirksam.
+
 Patch 1.46.2
 Standort Russland: Fluss Pra
 Optimierung, Geodaten und Details geändert

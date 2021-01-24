@@ -85,23 +85,10 @@
       <task id="7" txt="[fish] на [baitid]: [weight]/[maxweight]"/>
     </cat>
     
-    <cat id="1010" glava="2000" name="Снабжение (Рыба забирается)">
-      <task id="1" txt="[fish]: [curcnt]/[maxcnt] шт"/>
-      <task id="2" txt="[fish] от [minwgt]: [curcnt]/[maxcnt] шт"/>
-      <task id="4" txt="[fish] трофей: [curcnt]/[maxcnt] шт"/>	
-      <task id="5" txt="[fish] от [minwgt]: [weight]/[maxweight]"/>
-      <task id="6" txt="[fish]: [weight]/[maxweight]"/>
-      <task id="7" txt="[fish] на [baitid]: [weight]/[maxweight]"/>
-    </cat>
-    
-    <cat id="1020" glava="2000" name="Опыт (Рыба забирается)">
-      <task id="1" txt="[fish]: [curcnt]/[maxcnt] шт"/>
-      <task id="2" txt="[fish] от [minwgt]: [curcnt]/[maxcnt] шт"/>
-      <task id="4" txt="[fish] трофей: [curcnt]/[maxcnt] шт"/>	
-      <task id="5" txt="[fish] от [minwgt]: [weight]/[maxweight]"/>
-      <task id="6" txt="[fish]: [weight]/[maxweight]"/>
-      <task id="7" txt="[fish] на [baitid]: [weight]/[maxweight]"/>
-    </cat>
+    <cat id="1010" glava="2000" name="Расходные (Рыба забирается)"/>
+    <cat id="1020" glava="2000" name="Опыт (Рыба забирается)"/>
+    <cat id="1030" glava="2000" name="Снабжение (Рыба забирается)"/>
+
 	
     <cat id="1100" glava="2000" name="Ежедневные">
       <task id="1" txt="Ежедн. [fish]: [curcnt]/[maxcnt] шт"/>
