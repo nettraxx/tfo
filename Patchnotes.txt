@@ -1,3 +1,20 @@
+Patch 1.47.1
+Aktualisierung des persischen Störmodells
+Aktualisierung des Scherg-Modells
+Korrektur der Dynamik der Stippruten
+Korrekturen anderer Schnittstellenfehler
+
+Patch 1.47.0
+Wichtige Änderungen in der Generierung von Quests und im Gameplay:
+Neuausrichtung der Versorgungsaufgaben
+Alle Aufgaben außer den täglichen haben jetzt eine Seltenheitsbewertung: grau, schwarz, grün, blau, lila, orange. 
+Je höher die Note, desto seltener fällt diese Aufgabe aus
+Tägliche Aufgaben haben immer eine grüne Note
+Grüne Aufgaben erscheinen erst, nachdem die Basistrophäe abgeschlossen wurde (alle Arten von Fischen aus dem Gewässer fangen)
+Wichtig! Jetzt können Sie zuvor gefangene Fische aus dem Kescher in die Aufgabe aufnehmen. 
+Dazu muss der Fisch auf derselben Basis gefangen werden, Sie müssen sich auf derselben Basis befinden. 
+Unabhängig von der Art der Aufgabe werden solche Fische immer gefangen.
+
 Patch 1.46.3
 Noch etwas Optimierung der Wasserreflexion
 Fehler beim Fischen mit dem Kescher behoben
