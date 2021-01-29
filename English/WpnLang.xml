@@ -420,7 +420,7 @@
       <info> Simple reel with low strengthening.</info>
     </weapon>
     <weapon id="1029">
-      <name>--</name>
+      <name>Herabune</name>
       <info>
       </info>
     </weapon>
@@ -4945,6 +4945,42 @@ An additional feed at catching on technoplants, not needed</info>
 
 An additional feed at catching on technoplants, not needed</info>
     </weapon>	
+
+
+    <weapon id="1920">
+      <name>Balsa Fine-1</name>
+      <info>Ultra-light and very sensitive float for delicate rigging. </info>
+    </weapon>
+    <weapon id="1921">
+      <name>Balsa Fine-2</name>
+      <info>Ultra-light and very sensitive float for delicate rigging.</info>
+    </weapon>
+    <weapon id="1922">
+      <name>Balsa Fine-3</name>
+      <info>Ultra-light and very sensitive float for delicate rigging.</info>
+    </weapon>
+    <weapon id="1923">
+      <name>Balsa Fine</name>
+      <info>Ultra-light and very sensitive float for delicate rigging.</info>
+    </weapon>
+    <weapon id="1924">
+      <name>Balsa Saimon</name>
+      <info>Lightweight and very sensitive float for delicate rigging. It has a small load capacity, so it is used for fishing "on bottom"</info>
+    </weapon>
+    <weapon id="1925">
+      <name>Balsa Saimon 1</name>
+      <info>Lightweight and very sensitive float for delicate rigging. It has a small load capacity, so it is used for fishing "on bottom"</info>
+    </weapon>
+    <weapon id="1926">
+      <name>Balsa Saimon 2</name>
+      <info>Lightweight and very sensitive float for delicate rigging. It has a small load capacity, so it is used for fishing "on bottom"</info>
+    </weapon>
+    <weapon id="1927">
+      <name>Balsa Saimon 3</name>
+      <info>Lightweight and very sensitive float for delicate rigging. It has a small load capacity, so it is used for fishing "on bottom"</info>
+    </weapon>
+
+
 
   </weapons>
 </wpnlang>

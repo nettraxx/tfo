@@ -4974,7 +4974,7 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1920">
       <name>Balsa Fine-1</name>
-      <info>Ultraleichter und sehr empfindlicher Schwimmer für empfindliche Takelage</info>
+      <info>Ultraleichter und sehr empfindlicher Schwimmer für empfindliche Takelage. </info>
     </weapon>
     <weapon id="1921">
       <name>Balsa Fine-2</name>
@@ -4986,7 +4986,7 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1923">
       <name>Balsa Fine</name>
-      <info>Ultraleichter und sehr empfindlicher Schwimmer für empfindliche Takelage. Wird normalerweise in Verbindung mit Herabuno verwendet</info>
+      <info>Ultraleichter und sehr empfindlicher Schwimmer für empfindliche Takelage. Wird normalerweise in Verbindung mit Herabuna verwendet</info>
     </weapon>
     <weapon id="1924">
       <name>Balsa Saimon</name>
@@ -4994,15 +4994,21 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1925">
       <name>Balsa Saimon 1</name>
-      <info>Leichter und sehr empfindlicher Schwimmer für empfindliche Takelage</info>
+      <info>Leichter und sehr empfindlicher Schwimmer für empfindliche Takelage
+	  
+... Es hat eine geringe Tragfähigkeit und wird daher nach der Herabuna-Methode zum Fischen "von unten" verwendet</info>
     </weapon>
     <weapon id="1926">
       <name>Balsa Saimon 2</name>
-      <info>Leichter und sehr empfindlicher Schwimmer für empfindliche Takelage</info>
+      <info>Leichter und sehr empfindlicher Schwimmer für empfindliche Takelage
+	  
+... Es hat eine geringe Tragfähigkeit und wird daher nach der Herabuna-Methode zum Fischen "von unten" verwendet</info>
     </weapon>
     <weapon id="1927">
       <name>Balsa Saimon 3</name>
-      <info>Leichter und sehr empfindlicher Schwimmer für empfindliche Takelage</info>
+      <info>Leichter und sehr empfindlicher Schwimmer für empfindliche Takelage
+	  
+... Es hat eine geringe Tragfähigkeit und wird daher nach der Herabuna-Methode zum Fischen "von unten" verwendet</info>
     </weapon>	
   </weapons>
 </wpnlang>

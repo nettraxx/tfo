@@ -1,3 +1,8 @@
+Patch 1.47.2
+Korrektur von übermäßig aggressivem biegen an Stippruten, was manchmal zum Bruch führte
+Korrektur der Hubgeschwindigkeit von Stippruten mit Fischen
+In allen Geschäften wurden Schwimmer der Serie "Balsa Fine" hinzugefügt, die für den Fang vorsichtiger kleiner Fische auf kurze Distanz ausgelegt sind.
+
 Patch 1.47.1
 Aktualisierung des persischen Störmodells
 Aktualisierung des Scherg-Modells
