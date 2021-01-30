@@ -1,4 +1,13 @@
 ﻿[INTERFACE]
+
+ftank_sort0=BY WEIGHT
+ftank_sort1=BY TIME
+ftank_sort2=BY GRADE
+ftank_sort3=BY PRICE
+
+
+--------------------
+
 ui_setprov=Strongly affect performance
 ui_frndcapt=CONTACTS
 key_opennet=Open landing net

@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
 
+ftank_sort0=NACH GEWICHT
+ftank_sort1=NACH FANGZEIT
+ftank_sort2=NACH QUALITÄT
+ftank_sort3=NACH PREIS
+
+--------------------
 ui_setprov=Beeinträchtigt stark die Leistung
 
 ui_frndcapt=KONTAKTE

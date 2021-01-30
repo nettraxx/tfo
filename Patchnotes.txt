@@ -1,3 +1,8 @@
+Patch 1.47.3
+Barben - Trophäengewicht auf 3 kg reduziert. Die Lebensräume großer Fische wurden erweitert
+Das Verhalten von Leichtschwimmern während des Beißens wurde angepasst
+Im Kescher wurde Sortierung nach Fischart, Gewicht, Preis usw. hinzugefügt.
+
 Patch 1.47.2
 Korrektur von übermäßig aggressivem biegen an Stippruten, was manchmal zum Bruch führte
 Korrektur der Hubgeschwindigkeit von Stippruten mit Fischen

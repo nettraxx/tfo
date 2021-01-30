@@ -1,5 +1,13 @@
 [INTERFACE]
 
+
+
+ftank_sort0=ПО ВЕСУ
+ftank_sort1=ПО ВРЕМЕНИ ВЫЛОВА
+ftank_sort2=ПО КАЧЕСТВУ
+ftank_sort3=ПО ЦЕНЕ
+
+--------------------
 ui_setprov=Сильно влияют на производительность
 
 ui_frndcapt=КОНТАКТЫ
