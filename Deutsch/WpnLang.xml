@@ -727,7 +727,7 @@
     </weapon>
     <weapon id="1088">
       <name>Borkenkäferlarve</name>
-      <info>Fängig für: Aland, Bachschmerle, Barbe, Brachse, Glatt-Stör, Quappe, Rotauge, Rotfeder, Schlammpeitzger, Sprotte, Sterlet, Tiberbarbe
+      <info>Fängig für: Aland, Atlantischer Hering, Bachschmerle, Barbe, Brachse, Glatt-Stör, Quappe, Rotauge, Rotfeder, Schlammpeitzger, Sprotte, Sterlet, Tiberbarbe
       </info>
     </weapon>
     <weapon id="1089">
@@ -2350,7 +2350,7 @@ Zum Testen</info>
     </weapon>
     <weapon id="1387">
       <name>Roter Kaviar</name>
-      <info>Fängig für: Aal, Bachforelle, Mairenke, Maräne, Quappe, Regenbogenforelle, Saibling, Garnele, Stint
+      <info>Fängig für: Aal, Bachforelle, Kaspische Seelaube, Maräne, Quappe, Regenbogenforelle, Saibling, Garnele, Stint
 	  </info>
     </weapon>
     <weapon id="1388">
@@ -3258,7 +3258,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1560">
       <name>Grießteig</name>
-      <info>Fängig für: Giebel, Karausche, Rotauge, Schuppenkarpfen, Spiegelkarpfen, Wildkarpfen, Zope
+      <info>Fängig für: Aland, Giebel, Karausche, Rotauge, Schuppenkarpfen, Spiegelkarpfen, Wildkarpfen, Zope
       </info>
     </weapon>
     <weapon id="1561">
@@ -3535,7 +3535,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1618">
       <name>RF Goldkopfnymphe</name>
-      <info>Fängig für: Bachforelle, Döbel, Donaulachs, Europäische Äsche, Goldforelle, Mairenke, Rotauge, Saimaa-Forelle, Schwarze Äsche, Seeforelle, Taimen
+      <info>Fängig für: Bachforelle, Döbel, Donaulachs, Europäische Äsche, Goldforelle, Kaspische Seelaube, Rotauge, Saimaa-Forelle, Schwarze Äsche, Seeforelle, Taimen
       </info>
     </weapon>
     <weapon id="1619">
@@ -3550,7 +3550,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1621">
       <name>RF Eintagsfliege</name>
-      <info>Fängig für: Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Rotauge, Saimaa-Forelle, Seeforelle, Sichling, Teichforelle
+      <info>Fängig für: Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Kaspische Seelaube, Rotauge, Saimaa-Forelle, Seeforelle, Sichling, Teichforelle
       </info>
     </weapon>
     <weapon id="1622">
@@ -3701,17 +3701,17 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
 	  </weapon>
     <weapon id="1652">
       <name>CRL TroutMaster M1</name>
-      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
+      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Kaspische Seelaube, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1653">
       <name>CRL TroutMaster M2</name>
-      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
+      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Kaspische Seelaube, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1654">
       <name>CRL TroutMaster M3</name>
-      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Mairenke, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
+      <info>Fängig für: Baltischer Lachs, Blauer Sonnenbarsch, Europäische Äsche, Forellenbarsch, Kaspi-Maifisch, Kaspischer Hering, Kaspischer Lachs, Kaspische Seelaube, Rapfen, Rotfeder, Stint, Teichforelle, Tintenfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1655">
@@ -3790,17 +3790,17 @@ Rollengröße: 1000-2500.</info>
 	</weapon>
 	<weapon id="1671">
 	  <name>VIB UL Cyclope M1</name>
-	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Kaspische Seelaube, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1672">
 	  <name>VIB UL Cyclope M2</name>
-	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Kaspische Seelaube, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1673">
 	  <name>VIB UL Cyclope M3</name>
-	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Mairenke, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
+	  <info>Fängig für: Aland, Atlantischer Hering, Atlantischer Lachs, Bachforelle, Barbe, Blauer Sonnenbarsch, Dnepr-Barbe, Donaulachs, Goldforelle, Grashecht, Kaspi-Maifisch, Kaspischer Hering, Kaspische Seelaube, Regenbogenforelle, Saibling, Saimaa-Forelle, Tintenfisch, Weißer Thunfisch, Wolgazander, Zingel
 	  </info>
 	</weapon>
 	<weapon id="1674">
@@ -4344,7 +4344,7 @@ Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1790">
       <name>RF Hummel</name>
-      <info>Imitation einer Hummel. Fängig für: Aland, Döbel, Europäische Äsche, Goldforelle, Mairenke, Rapfen, Regenbogenforelle, Schwarze Äsche, Seeforelle
+      <info>Imitation einer Hummel. Fängig für: Aland, Döbel, Europäische Äsche, Goldforelle, Kaspische Seelaube, Rapfen, Regenbogenforelle, Schwarze Äsche, Seeforelle
       </info>
     </weapon>
     <weapon id="1791">
@@ -4746,17 +4746,19 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     <weapon id="1873">
       <name>CRL DG-M1</name>
       <info>Spinner zum Tiefseefischen.
-	  Fängig für: Atlantischer Hering
+	  Fängig für: Atlantischer Hering, Atlantischer Lachs, Buckellachs, Europäischer Wolfsbarsch, Kabeljau, Köhler, Schellfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1874">
       <name>CRL DG-M2</name>
-      <info>Spinner zum Tiefseefischen.</info>
+      <info>Spinner zum Tiefseefischen.
+	  Fängig für: Atlantischer Lachs, Europäischer Wolfsbarsch, Kabeljau, Köhler, Kohlenfisch, Weißer Thunfisch
+	  </info>
     </weapon>
     <weapon id="1875">
       <name>CRL DG-M3</name>
       <info>Spinner zum Tiefseefischen.
-	  Fängig für:Atlantischer Hering
+	  Fängig für:Atlantischer Hering, Atlantischer Lachs, Europäischer Wolfsbarsch, Kabeljau, Saibling, Seehecht, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1876">
