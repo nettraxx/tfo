@@ -4236,11 +4236,13 @@ Nur für Rollen mit maximal 2000er Größe.</info>
     </weapon>
     <weapon id="1766">
       <name>Eintagsfliegenlarve</name>
-      <info>      </info>
+      <info>Fängig für: Arktische Maräne, Felchen, Kleine Bodenrenke, Lenok, Sibirische Hasel     
+		</info>
     </weapon>
     <weapon id="1767">
       <name>Libellenlarve</name>
-      <info>      </info>
+      <info>Fängig für: Aland, Brachse, Döbel, Europäische Äsche, Hasel, Rapfen       
+		</info>
     </weapon>	
 	<weapon id="1768">
       <name>Tintenfisch-Köder</name>
