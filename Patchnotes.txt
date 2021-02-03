@@ -1,3 +1,16 @@
+Patch 1.47.6 BETA
+Die Bedienung des Doppelzooms wurde geändert. Um nun doppelt zu zoomen, müssen Sie die Zoomtaste + Umschalttaste drücken
+Das Aalmodell wurde aktualisiert
+Das Modell des Hechts wurde aktualisiert
+Der Standort Schottland: Loch Morar ist für technische Tests geöffnet. Die Aufzeichnungen in dieser Datenbank werden erst am Ende der Tests festgelegt.
+
+Patch 1.47.5 BETA
+Hallo Freunde. 
+Ein experimenteller Client mit einem Optimierungsupdate wurde in den Beta-Zweig hochgeladen. 
+Insgesamt sollte die Leistung an allen Standorten steigen, wobei Finnland und Serbien am stärksten betroffen waren. 
+Wenn Sie die Änderungen testen möchten, bevor Sie sie in das Hauptspiel eingeben, nehmen Sie an der Beta teil und schreiben Sie Ihre Kommentare und Beobachtungen zum Verhalten Ihrer Grafikkarte in verschiedenen Betriebsmodi. 
+Darüber hinaus hat der Client einen Doppelzoom für diejenigen hinzugefügt, die Posen mit großer Vergrößerung anzeigen möchten.
+
 Patch 1.47.3
 Barben - Trophäengewicht auf 3 kg reduziert. Die Lebensräume großer Fische wurden erweitert
 Das Verhalten von Leichtschwimmern während des Beißens wurde angepasst

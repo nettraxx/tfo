@@ -35,6 +35,7 @@
 14_Name=Niederlande: Der Kanal
 15_Name=Atom: Ödland
 16_Name=Russland: Jenissei
+17_Name=Schottland: Loch Morar
 
 [LOC_NAMES]
 ---------------------

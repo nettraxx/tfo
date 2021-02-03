@@ -33,6 +33,8 @@
 14_Name=Netherlands:channel
 15_Name=Atom: Wasteland
 16_Name=Siberia: Enisey
+17_Name=GB Scotland: Loch-Moro
+
 
 [LOC_NAMES]
 ---------------------
