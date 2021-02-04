@@ -452,3 +452,7 @@ type_111=Willkommen im Jahr 2021
 
 67_Name=Arktische Maräne
 67_Latn=Coregonus autumnalis
+
+------------------------
+537_Name=Feroxforelle
+537_Latn=Salmo ferox

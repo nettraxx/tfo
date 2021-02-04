@@ -464,3 +464,7 @@ type_111=Встречаем 2021
 
 67_Name=Омуль арктический
 67_Latn=Coregonus autumnalis
+
+------------------------
+537_Name=Форель колючая
+537_Latn=Salmo ferox

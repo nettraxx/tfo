@@ -1,3 +1,15 @@
+Patch 1.47.7 BETA
+Optimierung der Karte hinzugefügt
+Kartendetails hinzugefügt
+Neue Fischarten hinzugefügt
+Feroxforelle (Salmo ferox) hinzugefügt
+Ein Geschäft wurde hinzugefügt
+Kartenebene auf 34 erhöht
+Auf der Testkarte wird die Bewertung nicht vergeben, die Kartenmedaille wird nicht vergeben. 
+Jeder, der fälschlicherweise eine Medaille erhalten hat, hat sie entfernt. 
+Bitte beachten Sie, dass sich Ihre Fangstatistik nicht geändert hat und Sie sofort nach dem Öffnen der Karte eine Medaille erhalten können, 
+wenn Sie die Voraussetzungen für den Erhalt der Karte erfüllen.
+
 Patch 1.47.6 BETA
 Die Bedienung des Doppelzooms wurde geändert. Um nun doppelt zu zoomen, müssen Sie die Zoomtaste + Umschalttaste drücken
 Das Aalmodell wurde aktualisiert

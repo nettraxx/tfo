@@ -472,3 +472,7 @@ type_111=Welcome 2021
 
 67_Name=Arctic Omul
 67_Latn=Coregonus autumnalis
+
+------------------------
+537_Name=Ferox Trout
+537_Latn=Salmo ferox
