@@ -456,3 +456,6 @@ type_111=Willkommen im Jahr 2021
 ------------------------
 537_Name=Feroxforelle
 537_Latn=Salmo ferox
+
+538_Name=Haddy Saibling
+538_Latn=Salvelinus killinensis

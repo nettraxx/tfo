@@ -4979,7 +4979,28 @@ An additional feed at catching on technoplants, not needed</info>
       <name>Balsa Saimon 3</name>
       <info>Lightweight and very sensitive float for delicate rigging. It has a small load capacity, so it is used for fishing "on bottom"</info>
     </weapon>
-
+    <weapon id="1928">
+      <name>Bee maggots</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1929">
+      <name>Maggot natural</name>
+      <info>Wax moth larvae (often called bee maggots) are one of the best attachments for catching trout and other salmon</info>
+    </weapon>
+    <weapon id="1930">
+      <name>Maggot red</name>
+      <info>Wax moth larvae (often called bee maggots) are one of the best attachments for catching trout and other salmon</info>
+    </weapon>
+    <weapon id="1931">
+      <name>Maggot green</name>
+      <info>Wax moth larvae (often called bee maggots) are one of the best attachments for catching trout and other salmon</info>
+    </weapon>
+    <weapon id="1932">
+      <name>Trout float</name>
+      <info>
+      </info>
+    </weapon>
 
 
   </weapons>

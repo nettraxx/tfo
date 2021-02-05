@@ -476,3 +476,6 @@ type_111=Welcome 2021
 ------------------------
 537_Name=Ferox Trout
 537_Latn=Salmo ferox
+
+538_Name=Haddy charr
+538_Latn=Salvelinus killinensis

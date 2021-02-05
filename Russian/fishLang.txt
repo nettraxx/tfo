@@ -468,3 +468,7 @@ type_111=Встречаем 2021
 ------------------------
 537_Name=Форель колючая
 537_Latn=Salmo ferox
+
+538_Name=Голец Хэдди 
+538_Latn=Salvelinus killinensis
+

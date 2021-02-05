@@ -522,7 +522,7 @@
       </info>
     </weapon>
     <weapon id="1049">
-      <name>--</name>
+      <name>Trout caster</name>
       <info>
       </info>
     </weapon>
@@ -3863,7 +3863,7 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1687">
       <name>See-Köderfisch</name>
-      <info>Herstellbar aus: Grundel, Meeräsche
+      <info>Herstellbar aus: Grundel, Meeräsche, Rotauge
       </info>
     </weapon>
     <weapon id="1688">
@@ -4241,7 +4241,7 @@ Nur für Rollen mit maximal 2000er Größe.</info>
     </weapon>
     <weapon id="1767">
       <name>Libellenlarve</name>
-      <info>Fängig für: Aland, Brachse, Döbel, Europäische Äsche, Hasel, Rapfen, Schwarze Äsche, Seeforelle       
+      <info>Fängig für: Aland, Brachse, Döbel, Europäische Äsche, Hasel, Malamida, Rapfen, Schwarze Äsche, Seeforelle, Ströner      
 		</info>
     </weapon>	
 	<weapon id="1768">
@@ -5013,6 +5013,28 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <info>Leichter und sehr empfindlicher Schwimmer für empfindliche Takelage
 	  
 ... Es hat eine geringe Tragfähigkeit und wird daher nach der Herabuna-Methode zum Fischen "von unten" verwendet</info>
+    </weapon>
+    <weapon id="1928">
+      <name>Bienenmaden</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1929">
+      <name>Natürliche Maden</name>
+      <info>Wachsmottenlarven (oft Bienenmaden genannt) sind eines der besten Mittel, um Forellen und andere Lachse zu fangen</info>
+    </weapon>
+    <weapon id="1930">
+      <name>Rote Maden</name>
+      <info>Wachsmottenlarven (oft Bienenmaden genannt) sind eines der besten Mittel, um Forellen und andere Lachse zu fangen</info>
+    </weapon>
+    <weapon id="1931">
+      <name>Grüne Maden</name>
+      <info>Wachsmottenlarven (oft Bienenmaden genannt) sind eines der besten Mittel, um Forellen und andere Lachse zu fangen</info>
+    </weapon>
+    <weapon id="1932">
+      <name>Forellen Pose</name>
+      <info>
+      </info>
     </weapon>	
   </weapons>
 </wpnlang>

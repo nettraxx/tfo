@@ -1,3 +1,14 @@
+Patch 1.47.8 BETA
+Ein bisschen mehr Optimierung und Kartendetails
+Kakerlake hinzugefügt
+Kleine Rotaugen kann lebender Köder gemacht werden
+Marmorforelle hinzugefügt (eingeführte Art)
+Haddy Saibling hinzugefügt
+Das Wasser wurde transparenter
+Ein weiteres Boot hinzugefügt
+Verschiedene Arten von Aufgaben hinzugefügt
+Wachsmottenlarven in verschiedenen Farben, manchmal auch "Bienenmaden" genannt, wurden dem Laden hinzugefügt
+
 Patch 1.47.7 BETA
 Optimierung der Karte hinzugefügt
 Kartendetails hinzugefügt
