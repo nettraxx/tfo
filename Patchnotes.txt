@@ -1,6 +1,7 @@
 Patch 1.47.8 BETA
+Fortsetzung der Arbeit an der schottischen Karte:
 Ein bisschen mehr Optimierung und Kartendetails
-Kakerlake hinzugefügt
+Rotauge hinzugefügt
 Kleine Rotaugen kann lebender Köder gemacht werden
 Marmorforelle hinzugefügt (eingeführte Art)
 Haddy Saibling hinzugefügt
