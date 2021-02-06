@@ -5035,6 +5035,22 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <name>Forellen Pose</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="1933">
+      <name>TroutBait Teig</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1934">
+      <name>TroutBait Kaviar</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1935">
+      <name>TroutBait Käse</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1936">
+      <name>TroutBait Knoblauch</name>
+      <info>      </info>
     </weapon>	
   </weapons>
 </wpnlang>

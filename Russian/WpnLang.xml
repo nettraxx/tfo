@@ -4493,5 +4493,21 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <info>
       </info>
     </weapon>
+    <weapon id="1933">
+      <name>Паста для форели</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1934">
+      <name>Паста икра</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1935">
+      <name>Паста сыр</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1936">
+      <name>Паста чеснок</name>
+      <info>      </info>
+    </weapon>
   </weapons>
 </wpnlang>

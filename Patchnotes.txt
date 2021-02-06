@@ -1,3 +1,13 @@
+Patch 1.47.9 BETA
+Schottland:
+Orkney Saibling hinzugefügt
+Powan hinzugefügt
+Schottische Maräne hinzugefügt
+Normale Maräne aus dem Teich entfernt
+Neue Abgabestellen und Kartendetails hinzugefügt
+Ein für Schottland traditioneller Forellenwagen wurde dem Laden hinzugefügt
+Forellenfischerpaste mit verschiedenen Aromen wurde dem Laden hinzugefügt
+
 Patch 1.47.8 BETA
 Fortsetzung der Arbeit an der schottischen Karte:
 Ein bisschen mehr Optimierung und Kartendetails

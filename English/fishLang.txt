@@ -479,3 +479,15 @@ type_111=Welcome 2021
 
 538_Name=Haddy charr
 538_Latn=Salvelinus killinensis
+
+539_Name=Powan whitefish
+539_Latn=Coregonus clupeoides
+
+540_Name=Dutch perch
+540_Latn=Perca fluviatilis
+
+541_Name=Orkney charr
+541_Latn=Salvelinus inframundus
+
+542_Name=Scottish whitefish
+542_Latn=Coregonus vandesius 

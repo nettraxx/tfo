@@ -459,3 +459,15 @@ type_111=Willkommen im Jahr 2021
 
 538_Name=Haddy Saibling
 538_Latn=Salvelinus killinensis
+
+539_Name=Powan
+539_Latn=Coregonus clupeoides
+
+540_Name=Niederländischer Barsch
+540_Latn=Perca fluviatilis
+
+541_Name=Orkney Saibling
+541_Latn=Salvelinus inframundus
+
+542_Name=Schottische Maräne
+542_Latn=Coregonus vandesius 

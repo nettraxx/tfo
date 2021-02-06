@@ -5001,7 +5001,22 @@ An additional feed at catching on technoplants, not needed</info>
       <info>
       </info>
     </weapon>
-
+    <weapon id="1933">
+      <name>TroutBait batter</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1934">
+      <name>TroutBait caviar</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1935">
+      <name>TroutBait cheese</name>
+      <info>      </info>
+    </weapon>
+    <weapon id="1936">
+      <name>TroutBait garlic</name>
+      <info>      </info>
+    </weapon>
 
   </weapons>
 </wpnlang>

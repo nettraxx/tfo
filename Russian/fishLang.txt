@@ -472,3 +472,16 @@ type_111=Встречаем 2021
 538_Name=Голец Хэдди 
 538_Latn=Salvelinus killinensis
 
+539_Name=Сиг пован
+539_Latn=Coregonus clupeoides
+
+540_Name=Окунь голландский
+540_Latn=Perca fluviatilis
+
+541_Name=Оркнейский чар
+541_Latn=Salvelinus inframundus
+
+542_Name=Сиг шотландский 
+542_Latn=Coregonus vandesius 
+
+
