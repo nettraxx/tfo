@@ -307,7 +307,7 @@
       </info>
     </weapon>
     <weapon id="1005">
-      <name>STK Hk-0</name>
+      <name>STK HK-0</name>
       <info>von 0g bis 700g
       </info>
     </weapon>
@@ -2189,17 +2189,17 @@ Zum Testen</info>
       </info>
     </weapon>
     <weapon id="1357">
-      <name>STK Hk-1</name>
+      <name>STK HK-1</name>
       <info>von 700g bis 3kg
       </info>
     </weapon>
     <weapon id="1358">
-      <name>STK Hk-2</name>
+      <name>STK HK-2</name>
       <info>von 3kg bis 7kg
       </info>
     </weapon>
     <weapon id="1359">
-      <name>STK Hk-3</name>
+      <name>STK HK-3</name>
       <info>von 7kg bis 20kg
       </info>
     </weapon>
@@ -2254,7 +2254,7 @@ Zum Testen</info>
       </info>
     </weapon>
     <weapon id="1370">
-      <name>Live-bait float</name>
+      <name>Live-Bait Float</name>
       <info>
       </info>
     </weapon>
@@ -3752,9 +3752,7 @@ Rollengröße: 1000-2500.</info>
     <weapon id="1662">
       <name>TroutMaster RSL</name>
       <info>Professionelle leichte Rolle.</info>
-    </weapon>
-	
-	
+    </weapon>	
 	<weapon id="1663">
       <name>Futterspirale 10g</name>
       <info>Beliebte Futterspirale für das Grundangeln.</info>
@@ -4388,11 +4386,11 @@ Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für
       </info>
     </weapon>
     <weapon id="1798">
-      <name>Fliegen Vorfach 11,2kg</name>
+      <name>FF-Vorfach  11,2kg</name>
       <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>	
     <weapon id="1799">
-      <name>Fliegen Vorfach 17,2kg</name>
+      <name>FF-Vorfach  17,2kg</name>
       <info>Konisches Vorfach zum Fliegenfischen.</info>
     </weapon>			
     <weapon id="1800">
@@ -5032,25 +5030,29 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <info>Wachsmottenlarven (oft Bienenmaden genannt) sind eines der besten Mittel, um Forellen und andere Lachse zu fangen</info>
     </weapon>
     <weapon id="1932">
-      <name>Forellen Pose</name>
+      <name>Trout Float</name>
       <info>
       </info>
     </weapon>
     <weapon id="1933">
       <name>TroutBait Teig</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1934">
       <name>TroutBait Kaviar</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1935">
       <name>TroutBait Käse</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>
     <weapon id="1936">
       <name>TroutBait Knoblauch</name>
-      <info>      </info>
+      <info>      
+	  </info>
     </weapon>	
   </weapons>
 </wpnlang>
