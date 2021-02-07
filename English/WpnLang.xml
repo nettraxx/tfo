@@ -5017,6 +5017,13 @@ An additional feed at catching on technoplants, not needed</info>
       <name>TroutBait garlic</name>
       <info>      </info>
     </weapon>
-
+    <weapon id="1937">
+      <name>Haggis</name>
+      <info>Traditional Scottish food. According to the highlanders-this is a great thing</info>
+    </weapon>
+    <weapon id="1938">
+      <name>Шотландский виски</name>
+      <info>The famous Scotch whisky. According to the Scots, it is perfect for quenching thirst on a hot day.And on any other day, too</info>
+    </weapon>
   </weapons>
 </wpnlang>

@@ -1610,8 +1610,8 @@ bag2_info=Fishing lines, reels, floats, hooks
 bag3_name=Equipment
 bag3_info=Equipment
 
-bag4_name=Medicine
-bag4_info=Medicine, food, drink
+bag4_name=Food
+bag4_info=Food, drink
 
 bag5_name=Craft
 bag5_info=Craft ingrediants, components and recipes

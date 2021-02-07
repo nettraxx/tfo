@@ -1,3 +1,18 @@
+Patch 1.48.0
+Beta-Version geschlossen
+Karte von Schottland veröffentlicht. Am Standort werden Rekorde aufgestellt und eine Bewertung abgegeben
+Karte von Serbien-Donau wird erweitert
+Karte von Finnland-Kulgu ist optimiert
+Gesamtspieloptimierung
+Doppelzoom hinzugefügt (Doppelklick auf die Zoom-Schaltfläche)
+Das Aalmodell wurde aktualisiert
+Das Modell des Hechts wurde aktualisiert
+Die Größe des Huso-Modells wird erhöht
+Schottland-Laden: Für diejenigen, die es gewohnt sind, Ihren Charakter zu füttern, gibt es traditionelle schottische Speisen und Getränke
+Schottland ist eine Karte für diejenigen, die bereits Level 34 erreicht haben und sich in der Entwicklung zwischen zwei Seekarten verlangsamt haben - dem Kaspischen Meer und Norwegen. 
+Hier können Sie gute Erfahrungen sammeln (nach Messungen von 70-80 Tausend pro Stunde) sowie gutes Geld für die Erledigung von Aufgaben und den Verkauf von Fisch verdienen (1500-2000 pro Käfig). 
+Die Karte ist perfekt für Fans des Spinnfischens. Für Liebhaber des Posen- und Fliegenfischens gibt es verschiedene Arten von Forellen, und für diejenigen, die das Grundfischen bevorzugen, probieren Sie Tierköder - lebende Köder, Kaviar, Fischfleisch. Die Trophäen werden Sie überraschen.
+
 Patch 1.47.9 BETA
 Schottland:
 Orkney Saibling hinzugefügt

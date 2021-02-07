@@ -5053,6 +5053,14 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <name>TroutBait Knoblauch</name>
       <info>      
 	  </info>
+    </weapon>
+    <weapon id="1937">
+      <name>Haggis</name>
+      <info>Traditionelles schottisches Essen. Laut den Highlands ist dies eine großartige Sache</info>
+    </weapon>
+    <weapon id="1938">
+      <name>Scotch Whisky</name>
+      <info>Der berühmte Schottische Whisky. Laut den Schotten ist es perfekt, um den Durst an einem heißen Tag zu stillen. Und an jedem anderen Tag auch</info>
     </weapon>	
   </weapons>
 </wpnlang>
