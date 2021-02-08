@@ -5061,6 +5061,10 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     <weapon id="1938">
       <name>Scotch Whisky</name>
       <info>Der berühmte Schottische Whisky. Laut den Schotten ist es perfekt, um den Durst an einem heißen Tag zu stillen. Und an jedem anderen Tag auch</info>
-    </weapon>	
+    </weapon>
+    <weapon id="1939">
+      <name>Ausflug nach Schottland</name>
+      <info>Spieler reist 2 Stunden lang an den angegebenen Ort.</info>
+    </weapon>		
   </weapons>
 </wpnlang>

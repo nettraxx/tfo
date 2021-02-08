@@ -1,6 +1,10 @@
 [INTERFACE]
 
-
+sett_act=Показывать действия игроков
+lvel_act={0} получил уровень {1}
+med_act={0} использовал {1}
+eat_act={0} съел {1}
+drink_act={0} выпил {1}
 
 ftank_sort0=ПО ВЕСУ
 ftank_sort1=ПО ВРЕМЕНИ ВЫЛОВА

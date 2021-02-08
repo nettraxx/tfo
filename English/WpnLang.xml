@@ -5022,8 +5022,13 @@ An additional feed at catching on technoplants, not needed</info>
       <info>Traditional Scottish food. According to the highlanders-this is a great thing</info>
     </weapon>
     <weapon id="1938">
-      <name>Шотландский виски</name>
+      <name>Scotch whisky</name>
       <info>The famous Scotch whisky. According to the Scots, it is perfect for quenching thirst on a hot day.And on any other day, too</info>
     </weapon>
+    <weapon id="1939">
+      <name>Travel to Scotland</name>
+      <info>Moves the player to the specified location for 2 hours</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

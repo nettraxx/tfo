@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
 
+sett_act=Show players events
+lvel_act={0} level up to {1}
+med_act={0} used the {1}
+eat_act={0} ate the {1}
+drink_act={0} drank the {1}
+
 ftank_sort0=BY WEIGHT
 ftank_sort1=BY TIME
 ftank_sort2=BY GRADE
@@ -7,7 +13,7 @@ ftank_sort3=BY PRICE
 
 
 --------------------
-
+auc_mylot = MY AUCTIONS
 ui_setprov=Strongly affect performance
 ui_frndcapt=CONTACTS
 key_opennet=Open landing net

@@ -1,3 +1,8 @@
+Patch 1.48.1
+In Geschäften gibt es Gutscheine für hochrangige Standorte für Turniermarken.
+Dekorationsgegenstände (Essen, Getränke) können verschenkt werden.
+Behebung eines Fehlers mit Weltrekorden, die manchmal nicht mit den Rekorden der Basen übereinstimmten.
+
 Patch 1.48.0
 Beta-Version geschlossen
 Karte von Schottland veröffentlicht. Am Standort werden Rekorde aufgestellt und eine Bewertung abgegeben
