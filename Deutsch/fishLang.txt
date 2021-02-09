@@ -463,7 +463,7 @@ type_111=Willkommen im Jahr 2021
 539_Name=Powan
 539_Latn=Coregonus clupeoides
 
-540_Name=Niederländischer Barsch
+540_Name=Holländischer Barsch
 540_Latn=Perca fluviatilis
 
 541_Name=Orkney Saibling

@@ -4525,5 +4525,70 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <name>Поездка в Шотландию</name>
       <info>Перемещает игрока на указанную локацию на 2 часа</info>
     </weapon>
+    <weapon id="1940">
+      <name>StickLines</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1941">
+      <name>StickLines-1.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1942">
+      <name>StickLines-2.8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1943">
+      <name>StickLines-3.5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1944">
+      <name>StickLines-4.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1945">
+      <name>StickLines-6.9</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1946">
+      <name>StickLines-8.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1947">
+      <name>StickLines-10.2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1948">
+      <name>StickLines-11.6</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1949">
+      <name>StickLines-14.9</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1950">
+      <name>StickLines-17.5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1951">
+      <name>StickLines-19.8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1952">
+      <name>StickLines-24.7</name>
+      <info>
+      </info>
+    </weapon>
   </weapons>
 </wpnlang>

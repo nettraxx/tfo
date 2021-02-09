@@ -1,3 +1,15 @@
+Patch 1.48.2
+Niederländische Spieler haben mir lange Zeit geschrieben, dass die Niederlande für ihren Barsch berühmt sind 
+und dieser Inhalt über die Niederlande überhaupt nicht entwickelt wurde. 
+Nachdem ich die von ihnen bereitgestellten Materialien überprüft hatte, stellte ich fest, dass der Barsch in Holland wirklich groß ist. 
+Genauer gesagt sind sie einfach riesig.
+Aufgrund der Spielmechanik können Sie die Größe des Fisches für ein bestimmtes Gebiet jedoch nicht willkürlich erhöhen. 
+Daher habe ich beschlossen, einen separaten neuen Typ von "Holländischer Barsch" einzuführen. 
+Dies ist immer noch derselbe Flussbarsch (lat. Perca fluviatilis), nur von herausragender Größe. 
+Holländischer Barsch ist nicht klein, sein Gewicht beginnt bei einem Kilogramm und bis zu ... 
+Aber wie viele "bis" - das werden Sie selbst herausfinden.
+Darüber hinaus hat der Patch das Chub-Modell aktualisiert und die Kosten und Erfahrungen gesteigert.
+
 Patch 1.48.1
 In Geschäften gibt es Gutscheine für hochrangige Standorte für Turniermarken.
 Dekorationsgegenstände (Essen, Getränke) können verschenkt werden.
