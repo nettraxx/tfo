@@ -1,4 +1,10 @@
 ﻿[INTERFACE]
+
+rod_mastery=Fischkontrolle
+rod_dex=Genauigkeit
+rod_exp=Erfahrung 
+
+--------------------
 sett_act=Spielerereignisse anzeigen
 lvel_act={0} bis Stufe {1}
 med_act={0} hat {1} verwendet

@@ -5030,5 +5030,187 @@ An additional feed at catching on technoplants, not needed</info>
       <info>Moves the player to the specified location for 2 hours</info>
     </weapon>	
 	
+	
+	
+    <weapon id="1940">
+      <name>StickLines</name>
+      <info>Limited-length fishing line series for stick rods.</info>
+    </weapon>
+    <weapon id="1941">
+      <name>StickLines-1.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1942">
+      <name>StickLines-2.8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1943">
+      <name>StickLines-3.5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1944">
+      <name>StickLines-4.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1945">
+      <name>StickLines-6.9</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1946">
+      <name>StickLines-8.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1947">
+      <name>StickLines-10.2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1948">
+      <name>StickLines-11.6</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1949">
+      <name>StickLines-14.9</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1950">
+      <name>StickLines-17.5</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1951">
+      <name>StickLines-19.8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1952">
+      <name>StickLines-24.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1953">
+      <name>Dough 速攻1号</name>
+      <info>Dry collection for the preparation of the herabuna dough "Fast attack No. 1". It consists of various grain components, proteins of vegetable and animal origin, and particles of dried shellfish.</info>
+    </weapon>
+    <weapon id="1954">
+      <name>Dough 速攻2号</name>
+      <info>Dry collection for the preparation of herabuna dough " Quick attack #2". It consists of various grain components, proteins of vegetable and animal origin, particles of dried shellfish</info>
+    </weapon>
+    <weapon id="1955">
+      <name>Dough 蓝鲫3号</name>
+      <info>Dry collection for the preparation of herabun dough "Blue carp No. 3". The main component of this mixture is potato flakes. Sweet taste</info>
+    </weapon>
+    <weapon id="1956">
+      <name>Dough semolina</name>
+      <info>Dry collection for the preparation of semolina dough. 
+In the composition of semolina and gluten</info>
+    </weapon>
+    <weapon id="1957">
+      <name>Dough corn</name>
+      <info>Dry collection for making dough. In the composition of corn flour and milk powder.  </info>
+    </weapon>
+    <weapon id="1958">
+      <name>Dough sweet </name>
+      <info>Dry collection for making dough. It consists of wheat flour with a high content of gluten and powdered sugar.  </info>
+    </weapon>
+    <weapon id="1959">
+      <name>Vanilla</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1960">
+      <name>Dough pea</name>
+      <info>Dry collection for making dough. In the composition of wheat and pea flour .  </info>
+    </weapon>
+    <weapon id="1961">
+      <name>Anise</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1962">
+      <name>Caramel</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1963">
+      <name>Garlic</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1964">
+      <name>Dill</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1965">
+      <name>Hemp</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1966">
+      <name>Sunflower</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1967">
+      <name>Mint</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1968">
+      <name>Kipper</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1969">
+      <name>Herabuna stick-4.5м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1970">
+      <name>Herabuna stick-5.4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1971">
+      <name>Herabuna stick-6.3м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1972">
+      <name>Herabuna stick series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1973">
+      <name>-Dough</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1974">
+      <name>Corn Dough</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1975">
+      <name>Peas Dough</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1976">
+      <name>Herabuna Dough</name>
+      <info>
+      </info>
+    </weapon>	
+	
+	
   </weapons>
 </wpnlang>

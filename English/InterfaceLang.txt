@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
+rod_mastery=Fish control
+rod_dex=Accuracy
+rod_exp=Experience 
 
+--------------------
 sett_act=Show players events
 lvel_act={0} level up to {1}
 med_act={0} used the {1}

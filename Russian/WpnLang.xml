@@ -397,7 +397,7 @@
       <info>высокая скорость Рыболовная катушка s G-Ratio 5,0: 1 приманка складной шарнир спиннинговая</info>
     </weapon>
     <weapon id="1029">
-      <name>Херабуна</name>
+      <name>Херабуна Gold</name>
       <info>
       </info>
     </weapon>
@@ -4527,8 +4527,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="1940">
       <name>StickLines</name>
-      <info>
-      </info>
+      <info>Серия лесок ограниченой длины для маховых удилищ.</info>
     </weapon>
     <weapon id="1941">
       <name>StickLines-1.7</name>
@@ -4587,6 +4586,120 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="1952">
       <name>StickLines-24.7</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1953">
+      <name>Тесто 速攻1号</name>
+      <info>Сухой сбор для приготовления теста херабуна "Быстрая атака №1". Состоит из различных зерновых компонентов, белков растительного и животного происхождения, частиц сушеных моллюсков.</info>
+    </weapon>
+    <weapon id="1954">
+      <name>Тесто 速攻2号</name>
+      <info>Сухой сбор для приготовления теста херабуна "Быстрая атака №2". Состоит из различных зерновых компонентов, белков растительного и животного происхождения, частиц сушеных моллюсков</info>
+    </weapon>
+    <weapon id="1955">
+      <name>Тесто 蓝鲫3号</name>
+      <info>Сухой сбор для приготовления теста херабуна "Синий карась №3". Основная составляющая часть данной смеси - картофельные хлопья. Сладковатый вкус</info>
+    </weapon>
+    <weapon id="1956">
+      <name>Тесто манное</name>
+      <info>Сухой сбор для приготовления манного теста. 
+В составе манная крупа и глютен</info>
+    </weapon>
+    <weapon id="1957">
+      <name>Тесто кукурузное</name>
+      <info>Сухой сбор для приготовления теста. В составе кукурузная мука и сухое молоко.  </info>
+    </weapon>
+    <weapon id="1958">
+      <name>Тесто сладкое</name>
+      <info>Сухой сбор для приготовления теста. В составе пшеничная мука с высоким содержанием глютена и сахарная пудра.  </info>
+    </weapon>
+    <weapon id="1959">
+      <name>Ваниль</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1960">
+      <name>Тесто гороховое</name>
+      <info>Сухой сбор для приготовления теста. В составе пшеничная и гороховая мука .  </info>
+    </weapon>
+    <weapon id="1961">
+      <name>Анис</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1962">
+      <name>Карамель</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1963">
+      <name>Чеснок</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1964">
+      <name>Укроп</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1965">
+      <name>Конопля</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1966">
+      <name>Подсолнечник</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1967">
+      <name>Мята</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1968">
+      <name>Копченая рыба</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1969">
+      <name>Херабуна-4.5м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1970">
+      <name>Херабуна-5.4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1971">
+      <name>Херабуна-6.3м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1972">
+      <name>Херабуна серия</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1973">
+      <name>-Базовое тесто</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1974">
+      <name>Тесто кукурузное</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1975">
+      <name>Тесто гороховое</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1976">
+      <name>Тесто херабуна</name>
       <info>
       </info>
     </weapon>

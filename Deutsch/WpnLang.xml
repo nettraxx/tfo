@@ -423,7 +423,7 @@
       <info> Einfache Rolle mit wenig Kraft.</info>
     </weapon>
     <weapon id="1029">
-      <name>Herabuna</name>
+      <name>Herabuna Gold</name>
       <info>Japanische Karausche</info>
     </weapon>
     <weapon id="1030">
@@ -5068,8 +5068,7 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1940">
       <name>StickLines</name>
-      <info>
-      </info>
+      <info>Schnur von begrenzter Länge für Fliegenruten.</info>
     </weapon>
     <weapon id="1941">
       <name>StickLines-1.7</name>
@@ -5130,6 +5129,119 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <name>StickLines-24.7</name>
       <info>
       </info>
-    </weapon>	
+    </weapon>
+    <weapon id="1953">
+      <name>Teig 速攻1号</name>
+      <info>Trockenmischung zur Zubereitung von Kherabuna-Teig "Quick Attack No.1". Besteht aus verschiedenen Getreidekomponenten, Proteinen pflanzlichen und tierischen Ursprungs, Partikeln getrockneter Schalentiere.</info>
+    </weapon>
+    <weapon id="1954">
+      <name>Teig 速攻2号</name>
+      <info>Trockenmischung zur Zubereitung von Kherabuna-Teig "Quick Attack No.2". Besteht aus verschiedenen Getreidekomponenten, Proteinen pflanzlichen und tierischen Ursprungs, Partikeln getrockneter Schalentiere.</info>
+    </weapon>
+    <weapon id="1955">
+      <name>Teig 蓝鲫3号</name>
+      <info>Trockenmischung zur Herstellung des Teigs "Blauer Karausche Nr.3". Der Hauptbestandteil dieser Mischung sind Kartoffelflocken. Süßlicher Geschmack</info>
+    </weapon>
+    <weapon id="1956">
+      <name>Grießteig</name>
+      <info>Trockenmischung zur Herstellung von Grießteig. Enthält Grieß und Gluten</info>
+    </weapon>
+    <weapon id="1957">
+      <name>Maisteig</name>
+      <info>Trockensammlung zur Teigzubereitung. Enthält Maismehl und Milchpulver.</info>
+    </weapon>
+    <weapon id="1958">
+      <name>Süßer Teig</name>
+      <info>Trockensammlung zur Teigzubereitung. Es enthält Weizenmehl mit hohem Glutengehalt und Puderzucker.</info>
+    </weapon>
+    <weapon id="1959">
+      <name>Vanille</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1960">
+      <name>Erbsen-Teig</name>
+      <info>Trockensammlung zur Teigzubereitung. Es enthält Weizen- und Erbsenmehl.</info>
+    </weapon>
+    <weapon id="1961">
+      <name>Anis</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1962">
+      <name>Karamell</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1963">
+      <name>Knoblauch</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1964">
+      <name>Dill</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1965">
+      <name>Hanf</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1966">
+      <name>Sonnenblume</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1967">
+      <name>Minze</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1968">
+      <name>Räucherfisch</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1969">
+      <name>Herabuna stick-4.5м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1970">
+      <name>Herabuna stick-5.4</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1971">
+      <name>Herabuna stick-6.3м</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1972">
+      <name>Herabuna Series</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1973">
+      <name>Grundteig</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1974">
+      <name>Maisteig</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1975">
+      <name>Erbsenteig</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1976">
+      <name>Herabunateig</name>
+      <info>
+      </info>
+    </weapon>		
   </weapons>
 </wpnlang>

@@ -1,3 +1,19 @@
+Patch 1.49.0
+Hallo Freunde. Die Spieler haben sich lange Zeit über zu starke Fische beschwert, daher wurde viel Arbeit in diese Richtung geleistet. 
+Jetzt hat das Spiel einen Parameter wie "Fischkontrolle", der mit zunehmendem Besitz der Angelrute zunimmt. 
+Es wird vorausgesetzt, dass der Spieler durch Erhöhen der Fähigkeiten der Angelrute eine bessere Kontrolle über den Fisch hat, seine Rucke glättet und ihn besser in seine Richtung dreht. 
+Dieser Parameter beschleunigt auch die Ermüdung des Fisches. Außerdem werden jetzt andere zuvor verborgene Parameter zum Pumpen der Angel angezeigt, beispielsweise die Genauigkeit des Werfens oder das Erhöhen der Reichweite.
+Die aktualisierte Mechanik funktioniert am besten beim Fischen im Stehen. In diesem Fall wird die Fähigkeit zum Anheben des Fisches und seine Kontrolle erhöht. 
+Sie können sowohl am Ufer als auch auf dem Boot stehen. Darüber hinaus hat sich auch das Verhalten großer Fische geändert, sie werden schneller müde und im Allgemeinen tut sie dies jetzt nicht gerne.
+Zusätzlich zu den aktualisierten Mechaniken des Fischens fügte das Spiel die Methode des asiatischen Fischens "Herabuna" hinzu. 
+Dies ist eine leichte Schwimmfliegenrute, die speziell für das Angeln "von unten" auf weichem Teig entwickelt wurde. Alle neuen Ruten sind an allen Standorten (außer Dukora) im Geschäft erhältlich und haben einen Erfahrungsbonus, d. H. Sie sind eine Art ultraleichte Ruten.
+Außerdem wurde eine Reihe von Schnüren mit der Bezeichnung StickLines mit einer Länge von 50 Metern und einer Festigkeit von 2 bis 25 kg an alle Geschäfte geliefert.
+
+Darüber hinaus behebt das Update die folgenden Fehler:
+steckte die Rute in die Hand mit der Unfähigkeit, sie abzulegen
+steckte die Rute bei einem schnellen Wechsel der Ruten
+Schütteln Sie den Fisch beim Heben
+
 Patch 1.48.2
 Niederländische Spieler haben mir lange Zeit geschrieben, dass die Niederlande für ihren Barsch berühmt sind 
 und dieser Inhalt über die Niederlande überhaupt nicht entwickelt wurde. 
