@@ -49,9 +49,10 @@ type_107=Sign "Universite de Paris PFP"
 type_108=Red caviar
 type_109=Black caviar
 
-type_110=See off 2020
-type_111=Welcome 2021
+type_110=---
+type_111=---
 
+type_120=Rating participant
 
 [MESSAGES]
 
