@@ -2,19 +2,7 @@
 
 <reputaion>
 	<fractions>
-		<fraction id="1" name="оз. Бризенер"/>
-    	<fraction id="2" name="Плато великанов"/>
-		<fraction id="3" name="Бар Воронка"/>
-		<fraction id="4" name="Озерное поселение"/>
-		<fraction id="5" name="Изумрудное"/>
-		<fraction id="6" name="Деревенские"/>
-		<fraction id="7" name="Жители разлива"/>
-		<fraction id="8" name="Нефтяники"/>
-		<fraction id="1000" name="Военные"/>
-		<fraction id="1001" name="Лекарственная гильдия"/>
-		<fraction id="1002" name="Союз спиннингистов"/>
-		<fraction id="1003" name="Союз поплавочников"/>
-		<fraction id="1004" name="Союз доночников"/>
+
 	</fractions>
 	
 	<levels>

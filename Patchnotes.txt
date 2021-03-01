@@ -1,3 +1,23 @@
+Patch 1.50.0
+Veranstaltung "Lerne den Frühling kennen"
+★ Fangen Sie im Zeitraum vom 1. bis 9. März (einschließlich) Blumen in verschiedenen Farben und sammeln Sie zusätzliche Erfahrungen (wenn Sie sie verwenden). Oder sammle drei verschiedene Blumen, erstelle einen Blumenstrauß und gib ihn dem Mädchen.
+
+Abschluss der Saisonwertung des Vereins
+★ Die erste Saison der Club-Rangliste ist vorbei und die Top-20-Clubs erhalten je nach Platz in der Rangliste Auszeichnungen.
+Für den 1. Platz - eine Goldauszeichnung, die + 20% auf die Kosten für den Verkauf von Fisch für alle Clubmitglieder gibt
+Für 2-4 Plätze - eine Silberauszeichnung mit + 15%
+Für 5-10 Plätze - eine Bronze-Auszeichnung mit + 10%
+Für 11-20 Plätze - eine Holzauszeichnung mit + 5%
+Der Club Award gilt für die gesamte nächste (Frühjahrs-) Saison
+
+Änderungen im Bewertungssystem
+★ Da die Anzahl der Fischarten im Spiel ständig zunimmt, wird die Suche nach Bewertungspunkten immer mühsamer. Aus diesem Grund wurde beschlossen, die Anzahl der Arten, die Bewertungspunkte erhalten sollen, zu begrenzen. Ab dem 1. März werden jeden Monat 45 Bewertungsarten zufällig aus allen Arten im Spiel ausgewählt, wobei sie fangen, was Bewertungspunkte ergibt.
+Zusätzlich erhält die Bewertungsansicht ein spezielles Label "Bewertungsteilnehmer", das ihren Wert beim Verkauf um 25% erhöht. Welche Arten diesen Monat bewertet werden, erfahren Sie in der Tabelle "Statistik" oder "Fisch am See".
+
+Andere Änderungen
+★ Es wurde die Möglichkeit hinzugefügt, Club-Vergünstigungen mit der Rückgabe von Club-Punkten zurückzusetzen. Dazu müssen Sie 1 Zeichen des Clubgründers ausgeben. Nur der Gründer des Clubs oder sein Stellvertreter kann die Punkte zurücksetzen
+★ In den Geschäften von Norwegen, dem Kaspischen Meer und Finnland wurden neue Hochgeschwindigkeitsrollen der Cobra Blaster-Serie für das Spinnfischen hinzugefügt 
+
 Patch 1.49.0
 Hallo Freunde. Die Spieler haben sich lange Zeit über zu starke Fische beschwert, daher wurde viel Arbeit in diese Richtung geleistet. 
 Jetzt hat das Spiel einen Parameter wie "Fischkontrolle", der mit zunehmendem Besitz der Angelrute zunimmt. 

@@ -5242,6 +5242,44 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       <name>Herabunateig</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="1977">
+      <name>Rote Blume</name>
+      <info>Frühlingsblume. Sie können sie verwenden und zusätzliche Erfahrung sammeln. Oder sammle einen Blumenstrauß und gib ihn einem Mädchen.</info>
+    </weapon>	
+    <weapon id="1978">
+      <name>Weiße Blume</name>
+      <info>Frühlingsblume. Sie können sie verwenden und zusätzliche Erfahrung sammeln. Oder sammle einen Blumenstrauß und gib ihn einem Mädchen.</info>
+    </weapon>	
+    <weapon id="1979">
+      <name>Gelbe Blume</name>
+      <info>Frühlingsblume. Sie können sie verwenden und zusätzliche Erfahrung sammeln. Oder sammle einen Blumenstrauß und gib ihn einem Mädchen.</info>
+    </weapon>	
+    <weapon id="1980">
+      <name>Blumenstrauß</name>
+      <info>Sie können es verwenden und zusätzliche Erfahrung sammeln.</info>
+    </weapon>	
+    <weapon id="1981">
+      <name>Cobra Blaster Series</name>
+      <info>      </info>
+    </weapon>	
+    <weapon id="1982">
+      <name>Cobra RSL-35</name>
+      <info>Übersetzungsverhältnis 5,5:1
+Anzahl der Lager 2
+Frontbremse</info>
+    </weapon>	
+    <weapon id="1983">
+      <name>Cobra RSL-40</name>
+      <info>Übersetzungsverhältnis 5,5:1
+Anzahl der Lager 2
+Frontbremse</info>
+    </weapon>	
+    <weapon id="1984">
+      <name>Cobra RSL-45</name>
+      <info>Übersetzungsverhältnis 5,5:1
+Anzahl der Lager 2
+Frontbremse</info>
     </weapon>		
   </weapons>
 </wpnlang>
