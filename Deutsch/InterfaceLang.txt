@@ -8,15 +8,15 @@ crtng_trof_2_name=Bewertung Bronze
 crtng_trof_3_name=Bewertung Silber
 crtng_trof_4_name=Bewertung Gold
 
-crtng_trof_1_info=Erhöht die Kosten für Fisch zum Verkauf um 5%
-crtng_trof_2_info=Erhöht die Kosten für Fisch zum Verkauf um 10%
-crtng_trof_3_info=Erhöht die Kosten für Fisch zum Verkauf um 15%
-crtng_trof_4_info=Erhöht die Kosten für Fisch zum Verkauf um 20%
+crtng_trof_1_info=Erhöht den Gewinn für Fisch beim Verkauf um 5%
+crtng_trof_2_info=Erhöht den Gewinn für Fisch beim Verkauf um 10%
+crtng_trof_3_info=Erhöht den Gewinn für Fisch beim Verkauf um 15%
+crtng_trof_4_info=Erhöht den Gewinn für Fisch beim Verkauf um 20%
 
-crtng_trof_1_infadd=Wird für die 11-20. Plätze in der Bewertung vergeben
-crtng_trof_2_infadd=Wird für die 5-10. Plätze in der Bewertung vergeben
-crtng_trof_3_infadd=Wird für die 2-4. Plätze in der Bewertung vergeben
-crtng_trof_4_infadd=Wird für den 1. Platz in der Bewertung vergeben
+crtng_trof_1_infadd=Wird für die Plätze 11-20. in der Bewertung vergeben
+crtng_trof_2_infadd=Wird für die Plätze 5-10. in der Bewertung vergeben
+crtng_trof_3_infadd=Wird für die Plätze 2-4. in der Bewertung vergeben
+crtng_trof_4_infadd=Wird für den Platz 1. in der Bewertung vergeben
 
 --------------------
 rod_mastery=Fischkontrolle
