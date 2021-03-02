@@ -1,3 +1,10 @@
+Patch 1.50.1
+Es wurde ein Fehler mit einer falschen Anzeige der Bewertung und der Bewertung von Fischen auf der Statistikseite behoben
+Es wurde ein Problem behoben, bei dem Clubboni nicht auf den Preis von gefrorenem Fisch angewendet wurden
+Es wurde ein Fehler mit einem hochpreisigen "Rating" -Fisch behoben
+Das Modell des silbernen Karpfen wurde weiß und fleckig aktualisiert
+Aktualisierte Modelle von "Carp Hunter"
+
 Patch 1.50.0
 Veranstaltung "Lerne den Frühling kennen"
 ★ Fangen Sie im Zeitraum vom 1. bis 9. März (einschließlich) Blumen in verschiedenen Farben und sammeln Sie zusätzliche Erfahrungen (wenn Sie sie verwenden). Oder sammle drei verschiedene Blumen, erstelle einen Blumenstrauß und gib ihn dem Mädchen.

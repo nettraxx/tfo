@@ -5210,46 +5210,39 @@ In the composition of semolina and gluten</info>
       <info>
       </info>
     </weapon>	
-	
     <weapon id="1977">
       <name>Red flower</name>
       <info>Spring flower. You can use it and get additional experience. or collect a bouquet and give it to a girl. </info>
     </weapon>
-	
     <weapon id="1978">
       <name>White flower</name>
       <info>Spring flower. You can use it and get additional experience. or collect a bouquet and give it to a girl. </info>
     </weapon>
-	
     <weapon id="1979">
       <name>Yelow flower</name>
       <info>Spring flower. You can use it and get additional experience. or collect a bouquet and give it to a girl. </info>
     </weapon>
-	
     <weapon id="1980">
       <name>Bouquet</name>
       <info>You can use it and get additional experience. </info>
     </weapon>
-	
     <weapon id="1981">
       <name>Cobra Blaster Series</name>
-      <info>      </info>
+      <info>
+      </info>
     </weapon>
-	
     <weapon id="1982">
       <name>Cobra RSL-35</name>
       <info>Gear ratio 5.5:1
 Number of bearings 2
 Front friction</info>
     </weapon>
-	
     <weapon id="1983">
       <name>Cobra RSL-40</name>
       <info>Gear ratio 5.5:1
 Number of bearings 2
 Front friction</info>
     </weapon>
-	
     <weapon id="1984">
       <name>Cobra RSL-45</name>
       <info>Gear ratio 5.5:1
