@@ -5250,5 +5250,36 @@ Number of bearings 2
 Front friction</info>
     </weapon>	
 	
+    <weapon id="1985">
+      <name>SabaneevLP series</name>
+      <info>A series of stick rods designed for carp fishing</info>
+    </weapon>
+    <weapon id="1986">
+      <name>SabLP-16</name>
+      <info>Stick rod designed for carp fishing</info>
+    </weapon>
+    <weapon id="1987">
+      <name>SabLP-19</name>
+      <info>Stick rod designed for carp fishing</info>
+    </weapon>
+    <weapon id="1988">
+      <name>SabLP-22</name>
+      <info>Stick rod designed for carp fishing</info>
+    </weapon>
+    <weapon id="1989">
+      <name>SabLP-26</name>
+      <info>Stick rod designed for carp fishing</info>
+    </weapon>
+    <weapon id="1990">
+      <name>Feed "Sturgeon"</name>
+      <info>Designed to improve the biting of sturgeon species.
+
+In the composition - cereals, fish meal, krill, smoked meat</info>
+    </weapon>
+    <weapon id="1991">
+      <name>Feed "Bleak"</name>
+      <info>Designed to improve the biting of small white fish-bleak, sabrefish, shemai and other species</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

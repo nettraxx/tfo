@@ -489,7 +489,7 @@
       <info>Aluminiumgestell zur Aufnahme von drei Angelruten.</info>
     </weapon>
     <weapon id="1043">
-      <name>--</name>
+      <name>Rodpode 3S</name>
       <info>
       </info>
     </weapon>
@@ -2621,7 +2621,7 @@ VIP gives no bonus.</info>
     </weapon>
     <weapon id="1436">
       <name>Fliege</name>
-      <info>Fängig für: Bachforelle, Europäische Äsche, Frosch, Goldforelle, Hasel, Seesaibling, Laube, Regenbogenforelle, Saibling, Saimaa-Forelle, Seeforelle, Sichling
+      <info>Fängig für: Bachforelle, Europäische Äsche, Frosch, Goldforelle, Hasel, Königslachs, Laube, Regenbogenforelle, Saibling, Saimaa-Forelle, Seeforelle, Sichling
 	  </info>
     </weapon>
     <weapon id="1437">
@@ -3807,17 +3807,17 @@ Rollengröße: 1000-2500.</info>
 	</weapon>
 	<weapon id="1675">
 	  <name>VIB MD Cyclope M1</name>
-	  <info>Fängig für: Bachsaibling, Buckellachs, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Seesaibling, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+	  <info>Fängig für: Bachsaibling, Buckellachs, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1676">
 	  <name>VIB MD Cyclope M2</name>
-	  <info>Fängig für: Bachsaibling, Buckellachs, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Seesaibling, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+	  <info>Fängig für: Bachsaibling, Buckellachs, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	<weapon id="1677">
 	  <name>VIB MD Cyclope M3</name>
-	  <info>Fängig für: Bachsaibling, Buckellachs, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Seesaibling, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
+	  <info>Fängig für: Bachsaibling, Buckellachs, Dicklippige Meeräsche, Europäische Äsche, Europäischer Wolfsbarsch, Felsenbarsch, Königslachs, Meeräsche, Meerzander, Seehecht, Rapfen, Schwarzbarsch, Taimen, Tiberbarbe, Weißer Thunfisch, Zander
 	  </info>
 	</weapon>
 	  <weapon id="1678">
@@ -3879,17 +3879,17 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1691">
       <name>VOB DeepTail M1</name>
-      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
+      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1692">
       <name>VOB DeepTail M2</name>
-      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
+      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1693">
       <name>VOB DeepTail M3</name>
-      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Seesaibling, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
+      <info>Größe 4, spezieller großer Köder zum Schleppen. Fängig für: Bachsaibling, Baltischer Lachs, Königslachs, Rapfen, Regenbogenforelle, Russischer Stör, Saibling, Taimen, Zander
 </info>
     </weapon>
     <weapon id="1694">
@@ -4400,7 +4400,7 @@ Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1801">
       <name>Kaviartasche</name>
-      <info>Fängig für: Bachsaibling, Seesaibling
+      <info>Fängig für: Bachsaibling, Königslachs
 	  </info>
     </weapon>
     <weapon id="1802">
@@ -4427,7 +4427,7 @@ Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für
     <weapon id="1807">
       <name>Akma VB1 Gold</name>
       <info>Schwerer Köder für die vertikale Führung. 
-Fängig für: Europäischer Wolfsbarsch, Seesaibling, Seehecht
+Fängig für: Europäischer Wolfsbarsch, Königslachs, Seehecht
 	  </info>
     </weapon>
     <weapon id="1808">
@@ -4563,17 +4563,17 @@ Nur Rollengröße 2500 und kleiner sind zulässig.
     </weapon>
     <weapon id="1835">
       <name>WOB Shad-F1</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Seesaibling, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1836">
       <name>WOB Shad-F2</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Seesaibling, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1837">
       <name>WOB Shad-F3</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Seesaibling, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1838">
@@ -4582,7 +4582,7 @@ Nur Rollengröße 2500 und kleiner sind zulässig.
     </weapon>
     <weapon id="1839">
       <name>WOB Shad-F4</name>
-      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Seesaibling, Saibling	  
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling. Fängig für: Aland, Atlantischer Lachs, Buckellachs, Großkopfmeeräsche, Hecht, Königslachs, Saibling	  
 	  </info>
     </weapon>
     <weapon id="1840">
@@ -5280,6 +5280,36 @@ Frontbremse</info>
       <info>Übersetzungsverhältnis 5,5:1
 Anzahl der Lager 2
 Frontbremse</info>
+    </weapon>
+    <weapon id="1985">
+      <name>SabaneevLP series</name>
+      <info>Eine Reihe von Stippruten für das Karpfenfischen</info>
+    </weapon>
+    <weapon id="1986">
+      <name>SabLP-16</name>
+      <info>Stipprute für das Karpfenangeln</info>
+    </weapon>
+    <weapon id="1987">
+      <name>SabLP-19</name>
+      <info>Stipprute für das Karpfenangeln</info>
+    </weapon>
+    <weapon id="1988">
+      <name>SabLP-22</name>
+      <info>Stipprute für das Karpfenangeln</info>
+    </weapon>
+    <weapon id="1989">
+      <name>SabLP-26</name>
+      <info>Stipprute für das Karpfenangeln</info>
+    </weapon>
+    <weapon id="1990">
+      <name>Feed "Stör & Co"</name>
+      <info>Entwickelt, um das Beißen von Störarten zu verbessern.
+
+In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</info>
+    </weapon>
+    <weapon id="1991">
+      <name>Feed "Laube & Co"</name>
+      <info>Entwickelt, um das Beißen von Laube, Sichling, Seelaube und anderen Arten zu verbessern.</info>
     </weapon>		
   </weapons>
 </wpnlang>

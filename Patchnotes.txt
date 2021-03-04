@@ -1,3 +1,7 @@
+Patch 1.50.2
+Eine Reihe schwerer Stippruten "Sabaneev L.P." wurde hinzugefügt. Mit einer Tragkraft von 16-25 kg
+Neue Futtermischungen hinzugefügt
+
 Patch 1.50.1
 Es wurde ein Fehler mit einer falschen Anzeige der Bewertung und der Bewertung von Fischen auf der Statistikseite behoben
 Es wurde ein Problem behoben, bei dem Clubboni nicht auf den Preis von gefrorenem Fisch angewendet wurden
