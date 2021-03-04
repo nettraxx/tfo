@@ -5302,13 +5302,13 @@ Frontbremse</info>
       <info>Stipprute für das Karpfenangeln</info>
     </weapon>
     <weapon id="1990">
-      <name>Feed "Stör und Co"</name>
+      <name>Futter "Stör und Co"</name>
       <info>Entwickelt, um das Beißen von Störarten zu verbessern.
 
 In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</info>
     </weapon>
     <weapon id="1991">
-      <name>Feed "Laube und Co"</name>
+      <name>Futter "Laube und Co"</name>
       <info>Entwickelt, um das Beißen von Laube, Sichling, Seelaube und anderen Arten zu verbessern.</info>
     </weapon>		
   </weapons>
