@@ -1,3 +1,8 @@
+Patch 1.50.3
+Überarbeitung aller Bissalarme im Spiel. Aktualisierung der Mechanik von Alarmsystemen, Ton- und Lichtsignalen. 
+Jetzt funktionieren alle Alarme im Spiel in voller Übereinstimmung mit ihren tatsächlichen Gegenstücken.
+Behebung von Fehlern bei den Kosten für gefrorenen Fisch.
+
 Patch 1.50.2
 Eine Reihe schwerer Stippruten "Sabaneev L.P." wurde hinzugefügt. Mit einer Tragkraft von 16-25 kg
 Neue Futtermischungen hinzugefügt
