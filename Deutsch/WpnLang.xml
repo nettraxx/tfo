@@ -409,7 +409,7 @@
     </weapon>
     <weapon id="1026">
       <name>Elektronischer Bissanzeiger</name>
-      <info>Das Signalgerät ist auf der Rutenspitze montiert. Leuchtet beim Beißen in Rot.
+      <info>Das Signalgerät ist auf dem Rutenständer montiert. Leuchtet beim Beißen in Rot.
 Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot mit Rutenhalter.</info>
     </weapon>
     <weapon id="1027">
@@ -480,7 +480,7 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
     </weapon>
     <weapon id="1041">
       <name>Elektronisches Glöckchen</name>
-      <info>Es ist an der Rutenspitze angebracht und leuchtet blau. Kompatibel mit dem Rodpod.
+      <info>Es ist an dem Rutengriff angebracht und leuchtet beim Biss blau. Kompatibel mit dem Rodpod.
       </info>
     </weapon>
     <weapon id="1042">
@@ -4371,15 +4371,15 @@ Nassfliege für das "Strippen" stromabwärts mit gespannter Schnur. Fängig für
     </weapon>
     <weapon id="1795">
       <name>Glöckchenton, Mittel</name>
-      <info>Klassisches Klingelsignal. Wird an der Rutenspitze montiert.</info>
+      <info>Klassisches Klingelsignal. Wird am Rutenblank montiert.</info>
     </weapon>
     <weapon id="1796">
       <name>Glöckchenton, Hoch</name>
-      <info>Klassisches Klingelsignal. Wird an der Rutenspitze montiert.</info>
+      <info>Klassisches Klingelsignal. Wird am Rutenblank montiert.</info>
     </weapon>
     <weapon id="1797">
       <name>Glöckchenton, Tief</name>
-      <info>Klassisches Klingelsignal. Wird an der Rutenspitze montiert.</info>
+      <info>Klassisches Klingelsignal. Wird am Rutenblank montiert.</info>
     </weapon>
     <weapon id="1798">
       <name>FF-Vorfach  11,2kg</name>
