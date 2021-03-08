@@ -486,11 +486,7 @@
       <name>Salamo Rodpod 3R</name>
       <info>Aluminum stand for fishing rods</info>
     </weapon>
-    <weapon id="1043">
-      <name>--</name>
-      <info>
-      </info>
-    </weapon>
+
     <weapon id="1044">
       <name>--</name>
       <info>
@@ -1703,18 +1699,7 @@ To activate press right mouse button on the item and select "Use".</info>
       <info>
       </info>
     </weapon>
-    <weapon id="1268">
-      <name>
-      </name>
-      <info>
-      </info>
-    </weapon>
-    <weapon id="1269">
-      <name>
-      </name>
-      <info>
-      </info>
-    </weapon>
+
     <weapon id="1270">
       <name>PVA Material</name>
       <info>Material for making packages of feed, bundles, bait bags </info>
@@ -5279,6 +5264,22 @@ In the composition - cereals, fish meal, krill, smoked meat</info>
     <weapon id="1991">
       <name>Feed "Bleak"</name>
       <info>Designed to improve the biting of small white fish-bleak, sabrefish, shemai and other species</info>
+    </weapon>	
+	
+	
+    <weapon id="1043">
+      <name>Salamo Rodpode 3S</name>
+      <info>Fishing rod stand with bite-alarms</info>
+    </weapon>	
+	
+    <weapon id="1268">
+      <name>Metal Set</name>
+      <info>A set of metal tubes and plates for homemade crafts</info>
+    </weapon>
+	
+    <weapon id="1269">
+      <name>Plastic Set</name>
+      <info>A set of plastic parts for homemade crafts</info>
     </weapon>	
 	
   </weapons>

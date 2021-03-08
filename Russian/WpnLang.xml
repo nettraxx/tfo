@@ -457,9 +457,8 @@
       <info>Аллюминивая подставка для удочек</info>
     </weapon>
     <weapon id="1043">
-      <name>Rodpode 3S</name>
-      <info>
-      </info>
+      <name>Salamo Rodpode 3S</name>
+      <info>Подставка для удочек с сигнализаторами</info>
     </weapon>
     <weapon id="1044">
       <name>---</name>
@@ -1444,12 +1443,12 @@
       </info>
     </weapon>
     <weapon id="1268">
-      <name>Металл</name>
-      <info> Ресурс для создания снастей</info>
+      <name>Металл Набор</name>
+      <info>Набор металлических трубочек и пластин для самоделок</info>
     </weapon>
     <weapon id="1269">
-      <name>Пластик</name>
-      <info> Ресурс для создания снастей</info>
+      <name>Пластик Набор</name>
+      <info>Набор пластиковых деталей для самоделок</info>
     </weapon>
     <weapon id="1270">
       <name>ПВА Материал</name>

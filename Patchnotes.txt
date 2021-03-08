@@ -1,3 +1,9 @@
+Patch 1.50.4
+Änderungen an einigen Charakteranimationen.
+Es wurde die Möglichkeit hinzugefügt, die Höhe und den Neigungswinkel der Rodpods anzupassen (N-Taste).
+Ein Rodpod mit voreingestellten Alarmen wurde hinzugefügt. Sie können ihn entweder im Geschäft kaufen oder selbst herstellen und so Ihren vorhandenen Rodpod ohne Alarm nachrüsten.
+Ändern der Geschwindigkeit zum Anheben der Stipprute beim Angeln großer Fische.
+
 Patch 1.50.3
 Überarbeitung aller Bissalarme im Spiel. Aktualisierung der Mechanik von Alarmsystemen, Ton- und Lichtsignalen. 
 Jetzt funktionieren alle Alarme im Spiel in voller Übereinstimmung mit ihren tatsächlichen Gegenstücken.

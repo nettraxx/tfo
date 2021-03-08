@@ -1,7 +1,15 @@
 ﻿[INTERFACE]
 
-clbdrop_inf=Really reset the club's perks? \n To reset, you need 1 Sign of the founder of the club
+rpset_header=Rodpod settings
+rpset_hgtmain=Main height
+rpset_hgtfirst=Height of the first holder
+rpset_hgtsecond=Height of the second holder
+act_inf5n=[N] Height adjustment
+key_podestng=Rodpod settings
+--------------------
 
+
+clbdrop_inf=Really reset the club's perks? \n To reset, you need 1 Sign of the founder of the club
 
 crtng_trof_1_name=Rating wooden
 crtng_trof_2_name=Rating bronze

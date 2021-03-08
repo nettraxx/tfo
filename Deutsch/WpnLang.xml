@@ -488,9 +488,8 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
       <info>Aluminiumgestell zur Aufnahme von drei Angelruten.</info>
     </weapon>
     <weapon id="1043">
-      <name>Rodpode 3S</name>
-      <info>
-      </info>
+      <name>Salamo Rodpod 3S</name>
+      <info>Angelrutenständer mit Signaleinrichtungen</info>
     </weapon>
     <weapon id="1044">
       <name>--</name>
@@ -1711,16 +1710,12 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
       </info>
     </weapon>
     <weapon id="1268">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Metal Set</name>
+      <info>Eine Reihe von Metallrohren und -platten für Heimwerker</info>
     </weapon>
     <weapon id="1269">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Plastikset</name>
+      <info>Satz Kunststoffteile für Heimwerker</info>
     </weapon>
     <weapon id="1270">
       <name>PVA-Material</name>

@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
 
+rpset_header=Rodpod Einstellungen
+rpset_hgtmain=Basishöhe
+rpset_hgtfirst=Höhe des ersten Halters
+rpset_hgtsecond=Höhe des zweiten Halters
+act_inf5n=[N] Höheneinstellung
+key_podestng=Rodpod konfigurieren
+--------------------
+
 clbdrop_inf=Möchtest du die Club-Vergünstigungen wirklich zurücksetzen?\n Zum Zurücksetzen benötigst du ein Clubgründerabzeichen
 
 
