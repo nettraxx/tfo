@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+set_eye=Look from the eyes
+--------------------
 rpset_header=Rodpod settings
 rpset_hgtmain=Main height
 rpset_hgtfirst=Height of the first holder

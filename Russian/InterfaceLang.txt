@@ -1,5 +1,7 @@
 [INTERFACE]
 
+set_eye=Взгляд из глаз
+--------------------
 rpset_header=Настройки родпода
 rpset_hgtmain=Основная высота
 rpset_hgtfirst=Высота первого держателя

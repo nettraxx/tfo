@@ -1,3 +1,9 @@
+Patch 1.50.5
+Die Anzeige der gefangenen großen Fische im Club-Chat wurde hinzugefügt. 
+Die Funktionalität wird deaktiviert, indem "Aktionen anderer Spieler anzeigen" eingestellt wird.
+Die Anzeige der Bewertungsfische in der Clubbewertung wurde hinzugefügt. 
+Der noch nicht gefangene Fisch ist grau dargestellt.
+
 Patch 1.50.4
 Änderungen an einigen Charakteranimationen.
 Es wurde die Möglichkeit hinzugefügt, die Höhe und den Neigungswinkel der Rodpods anzupassen (N-Taste).

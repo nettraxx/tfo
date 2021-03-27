@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+set_eye=Schau mit den Augen
+--------------------
 rpset_header=Rodpod Einstellungen
 rpset_hgtmain=Basishöhe
 rpset_hgtfirst=Höhe des ersten Halters
