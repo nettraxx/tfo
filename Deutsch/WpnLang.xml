@@ -520,7 +520,7 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
       </info>
     </weapon>
     <weapon id="1049">
-      <name>Trout caster</name>
+      <name>Trout-Caster-III</name>
       <info>
       </info>
     </weapon>
@@ -5147,8 +5147,7 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1959">
       <name>Vanille</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1960">
       <name>Erbsen-Teig</name>
@@ -5156,43 +5155,35 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1961">
       <name>Anis</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1962">
       <name>Karamell</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1963">
       <name>Knoblauch</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1964">
       <name>Dill</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1965">
       <name>Hanf</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1966">
       <name>Sonnenblume</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1967">
       <name>Minze</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1968">
       <name>Räucherfisch</name>
-      <info>
-      </info>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
     </weapon>
     <weapon id="1969">
       <name>Herabuna stick-4.5м</name>
@@ -5230,7 +5221,7 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
       </info>
     </weapon>
     <weapon id="1976">
-      <name>Herabunateig</name>
+      <name>Teig 速攻1号</name>
       <info>
       </info>
     </weapon>
@@ -5301,6 +5292,50 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
     <weapon id="1991">
       <name>Futter "Laube und Co"</name>
       <info>Entwickelt, um das Beißen von Laube, Sichling, Seelaube und anderen Arten zu verbessern.</info>
-    </weapon>		
+    </weapon>
+    <weapon id="1992">
+      <name>Teig 速攻2号</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1993">
+      <name>Teig 蓝鲫3号</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1994">
+      <name>Rezept "Fly King"</name>
+      <info>Rezept für echte Fliegenschwärme</info>
+    </weapon>
+    <weapon id="1995">
+      <name>Rezept "Trout Caster"</name>
+      <info>Rezept für die Herstellung einer Bolognese-Rute</info>
+    </weapon>
+    <weapon id="1996">
+      <name>Trout-Caster-I</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1997">
+      <name>Trout-Caster-II</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1998">
+      <name>Waggler-10-8 N Rot</name>
+      <info>Für Nachts mit Alarm</info>
+    </weapon>
+    <weapon id="1999">
+      <name>Waggler-10-8 N Grün</name>
+      <info>Für Nachts mit Alarm</info>
+    </weapon>
+    <weapon id="2000">
+      <name>Waggler-10-8 N Blau</name>
+      <info>Für Nachts mit Alarm</info>
+    </weapon>
+    <weapon id="2001">
+      <name>Set "Glowing Floats"</name>
+      <info>Das Set enthält drei leuchtende Waggler 10-8 in verschiedenen Farben</info>
+    </weapon>	
   </weapons>
 </wpnlang>

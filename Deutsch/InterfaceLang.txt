@@ -1,5 +1,19 @@
 ﻿[INTERFACE]
 
+dntpck_5a_name=Paket "Glowing Floats"
+dntpck_5a_info=Das Kit enthält drei leuchtende Waggler 10-8 in verschiedenen Farben (rot, blau, grün).
+
+
+wptype_drybrd=Trockenteig
+inf_aroma=Geruch:
+
+infcell_signal=Signal
+
+win_setmdel=Spotmarker löschen?
+win_setmname=Bezeichnung
+win_setminfo=Beschreibung
+btn_setMarker=Spot
+--------------------
 set_eye=Schau mit den Augen
 --------------------
 rpset_header=Rodpod Einstellungen

@@ -1,5 +1,14 @@
 ﻿[INTERFACE]
-
+dntpck_5a_name=Package "Glowing floats"
+dntpck_5a_info=The kit contains three luminous float-waglers of 10-8 different colors (red, blue, green)
+wptype_drybrd=Dry dough
+inf_aroma=Smell:
+infcell_signal=Signal
+win_setmdel=Delete a placemark?
+win_setmname=Label name
+win_setminfo=Label Description
+btn_setMarker=Label 
+--------------------
 set_eye=Look from the eyes
 --------------------
 rpset_header=Rodpod settings
@@ -1117,7 +1126,7 @@ min_lev=<color='#{0}'>Level {1}</color>
 
 wpn_timed=\n\n<color='#ff20a0'>TEMPORARY left: {0} </color>
 wpn_sost=\nСonfiguration:\n
-wpn_master=<color='#104005'>Created by master {0}</color>
+wpn_master=Created by master {0}
 wpn_break=\n<color='#a06000'>BROKEN!</color>\n
 
 wpn_book1=<color='#702000'>Skill study: {0} - already studied +300 skill exp.</color>\n

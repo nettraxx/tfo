@@ -1,5 +1,19 @@
 [INTERFACE]
 
+dntpck_5a_name=Пакет "Светящиеся поплавки"
+dntpck_5a_info=Комплект содержит три светящихся поплавка-ваглера 10-8 разных цветов (красный, синий, зеленый)
+
+
+wptype_drybrd=Тесто сухое
+inf_aroma=Запах:
+
+infcell_signal=Сигнал
+
+win_setmdel=Удалить метку?
+win_setmname=Название метки
+win_setminfo=Описание метки
+btn_setMarker=Маркер 
+--------------------
 set_eye=Взгляд из глаз
 --------------------
 rpset_header=Настройки родпода
@@ -1122,7 +1136,7 @@ min_lev=<color='#{0}'>Уровень {1}</color>
 
 wpn_timed=\n\n<color='#ff20a0'>ВРЕМЕННЫЙ Осталось: {0} </color>
 wpn_sost=\nСостав:\n
-wpn_master=<color='#104005'>Создал мастер {0}</color>
+wpn_master=Создал мастер {0}
 wpn_break=\n<color='#a06000'>СЛОМАНО!</color>\n
 
 wpn_book1=<color='#702000'>Изучение навыка: {0} - уже изучен +300 оп. навыка</color>\n
@@ -1666,7 +1680,7 @@ bag1_info=Снасти
 bag2_name=Оснастка
 bag2_info=Оснастка
 
-bag3_name=Вспомогательное
+bag3_name=Оборудование
 bag3_info=
 
 bag4_name=Еда

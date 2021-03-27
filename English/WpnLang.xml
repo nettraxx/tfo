@@ -516,7 +516,7 @@
       </info>
     </weapon>
     <weapon id="1049">
-      <name>--</name>
+      <name>Trout caster-III</name>
       <info>
       </info>
     </weapon>
@@ -5108,7 +5108,7 @@ In the composition of semolina and gluten</info>
     </weapon>
     <weapon id="1959">
       <name>Vanilla</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1960">
@@ -5117,42 +5117,42 @@ In the composition of semolina and gluten</info>
     </weapon>
     <weapon id="1961">
       <name>Anise</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1962">
       <name>Caramel</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1963">
       <name>Garlic</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1964">
       <name>Dill</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1965">
       <name>Hemp</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1966">
       <name>Sunflower</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1967">
       <name>Mint</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1968">
       <name>Kipper</name>
-      <info>
+      <info>Spray-dip for flavoring feed mixes and dry dough mixes
       </info>
     </weapon>
     <weapon id="1969">
@@ -5191,7 +5191,7 @@ In the composition of semolina and gluten</info>
       </info>
     </weapon>
     <weapon id="1976">
-      <name>Herabuna Dough</name>
+      <name>Dough 速攻1号</name>
       <info>
       </info>
     </weapon>	
@@ -5266,7 +5266,6 @@ In the composition - cereals, fish meal, krill, smoked meat</info>
       <info>Designed to improve the biting of small white fish-bleak, sabrefish, shemai and other species</info>
     </weapon>	
 	
-	
     <weapon id="1043">
       <name>Salamo Rodpode 3S</name>
       <info>Fishing rod stand with bite-alarms</info>
@@ -5280,6 +5279,50 @@ In the composition - cereals, fish meal, krill, smoked meat</info>
     <weapon id="1269">
       <name>Plastic Set</name>
       <info>A set of plastic parts for homemade crafts</info>
+    </weapon>	
+	
+	<weapon id="1992">
+      <name>Dough 速攻2号 </name>
+      <info>      </info>
+    </weapon>
+	
+    <weapon id="1993">
+      <name>Dough 蓝鲫3号 </name>
+      <info>      </info>
+    </weapon>
+    <weapon id= "1994">
+	  <name>Recipe "Fly King" </name>
+      <info>Recipe for creating real fly swarms</info>
+    </weapon>
+    <weapon id= "1995">
+      <name>Recipe "Trout caster" </name>
+      <info>Recipe for creating a Bolognese fishing rod</info>
+    </weapon>
+    <weapon id="1996">
+      <name>Trout caster-I</name>
+      <info>      </info>
+    </weapon>
+	
+    <weapon id="1997">
+      <name>Trout caster-II</name>
+      <info>      </info>
+    </weapon>
+	
+    <weapon id="1998">
+      <name>Wagler-10-8 N Red</name>
+      <info>Night with alarm</info>
+    </weapon>
+    <weapon id="1999">
+      <name>Wagler-10-8 N Green</name>
+      <info>Night with alarm</info>
+    </weapon>
+    <weapon id="2000">
+      <name>Wagler-10-8 N Blue</name>
+      <info>Night with alarm</info>
+    </weapon>
+    <weapon id="2001">
+      <name>Set of floats 10-8</name>
+      <info>The kit contains three luminous float-waglers of 10-8 different colors</info>
     </weapon>	
 	
   </weapons>

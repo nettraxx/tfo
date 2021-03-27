@@ -1,3 +1,22 @@
+Patch 1.51.0
+Für Besitzer von VIP-Konten können Sie Beschriftungen (Spots) auf die Karte setzen, ihnen einen Namen und eine Beschreibung geben. 
+Derzeit sind 5 Marker pro Basis verfügbar.
+Die Mechanismen zur Herstellung eines Fischteigs mit unterschiedlichen Gerüchen wurden entdeckt. 
+Zu diesem Zweck gibt es in den Läden Sätze von Trockenmischungen und Dip Sprays zum Basteln. 
+Die Dip Sprayflaschen sind wiederverwendbar.
+Fertiger Grießteig und süßer Teig werden aus dem Laden entfernt, aber die Spieler haben ihn immer noch und er funktioniert weiterhin.
+Da der Teig ein sehr weicher Köder ist, kann er beim Herausnehmen aus dem Wasser verloren gehen.
+Rotbrasse - erhöhte Chancen auf die Trophäe.
+Balance zwischen Drillmechanik und Fischkämpfen.
+Verringerung der Wahrscheinlichkeit, dass die Leine an Fliegenruten reißen wird.
+Die Erstellung des Salamo Rodpode 3S Rodpode wurde auf die Werkbank verschoben, die aus dem Inventar geöffnet werden kann.
+Implementierte ein System von Gerüchen. Jetzt reagieren viele Arten im Spiel auf den Geruch von Ködern, die Fische sowohl anziehen als auch abschrecken können.
+Dem DLC-Shop wurde ein Satz leuchtender Waggler 10-8 hinzugefügt, um leichte Stipp- oder Bologna-Ruten auszurüsten.
+Trophäenfische für die Quest werden nur aus dem Kescher gegeben.
+Alle Basen haben seltene Aufgaben für die Übergabe der Trophäe für eine große Anzahl von Clubboxen hinzugefügt.
+Auf den Stützpunkten der Ukraine und der Niederlande kamen seltene Aufgaben für die Lieferung der Trophäe für eine große Anzahl seltener Köder hinzu.
+Andere kleinere Fehlerbehebungen bei der Benutzeroberfläche und im Spiel
+
 Patch 1.50.5
 Die Anzeige der gefangenen großen Fische im Club-Chat wurde hinzugefügt. 
 Die Funktionalität wird deaktiviert, indem "Aktionen anderer Spieler anzeigen" eingestellt wird.
