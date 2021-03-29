@@ -5336,6 +5336,14 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
     <weapon id="2001">
       <name>Set "Glowing Floats"</name>
       <info>Das Set enthält drei leuchtende Waggler 10-8 in verschiedenen Farben</info>
+    </weapon>
+    <weapon id="2002">
+      <name>Russischer Kwas</name>
+      <info>Natürlicher hausgemachter russischer Kwas. Hervorragender Durstlöscher</info>
+    </weapon>
+    <weapon id="2003">
+      <name>Pfannkuchen mit Kaviar</name>
+      <info>Klassisches Rezept für russische Pfannkuchen mit rotem Kaviar. Es ist keine Schande, es auch für den Zaren auf den Tisch zu legen.</info>
     </weapon>	
   </weapons>
 </wpnlang>

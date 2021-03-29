@@ -5325,5 +5325,14 @@ In the composition - cereals, fish meal, krill, smoked meat</info>
       <info>The kit contains three luminous float-waglers of 10-8 different colors</info>
     </weapon>	
 	
+    <weapon id="2002">
+      <name>Russian kvass</name>
+      <info>Natural homemade Russian kvass. Perfectly quenches thirst</info>
+    </weapon>
+    <weapon id="2003">
+      <name>Pancakes with caviar</name>
+      <info>Classic recipe for Russian pancakes with red caviar. It is not a shame to put it on the table even for the Tzar.</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

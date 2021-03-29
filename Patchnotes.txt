@@ -1,3 +1,8 @@
+Patch 1.51.1
+Speicherprobleme an einigen Stellen behoben
+Das "Hängen" einiger Fischarten an der Wasseroberfläche wurde behoben
+Fix für die Testbeutel wurde behoben
+
 Patch 1.51.0
 Für Besitzer von VIP-Konten können Sie Beschriftungen (Spots) auf die Karte setzen, ihnen einen Namen und eine Beschreibung geben. 
 Derzeit sind 5 Marker pro Basis verfügbar.
@@ -15,7 +20,7 @@ Dem DLC-Shop wurde ein Satz leuchtender Waggler 10-8 hinzugefügt, um leichte St
 Trophäenfische für die Quest werden nur aus dem Kescher gegeben.
 Alle Basen haben seltene Aufgaben für die Übergabe der Trophäe für eine große Anzahl von Clubboxen hinzugefügt.
 Auf den Stützpunkten der Ukraine und der Niederlande kamen seltene Aufgaben für die Lieferung der Trophäe für eine große Anzahl seltener Köder hinzu.
-Andere kleinere Fehlerbehebungen bei der Benutzeroberfläche und im Spiel
+Andere kleinere Fehlerbehebungen bei der Benutzeroberfläche und im Spiel.
 
 Patch 1.50.5
 Die Anzeige der gefangenen großen Fische im Club-Chat wurde hinzugefügt. 
