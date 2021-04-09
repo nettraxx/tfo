@@ -18,7 +18,7 @@ wpn_hook_sz5=Ultra (№6/0)
 
 
 inv_invsz=+ {0} Slots
-wpn_fromwh=Entfernen
+wpn_fromwh=Ins Inventar
 wpn_towh=Ins Lager
 active_obj_11=Lager
 --------------------
