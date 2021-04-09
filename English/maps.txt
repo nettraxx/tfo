@@ -35,6 +35,8 @@
 16_Name=Siberia: Enisey
 17_Name=GB Scotland: Loch Maro
 
+100_Name=Angler house
+
 
 [LOC_NAMES]
 ---------------------

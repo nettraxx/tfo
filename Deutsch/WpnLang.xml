@@ -2056,10 +2056,8 @@ Zum Testen</info>
       </info>
     </weapon>
     <weapon id="1333">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Alte Haken</name>
+      <info>Box mit alten Haken, 20 Zellen</info>
     </weapon>
     <weapon id="1334">
       <name>Kitana X-Spin 12</name>
@@ -2760,9 +2758,8 @@ VIP gives no bonus.</info>
       </info>
     </weapon>
     <weapon id="1467">
-      <name>Glassy-20-0</name>
-      <info>
-      </info>
+      <name>--</name>
+      <info>Hakenbox 20 Steckplätze</info>
     </weapon>
     <weapon id="1468">
       <name>Kitana DeepStream 12</name>
@@ -5344,6 +5341,22 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
     <weapon id="2003">
       <name>Pfannkuchen mit Kaviar</name>
       <info>Klassisches Rezept für russische Pfannkuchen mit rotem Kaviar. Es ist keine Schande, es auch für den Zaren auf den Tisch zu legen.</info>
+    </weapon>
+    <weapon id="2004">
+      <name>Ergänzungsfutter</name>
+      <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
+    </weapon>
+    <weapon id="2005">
+      <name>Ergänzungsfutter</name>
+      <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
+    </weapon>
+    <weapon id="2006">
+      <name>Ergänzungsfutter</name>
+      <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
+    </weapon>
+    <weapon id="2007">
+      <name>Ergänzungsfutter</name>
+      <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
     </weapon>	
   </weapons>
 </wpnlang>

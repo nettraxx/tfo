@@ -1,3 +1,14 @@
+Patch 1.52.0
+Das Update dient zur Wiederherstellung der Reihenfolge im Inventar.
+
+Die Anzahl der Inventarzellen wurde begrenzt. Standardmäßig sind es 350 Zellen.
+Beschleunigen Sie die Inventararbeit - das Verschieben, Ersetzen und Falten wird beschleunigt
+Es wird angenommen, dass ein Stapel von Elementen eine Zelle ist. Gegenstände, die als separate Zelle in die Angelruten gelegt werden, werden nicht gezählt.
+Wenn die Inventarzellen überlaufen, kann der Spieler keine neuen Gegenstände kaufen
+Premium gibt jetzt +100 Zellen an Lager und Inventar. Am Ende des VIP wird die Anzahl der Zellen reduziert, die Gegenstände bleiben im Inventar
+Für Spieler ab 30 Levels steht das Lager des Spielers kostenlos zur Verfügung. Sie können durch das "Haus des Reiseanglers" (untere rechte Ecke) an den Ort des Lagers ziehen. Dort können Sie auch tägliche Aufgaben zur Bestandserweiterung ausführen. Beim Fischfang am Lagerort werden keine Aufzeichnungen gemacht, es werden keine Erfahrungen gemacht.
+Um einen Artikel in das Lager zu verschieben, öffnen Sie das Inventar und klicken Sie auf die Schaltfläche "In Lager". Um einen Artikel aus dem Lager abzuholen, öffnen Sie das Lager und klicken Sie auf die Schaltfläche "Abholen".
+
 Patch 1.51.1
 Speicherprobleme an einigen Stellen behoben
 Das "Hängen" einiger Fischarten an der Wasseroberfläche wurde behoben

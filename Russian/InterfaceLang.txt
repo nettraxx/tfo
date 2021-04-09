@@ -1,5 +1,30 @@
 [INTERFACE]
 
+
+wpn_jhook_sz0=Нано (№6)
+wpn_jhook_sz1=Микро (№3)
+wpn_jhook_sz2=Маленький (№1/0)
+wpn_jhook_sz3=Средний (№3/0)
+wpn_jhook_sz4=Большой (№6/0)
+wpn_jhook_sz5=Огромный (№8/0)
+
+
+-- changed ----
+wpn_hook_sz0=Крошечный (№18)
+wpn_hook_sz1=Маленький (№6)
+wpn_hook_sz2=Средний (№1)
+wpn_hook_sz3=Большой (№2/0)
+wpn_hook_sz4=Огромный (№4/0)
+wpn_hook_sz5=Огромный (№6/0)
+
+--------------------
+inv_invsz=+ {0} слотов
+wpn_fromwh=Забрать
+wpn_towh=На склад
+active_obj_11=Склад
+
+--------------------
+
 dntpck_5a_name=Пакет "Светящиеся поплавки 10-8"
 dntpck_5a_info=Комплект содержит три светящихся поплавка-ваглера 10-8 разных цветов (красный, синий, зеленый)
 
@@ -530,12 +555,7 @@ boat_inf1=Вкл/Выкл двигатель [J]\nБросить/поднять 
 
 wpdropinfo=Сначала разберите удочку
 
-wpn_hook_sz0=Крошечный
-wpn_hook_sz1=Маленький
-wpn_hook_sz2=Средний
-wpn_hook_sz3=Большой
-wpn_hook_sz4=Огромный
-wpn_hook_sz5=Огромный
+
 
 recsts_btn1=ПО НАЗВАНИЮ
 recsts_btn2=ПО ВЕСУ
@@ -1112,7 +1132,7 @@ shop_t7=Фидеры
 shop_t8=Катушки
 shop_t9=Лески
 shop_t10=Крючки
-shop_t11=Поводки
+shop_t11=Оснастка
 shop_t12=Доп. обор.
 shop_t13=Сигналы
 shop_t14=Еда
@@ -1135,7 +1155,7 @@ min_lev=<color='#{0}'>Уровень {1}</color>
 #Added 05.04.2017
 
 wpn_timed=\n\n<color='#ff20a0'>ВРЕМЕННЫЙ Осталось: {0} </color>
-wpn_sost=\nСостав:\n
+wpn_sost=\nСостав:
 wpn_master=Создал мастер {0}
 wpn_break=\n<color='#a06000'>СЛОМАНО!</color>\n
 
@@ -1422,7 +1442,7 @@ specwobprise=+Воблер VOB-I-ICE\nв подарок
 #Added 05.12.2016
 #------------------------------------
 bs_cost=Стоимость: {0}
-bs_lev=Для уровней: {0}-{1}
+bs_lev=Для уровней: {0}
 bs_lowlv=Низкий уровень!
 bs_hilv=Высокий уровень!
 

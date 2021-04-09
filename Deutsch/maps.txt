@@ -37,6 +37,8 @@
 16_Name=Russland: Jenissei
 17_Name=Schottland: Loch Maro
 
+100_Name=Fischerhaus
+
 [LOC_NAMES]
 ---------------------
 # Брезинер

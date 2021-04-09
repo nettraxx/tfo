@@ -1,5 +1,28 @@
 ﻿[INTERFACE]
 
+wpn_jhook_sz0=Nano (№6)
+wpn_jhook_sz1=Micro (№3)
+wpn_jhook_sz2=Klein (№1/0)
+wpn_jhook_sz3=Mittel (№3/0)
+wpn_jhook_sz4=Groß (№6/0)
+wpn_jhook_sz5=Riesig (№8/0)
+
+-- changed ----
+wpn_hook_sz0=Winzig (№18)
+wpn_hook_sz1=Klein (№6)
+wpn_hook_sz2=Mittel (№1)
+wpn_hook_sz3=Groß (№2/0)
+wpn_hook_sz4=Riesig (№4/0)
+wpn_hook_sz5=Ultra (№6/0)
+--------------------
+
+
+inv_invsz=+ {0} Slots
+wpn_fromwh=Entfernen
+wpn_towh=Ins Lager
+active_obj_11=Lager
+--------------------
+
 dntpck_5a_name=Paket "Glowing Floats"
 dntpck_5a_info=Das Kit enthält drei leuchtende Waggler 10-8 in verschiedenen Farben (rot, blau, grün).
 
@@ -520,12 +543,7 @@ boat_inf1=Motor An/Aus [J]\nAnker rauf/runter [K]\nGeschwindigkeit [W-S]\nLenkun
 
 wpdropinfo=Zuerst Angel demontieren
 
-wpn_hook_sz0=winzig
-wpn_hook_sz1=klein
-wpn_hook_sz2=mittel
-wpn_hook_sz3=groß
-wpn_hook_sz4=riesig
-wpn_hook_sz5=ultra
+
 
 recsts_btn1=NACH NAME
 recsts_btn2=NACH GEWICHT
@@ -1092,7 +1110,7 @@ min_lev=<color='#{0}'>Level {1}</color>
 #Added 05.04.2017
 
 wpn_timed=\n\n<color='#ff20a0'>TEMPORARY left: {0} </color>
-wpn_sost=\nСonfiguration:\n
+wpn_sost=\nСonfiguration:
 wpn_master=<color='#104005'>Created by master {0}</color>
 wpn_break=\n<color='#a06000'>BROKEN!</color>\n
 
@@ -1368,7 +1386,7 @@ specwobprise=+Spezial-Wobbler VOB-I-ICE\nals Geschenk!
 #Added 05.12.2016
 #------------------------------------
 bs_cost=Kosten: {0}
-bs_lev=Für Stufe: {0}-{1}
+bs_lev=Für Stufe: {0}
 bs_lowlv=Deine Stufe ist zu niedrig!
 bs_hilv=Deine Stufe ist zu hoch!
 

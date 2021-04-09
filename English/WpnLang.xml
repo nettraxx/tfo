@@ -5334,5 +5334,22 @@ In the composition - cereals, fish meal, krill, smoked meat</info>
       <info>Classic recipe for Russian pancakes with red caviar. It is not a shame to put it on the table even for the Tzar.</info>
     </weapon>	
 	
+    <weapon id="2004">
+      <name>Feed</name>
+      <info>Feed created according to your own recipe</info>
+    </weapon>
+    <weapon id="2005">
+      <name>Feed</name>
+      <info>Feed created according to your own recipe</info>
+    </weapon>
+    <weapon id="2006">
+      <name>Feed</name>
+      <info>Feed created according to your own recipe</info>
+    </weapon>
+    <weapon id="2007">
+      <name>Feed</name>
+      <info>Feed created according to your own recipe</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

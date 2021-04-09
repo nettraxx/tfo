@@ -1,4 +1,28 @@
 ﻿[INTERFACE]
+
+wpn_jhook_sz0=Nano (№6)
+wpn_jhook_sz1=Micro (№3)
+wpn_jhook_sz2=Small (№1/0)
+wpn_jhook_sz3=Medium (№3/0)
+wpn_jhook_sz4=Big (№6/0)
+wpn_jhook_sz5=Huge (№8/0)
+
+-- changed ----
+wpn_hook_sz0=Tiny (№18)
+wpn_hook_sz1=Small (№6)
+wpn_hook_sz2=Medium (№1)
+wpn_hook_sz3=Big (№2/0)
+wpn_hook_sz4=Huge (№4/0)
+wpn_hook_sz5=Huge (№6/0)
+--------------------
+
+
+inv_invsz=+ {0} slots
+wpn_fromwh=Take
+wpn_towh=To store
+active_obj_11=Warehouse
+--------------------
+
 dntpck_5a_name=Package "Glowing floats"
 dntpck_5a_info=The kit contains three luminous float-waglers of 10-8 different colors (red, blue, green)
 wptype_drybrd=Dry dough
@@ -533,12 +557,6 @@ boat_inf1=On/Off engine [J]\nUp/Down anchor [K]\ncontrol speed [W-S]\ncontrol ro
 
 wpdropinfo=First disassemble the fishing rod
 
-wpn_hook_sz0=Tiny
-wpn_hook_sz1=Small
-wpn_hook_sz2=Medium
-wpn_hook_sz3=Big
-wpn_hook_sz4=Huge
-wpn_hook_sz5=Huge
 
 recsts_btn1=BY NAME
 recsts_btn2=BY WEIGHT
@@ -1402,7 +1420,7 @@ specwobprise=+Special Wobbler VOB-I-ICE\nas a present
 #Added 05.12.2016
 #------------------------------------
 bs_cost=Cost: {0}
-bs_lev=For levels: {0}-{1}
+bs_lev=For levels: {0}
 bs_lowlv=Level is too low!
 bs_hilv=Lour level is too high!
 
