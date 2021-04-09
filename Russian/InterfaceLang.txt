@@ -1,5 +1,6 @@
 [INTERFACE]
 
+act_inf1e=[E] взять [K] подмотать
 
 wpn_jhook_sz0=Нано (№6)
 wpn_jhook_sz1=Микро (№3)

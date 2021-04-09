@@ -2070,10 +2070,8 @@ Zum Testen</info>
       </info>
     </weapon>
     <weapon id="1336">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Token des Lagerbesitzers</name>
+      <info>Dieser Token ist erforderlich, um das Lager aufzuwerten.</info>
     </weapon>
     <weapon id="1337">
       <name>

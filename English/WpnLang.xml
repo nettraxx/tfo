@@ -2057,10 +2057,8 @@ To activate press right mouse button on the item and select "Use".</info>
       </info>
     </weapon>
     <weapon id="1336">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Storekeeper's token </name>
+      <info>This token is required to upgrade the warehouse</info>
     </weapon>
     <weapon id="1337">
       <name>

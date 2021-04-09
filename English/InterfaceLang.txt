@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+act_inf1e=[E] take [K] reel
+
 wpn_jhook_sz0=Nano (№6)
 wpn_jhook_sz1=Micro (№3)
 wpn_jhook_sz2=Small (№1/0)
