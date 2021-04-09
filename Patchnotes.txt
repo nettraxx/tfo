@@ -1,6 +1,5 @@
 Patch 1.52.0
 Das Update dient zur Wiederherstellung der Reihenfolge im Inventar.
-
 Die Anzahl der Inventarzellen wurde begrenzt. Standardmäßig sind es 350 Zellen.
 Beschleunigen Sie die Inventararbeit - das Verschieben, Ersetzen und Falten wird beschleunigt
 Es wird angenommen, dass ein Stapel von Elementen eine Zelle ist. Gegenstände, die als separate Zelle in die Angelruten gelegt werden, werden nicht gezählt.
@@ -8,6 +7,19 @@ Wenn die Inventarzellen überlaufen, kann der Spieler keine neuen Gegenstände k
 Premium gibt jetzt +100 Zellen an Lager und Inventar. Am Ende des VIP wird die Anzahl der Zellen reduziert, die Gegenstände bleiben im Inventar
 Für Spieler ab 30 Levels steht das Lager des Spielers kostenlos zur Verfügung. Sie können durch das "Haus des Reiseanglers" (untere rechte Ecke) an den Ort des Lagers ziehen. Dort können Sie auch tägliche Aufgaben zur Bestandserweiterung ausführen. Beim Fischfang am Lagerort werden keine Aufzeichnungen gemacht, es werden keine Erfahrungen gemacht.
 Um einen Artikel in das Lager zu verschieben, öffnen Sie das Inventar und klicken Sie auf die Schaltfläche "In Lager". Um einen Artikel aus dem Lager abzuholen, öffnen Sie das Lager und klicken Sie auf die Schaltfläche "Abholen".
+
+Eine Herstellung des Teigs ergibt einen Köder von x20, aber die Säcke mit trockenem Teig sind jetzt wiederverwendbar (für x5-Anwendungen).
+Vorfächer werden jetzt für 15 Stück zum gleichen Preis verkauft. Der abgenutzte Vorfach verschwindet jedoch, wenn er von der Stange entfernt wird. Sie haben also nur neue Leinen in Ihrem Inventar
+Boilies und Imitationen, die sich im Wasser befunden haben, verschwinden, wenn sie vom Haken genommen werden. Sie haben also nur neue Boilies und Simulationen in Ihrem Inventar. Die Anzahl der verkauften Boilies wurde verdreifacht, ohne den Preis zu ändern
+Technoplankton, das sich im Wasser befunden hat, verschwindet, wenn es vom Haken entfernt wird. Die Kosten für Technoplankton werden um das Dreifache reduziert.
+Feeds erstellen:
+Alle im Laden gekauften Ergänzungsnahrungsmittel werden in die Kategorie "trockene Ergänzungsnahrungsmittel" eingestuft. Um es beim Angeln zu verwenden, müssen Sie das Futter mischen. Öffnen Sie dazu die Informationen der Packung mit Feed im Inventar und klicken Sie auf "Verwenden". Folgen Sie dann dem Schema. Sie können dem Futter Gerüche und eine tierische oder pflanzliche Komponente hinzufügen. Experiment!
+Die Futterpakete sind wiederverwendbar und es gibt genug davon für zwei Zwecke. Jede Verwendung ergibt 10 fertige Kugeln mit Ergänzungsfutter von jeweils 100 Gramm.
+Auch im Update:
+Wenn die Leine an einer stehenden Rute hängt, kann es vorkommen, dass der gefangene Fisch verloren geht. Wenn Sie vyvazhivanii mit den Händen halten, lassen Sie die Angelrute nicht lange mit dem gefangenen Fisch.
+Die Anzeige der Clubtrophäen wurde geändert. Jetzt werden diejenigen, die diesen Monat bewertet wurden, zuerst angezeigt und hervorgehoben. Dann gibt es die ausgegrauten Bewertungen. Dann wurden die alten Trophäen des Vormonats gefangen.
+Wildkarpfen (Sazan) - erhöhen Sie Erfahrung und Preis, reduzieren Sie die Population von kleinen und mittleren Fischen auf allen Basen, ändern Sie die Ernährung, erhöhen Sie die Widerstandsfähigkeit von Fischen. Trophäengewicht auf 15 kg reduziert
+Ukraine - Erweiterung der Basis, fügte einen weiteren Kanal hinzu
 
 Patch 1.51.1
 Speicherprobleme an einigen Stellen behoben
