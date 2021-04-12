@@ -5341,20 +5341,44 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
       <info>Klassisches Rezept für russische Pfannkuchen mit rotem Kaviar. Es ist keine Schande, es auch für den Zaren auf den Tisch zu legen.</info>
     </weapon>
     <weapon id="2004">
-      <name>Ergänzungsfutter</name>
+      <name>Grundköder</name>
       <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
     </weapon>
     <weapon id="2005">
-      <name>Ergänzungsfutter</name>
+      <name>Grundköder</name>
       <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
     </weapon>
     <weapon id="2006">
-      <name>Ergänzungsfutter</name>
+      <name>Grundköder</name>
       <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
     </weapon>
     <weapon id="2007">
-      <name>Ergänzungsfutter</name>
+      <name>Grundköder</name>
       <info>Ihr eigenes Rezept für Ergänzungsnahrungsmittel</info>
-    </weapon>	
+    </weapon>
+    <weapon id="2008">
+      <name>Fertige Grundköderbälle SF</name>
+      <info>Fertige gemahlene Grundköderbälle.</info>
+    </weapon>
+    <weapon id="2009">
+      <name>SF "Karpfen"</name>
+      <info>Fertige Grundköderbälle zum Fangen aller Karpfenarten.</info>
+    </weapon>
+    <weapon id="2010">
+      <name>SF "Gras oder Silberkarpfen"</name>
+      <info>Fertige Grundköderbälle zum Fangen aller Gras oder Silberkarpfen.</info>
+    </weapon>
+    <weapon id="2011">
+      <name>SF "Meeräsche"</name>
+      <info>Fertige Grundköderbälle zum Fangen aller Arten von Meeräsche.</info>
+    </weapon>		
+    <weapon id="2012">
+      <name>Grundköder "Raubfisch"</name>
+      <info>Entwickelt, um den Biss von marinen Raubfischen zu verbessern.</info>
+    </weapon>
+    <weapon id="2013">
+      <name>Grundköder</name>
+      <info>Grundköder nach Ihrem eigenen Rezept.</info>
+    </weapon>		
   </weapons>
 </wpnlang>

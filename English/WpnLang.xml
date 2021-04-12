@@ -5333,21 +5333,45 @@ In the composition - cereals, fish meal, krill, smoked meat</info>
     </weapon>	
 	
     <weapon id="2004">
-      <name>Feed</name>
+      <name>Ground bait</name>
       <info>Feed created according to your own recipe</info>
     </weapon>
     <weapon id="2005">
-      <name>Feed</name>
+      <name>Ground bait</name>
       <info>Feed created according to your own recipe</info>
     </weapon>
     <weapon id="2006">
-      <name>Feed</name>
+      <name>Ground bait</name>
       <info>Feed created according to your own recipe</info>
     </weapon>
     <weapon id="2007">
-      <name>Feed</name>
+      <name>Ground bait</name>
       <info>Feed created according to your own recipe</info>
     </weapon>	
+    <weapon id="2008">
+      <name>Ready-made balls SF</name>
+      <info>Ready-made ground bait balls. </info>
+    </weapon>
+    <weapon id="2009">
+      <name>SF "Carp"</name>
+      <info>Ready-made ground bait balls for catching all types of carp. </info>
+    </weapon>
+    <weapon id="2010">
+      <name>SF "Grass-Silver carp"</name>
+      <info>Ready-made ground bait balls for catching all types of grass or silver carp. </info>
+    </weapon>
+    <weapon id="2011">
+      <name>SF "Sea-Mullet"</name>
+      <info>Ready-made ground bait balls for catching all types of mullets</info>
+    </weapon>	
 	
+    <weapon id="2012">
+      <name>Ground Bait "Sea predator"</name>
+      <info>Designed to improve the bite of marine predatory fish</info>
+    </weapon>
+    <weapon id="2013">
+      <name>Ground bait</name>
+      <info>Ground bait created according to your own recipe</info>
+    </weapon>	
   </weapons>
 </wpnlang>

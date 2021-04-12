@@ -1,6 +1,6 @@
 ﻿[INTERFACE]
 
-act_inf1e=[E] nimm die [K] Rolle
+act_inf1e=[E] Aufheben [K] Nachspannen
 
 wpn_jhook_sz0=Nano (№6)
 wpn_jhook_sz1=Micro (№3)

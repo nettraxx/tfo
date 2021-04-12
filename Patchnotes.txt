@@ -1,3 +1,13 @@
+Patch 1.52.2
+Eine Reihe von vorgefertigten SF-Grundködern wurde in die Läden zurückgebracht. Es wird erweitert und durch neue ergänzt
+Ein Rezept für die Herstellung von Grundködern für marine Raubfische - Haie, Thunfisch, Heilbutt usw. - wurde dem Fenster zur Herstellung von Ködern hinzugefügt.
+Korrektur erkannter Fehler
+
+Patch 1.52.1
+Es wurde die Möglichkeit hinzugefügt, die Angelschnur nach dem Anbringen der Rute am Boden aufzuziehen (K-Taste).
+Der akustische Alarm ertönt nur für die ersten 5 Sekunden nach Beginn des Bisses, dann nur für die Lichtanzeige (falls verfügbar).
+Fehler und Ungenauigkeiten behoben
+
 Patch 1.52.0
 Das Update dient zur Wiederherstellung der Reihenfolge im Inventar.
 Die Anzahl der Inventarzellen wurde begrenzt. Standardmäßig sind es 350 Zellen.
