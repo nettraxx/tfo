@@ -171,7 +171,7 @@ type_120=Rating participant
 104_Name = Aribern
 105_Name = Zander
 106_Name = Taimen
-107_Name = rammed
+107_Name = Rammed
 108_Name = Silver carp White
 
 
@@ -369,8 +369,8 @@ type_120=Rating participant
 485_Name = Melnik
 486_Name = Baltic salmon
 487_Name = Atlantic Salmon
-487_Latn =Salvelinius alpinus
-488_Name = whitebait
+487_Latn = Salvelinius alpinus
+488_Name = Rainbow smelt
 489_Name = Freshwater Shrimp
 490_Name = Whitefish European
 491_Name = European Grayling

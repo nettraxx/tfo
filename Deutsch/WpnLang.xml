@@ -5373,12 +5373,196 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
       <info>Fertige Grundköderbälle zum Fangen aller Arten von Meeräsche.</info>
     </weapon>		
     <weapon id="2012">
-      <name>Grundköder "Raubfisch"</name>
+      <name>Futter "Raubfisch"</name>
       <info>Entwickelt, um den Biss von marinen Raubfischen zu verbessern.</info>
     </weapon>
     <weapon id="2013">
       <name>Grundköder</name>
       <info>Grundköder nach Ihrem eigenen Rezept.</info>
+    </weapon>
+    <weapon id="2014">
+      <name>Gemahlener Ton</name>
+      <info>Grundfischlehm, erstellt eine Wolke, die jeden Fisch anzieht.</info>
+    </weapon>
+    <weapon id="2015">
+      <name>Fischmehl</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2016">
+      <name>Gehackte Muscheln</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2017">
+      <name>Trockenblut</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2018">
+      <name>Kartoffelmehl</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2019">
+      <name>Gemahlener Mais</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2020">
+      <name>Gemahlene Garnelen</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2021">
+      <name>Geschredderter Fisch</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2022">
+      <name>Gehackter Seeringelwurm</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2023">
+      <name>Sonnenblumenölkuchen</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2024">
+      <name>Brotkrumen</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2025">
+      <name>Haferflocken</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2026">
+      <name>Melasse</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2027">
+      <name>Zusatzstoffe zum Grundköder</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2028">
+      <name>Futterboilies</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2029">
+      <name>Gelbe Boilies</name>
+      <info>Futterboilies, um Fische anzulocken</info>
+    </weapon>
+    <weapon id="2030">
+      <name>Rote Boilies</name>
+      <info>Futterboilies, um Fische anzulocken</info>
+    </weapon>
+    <weapon id="2031">
+      <name>Braune Boilies</name>
+      <info>Futterboilies, um Fische anzulocken</info>
+    </weapon>
+    <weapon id="2032">
+      <name>Grüne Boilies</name>
+      <info>Futterboilies, um Fische anzulocken</info>
+    </weapon>
+    <weapon id="2033">
+      <name>Zusammengesetztes Futter</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2034">
+      <name>Dips TFD</name>
+      <info>Sprühdip zum Würzen von Grundködern und Trockenmischungen für Teig.</info>
+    </weapon>
+    <weapon id="2035">
+      <name>Trockenteig</name>
+      <info>Trockenmischung zur Teigzubereitung. Enthält Weizen- und Erbsenmehl.</info>
+    </weapon>
+    <weapon id="2036">
+      <name>Erbsen</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2037">
+      <name>Gehackter Tintenfisch</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2038">
+      <name>Gurza TROUT</name>
+      <info>Widerhakenlose Sporthaken, die den Fisch nicht verletzen. Die Chance, vom Haken zu kommen, ist jedoch erhöht.</info>
+    </weapon>
+    <weapon id="2039">
+      <name>Gurza TROUT №0</name>
+      <info>Widerhakenlose Sporthaken, die den Fisch nicht verletzen. Die Chance, vom Haken zu kommen, ist jedoch erhöht.</info>
+    </weapon>
+    <weapon id="2040">
+      <name>Gurza TROUT №1</name>
+      <info>Widerhakenlose Sporthaken, die den Fisch nicht verletzen. Die Chance, vom Haken zu kommen, ist jedoch erhöht.</info>
+    </weapon>
+    <weapon id="2041">
+      <name>Gurza TROUT №2</name>
+      <info>Widerhakenlose Sporthaken, die den Fisch nicht verletzen. Die Chance, vom Haken zu kommen, ist jedoch erhöht.</info>
+    </weapon>
+    <weapon id="2042">
+      <name>Gurza TROUT №3</name>
+      <info>Widerhakenlose Sporthaken, die den Fisch nicht verletzen. Die Chance, vom Haken zu kommen, ist jedoch erhöht.</info>
+    </weapon>
+    <weapon id="2043">
+      <name>Gurza TROUT №4</name>
+      <info>Widerhakenlose Sporthaken, die den Fisch nicht verletzen. Die Chance, vom Haken zu kommen, ist jedoch erhöht.</info>
+    </weapon>
+    <weapon id="2044">
+      <name>Trempel №3</name>
+      <info>Busafa oder Trempel - Ausrüstung für Technoplankton. Wird in Verbindung mit einer Schwimmerstange verwendet. Es enthält einen Rahmen für die Installation einer Technoplanktontablette und einen kurzen Vorfach mit einem Haken, an dem eine Schaumkugel haftet.</info>
+    </weapon>
+    <weapon id="2045">
+      <name>Dips Clevo</name>
+      <info>Sprühdip zum Würzen von Grundködern</info>
+    </weapon>
+    <weapon id="2046">
+      <name>Salami</name>
+      <info>Sprühdip zum Würzen von Grundködern</info>
+    </weapon>
+    <weapon id="2047">
+      <name>Alpenhonig</name>
+      <info>Sprühdip zum Würzen von Grundködern</info>
+    </weapon>
+    <weapon id="2048">
+      <name>Grüne Muschel</name>
+      <info>Sprühdip zum Würzen von Grundködern</info>
+    </weapon>
+    <weapon id="2049">
+      <name>Lachsöl</name>
+      <info>Sprühdip zum Würzen von Grundködern</info>
+    </weapon>
+    <weapon id="2050">
+      <name>Tintenfischöl</name>
+      <info>Sprühdip zum Würzen von Grundködern</info>
+    </weapon>
+    <weapon id="2051">
+      <name>T-Force St-75</name>
+      <info>T-Force Special Sea
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2052">
+      <name>TForce SCast-75</name>
+      <info>Übersetzungsverhältnis 4,2:1
+Linke Hand
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2053">
+      <name>T-Force SDeep-75</name>
+      <info>Super Heavy Sea Grundrute</info>
+    </weapon>
+    <weapon id="2054">
+      <name>Reise nach Tausend Inseln</name>
+      <info>USA-Kanada</info>
     </weapon>		
   </weapons>
 </wpnlang>

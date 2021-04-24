@@ -31,7 +31,7 @@
 
 11_Name=Norwegen: Der Fjord
 12_Name=Russland: Taimyr
-13_Name=USA: American River
+13_Name=USA/Kanada: Ontario "Tausend Inseln"
 14_Name=Niederlande: Der Kanal
 15_Name=Atom: Ödland
 16_Name=Russland: Jenissei

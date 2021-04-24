@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
+cntx_writeover=Limit is reached 50/50!
+cntx_write=Write
+cntx_recraft=Repeat
+wpn_hook_brd=Beardless
+treel_type4=Multiplier
 
+--------------------
 act_inf1e=[E] take [K] reel
 
 wpn_jhook_sz0=Nano (№6)
@@ -1571,7 +1577,7 @@ stshoplabel=Buy with STEAM
 stshoprubl=Buy for rubles
 stshopsel=Choise
 
-viptxt=The cost of selling fish +25%/nTimeout new quest -50%/nExperience gained from fish +50%/nExperience gained for complete task +25%
+viptxt=The cost of selling fish +25%/n+100 inventory slots/nTimeout new quest -50%/nExperience gained from fish +50%
 vipbuycost=Buy 350 <color='#40a0ff'>®</color> for 30 days
 vipbuykey=Buy VIP
 

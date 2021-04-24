@@ -5365,13 +5365,198 @@ In the composition - cereals, fish meal, krill, smoked meat</info>
       <info>Ready-made ground bait balls for catching all types of mullets</info>
     </weapon>	
 	
-    <weapon id="2012">
-      <name>Ground Bait "Sea predator"</name>
-      <info>Designed to improve the bite of marine predatory fish</info>
+	<weapon id="2012">
+      <name>Sea predator</name>
+      <info>Designed to improve the bite rate of marine predatory fish</info>
     </weapon>
     <weapon id="2013">
       <name>Ground bait</name>
-      <info>Ground bait created according to your own recipe</info>
+      <info>Ground bait, made according to your own recipe</info>
+    </weapon>
+    <weapon id="2014">
+      <name>Ground clay</name>
+      <info>Ground fishing clay. Creates a cloud that attracts any fish</info>
+    </weapon>
+    <weapon id="2015">
+      <name>Fish meal</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2016">
+      <name>Chopped mussels</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2017">
+      <name>Dry blood</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2018">
+      <name>Potato flour</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2019">
+      <name>Ground corn</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2020">
+      <name>Ground shrimp</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2021">
+      <name>Shredded fish</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2022">
+      <name>Chopped nereis</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2023">
+      <name>Sunflower oil cake</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2024">
+      <name>Bread crumbs</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2025">
+      <name>Oat flakes</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2026">
+      <name>Molasses</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2027">
+      <name>Additives to ground bait</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2028">
+      <name>Fodder boilies</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2029">
+      <name>Yellow Boilies</name>
+      <info>Fodder boilies to attract fish</info>
+    </weapon>
+    <weapon id="2030">
+      <name>Red Boilies</name>
+      <info>Fodder boilies to attract fish</info>
+    </weapon>
+    <weapon id="2031">
+      <name>Brown Boilies</name>
+      <info>Fodder boilies to attract fish</info>
+    </weapon>
+    <weapon id="2032">
+      <name>Green Boilies</name>
+      <info>Fodder boilies to attract fish</info>
+    </weapon>
+    <weapon id="2033">
+      <name>Compound feed</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2034">
+      <name>Dips TFD</name>
+      <info>Spray-dip for flavoring groundbaits and dry mixes for dough</info>
+    </weapon>
+    <weapon id="2035">
+      <name>Dry dough</name>
+      <info>Dry mix for dough preparation. Contains wheat and pea flour</info>
+    </weapon>
+    <weapon id="2036">
+      <name>Ground peas</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2037">
+      <name>Chopped squid</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2038">
+      <name>Gurza TROUT</name>
+      <info>Beardless hook
+Sports hooks that do not injure the fish. However, the chance of getting off the hook is increased</info>
+    </weapon>
+    <weapon id="2039">
+      <name>Gurza TROUT №0</name>
+      <info>Sports hooks that do not injure the fish. However, the chance of getting off the hook is increased</info>
+    </weapon>
+    <weapon id="2040">
+      <name>Gurza TROUT №1</name>
+      <info>Sports hooks that do not injure the fish. However, the chance of getting off the hook is increased</info>
+    </weapon>
+    <weapon id="2041">
+      <name>Gurza TROUT №2</name>
+      <info>Sports hooks that do not injure the fish. However, the chance of getting off the hook is increased</info>
+    </weapon>
+    <weapon id="2042">
+      <name>Gurza TROUT №3</name>
+      <info>Sports hooks that do not injure the fish. However, the chance of getting off the hook is increased</info>
+    </weapon>
+    <weapon id="2043">
+      <name>Gurza TROUT №4</name>
+      <info>Sports hooks that do not injure the fish. However, the chance of getting off the hook is increased</info>
+    </weapon>
+    <weapon id="2044">
+      <name>Trempel №3</name>
+      <info>Busafa or trempel - equipment for technoplankton. Used in conjunction with a float rod. It includes a frame for installing a technoplankton tablet and a short leader with a hook on which a foam ball clings</info>
+    </weapon>
+    <weapon id="2045">
+      <name>Dips Clevo</name>
+      <info>Spray-dip for flavoring groundbaits</info>
+    </weapon>
+    <weapon id="2046">
+      <name>Salami</name>
+      <info>Spray-dip for flavoring groundbaits</info>
+    </weapon>
+    <weapon id="2047">
+      <name>Alpine honey</name>
+      <info>Spray-dip for flavoring groundbaits</info>
+    </weapon>
+    <weapon id="2048">
+      <name>Green mussel</name>
+      <info>Spray-dip for flavoring groundbaits</info>
+    </weapon>
+    <weapon id="2049">
+      <name>Salmon oil</name>
+      <info>Spray-dip for flavoring groundbaits</info>
+    </weapon>
+    <weapon id="2050">
+      <name>Squid oil</name>
+      <info>Spray-dip for flavoring groundbaits</info>
+    </weapon>
+    <weapon id="2051">
+      <name>T-Force St-75</name>
+      <info>T-Force Special Sea
+Salt water resistant</info>
+    </weapon>
+    <weapon id="2052">
+      <name>TForce SCast-75</name>
+      <info>Gear ratio 4.2:1
+Left-hand
+Salt water resistant</info>
+    </weapon>
+    <weapon id="2053">
+      <name>T-Force SDeep-75</name>
+      <info>Super Heavy Sea Bottom Rod</info>
+    </weapon>
+    <weapon id="2054">
+      <name>Travel to Thousand Islands</name>
+      <info>USA-Canada</info>
     </weapon>	
   </weapons>
 </wpnlang>

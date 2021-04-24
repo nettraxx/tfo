@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
+cntx_writeover=Limit von 50/50 ist erreicht!
+cntx_write=Schreiben
+cntx_recraft=Wiederholen
+wpn_hook_brd=Widerhakenlos
+treel_type4=Multiplikator
 
+--------------------
 act_inf1e=[E] Aufheben [K] Nachspannen
 
 wpn_jhook_sz0=Nano (№6)

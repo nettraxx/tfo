@@ -1,3 +1,16 @@
+Patch 1.53.0
+Die Möglichkeit, dem Grundköder Schalentiere, Garnelen, Seeringelwurm usw. hinzuzufügen, ist enthalten.
+Reduzierter Köderverbrauch für die Herstellung von Ködern bis zu 10
+Es wurde eine weitere Komponente für ergänzende Grundköder hinzugefügt, von denen Sie einige im Geschäft kaufen und einige selbst herstellen können
+Neue Komponenten des Grundköders hinzugefügt
+Die Mechanik der Bodenköderaktion wurde geändert. Jetzt ändert sich das Engagement des Fisches für den Bodenköder und den Geruch nicht wöchentlich, sondern bleibt konstant
+Es wurde die Möglichkeit hinzugefügt, das Rezept für gemahlenen Köder zu speichern und später zu verwenden
+Die neuen Haken sehen jetzt aus wie ein Paket von Haken, die abgenutzten Haken sehen aus wie ein separater Haken.
+Dukora - Steigerung der Qualität von Boden- und Vegetationstexturen
+Pra - erhöhte Qualität der Bodentexturen, Vegetation, Optimierung, aktualisierte Wasserwiedergabe
+Doraden (alle Arten) - Ernährungsumstellung, Fisch wurde räuberischer
+Fehlerbehebungen, kleinere Änderungen an der Benutzeroberfläche
+
 Patch 1.52.2
 Eine Reihe von vorgefertigten SF-Grundködern wurde in die Läden zurückgebracht. Es wird erweitert und durch neue ergänzt
 Ein Rezept für die Herstellung von Grundködern für marine Raubfische - Haie, Thunfisch, Heilbutt usw. - wurde dem Fenster zur Herstellung von Ködern hinzugefügt.

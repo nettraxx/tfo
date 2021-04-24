@@ -28,8 +28,8 @@
 10_Name=Iran: Caspian sea
 
 11_Name=Norway
-12_Name=X Russia: Taimyr
-13_Name=X USA: American River 
+12_Name=Russia: Taimyr
+13_Name=USA/Canada: Ontario "Thousand Islands"
 14_Name=Netherlands:channel
 15_Name=Atom: Wasteland
 16_Name=Siberia: Enisey

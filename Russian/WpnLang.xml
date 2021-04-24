@@ -498,7 +498,7 @@
       </info>
     </weapon>
     <weapon id="1052">
-      <name>Мясо беззубки</name>
+      <name>Мясо моллюска</name>
       <info>
       </info>
     </weapon>
@@ -2918,7 +2918,7 @@ VIP не даёт бонуса.</info>
       <info> Предназначены специально для донных снастей</info>
     </weapon>
     <weapon id="1599">
-      <name>Серия Kitana FiderHook</name>
+      <name>Серия Kitana FeederHook</name>
       <info>
       </info>
     </weapon>
@@ -4152,7 +4152,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       </info>
     </weapon>
     <weapon id="1862">
-      <name>Тремпель</name>
+      <name>Тремпель №2</name>
       <info>Busafa или тремпель - оснастка для технопланктона. Используется совместно с поплавочной удочкой. Включает в себя рамку для установки таблетки технопланктона и короткий поводок с крючком второго размера, на который цепляется пенопластовый шарик</info>
     </weapon>
     <weapon id="1863">
@@ -4300,7 +4300,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <info>Комплект содержит ваглер-поплавок 20-12 случайного цвета и 30 турнирных жетонов</info>
     </weapon>
     <weapon id="1894">
-      <name>Комплект поплавков</name>
+      <name>Комплект поплавков 20-12</name>
       <info>Комплект содержит три светящихся поплавка-ваглера 20-12 разных цветов</info>
     </weapon>
     <weapon id="1895">
@@ -4841,12 +4841,197 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <info>Готовые прикормочные шары для морской рыбалки на кефалей</info>
     </weapon>
     <weapon id="2012">
-      <name>Прикорм "Морской хищник"</name>
+      <name>Морской хищник</name>
       <info>Предназначен для улучшения клёва морской хищной рыбы</info>
     </weapon>
     <weapon id="2013">
       <name>Прикорм</name>
       <info>Прикорм, созданный по своему рецепту</info>
+    </weapon>
+    <weapon id="2014">
+      <name>Глина молотая</name>
+      <info>Глина молотая рыболовная. Создаёт облако мути, привлекающее любую рыбу</info>
+    </weapon>
+    <weapon id="2015">
+      <name>Рыбная мука</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2016">
+      <name>Измельченные мидии</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2017">
+      <name>Сухая кровь</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2018">
+      <name>Картофельная мука</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2019">
+      <name>Молотая кукуруза</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2020">
+      <name>Молотые креветки</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2021">
+      <name>Измельченная рыба</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2022">
+      <name>Рубленый нереис</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2023">
+      <name>Жмых</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2024">
+      <name>Сухари</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2025">
+      <name>Овсяные хлопья</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2026">
+      <name>Меласа</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2027">
+      <name>Добавки в прикорм</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2028">
+      <name>Кормовые бойлы</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2029">
+      <name>Бойлы жёлтые</name>
+      <info>Кормовые бойлы для привлечения рыбы</info>
+    </weapon>
+    <weapon id="2030">
+      <name>Бойлы красные</name>
+      <info>Кормовые бойлы для привлечения рыбы</info>
+    </weapon>
+    <weapon id="2031">
+      <name>Бойлы коричневые</name>
+      <info>Кормовые бойлы для привлечения рыбы</info>
+    </weapon>
+    <weapon id="2032">
+      <name>Бойлы зелёные</name>
+      <info>Кормовые бойлы для привлечения рыбы</info>
+    </weapon>
+    <weapon id="2033">
+      <name>Комбикорм</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2034">
+      <name>Дипы TFD</name>
+      <info>Спрей-дип для ароматизации прикормочных смесей и сухих смесей для теста</info>
+    </weapon>
+    <weapon id="2035">
+      <name>Тесто сухое</name>
+      <info>Сухой сбор для приготовления теста. В составе пшеничная и гороховая мука .  </info>
+    </weapon>
+    <weapon id="2036">
+      <name>Молотый горох</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2037">
+      <name>Рубленый кальмар</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2038">
+      <name>Gurza TROUT </name>
+      <info>beardless hook
+Спортивные крючки, не травмирующие рыбу. Однако, шанс схода с такого крючка повышен</info>
+    </weapon>
+    <weapon id="2039">
+      <name>Gurza TROUT №0</name>
+      <info>Спортивные крючки не травмирующие рыбу. Однако, шанс схода с такого крючка повышен</info>
+    </weapon>
+    <weapon id="2040">
+      <name>Gurza TROUT №1</name>
+      <info>Спортивные крючки не травмирующие рыбу. Однако, шанс схода с такого крючка повышен</info>
+    </weapon>
+    <weapon id="2041">
+      <name>Gurza TROUT №2</name>
+      <info>Спортивные крючки не травмирующие рыбу. Однако, шанс схода с такого крючка повышен</info>
+    </weapon>
+    <weapon id="2042">
+      <name>Gurza TROUT №3</name>
+      <info>Спортивные крючки не травмирующие рыбу. Однако, шанс схода с такого крючка повышен</info>
+    </weapon>
+    <weapon id="2043">
+      <name>Gurza TROUT №4</name>
+      <info>Спортивные крючки не травмирующие рыбу. Однако, шанс схода с такого крючка повышен</info>
+    </weapon>
+    <weapon id="2044">
+      <name>Тремпель №3</name>
+      <info>Busafa или тремпель - оснастка для технопланктона. Используется совместно с поплавочной удочкой. Включает в себя рамку для установки таблетки технопланктона и короткий поводок с крючком второго размера, на который цепляется пенопластовый шарик</info>
+    </weapon>
+    <weapon id="2045">
+      <name>Дипы Clevo</name>
+      <info>Спрей-дип для ароматизации прикормочных смесей </info>
+    </weapon>
+    <weapon id="2046">
+      <name>Салями</name>
+      <info>Спрей-дип для ароматизации прикормочных смесей </info>
+    </weapon>
+    <weapon id="2047">
+      <name>Альпийский мёд</name>
+      <info>Спрей-дип для ароматизации прикормочных смесей </info>
+    </weapon>
+    <weapon id="2048">
+      <name>Зелёная мидия</name>
+      <info>Спрей-дип для ароматизации прикормочных смесей </info>
+    </weapon>
+    <weapon id="2049">
+      <name>Масло лосося</name>
+      <info>Спрей-дип для ароматизации прикормочных смесей </info>
+    </weapon>
+    <weapon id="2050">
+      <name>Масло кальмара</name>
+      <info>Спрей-дип для ароматизации прикормочных смесей </info>
+    </weapon>
+    <weapon id="2051">
+      <name>T-Force St-75</name>
+      <info>T-Force Special Sea
+с защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2052">
+      <name>TForce SCast-75</name>
+      <info>Передаточное число 4.2:1
+Фрикцион левосторонний
+С защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2053">
+      <name>T-Force SDeep-75</name>
+      <info>Сверхтяжелое морское донное удилище</info>
+    </weapon>
+    <weapon id="2054">
+      <name>Поездка 1000 островов</name>
+      <info>США-Канада</info>
     </weapon>
   </weapons>
 </wpnlang>

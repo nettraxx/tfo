@@ -361,7 +361,7 @@ type_120=Rangwertung
 486_Name=Baltischer Lachs
 487_Name=Königslachs
 487_Latn=Salvelinius alpinus
-488_Name=Sprotte
+488_Name=Regenbogenstint
 489_Name=Riesenflussgarnele 
 490_Name=Kleine Maräne
 491_Name=Europäische Äsche
@@ -472,3 +472,9 @@ type_120=Rangwertung
 
 542_Name=Schottische Maräne
 542_Latn=Coregonus vandesius 
+
+543_Name=Amerikanischer Seesaibling
+543_Latn=Salvelinus namaycush
+
+544_Name=Muskellunge
+544_Latn=Esox masquinongy

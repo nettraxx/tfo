@@ -23,7 +23,7 @@
     
     * + 50% schneller Aufgaben annehmen / höhere Erfahrung durch Fische
     * + 25% Erlös bei Fischverkauf / höhere Erfahrung bei Aufgaben
-    * Verbesserte Karte mit Koordinaten" />
+    * Verbesserte Karte mit Koordinaten und +100 Slots Inventar" />
 	
 	<icon id="21" name="*Lernen +[X]%" info="+[X]% Erfahrung für gefangene Fische" />
 	<icon id="22" name="Fertigkeiten lernen" info="Das Lernen der Fertigkeit ist im Gange. Du hast[Y]% 10% aller Erfahrung gesammelt, die Du beim Erlernen von Fertigkeiten gesammelt hast."/>
