@@ -1543,7 +1543,7 @@ stshoplabel=Kaufen mit STEAM
 stshoprubl=Für Euros kaufen
 stshopsel=Auswahl
 
-viptxt=+ 25% Geld beim Fischverkauf/n+ 50% Erfahrung von Fischen/n+ 50% schnellere Aufgabenannahme/n+ 25% Erfahrung bei Aufgaben/n+ Verbesserte Karte mit Koordinaten
+viptxt=+ 25% Geld beim Fischverkauf/n+ 50% Erfahrung von Fischen/n+ 50% schnellere Aufgabenannahme/n+ 25% Erfahrung bei Aufgaben/n+ Verbesserte Karte mit Koordinaten +100 Slots im Inventar
 vipbuycost=Kaufe 350 <color='#40a0ff'>®</color> für 30 Tage
 vipbuykey=VIP Kaufen
 
