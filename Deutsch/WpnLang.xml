@@ -5445,7 +5445,7 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
       </info>
     </weapon>
     <weapon id="2027">
-      <name>Zusatzstoffe zum Grundköder</name>
+      <name>Zusatzstoffe</name>
       <info>
       </info>
     </weapon>
@@ -5471,7 +5471,7 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
       <info>Futterboilies, um Fische anzulocken</info>
     </weapon>
     <weapon id="2033">
-      <name>Zusammengesetztes Futter</name>
+      <name>Gemischtes Futter</name>
       <info>
       </info>
     </weapon>

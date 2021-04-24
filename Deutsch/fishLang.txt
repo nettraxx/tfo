@@ -478,3 +478,8 @@ type_120=Rangwertung
 
 544_Name=Muskellunge
 544_Latn=Esox masquinongy
+
+545_Name=Forelle
+
+546_Name=Schwarzflecken Sonnenbarsch
+546_Latn=Pomoxis nigromaculatus

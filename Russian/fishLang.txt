@@ -491,3 +491,8 @@ type_120=Рейтинговая
 
 544_Name=Маскинонг
 544_Latn=Esox masquinongy
+
+545_Name=Кумжа проходная
+
+546_Name=Краппи черный
+546_Latn=Pomoxis nigromaculatus
