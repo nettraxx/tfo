@@ -5563,6 +5563,24 @@ Salzwasserbeständig</info>
     <weapon id="2054">
       <name>Reise nach Tausend Inseln</name>
       <info>USA-Kanada</info>
-    </weapon>		
+    </weapon>
+    <weapon id="2055">
+      <name>Shiner</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2056">
+      <name>Mehlwürmer</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2057">
+      <name>Hamburger</name>
+      <info>Schöner herzhafter Burger. Nachdem ich ihn gegessen habe, bin ich versucht, noch etwas Cola zu trinken.</info>
+    </weapon>
+    <weapon id="2058">
+      <name>Fisher Cola</name>
+      <info>Leckere, erfrischende Fisher Cola. Ich möchte sie zu einem Hamburger.</info>
+    </weapon>	
   </weapons>
 </wpnlang>

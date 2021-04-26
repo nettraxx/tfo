@@ -496,3 +496,6 @@ type_120=Рейтинговая
 
 546_Name=Краппи черный
 546_Latn=Pomoxis nigromaculatus
+
+547_Name=Шайнер золотой
+547_Latn=Notemigonus crysoleucas - Golden shiner

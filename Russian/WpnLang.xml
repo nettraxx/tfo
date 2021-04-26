@@ -4908,7 +4908,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       </info>
     </weapon>
     <weapon id="2026">
-      <name>Меласа</name>
+      <name>Меласcа</name>
       <info>
       </info>
     </weapon>
@@ -5032,6 +5032,24 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     <weapon id="2054">
       <name>Поездка 1000 островов</name>
       <info>США-Канада</info>
+    </weapon>
+    <weapon id="2055">
+      <name>Шайнер</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2056">
+      <name>Мучные черви</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2057">
+      <name>Гамбургер</name>
+      <info>Прекрасный сытный гамбургер. После его употребления, так и тянет выпить еще немного колы.</info>
+    </weapon>
+    <weapon id="2058">
+      <name>Фишер-кола</name>
+      <info>Вкусная, освежающая фишер-кола. Так и хочется закусить её гамбургером</info>
     </weapon>
   </weapons>
 </wpnlang>
