@@ -1,35 +1,37 @@
 ﻿[INTERFACE]
-cntx_writeover=Limit von 50/50 ist erreicht!
-cntx_write=Schreiben
-cntx_recraft=Wiederholen
-wpn_hook_brd=Widerhakenlos
+cntx_writeover=Rezept Limit erreicht 50/50!
+cntx_write=Speichern
+cntx_recraft=Herstellen
+wpn_hook_brd=Ohne Widerhaken
 treel_type4=Multiplikator
 
 --------------------
 act_inf1e=[E] Aufheben [K] Nachspannen
 
-wpn_jhook_sz0=Nano (№6)
-wpn_jhook_sz1=Micro (№3)
-wpn_jhook_sz2=Klein (№1/0)
-wpn_jhook_sz3=Mittel (№3/0)
-wpn_jhook_sz4=Groß (№6/0)
-wpn_jhook_sz5=Riesig (№8/0)
+wpn_jhook_sz0=Nano (Nr.6)
+wpn_jhook_sz1=Micro (Nr.3)
+wpn_jhook_sz2=Klein (Nr.1 / 0)
+wpn_jhook_sz3=Mittel (Nr.3 / 0)
+wpn_jhook_sz4=Groß (Nr.6 / 0)
+wpn_jhook_sz5=Riesig (Nr.8 / 0)
 
--- changed ----
-wpn_hook_sz0=Winzig (№18)
-wpn_hook_sz1=Klein (№6)
-wpn_hook_sz2=Mittel (№1)
-wpn_hook_sz3=Groß (№2/0)
-wpn_hook_sz4=Riesig (№4/0)
-wpn_hook_sz5=Ultra (№6/0)
+
+--- geändert ----
+wpn_hook_sz0=Winzig (Nr.18)
+wpn_hook_sz1=Klein (Nr.6)
+wpn_hook_sz2=Mittel (Nr.1)
+wpn_hook_sz3=Groß (Nr.2 / 0)
+wpn_hook_sz4=Riesig (Nr.4 / 0)
+wpn_hook_sz5=Ultra (Nr.6 / 0)
+
 --------------------
-
-
 inv_invsz=+ {0} Slots
 wpn_fromwh=Ins Inventar
 wpn_towh=Ins Lager
 active_obj_11=Lager
+
 --------------------
+
 
 dntpck_5a_name=Paket "Glowing Floats"
 dntpck_5a_info=Das Kit enthält drei leuchtende Waggler 10-8 in verschiedenen Farben (rot, blau, grün).
@@ -174,7 +176,7 @@ wgt_pound=Gewicht in Pfund
 delacccnfrm=ACHTUNG! \nDiese Aktion setzt Ihr Konto auf Level 1 zurück, wobei alle Ausrüstungsgegenstände und Erfolge, einschließlich der Bonusausrüstung, verloren gehen.\n\nUm die Aktion zu bestätigen, geben Sie "LÖSCHEN" ein.
 --------------------
 
-setfloatload=Schwimmerlast
+setfloatload=Posenlast
 --------------------
 
 setng_inercia=Trägheit der Rute
@@ -384,7 +386,7 @@ dntpck_1_info=Das Kit besteht aus leichter Castingrute (6kg +75% Erfahrung), LP-
 wptype_offset=Offsethaken
 wptype_jhead=Jigkopf
 
-ny_later=Heute gibt es keine Geschenke mehr. Bitte komm morgen wieder.
+ny_later=Heute gibt es keine Geschenke mehr. Bitte komme morgen wieder.
 ufstat_trof=Trophäe:
 
 chtset_alfa=Hintergrund-Transparenz
@@ -550,7 +552,6 @@ boat_inf2=[E] Boot verlassen
 boat_inf1=Motor An/Aus [J]\nAnker rauf/runter [K]\nGeschwindigkeit [W-S]\nLenkung [A-D]
 
 wpdropinfo=Zuerst Angel demontieren
-
 
 
 recsts_btn1=NACH NAME
@@ -1117,10 +1118,10 @@ min_lev=<color='#{0}'>Level {1}</color>
 #------------------------------------
 #Added 05.04.2017
 
-wpn_timed=\n\n<color='#ff20a0'>TEMPORARY left: {0} </color>
-wpn_sost=\nСonfiguration:
-wpn_master=<color='#104005'>Created by master {0}</color>
-wpn_break=\n<color='#a06000'>BROKEN!</color>\n
+wpn_timed=\n\n<color='#ff20a0'>VORÜBERGEHEND verbleibend: {0} </color>
+wpn_sost=\nZusammensetzung:
+wpn_master=<color='#104005'>Erstellt durch {0}</color>
+wpn_break=\n<color='#a06000'>ZERBROCHEN!</color>\n
 
 wpn_book1=<color='#702000'>Skill study: {0} - already studied +300 skill exp.</color>\n
 wpn_book2=<color='#102000'>Skill study: {0} - not studied</color>\n
@@ -1353,7 +1354,7 @@ frnd_ingame=Dein Freund {0} hat das Spiel betreten.
 #Added 18.12.2016
 #------------------------------------
 stng_no_dress=Don’t show suits (experimental)
-stng_frmrate=Frame frequency
+stng_frmrate=Framerate
 stng_frm0=Maximum FPS
 stng_frm1=Limit auf 60 FPS
 stng_frm2=Limit auf 30 FPS
@@ -1394,7 +1395,7 @@ specwobprise=+Spezial-Wobbler VOB-I-ICE\nals Geschenk!
 #Added 05.12.2016
 #------------------------------------
 bs_cost=Kosten: {0}
-bs_lev=Für Stufe: {0}
+bs_lev=Ab Stufe: {0}
 bs_lowlv=Deine Stufe ist zu niedrig!
 bs_hilv=Deine Stufe ist zu hoch!
 
@@ -1543,7 +1544,7 @@ stshoplabel=Kaufen mit STEAM
 stshoprubl=Für Euros kaufen
 stshopsel=Auswahl
 
-viptxt=+ 25% Geld beim Fischverkauf/n+ 50% Erfahrung von Fischen/n+ 50% schnellere Aufgabenannahme/n+ 25% Erfahrung bei Aufgaben/n+ Verbesserte Karte mit Koordinaten +100 Slots im Inventar
+viptxt=+ 25% Geld beim Fischverkauf/n+ 50% Erfahrung von Fischen/n+ -50% Warten auf eine neue Aufgabe/n+ 25% Erfahrung bei Aufgaben/n+ Verbesserte Karte inkl. Koordinaten/n+ 100 Inventarplätze 
 vipbuycost=Kaufe 350 <color='#40a0ff'>®</color> für 30 Tage
 vipbuykey=VIP Kaufen
 
