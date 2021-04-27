@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+
+  <tropy_name>
+	<tr id="10" shortname="Trophäe|«Gesamtwertung»" name="Trophäe «Gesamtwertung»" 
+	info_1="Die Trophäe wird für die Aufnahme in die TOP 200 der Gesamtwertung vergeben." 
+	info_2="Die Trophäe wird für die Aufnahme in die TOP 50 der Gesamtwertung vergeben." 
+	info_3="Die Trophäe wird für die Aufnahme in die TOP 10 der Gesamtwertung vergeben." 
+	info_4="Die Trophäe wird für den 1. Platz in der Gesamtwertung vergeben."/>     
+  
+	<tr id="11" shortname="Trophäe|«1 Jahr»" name="Trophäe|«1 Jahr»" 
+	info_1="" 
+	info_2="" 
+	info_3="" 
+	info_4="Die Trophäe wird für den Geburtstag des Spiels vergeben."/>      
+
+	<tr id="100" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
+	info_1="Trophäe wird für die Teilnahme an die zehn besten Spieler des Turniers vergeben. «[IDNAME]»" 
+	info_2="Die Trophäe wird für den dritten Platz im Turnier vergeben. «[IDNAME]»||Die Leute erkennen dich auf der Straße!" 
+	info_3="Die Trophäe wird für den zweiten Platz im Turnier vergeben. «[IDNAME]»||Sie wurden zum «Talentprogramm» eingeladen!" 
+	info_4="Die Trophäe wird für den ersten Platz im Turnier vergeben. «[IDNAME]»||Chuck Norris möchte ein Autogramm von Ihnen!"/> 
+	
+	<tr id="200" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
+	info_1="" 
+	info_2="Die Trophäe wird für das Fangen aller Arten von Fischen auf dem Gewässer vergeben. «[IDNAME]»" 
+	info_3="" 
+	info_4=""/> 
+	
+	<tr id="300" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
+	info_1="" 
+	info_2="Die Trophäe wird für das Fangen eines bestimmten Gewichts vergeben.||Erhöht die Bissfrequenz dieser Art um 3%." 
+	info_3="Die Trophäe wird für das Fangen eines bestimmten Gewichts vergeben.||Erhöht die Bissfrequenz dieser Art um 6%." 
+	info_4="Die Trophäe wird für das Fangen eines bestimmten Gewichts vergeben.||Erhöht die Bissfrequenz dieser Art um 9%." /> 	
+
+  </tropy_name>
+
+	<tnames>
+		<turn id="1" name="Französischer Karpfen"   info="--"/>   
+		<turn id="2" name="--"  info="--"/>   
+		<turn id="3" name="--" info="--"/>   
+		<turn id="4" name="--" info="--"/>   
+		<turn id="5" name="--" info="--"/>   
+		<turn id="6" name="Finnland" info="--"/>
+		<turn id="7" name="Stipp-Blitzturnier" info="--"/>
+		<turn id="10" name="Spinn-Blitzturnier" info="--"/>
+		<turn id="11" name="Grund-Blitzturnier" info="--"/> 
+		<turn id="12" name="Fliegen-Blitzturnier" info="--"/>		
+		<turn id="50" name="Holländische Brachse" info="--"/>
+  </tnames>
+
+	<qdynamic>
+		<qd id="0" name="Ohne Titel" imgid="0"/> 
+		<qd id="1" name="Fischkontrolleur" imgid="0"/> 
+		<qd id="2" name="Frachtbrief zum Angeln" imgid="0"/>
+		<qd id="3" name="Freies Angeln" imgid="0"/>
+		<qd id="4" name="Trophäenjäger" imgid="0"/>
+		<qd id="5" name="Tauschgeschäft" imgid="0"/>
+		<qd id="6" name="Lieferbote" imgid="0"/>
+		<qd id="7" name="Beschaffer" imgid="0"/>
+		<qd id="8" name="Forschungslaborant" imgid="0"/>
+		<qd id="9" name="Extrem" imgid="0"/>
+		<qd id="10" name="Reisevorbereiter" imgid="0"/>
+		<qd id="11" name="Besatzkontrolleur" imgid="0"/>
+		<qd id="12" name="Urlauber" imgid="1"/>
+		<qd id="13" name="Seltene Ressourcen" imgid="0"/>
+		<qd id="14" name="Zuflucht-Gesamtgewicht" imgid="0"/>
+		<qd id="15" name="Karauschteich-Gesamtgewicht" imgid="0"/>
+		<qd id="16" name="Ödland-Gesamtgewicht" imgid="0"/>
+		<qd id="17" name="See-Gesamtgewicht" imgid="0"/>	
+		<qd id="18" name="Langbart" imgid="0"/>
+		<qd id="19" name="Wertvolle kleine Brut" imgid="0"/>
+		<qd id="20" name="Seltener Fang" imgid="2"/>
+		<qd id="21" name="Raubfischdezimierer" imgid="0"/>
+		<qd id="22" name="Hochwassergebiet-Gesamtgewicht" imgid = "0" />
+		<qd id="23" name="Silberino" imgid = "0" />
+		<qd id="24" name="Amurgeschäfte" imgid = "0" />
+		<qd id="25" name="Großkopfkarpfen für große Köpfe" imgid = "0" />
+		<qd id="26" name="Flussmündung-Gesamtgewicht" imgid="0"/>
+	</qdynamic>
+
+	<achivments_name>
+		<qd id="0" name="Ohne Titel" info=""/> 
+
+	</achivments_name>
+
+	<glaves>
+		<glava id="1000" name="Main"/>
+		<glava id="2000" name="Periodical"/>
+		<glava id="3000" name="Secondary"/>
+		<glava id="4000" name="Acts"/>
+		<glava id="5000" name="Тurniere"/>
+	</glaves>
+
+	<cats>
+		<!-- ************************************************************** -->
+		<cat id="1000" glava="2000" name="Aufgabe: Geld">
+			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="4" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
+			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
+			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
+		</cat>
+	
+		<cat id="1010" glava="2000" name="Aufgabe: Verbrauchsmaterial"/>
+		<cat id="1020" glava="2000" name="Aufgabe: Erfahrung"/>
+		<cat id="1030" glava="2000" name="Aufgabe: Versorgung"/>
+
+		<cat id="1100" glava="2000" name="Tägliche Aufgabe">
+			<task id="1" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="2" txt="[fish] ab [minwgt]: [curcnt] / [maxcnt] Stk"/>
+			<task id="4" txt="[fish]: [curcnt] / [maxcnt] Stk"/>
+			<task id="5" txt="[fish] ab [minwgt]: [weight] / [maxweight]"/>
+			<task id="6" txt="[fish]: [weight] / [maxweight]"/>
+			<task id="7" txt="[fish] auf [baitid]: [weight] / [maxweight]"/>
+			<task id="8" txt="[fish] von [minwgt] bis [maxwgt]: [curcnt]/[maxcnt] Stk"/>
+		</cat>
+
+		<!-- ************************************************************** -->
+		<cat id="2000" glava="4000" name="Aufgabe: Aktion">
+			<task id="1" txt="Fange [fish]: [curcnt] / [maxcnt] Stk"/>
+
+		</cat>
+	
+		<cat id="3000" glava="5000" name="Turniere">
+			<task id="1" txt="Fange [fish] (Anzahl)"/>
+			<task id="2" txt="Fange [fish] ab [minwgt] (Anzahl)"/>
+			<task id="3" txt="Fange [fish] von [minwgt] bis [maxwgt] (Anzahl)"/>
+			<task id="4" txt="Fange [fish] (Gesamtgewicht)"/>
+			<task id="5" txt="Fange [fish] ab [minwgt] (Gesamtgewicht)"/>
+			<task id="6" txt="Fange [fish] (die drei Größten)"/>
+			<task id="7" txt="Fange [fish] auf [baitid] (Anzahl)"/>
+			<task id="8" txt="Fange [fish] (Maximalgewicht)"/>
+			<task id="9" txt="Fange [fish] auf [baitid] (Maximalgewicht)"/>	
+			<task id="10" txt="Fange [fish] (Gewichtsunterschied)"/>
+			<task id="11" txt="Fange [fish] auf [baitid] (Gewichtsunterschied)"/> 	
+		
+			<task id="101" txt="[size=16]Karpfen-Gesamtgewicht[/size]\n[size=12](Gold- х2, Leder-, Spiegel- und Schuppenkarpfen х1)[/size]"/>    	  
+			<task id="112" txt="[size=16]Forellen-Gesamtgewicht[/size]\n[size=12](Gold- х3, Bach- х2, Regenbogen- und Seeforelle х1)[/size]"/>
+			<task id="150" txt="[size=16]Brachsen-Gesamtgewicht[/size]\n[size=12](Zope х3, Zobel х2, Brachse und Güster х1)[/size]"/>		
+		</cat>
+	</cats>
+</quests>

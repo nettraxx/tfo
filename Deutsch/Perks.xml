@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<perks>
+	
+	<aperk id="100" name="Offiziere" info="Erhöht die maximale Anzahl der Offiziere um 1." />
+	<aperk id="101" name="Clubgröße" info="Erhöht die maximale Anzahl der Clubmitglieder um 2."/>
+	
+	<aperk id="102" name="Erfahrung" info="Erhöht die Erfahrung aller Clubmitglieder beim Angeln um 1%."/>
+	<aperk id="103" name="Einkommen" info="Erhöht das Einkommen aller Clubmitglieder aus dem Verkauf von Fisch um 1%."/>
+	
+	<aperk id="104" name="Effektivität" info="Erhöht die Cluberfahrung aus allen Quellen um 3%."/>
+	<aperk id="105" name="Jugendschule" info="Erhöht die maximale Anzahl der Clubmitglieder um 2."/>
+	
+	<aperk id="106" name="Effektivität II" info="Erhöht die Cluberfahrung aus allen Quellen um 7%."/>
+	<aperk id="107" name="Erfahrung II" info="Erhöht die Erfahrung aller Clubmitglieder beim Angeln um 2%."/>
+	<aperk id="108" name="Einkommen II" info="Erhöht das Einkommen aller Clubmitglieder aus dem Verkauf von Fisch um 2%."/>
+	
+</perks>	 
