@@ -473,20 +473,19 @@ type_120=Rangwertung
 542_Name=Schottische Maräne
 542_Latn=Coregonus vandesius 
 
-543_Name=Amerik. Seesaibling
+543_Name=Amerikanischer Seesaibling
 543_Latn=Salvelinus namaycush
 
 544_Name=Мuskellunge
 544_Latn=Esox masquinongy
 
-545_Name=Forellen Prüfpunkt
+545_Name=Forelle
 
 546_Name=Schwarzflecken-Sonnenbarsch
 546_Latn=Pomoxis nigromaculatus
 
 547_Name=Golden Shiner
 547_Latn=Notemigonus crysoleucas
-
 
 548_Name=Amerikanischer Maifisch
 547_Latn=Alosa sapidissima - Shad
