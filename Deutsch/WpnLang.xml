@@ -2170,7 +2170,7 @@ Zum Testen</info>
     </weapon>
     <weapon id="1355">
       <name>Hero Star</name>
-      <info>Collection item. You can create an openable container using three stars.</info>
+      <info>Sammlerstück. Drei Sterne können verwendet werden, um eine Heldenbelohnung zu erstellen.</info>
     </weapon>
     <weapon id="1356">
       <name>
@@ -2421,9 +2421,8 @@ Zum Testen</info>
       </info>
     </weapon>
     <weapon id="1402">
-      <name>--</name>
-      <info>
-      </info>
+      <name>Jerk-Predator</name>
+      <info>Leistungsstarke Spinnrute speziell für große Fische.</info>
     </weapon>
     <weapon id="1403">
       <name>--</name>
@@ -5554,7 +5553,7 @@ Salzwasserbeständig</info>
     <weapon id="2052">
       <name>TForce SCast-75</name>
       <info>Übersetzungsverhältnis 4.2:1
-Kurbel links
+Kupplung links
 Salzwasserbeständig</info>
     </weapon>
     <weapon id="2053">
@@ -5582,6 +5581,36 @@ Salzwasserbeständig</info>
     <weapon id="2058">
       <name>Fischer-Cola</name>
       <info>Leckere, erfrischende Fischer-Cola. Gut in Kombination mit einem Hamburger.</info>
+    </weapon>    
+	<weapon id="2059">
+      <name>Jerk JGlider</name>
+      <info>Sinkender Wobbler zum Fangen großer Raubfische.</info>
+    </weapon>
+    <weapon id="2060">
+      <name>JGlider-Fury</name>
+      <info>Sinkender Wobbler zum Fangen großer Raubfische.</info>
+    </weapon>
+    <weapon id="2061">
+      <name>JGlider-Shiner</name>
+      <info>Sinkender Wobbler zum Fangen großer Raubfische.</info>
+    </weapon>
+    <weapon id="2062">
+      <name>JGlider-Barsch</name>
+      <info>Sinkender Wobbler zum Fangen großer Raubfische.</info>
+    </weapon>
+    <weapon id="2063">
+      <name>JPredator Multicast</name>
+      <info>Übersetzungsverhältnis 4.2:1
+Kupplung links
+Angepasst für Jerking</info>
+    </weapon>
+    <weapon id="2064">
+      <name>Kit JPredator</name>
+      <info>Das Kit enthält eine Jerk-Spinnrute, eine Multirolle, Angelschnur und Jerk Köder.</info>
+    </weapon>
+    <weapon id="2065">
+      <name>Heldenbelohnung</name>
+      <info>Sie können die Belohnung einlösen und einen Bonus beim Verkauf von Fisch erhalten.</info>
     </weapon>
   </weapons>
 </wpnlang>

@@ -1,12 +1,19 @@
 ﻿[INTERFACE]
+
+
+wpn_bait_typ_7jrk=Jerk
+prov_prov_4jrk=Jerking
+wpn_bait_sz4=Riesig
+
+--------------------
 cntx_writeover=Rezept Limit erreicht 50/50!
-cntx_write=Speichern
-cntx_recraft=Herstellen
+cntx_write=speichern
+cntx_recraft=herstellen
 wpn_hook_brd=Ohne Widerhaken
 treel_type4=Multiplikator
 
 --------------------
-act_inf1e=[E] Aufheben [K] Nachspannen
+act_inf1e=[E] nehmen [K] Rolle
 
 wpn_jhook_sz0=Nano (Nr.6)
 wpn_jhook_sz1=Micro (Nr.3)
@@ -22,12 +29,12 @@ wpn_hook_sz1=Klein (Nr.6)
 wpn_hook_sz2=Mittel (Nr.1)
 wpn_hook_sz3=Groß (Nr.2 / 0)
 wpn_hook_sz4=Riesig (Nr.4 / 0)
-wpn_hook_sz5=Ultra (Nr.6 / 0)
+wpn_hook_sz5=Riesig (Nr.6 / 0)
 
 --------------------
 inv_invsz=+ {0} Slots
-wpn_fromwh=Ins Inventar
-wpn_towh=Ins Lager
+wpn_fromwh=Entfernen
+wpn_towh=Auf Lager
 active_obj_11=Lager
 
 --------------------

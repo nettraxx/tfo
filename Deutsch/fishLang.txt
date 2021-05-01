@@ -38,13 +38,13 @@ type_34=Weißfisch
 
 #unique
 type_100=Großer Fisch
-type_101=Label "Forschungsinstitut für FishEco RF"
-type_102=Label "SRI EU Fish Institute"
+type_101=Label "Forschungsinstitut RybEco RF"
+type_102=Label "SRI EU-Fischinstitut"
 type_103=Label "SRI USA PFP"
 type_104=Label "Greenpeace"
-type_105=Label "Hochschule für Ökologie"
-type_106=Label "Universität von Bonn, ECO"
-type_107=Label "Université de Paris PFP"
+type_105=Gebrochene Flosse
+type_106=Bissnarbe
+type_107=Label "Dicker Fisch"
 type_108=Roter Kaviar
 type_109=Schwarzer Kaviar
 
@@ -384,7 +384,7 @@ type_120=Rangwertung
 508_Name=Glasaugenbarsch 
 509_Name=Kanadischer Zander
 510_Name=Amerikanischer Flussbarsch
-511_Name=Weißer Stör
+511_Name=See-Stör
 512_Name=Großkopfmeeräsche
 513_Name=Meeräsche
 514_Name=Rotlippige Meeräsche
@@ -473,16 +473,20 @@ type_120=Rangwertung
 542_Name=Schottische Maräne
 542_Latn=Coregonus vandesius 
 
-543_Name=Amerikanischer Seesaibling
+543_Name=Amerik. Seesaibling
 543_Latn=Salvelinus namaycush
 
-544_Name=Muskellunge
+544_Name=Мuskellunge
 544_Latn=Esox masquinongy
 
-545_Name=Forelle
+545_Name=Forellen Prüfpunkt
 
-546_Name=Schwarzflecken Sonnenbarsch
+546_Name=Schwarzflecken-Sonnenbarsch
 546_Latn=Pomoxis nigromaculatus
 
 547_Name=Golden Shiner
 547_Latn=Notemigonus crysoleucas
+
+
+548_Name=Amerikanischer Maifisch
+547_Latn=Alosa sapidissima - Shad
