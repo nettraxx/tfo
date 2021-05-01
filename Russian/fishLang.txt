@@ -387,7 +387,7 @@ type_120=Рейтинговая
 508_Name=Судак светлоперый
 509_Name=Судак канадский
 510_Name=Окунь желтый
-511_Name=Осётр белый
+511_Name=Осётр озёрный
 512_Name=Лобан
 513_Name=Кефаль сингиль
 513_Sex=0
@@ -499,3 +499,7 @@ type_120=Рейтинговая
 
 547_Name=Шайнер золотой
 547_Latn=Notemigonus crysoleucas - Golden shiner
+
+548_Name=Шэд Американский
+547_Latn=Alosa sapidissima - Shad
+

@@ -1,4 +1,10 @@
 [INTERFACE]
+
+wpn_bait_typ_7jrk=Джерк
+prov_prov_4jrk=Джеркинг
+wpn_bait_sz4=Огромный
+
+--------------------
 cntx_writeover=Достигнут лимит рецептов 50/50!
 cntx_write=Записать
 cntx_recraft=Повторить
