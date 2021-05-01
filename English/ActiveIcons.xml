@@ -13,6 +13,6 @@
 
 
   <icon id="21" name="*Learning +[X]%" info="+[X]% experience for fish you caught" />
-
+  <icon id="32" name="*Trade +[X]%" info="+[X]% of money when selling fish" />
   <icon id="100" name="" info="Paid time"/>
 </icon_data>

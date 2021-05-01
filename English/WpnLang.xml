@@ -2400,7 +2400,7 @@ To activate press right mouse button on the item and select "Use".</info>
       </info>
     </weapon>
     <weapon id="1402">
-      <name>--</name>
+      <name>JerkPredator</name>
       <info>
       </info>
     </weapon>
@@ -5558,5 +5558,55 @@ Salt water resistant</info>
       <name>Travel to Thousand Islands</name>
       <info>USA-Canada</info>
     </weapon>	
+	
+    <weapon id="2055">
+      <name>Shiner livebait</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2056">
+      <name>Mealworms</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2057">
+      <name>Burger</name>
+      <info>A nice hearty hamburger. After eating it, you tempted to drink a little more Cola</info>
+    </weapon>
+    <weapon id="2058">
+      <name>Fisher-cola</name>
+      <info>Delicious, refreshing Fischer cola. You just want to drink and eat hamburger</info>
+    </weapon>
+    <weapon id="2059">
+      <name>Jerk JGlider</name>
+      <info>The jerk sinking wobbler is great for catching a large predator</info>
+    </weapon>
+    <weapon id="2060">
+      <name>JGlider-Fury</name>
+      <info>The jerk sinking wobbler is great for catching a large predator</info>
+    </weapon>
+    <weapon id="2061">
+      <name>JGlider-Shiner</name>
+      <info>The jerk sinking wobbler is great for catching a large predator</info>
+    </weapon>
+    <weapon id="2062">
+      <name>JGlider-Perch</name>
+      <info>The jerk sinking wobbler is great for catching a large predator</info>
+    </weapon>
+    <weapon id="2063">
+      <name>JPredator Multicast</name>
+      <info>Gear ratio 4.2:1
+Left-hand clutch
+Adapted for jerking</info>
+    </weapon>
+    <weapon id="2064">
+      <name>JPredator kit</name>
+      <info>The kit contains a jerk spinning rod, a multiplier reel, a fishing line and jerk lure</info>
+    </weapon>
+    <weapon id="2065">
+      <name>Hero's Reward</name>
+      <info>You can return the reward to the hero's relatives and get a bonus for selling fish</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

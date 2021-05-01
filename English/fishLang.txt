@@ -393,7 +393,7 @@ type_120=Rating participant
 508_Name = Walleye
 509_Name = Sauger
 510_Name = Lake perch
-511_Name = White sturgeon
+511_Name = Lake sturgeon
 
 512_Name=Flathead mullet
 513_Name=Mullet singil

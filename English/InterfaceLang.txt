@@ -1,4 +1,14 @@
 ﻿[INTERFACE]
+
+
+
+wpn_bait_typ_7jrk=Jerk
+prov_prov_4jrk=Jerking
+wpn_bait_sz4=Huge
+
+--------------------
+
+
 cntx_writeover=Limit is reached 50/50!
 cntx_write=Write
 cntx_recraft=Repeat
