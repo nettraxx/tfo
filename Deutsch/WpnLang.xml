@@ -3094,8 +3094,9 @@ Kann gegen Belohnungen eingelöst werden.
     <weapon id="1532">
       <name>Popper "Frog-III-М5"</name>
       <info>Aus dem Tagebuch von Stalker. Ein spezieller Wobbler für Frösche, 
-der für das Top Water-Angeln entwickelt wurde. Fängig für: Europäischer Wels, Forellenbarsch, Grashecht, Rapfen, Regenbogenforelle, Wolgazander
-</info>
+der für das Top Water-Angeln entwickelt wurde.
+Fängig für: Europäischer Wels, Forellenbarsch, Grashecht, Rapfen, Regenbogenforelle, Wolgazander
+	  </info>
     </weapon>
     <weapon id="1533">
       <name>Wacky I</name>
@@ -4709,19 +4710,19 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     <weapon id="1869">
       <name>VIB Salmon GT-1</name>
       <info>Lachsfischköder-Serie
-	  Fängig für: Kabeljau
+Fängig für: Kabeljau
 	  </info>
     </weapon>
     <weapon id="1870">
       <name>VIB Salmon GT-2</name>
       <info>Lachsfischköder-Serie
-	  Fängig für: Buckellachs, Hecht, Schellfisch
+Fängig für: Buckellachs, Hecht, Schellfisch
 	  </info>
     </weapon>
     <weapon id="1871">
       <name>VIB Salmon GT-3</name>
       <info>Lachsfischköder-Serie
-	  Fängig für: Buckellachs, Dornhai, Schellfisch
+Fängig für: Buckellachs, Dornhai, Schellfisch
 	  </info>
     </weapon>
     <weapon id="1872">
@@ -4731,19 +4732,19 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     <weapon id="1873">
       <name>CRL DG-M1</name>
       <info>Spinner zum Tiefseefischen.
-	  Fängig für: Atlantischer Hering, Atlantischer Lachs, Buckellachs, Europäischer Wolfsbarsch, Kabeljau, Köhler, Schellfisch, Weißer Thunfisch
+Fängig für: Atlantischer Hering, Atlantischer Lachs, Buckellachs, Europäischer Wolfsbarsch, Kabeljau, Köhler, Schellfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1874">
       <name>CRL DG-M2</name>
       <info>Spinner zum Tiefseefischen.
-	  Fängig für: Atlantischer Lachs, Europäischer Wolfsbarsch, Kabeljau, Köhler, Kohlenfisch, Weißer Thunfisch
+Fängig für: Atlantischer Lachs, Europäischer Wolfsbarsch, Kabeljau, Köhler, Kohlenfisch, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1875">
       <name>CRL DG-M3</name>
       <info>Spinner zum Tiefseefischen.
-	  Fängig für:Atlantischer Hering, Atlantischer Lachs, Europäischer Wolfsbarsch, Kabeljau, Saibling, Seehecht, Weißer Thunfisch
+Fängig für:Atlantischer Hering, Atlantischer Lachs, Europäischer Wolfsbarsch, Kabeljau, Saibling, Seehecht, Weißer Thunfisch
 	  </info>
     </weapon>
     <weapon id="1876">
