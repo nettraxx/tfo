@@ -7,7 +7,7 @@ type_3=Allesfresser
 type_4=Karpfenart
 type_5=Barschart
 type_6=Salmonidae
-type_7=Forelle
+type_7=Regenbogenforelle
 type_8=Krebstiere
 type_9=Muscheln
 type_10=Müll
@@ -489,3 +489,10 @@ type_120=Rangwertung
 
 548_Name=Amerikanischer Maifisch
 547_Latn=Alosa sapidissima - Shad
+
+549_Name=Weißbarsch
+549_Latn=White bass (Morone chrysops)
+
+550_Name=Weißer Sauger
+550_Latn=White sucker (Catostomus commersonii)
+

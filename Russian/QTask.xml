@@ -13,7 +13,7 @@
 	<turn id="10" name="Спиннинг-блиц" info="--"/>  
 	<turn id="11" name="Доночный-блиц" info="--"/> 
 	<turn id="12" name="Нахлыст-блиц" info="--"/>
-	
+	<turn id="13" name="США: спиннинг-блиц" info="--"/>
 	
 	<turn id="50" name="Голландский лещ" info="--"/>
   </tnames>

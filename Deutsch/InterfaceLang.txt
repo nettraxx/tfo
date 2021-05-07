@@ -1,6 +1,6 @@
 ﻿[INTERFACE]
 
-
+setenbl_sign=Stummschaltungssignal bei längerem Biss
 wpn_bait_typ_7jrk=Jerk
 prov_prov_4jrk=Jerking
 wpn_bait_sz4=Riesig

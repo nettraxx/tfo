@@ -3494,18 +3494,21 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1722">
       <name>Basser SCast-I</name>
-      <info>
-      </info>
+      <info>Передаточное число 4.2:1
+Фрикцион левосторонний
+Защита от солёной воды</info>
     </weapon>
     <weapon id="1723">
       <name>Basser SCast-II</name>
-      <info>
-      </info>
+      <info>Передаточное число 4.2:1
+Фрикцион левосторонний
+Защита от солёной воды</info>
     </weapon>
     <weapon id="1724">
       <name>Basser SCast-III</name>
-      <info>
-      </info>
+      <info>Передаточное число 4.2:1
+Фрикцион левосторонний
+Защита от солёной воды</info>
     </weapon>
     <weapon id="1725">
       <name>Salamo Карповая-48</name>
@@ -3549,8 +3552,9 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1733">
       <name>Basser SCast-I</name>
-      <info>
-      </info>
+      <info>Передаточное число 4.2:1
+Фрикцион левосторонний
+Защита от солёной воды</info>
     </weapon>
     <weapon id="1734">
       <name>Груз-пуля</name>
@@ -3610,8 +3614,9 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1747">
       <name>Basser SCast-Gld</name>
-      <info>
-      </info>
+      <info>Передаточное число 4.2:1
+Фрикцион левосторонний
+Защита от солёной воды</info>
     </weapon>
     <weapon id="1748">
       <name>Basser SeaCast-Gld</name>
@@ -5080,6 +5085,65 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     <weapon id="2065">
       <name>Награда героя</name>
       <info>Можно вернуть награду родственникам героя и получить бонус к продаже рыбы</info>
+    </weapon>
+    <weapon id="2066">
+      <name>Brush JigHead</name>
+      <info>Джиг-головки для оснащения басс-джиговых приманок
+Оснащается джиговой или сеточной юбкой</info>
+    </weapon>
+    <weapon id="2067">
+      <name>BrushJigH 1-10</name>
+      <info>Джиг-головки для оснащения басс-джиговых приманок</info>
+    </weapon>
+    <weapon id="2068">
+      <name>BrushJigH 2-15</name>
+      <info>Джиг-головки для оснащения басс-джиговых приманок</info>
+    </weapon>
+    <weapon id="2069">
+      <name>BrushJigH 3-20</name>
+      <info>Джиг-головки для оснащения басс-джиговых приманок</info>
+    </weapon>
+    <weapon id="2070">
+      <name>BrushJigH 4-35</name>
+      <info>Джиг-головки для оснащения басс-джиговых приманок</info>
+    </weapon>
+    <weapon id="2071">
+      <name>BrushJigH 1-4</name>
+      <info>Джиг-головки для оснащения басс-джиговых приманок</info>
+    </weapon>
+    <weapon id="2072">
+      <name>JIG Brush</name>
+      <info>Джиговая кисть </info>
+    </weapon>
+    <weapon id="2073">
+      <name>JIG Brush S1</name>
+      <info>Джиговая кисть для ловли бассов. Требует специальную джиг-головку</info>
+    </weapon>
+    <weapon id="2074">
+      <name>JIG Brush S2</name>
+      <info>Джиговая кисть для ловли бассов. Требует специальную джиг-головку</info>
+    </weapon>
+    <weapon id="2075">
+      <name>JIG Brush S3</name>
+      <info>Джиговая кисть для ловли бассов. Требует специальную джиг-головку</info>
+    </weapon>
+    <weapon id="2076">
+      <name>Gars Brush S2</name>
+      <info>Кисть барнет для ловли гаров и других панцирных щук</info>
+    </weapon>
+    <weapon id="2077">
+      <name>Gars Brush S3</name>
+      <info>Кисть барнет для ловли гаров и других панцирных щук</info>
+    </weapon>
+    <weapon id="2078">
+      <name>VIB Salmon GT-4</name>
+      <info>Серия блесен для ловли лососевых
+</info>
+    </weapon>
+    <weapon id="2079">
+      <name>VIB Salmon GT-5</name>
+      <info>Серия блесен для ловли лососевых
+</info>
     </weapon>
   </weapons>
 </wpnlang>

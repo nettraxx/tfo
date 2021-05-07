@@ -262,7 +262,7 @@ type_120=Рейтинговая
 382_Name=Мерлуза
 383_Name=Люр
 384_Name=Минога морская
-385_Name=Чинук лосось
+385_Name=Лосось чинук
 386_Name=Креветка
 387_Name=Акула полярная
 388_Name=Осьминог полярный
@@ -501,5 +501,11 @@ type_120=Рейтинговая
 547_Latn=Notemigonus crysoleucas - Golden shiner
 
 548_Name=Шэд Американский
-547_Latn=Alosa sapidissima - Shad
+548_Latn=Alosa sapidissima - Shad
+
+549_Name=Басс белый
+549_Latn=White bass (Morone chrysops)
+
+550_Name=Чукучан белый
+550_Latn=White sucker (Catostomus commersonii)
 

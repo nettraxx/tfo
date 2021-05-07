@@ -3850,7 +3850,7 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1687">
       <name>See-Köderfisch</name>
-      <info>Herstellbar aus: Grundel, Meeräsche, Rotauge
+      <info>Herstellbar aus: Grundel, Meeräsche
       </info>
     </weapon>
     <weapon id="1688">
@@ -4010,18 +4010,21 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1722">
       <name>Basser SCast-I</name>
-      <info>
-      </info>
+      <info>Übersetzungsverhältnis 4,2:1
+Kupplung Links
+Salzwasserschutz</info>
     </weapon>
     <weapon id="1723">
       <name>Basser SCast-II</name>
-      <info>
-      </info>
+      <info>Übersetzungsverhältnis 4,2:1
+Kupplung Links
+Salzwasserschutz</info>
     </weapon>
     <weapon id="1724">
       <name>Basser SCast-III</name>
-      <info>
-      </info>
+      <info>Übersetzungsverhältnis 4,2:1
+Kupplung Links
+Salzwasserschutz</info>
     </weapon>
     <weapon id="1725">
       <name>Salamo Carp-48</name>
@@ -4065,8 +4068,9 @@ Rollengröße: 1000-2500.</info>
     </weapon>
     <weapon id="1733">
       <name>Basser SCast-I</name>
-      <info>
-      </info>
+      <info>Übersetzungsverhältnis 4,2:1
+Kupplung Links
+Salzwasserschutz</info>
     </weapon>
     <weapon id="1734">
       <name>Kugelbleie</name>
@@ -4127,8 +4131,9 @@ Nur für Rollen mit maximal 1500er Größe</info>
     </weapon>
     <weapon id="1747">
 		<name>Basser SCast-Gold</name>
-		<info>
-		</info>
+      <info>Übersetzungsverhältnis 4,2:1
+Kupplung Links
+Salzwasserschutz</info>
     </weapon>
     <weapon id="1748">
 		<name>Basser SeaCast-Gold</name>
@@ -5613,5 +5618,62 @@ Angepasst für Jerking</info>
       <name>Heldenbelohnung</name>
       <info>Sie können die Belohnung einlösen und einen Bonus beim Verkauf von Fisch erhalten.</info>
     </weapon>
+    <weapon id="2066">
+      <name>Brush JigHead</name>
+      <info>Jigköpfe zum Ausrüsten mit Barsch-Jigködern
+Ausgestattet mit Jig oder einem Gittergewebe</info>
+    </weapon>
+    <weapon id="2067">
+      <name>BrushJigH 1-10</name>
+      <info>Jigkopf zum Ausrüsten mit Barsch-Jigködern</info>
+    </weapon>
+    <weapon id="2068">
+      <name>BrushJigH 2-15</name>
+      <info>Jigkopf zum Ausrüsten mit Barsch-Jigködern</info>
+    </weapon>
+    <weapon id="2069">
+      <name>BrushJigH 3-20</name>
+      <info>Jigkopf zum Ausrüsten mit Barsch-Jigködern</info>
+    </weapon>
+    <weapon id="2070">
+      <name>BrushJigH 4-35</name>
+      <info>Jigkopf zum Ausrüsten mit Barsch-Jigködern</info>
+    </weapon>
+    <weapon id="2071">
+      <name>BrushJigH 1-4</name>
+      <info>Jigkopf zum Ausrüsten mit Barsch-Jigködern</info>
+    </weapon>
+    <weapon id="2072">
+      <name>JIG Brush</name>
+      <info>Jig mit Spannvorrichtung</info>
+    </weapon>
+    <weapon id="2073">
+      <name>JIG Brush S1</name>
+      <info>Spannvorrichtung zum Fangen von Barschen. Benötigt speziellen Jigkopf</info>
+    </weapon>
+    <weapon id="2074">
+      <name>JIG Brush S2</name>
+      <info>Spannvorrichtung zum Fangen von Barschen. Benötigt speziellen Jigkopf</info>
+    </weapon>
+    <weapon id="2075">
+      <name>JIG Brush S3</name>
+      <info>Spannvorrichtung zum Fangen von Barschen. Benötigt speziellen Jigkopf</info>
+    </weapon>
+    <weapon id="2076">
+      <name>Gars Brush S2</name>
+      <info>Bürstenvorrichtung zum Fangen von Gars und gepanzerten Hechten</info>
+    </weapon>
+    <weapon id="2077">
+      <name>Gars Brush S3</name>
+      <info>Bürstenvorrichtung zum Fangen von Gars und gepanzerten Hechten</info>
+    </weapon>
+    <weapon id="2078">
+      <name>VIB Salmon GT-4</name>
+      <info>Lachsfischköder Serie</info>
+    </weapon>
+    <weapon id="2079">
+      <name>VIB Salmon GT-5</name>
+      <info>Lachsfischköder Serie</info>
+    </weapon>	
   </weapons>
 </wpnlang>

@@ -7,7 +7,7 @@ type_3=Omnivorous
 type_4=Carp species
 type_5=Perch species
 type_6=Salmon species
-type_7=Trout
+type_7=Rainbow Trout
 type_8=Crustacea
 type_9=Mollusc
 type_10=Garbage
@@ -267,7 +267,7 @@ type_120=Rating participant
 382_Name = Merluzzo
 383_Name = Coley
 384_Name = Lamprey sea
-385_Name = Chinook
+385_Name = Chinook salmon
 386_Name = Shrimp
 387_Name = Shark polar
 388_Name = Octopus Polar
@@ -492,3 +492,27 @@ type_120=Rating participant
 
 542_Name=Scottish whitefish
 542_Latn=Coregonus vandesius 
+
+543_Name=Cristivomer
+543_Latn=Salvelinus namaycush
+
+544_Name=Muskie
+544_Latn=Esox masquinongy
+
+545_Name=Brown Trout
+546_Latn=Salmo trutta
+
+546_Name=Black crappie
+546_Latn=Pomoxis nigromaculatus
+
+547_Name=Golden shiner
+547_Latn=Notemigonus crysoleucas
+
+548_Name=Shad
+548_Latn=Alosa sapidissima
+
+549_Name=White bass
+549_Latn=Morone chrysops
+
+550_Name=White sucker
+550_Latn=Catostomus commersonii

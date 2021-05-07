@@ -5608,5 +5608,61 @@ Adapted for jerking</info>
       <info>You can return the reward to the hero's relatives and get a bonus for selling fish</info>
     </weapon>	
 	
+    <weapon id="2066">
+      <name>Brush JigHead</name>
+      <info>Jig heads for equipping bassjig lures</info>
+    </weapon>
+    <weapon id="2067">
+      <name>BrushJigH 1-10</name>
+      <info>Jig heads for equipping bassjig lures</info>
+    </weapon>
+    <weapon id="2068">
+      <name>BrushJigH 2-15</name>
+      <info>Jig heads for equipping bassjig lures</info>
+    </weapon>
+    <weapon id="2069">
+      <name>BrushJigH 3-20</name>
+      <info>Jig heads for equipping bassjig lures</info>
+    </weapon>
+    <weapon id="2070">
+      <name>BrushJigH 4-35</name>
+      <info>Jig heads for equipping bassjig lures</info>
+    </weapon>
+    <weapon id="2071">
+      <name>BrushJigH 1-4</name>
+      <info>Jig heads for equipping bassjig lures</info>
+    </weapon>
+    <weapon id="2072">
+      <name>JIG Brush</name>
+      <info>Jig brush</info>
+    </weapon>
+    <weapon id="2073">
+      <name>JIG Brush S1</name>
+      <info>Jig brush for bass fishing. Requires a special jig head</info>
+    </weapon>
+    <weapon id="2074">
+      <name>JIG Brush S2</name>
+      <info>Jig brush for bass fishing. Requires a special jig head</info>
+    </weapon>
+    <weapon id="2075">
+      <name>JIG Brush S3</name>
+      <info>Jig brush for bass fishing. Requires a special jig head</info>
+    </weapon>
+    <weapon id="2076">
+      <name>Gar's Brush S2</name>
+      <info>Barnet brush for catching gars and other shelled pikes</info>
+    </weapon>
+    <weapon id="2077">
+      <name>Gar's Brush S3</name>
+      <info>Barnet brush for catching gars and other shelled pikes</info>
+    </weapon>
+    <weapon id="2078">
+      <name>VIB Salmon GT-4</name>
+      <info>A series of lures for salmon fishing</info>
+    </weapon>
+    <weapon id="2079">
+      <name>VIB Salmon GT-5</name>
+      <info>A series of lures for salmon fishing</info>
+    </weapon>	
   </weapons>
 </wpnlang>

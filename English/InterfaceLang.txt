@@ -1,7 +1,7 @@
 ﻿[INTERFACE]
 
 
-
+setenbl_sign=Signal off for a long bite
 wpn_bait_typ_7jrk=Jerk
 prov_prov_4jrk=Jerking
 wpn_bait_sz4=Huge

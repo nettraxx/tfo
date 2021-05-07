@@ -1,3 +1,28 @@
+Patch 1.54.0
+Auf Ultraleichte Köder beißen nun keine Grashechte und Hechte mehr
+Wenn die Rolle geöffnet ist, fällt der Köder viel schneller auf den Boden als wenn er geschlossen ist.
+Dadurch können Sie den Köder schnell auf den gewünschten Angelhorizont absenken.
+Die visuellen Abmessungen der Multiplikatorrollen werden reduziert
+Casting SeaCast-52 erhielt aktualisierte Texturen
+Wettereffekte sind aktiviert
+Die Beleuchtung ist für bewölkte und regnerische Bedingungen konfiguriert
+Es wurde eine Einstellung hinzugefügt, um das Signal während eines langen Bisses zu deaktivieren
+Die Geschwindigkeit zum Absenken der Angelrute wird verringert
+Das Ansprechverhalten des Angelrutenrohlings ist konfiguriert
+Ein "Ruckeln" wurde hinzugefügt. Durchgeführt mit großen Ruckködern
+Andere Fehlerbehebungen für die Benutzeroberfläche und das Spiel
+Das Kartenmarkierungsspeichersystem wurde geändert. Jetzt werden sie auf dem Server gespeichert und Sie verlieren sie nicht mit Updates und bei der Neuinstallation des Spiels, sodass die alten Markierungen nicht mehr angezeigt wurden
+
+Balance Fix
+Eine kleine Änderung im Fang der bewerteten Arten:
+Bewertungsarten stehen auch an DLC-Standorten zum Fangen zur Verfügung. Für die Bewertung werden jedoch nur Arten von öffentlichen Standorten ausgewählt.
+Ukraine - Frosch hinzugefügt
+Hecht - reduziertes Trophäengewicht auf 14 kg
+Durch Seeforellen reduziertes Trophäengewicht auf 5 kg
+Das maximale Gewicht der Trophäen blieb jedoch gleich - bis zu 28 kg bzw. bis zu 15 kg
+Grashecht, Hecht, Seeforelle, Regenbogenforelle - deutlich reduziertes Beißen auf leichten Ködern bis zu 6 Gramm. Jetzt bevorzugen sie größere Köder
+Viele Arten haben die Abstufung des Minimal- und Grüngewichts in Richtung der Zunahme geändert. Zum Beispiel beißt jetzt pinkfarbiger Lachs unter 1 kg nicht.
+
 Patch 1.53.0
 Die Möglichkeit, dem Grundköder Schalentiere, Garnelen, Seeringelwurm usw. hinzuzufügen, ist enthalten.
 Reduzierter Köderverbrauch für die Herstellung von Ködern bis zu 10
