@@ -2048,7 +2048,8 @@
     </weapon>
     <weapon id="1402">
       <name>JerkPredator</name>
-      <info>Мощный джерковый спиннинг, специально предназначенный для крупной рыбы</info>
+      <info>Мощный джерковый спиннинг, специально предназначенный для ловли крупной рыбы на джерковые приманки
++10% к опыту за пойманную рыбу</info>
     </weapon>
     <weapon id="1403">
       <name>Спин "Карела"</name>
@@ -5144,6 +5145,18 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <name>VIB Salmon GT-5</name>
       <info>Серия блесен для ловли лососевых
 </info>
+    </weapon>
+    <weapon id="2080">
+      <name>JGlider-BigFury</name>
+      <info>Джерковый тонущий воблер отлично подходит для ловли крупного хищника</info>
+    </weapon>
+    <weapon id="2081">
+      <name>JGlider-BigShiner</name>
+      <info>Джерковый тонущий воблер отлично подходит для ловли крупного хищника</info>
+    </weapon>
+    <weapon id="2082">
+      <name>JGlider-BigPerch</name>
+      <info>Джерковый тонущий воблер отлично подходит для ловли крупного хищника</info>
     </weapon>
   </weapons>
 </wpnlang>

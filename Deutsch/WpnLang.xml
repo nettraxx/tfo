@@ -2422,7 +2422,8 @@ Zum Testen</info>
     </weapon>
     <weapon id="1402">
       <name>Jerk-Predator</name>
-      <info>Leistungsstarke Spinnrute speziell für große Fische.</info>
+      <info>Leistungsstarke Spinnrute speziell für große Fische.
++ 10% für gefangenen Fisch</info>
     </weapon>
     <weapon id="1403">
       <name>--</name>
@@ -5674,6 +5675,18 @@ Ausgestattet mit Jig oder einem Gittergewebe</info>
     <weapon id="2079">
       <name>VIB Salmon GT-5</name>
       <info>Lachsfischköder Serie</info>
+    </weapon>
+    <weapon id="2080">
+      <name>JGlider-BigFury</name>
+      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubtiere</info>
+    </weapon>
+    <weapon id="2081">
+      <name>JGlider-BigShiner</name>
+      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubtiere</info>
+    </weapon>
+    <weapon id="2082">
+      <name>JGlider-BigPerch</name>
+      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubtiere</info>
     </weapon>	
   </weapons>
 </wpnlang>
