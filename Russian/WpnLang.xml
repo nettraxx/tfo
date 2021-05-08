@@ -5147,15 +5147,15 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
 </info>
     </weapon>
     <weapon id="2080">
-      <name>JGlider-BigFury</name>
+      <name>JGlider-BigClown</name>
       <info>Джерковый тонущий воблер отлично подходит для ловли крупного хищника</info>
     </weapon>
     <weapon id="2081">
-      <name>JGlider-BigShiner</name>
+      <name>JGlider-BigMullet</name>
       <info>Джерковый тонущий воблер отлично подходит для ловли крупного хищника</info>
     </weapon>
     <weapon id="2082">
-      <name>JGlider-BigPerch</name>
+      <name>JGlider-BigSquid</name>
       <info>Джерковый тонущий воблер отлично подходит для ловли крупного хищника</info>
     </weapon>
   </weapons>

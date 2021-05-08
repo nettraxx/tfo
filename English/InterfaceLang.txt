@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+pckjname=Kit "JerkPredator"
+pckjinfo=The kit contains a jerkrod (30 kg 2.2 m test 35-60), a reel, a fishing line and three jerk lures. The assembly gives +10% to the experience gained and increased range and accuracy of casting heavy jerk lures
+
+--------------------
 
 setenbl_sign=Signal off for a long bite
 wpn_bait_typ_7jrk=Jerk

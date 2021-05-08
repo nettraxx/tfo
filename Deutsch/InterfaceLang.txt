@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+pckjname=Kit "JerkPredator"
+pckjinfo=Das Kit enthält eine Jerkrute (30kg), Rolle (25kg), Angelschnur (30kg) und drei Jerkköder. Die Montage gibt + 10% für die gesammelten Erfahrungen und erhöht die Reichweite und Genauigkeit des Werfens schwerer Jerkköder
+
+--------------------
 setenbl_sign=Stummschaltungssignal bei längerem Biss
 wpn_bait_typ_7jrk=Jerk
 prov_prov_4jrk=Jerking

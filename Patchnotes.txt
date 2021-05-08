@@ -1,3 +1,19 @@
+Patch 1.54.2
+Der DLC-Shop hat eine "JerkPredator-Kit" -Rute mit der gesamten notwendigen Ausrüstung (Rolle, Angelschnur) und drei schweren Ruckködern hinzugefügt. 
+Die Kosten für das Kit können in Ihrer Region von den im Spiel angegebenen Kosten abweichen.
+Kit-Parameter:
+Angelrute: Stärke 32 kg, Länge 2,2 m, Erfahrungsbonus + 10%, größere Reichweite und Genauigkeit beim Werfen großer Rucke (mehr als 50 m)
+Rolle: Castingrolle, Übersetzungsverhältnis 4,2: 1, Reibung 31 kg, Leistung 25
+Angelschnur: geflochtene Schnur 0,2 mm 30 kg, Länge 200 Meter.
++ Drei schwere (55 g) Ruckköder für das See- und Seefischen
+
+Darüber hinaus im Update:
+Behebung eines Fehlers beim Verwenden von Barsch-Jigs
+Korrektur verschiedener Fehler mit falschem Angelschnurverhalten
+Behebung eines Fehlers bei einem manchmal falsch angezeigten Fischmodell
+Korrektur eines Fehlers mit einer starken Änderung der Beleuchtung bei wechselndem Wetter
+Einige Fischmodelle gefixt
+
 Patch 1.54.0
 Auf Ultraleichte Köder beißen nun keine Grashechte und Hechte mehr
 Wenn die Rolle geöffnet ist, fällt der Köder viel schneller auf den Boden als wenn er geschlossen ist.

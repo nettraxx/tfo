@@ -5664,5 +5664,18 @@ Adapted for jerking</info>
       <name>VIB Salmon GT-5</name>
       <info>A series of lures for salmon fishing</info>
     </weapon>	
+	
+    <weapon id="2080">
+      <name>JGlider-BigClown</name>
+      <info>The jerk sinking wobbler is great for catching a large predators</info>
+    </weapon>
+    <weapon id="2081">
+      <name>JGlider-BigMullet</name>
+      <info>The jerk sinking wobbler is great for catching a large predators</info>
+    </weapon>
+    <weapon id="2082">
+      <name>JGlider-BigSquid</name>
+      <info>The jerk sinking wobbler is great for catching a large predators</info>
+    </weapon>	
   </weapons>
 </wpnlang>
