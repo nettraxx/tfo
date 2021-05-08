@@ -5678,15 +5678,15 @@ Ausgestattet mit Jig oder einem Gittergewebe</info>
     </weapon>
     <weapon id="2080">
       <name>JGlider-BigFury</name>
-      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubtiere</info>
+      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubfische</info>
     </weapon>
     <weapon id="2081">
       <name>JGlider-BigShiner</name>
-      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubtiere</info>
+      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubfische</info>
     </weapon>
     <weapon id="2082">
       <name>JGlider-BigPerch</name>
-      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubtiere</info>
+      <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubfische</info>
     </weapon>	
   </weapons>
 </wpnlang>
