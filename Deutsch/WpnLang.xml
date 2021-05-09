@@ -5569,7 +5569,7 @@ Salzwasserbeständig</info>
     </weapon>
     <weapon id="2054">
       <name>Reise nach "1000 Inseln"</name>
-      <info>USA/Kanada</info>
+      <info>USA</info>
     </weapon>
       <weapon id="2055">
       <name>Veilchen</name>
@@ -5578,7 +5578,7 @@ Salzwasserbeständig</info>
     </weapon>
     <weapon id="2056">
       <name>Mehlwürmer</name>
-      <info>
+      <info>Fängig für: Schleie
       </info>
     </weapon>
     <weapon id="2057">
@@ -5609,7 +5609,7 @@ Salzwasserbeständig</info>
       <name>JPredator Multicast</name>
       <info>Übersetzungsverhältnis 4.2:1
 Kupplung links
-Angepasst für Jerking</info>
+Angepasst für Jerkköder</info>
     </weapon>
     <weapon id="2064">
       <name>Kit "JPredator"</name>
@@ -5622,7 +5622,7 @@ Angepasst für Jerking</info>
     <weapon id="2066">
       <name>Brush JigHead</name>
       <info>Jigköpfe zum Ausrüsten mit Barsch-Jigködern
-Ausgestattet mit Jig oder einem Gittergewebe</info>
+Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
     </weapon>
     <weapon id="2067">
       <name>BrushJigH 1-10</name>
