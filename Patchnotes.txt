@@ -1,3 +1,8 @@
+Patch 1.54.3
+Die Animationen wurden geändert, beim auspacken der Angelrute, auf den Ständer stellen und die Angelrute zu wechseln.
+Die Beleuchtung von Fischen beim Betrachten im Kescher wurde korrigiert.
+Inventarfehler behoben.
+
 Patch 1.54.2
 Der DLC-Shop hat eine "JerkPredator-Kit" -Rute mit der gesamten notwendigen Ausrüstung (Rolle, Angelschnur) und drei schweren Ruckködern hinzugefügt. 
 Die Kosten für das Kit können in Ihrer Region von den im Spiel angegebenen Kosten abweichen.

@@ -473,7 +473,7 @@ type_120=Rangwertung
 542_Name=Schottische Maräne
 542_Latn=Coregonus vandesius 
 
-543_Name=Amerikanischer Seesaibling
+543_Name=Amerik. Seesaibling
 543_Latn=Salvelinus namaycush
 
 544_Name=Мuskellunge
@@ -487,7 +487,7 @@ type_120=Rangwertung
 547_Name=Gold Elritze
 547_Latn=Notemigonus crysoleucas
 
-548_Name=Amerikanischer Maifisch
+548_Name=Amerik. Maifisch
 547_Latn=Alosa sapidissima - Shad
 
 549_Name=Weißbarsch
