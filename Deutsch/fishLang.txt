@@ -383,12 +383,12 @@ type_120=Rangwertung
 507_Name=Astrakhan-Hecht
 508_Name=Glasaugenbarsch 
 509_Name=Kanadischer Zander
-510_Name=Amerikanischer Flussbarsch
+510_Name=Amerik. Flussbarsch
 511_Name=See-Stör
 512_Name=Großkopfmeeräsche
 513_Name=Meeräsche
 514_Name=Rotlippige Meeräsche
-515_Name=Europäischer Wolfsbarsch
+515_Name=Europ. Wolfsbarsch
 516_Name=Schwarzbarsch
 517_Name=Weißer Thunfisch
 518_Name=Persischer Stör
@@ -479,7 +479,7 @@ type_120=Rangwertung
 544_Name=Мuskellunge
 544_Latn=Esox masquinongy
 
-545_Name=Forelle
+545_Name=Amerk. Bachforelle
 
 546_Name=Schwarzer Crappie
 546_Latn=Pomoxis nigromaculatus

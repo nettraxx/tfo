@@ -11,13 +11,13 @@ wpn_bait_sz4=Riesig
 
 --------------------
 cntx_writeover=Rezept Limit erreicht 50/50!
-cntx_write=speichern
-cntx_recraft=herstellen
+cntx_write=Umbenennen
+cntx_recraft=Herstellen
 wpn_hook_brd=Ohne Widerhaken
 treel_type4=Multiplikator
 
 --------------------
-act_inf1e=[E] nehmen [K] Rolle
+act_inf1e=[E] Aufnehmen [K] Schnur spannen
 
 wpn_jhook_sz0=Nano (Nr.6)
 wpn_jhook_sz1=Micro (Nr.3)
@@ -486,6 +486,7 @@ key_slight=Taschenlampe (P)
 key_rodpode=Rodpod aufstellen (Space)
 key_showui=Benutzeroberfläche ein/aus (F9)
 key_showturn=Turnier anzeigen (TAB)
+key_feederreel=Schnur spannen (K)
 
 setbtn_0=Grafik
 setbtn_1=Sounds
