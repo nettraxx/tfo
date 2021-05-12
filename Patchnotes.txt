@@ -1,3 +1,7 @@
+Patch 1.55.0 DLC USA
+Hinweis: Nach dem Kauf des DLCs müssen Sie das Spiel erneut betreten, damit die Schaltfläche "Zur Basis reisen" oben rechts erscheint.
+Beachten Sie, dass der an den Orten aus dem DLC gefangene Fisch nicht in die Weltrekorde eingeht, er kann jedoch an den Bewertungen teilnehmen.
+
 Patch 1.54.3
 Die Animationen wurden geändert, beim auspacken der Angelrute, auf den Ständer stellen und die Angelrute zu wechseln.
 Die Beleuchtung von Fischen beim Betrachten im Kescher wurde korrigiert.

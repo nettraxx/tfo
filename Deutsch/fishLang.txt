@@ -491,8 +491,10 @@ type_120=Rangwertung
 547_Latn=Alosa sapidissima - Shad
 
 549_Name=Weißbarsch
-549_Latn=White bass (Morone chrysops)
+549_Latn=Morone chrysops
 
 550_Name=Weißer Sauger
-550_Latn=White sucker (Catostomus commersonii)
+550_Latn=Catostomus commersonii
 
+551_Name=Blauer Katzenwels
+551_Latn=Ictalurus furcatus

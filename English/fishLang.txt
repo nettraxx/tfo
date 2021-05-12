@@ -516,3 +516,6 @@ type_120=Rating participant
 
 550_Name=White sucker
 550_Latn=Catostomus commersonii
+
+551_Name=Blue Catfish
+551_Latn=Ictalurus furcatus 

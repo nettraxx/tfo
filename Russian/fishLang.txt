@@ -498,14 +498,17 @@ type_120=Рейтинговая
 546_Latn=Pomoxis nigromaculatus
 
 547_Name=Шайнер золотой
-547_Latn=Notemigonus crysoleucas - Golden shiner
+547_Latn=Notemigonus crysoleucas (Golden shiner)
 
 548_Name=Шэд Американский
-548_Latn=Alosa sapidissima - Shad
+548_Latn=Alosa sapidissima (Shad)
 
 549_Name=Басс белый
-549_Latn=White bass (Morone chrysops)
+549_Latn=Morone chrysops (White bass)
 
 550_Name=Чукучан белый
-550_Latn=White sucker (Catostomus commersonii)
+550_Latn=Catostomus commersonii (White sucker)
+
+551_Name=Сом голубой
+551_Latn=Ictalurus furcatus (Blue Catfish)
 
