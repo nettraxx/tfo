@@ -484,7 +484,7 @@ type_120=Rangwertung
 546_Name=Schwarzer Crappie
 546_Latn=Pomoxis nigromaculatus
 
-547_Name=Golden Shiner
+547_Name=Goldener Putzer
 547_Latn=Notemigonus crysoleucas
 
 548_Name=Amerik. Maifisch
