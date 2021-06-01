@@ -4037,7 +4037,7 @@ VIP не даёт бонуса.</info>
     </weapon>
     <weapon id="1836">
       <name>WOB Shad-F2</name>
-      <info>Воблер класса шэд (плавающий) обладает ярковыраженной игрой и прекрасно подхоит для ловли на течении или троллинга. </info>
+      <info>Воблер класса шэд (плавающий) обладает ярковыраженной игрой и прекрасно подходит для ловли на течении или троллинга. </info>
     </weapon>
     <weapon id="1837">
       <name>WOB Shad-F3</name>
@@ -5157,6 +5157,29 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     <weapon id="2082">
       <name>JGlider-BigSquid</name>
       <info>Джерковый тонущий воблер отлично подходит для ловли крупного хищника</info>
+    </weapon>
+    <weapon id="2083">
+      <name>TopW Walker-5g</name>
+      <info>Поверхностные уолкеры серии Rainbow</info>
+    </weapon>
+    <weapon id="2084">
+      <name>TopW Walker-12g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2085">
+      <name>TopW Walker-20g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2086">
+      <name>RainbowWalkers</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2087">
+      <name>TopW Жук-5g</name>
+      <info>Воблер в виде майского жука (cockchafer)</info>
     </weapon>
   </weapons>
 </wpnlang>

@@ -48,9 +48,10 @@ type_107=Label "Dicker Fisch"
 type_108=Roter Kaviar
 type_109=Schwarzer Kaviar
 
-type_110=Auf Nimmerwiedersehen 2020
-type_111=Willkommen im Jahr 2021
+type_110=
+type_111=
 type_120=Rangwertung
+type_122=Silber
 
 [MESSAGES]
 

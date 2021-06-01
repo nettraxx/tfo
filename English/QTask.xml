@@ -49,7 +49,8 @@
 	<turn id="10" name="Spinning-blitz" info="--"/>
 	<turn id="11" name="Bottom-blitz" info="--"/> 
 	<turn id="12" name="Fly-blitz" info="--"/>  
-	<turn id="13" name="США: спиннинг-блиц" info="--"/>
+	<turn id="13" name="USA: Spinning-blitz" info="--"/>
+	<turn id="14" name="Enisey: Universal-blitz" info="--"/>
 	<turn id="50" name="Dutch bream" info="--"/>	
   </tnames>
 

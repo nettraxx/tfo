@@ -46,6 +46,7 @@
 		<turn id="11" name="Grund-Blitzturnier" info="--"/> 
 		<turn id="12" name="Fliegen-Blitzturnier" info="--"/>
 		<turn id="13" name="USA: Spinn-Blitzturnier" info="--"/>		
+		<turn id="14" name="Jenissei: Universal-Blitzturnier" info="--"/>	
 		<turn id="50" name="Holländische Brachse" info="--"/>
   </tnames>
 

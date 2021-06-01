@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
+fl_uniq_hint=Einzigartig
+fl_count_hint=Anzahl der Fische
+fl_silver_hint=Aufgabe für die Silbermedaille
 
+--------------------
 pckjname=Kit "JerkPredator"
 pckjinfo=Das Kit enthält eine Jerkrute (32kg), Rolle (31kg), Angelschnur (30kg) und drei Jerkköder. Die Montage gibt + 10% für die gesammelten Erfahrungen und erhöht die Reichweite und Genauigkeit des Werfens schwerer Jerkköder.
 
@@ -217,7 +221,7 @@ ptur_otBoat=BOOT ERLAUBT
 
 ptur_ot_00=Beliebig
 ptur_ot_90=Stipprute
-ptur_ot_100=Posenrute, Matchrute
+ptur_ot_100=Bolorute, Matchrute
 ptur_ot_101=Grundrute
 ptur_ot_102=Spinnrute, Castingrute
 ptur_ot_103=Fliegenrute

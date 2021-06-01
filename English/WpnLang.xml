@@ -5677,5 +5677,29 @@ Adapted for jerking</info>
       <name>JGlider-BigSquid</name>
       <info>The jerk sinking wobbler is great for catching a large predators</info>
     </weapon>	
+	
+    <weapon id="2083">
+      <name>TopW Walker-5g</name>
+      <info>Topwater walkers of the Rainbow series</info>
+    </weapon>
+    <weapon id="2084">
+      <name>TopW Walker-12g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2085">
+      <name>TopW Walker-20g</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2086">
+      <name>RainbowWalkers</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2087">
+      <name>TopW cockchafer-5g</name>
+      <info>Wobbler in the form of a cockchafer</info>
+    </weapon>	
   </weapons>
 </wpnlang>

@@ -53,6 +53,7 @@ type_110=---
 type_111=---
 
 type_120=Rating participant
+type_122=Silver
 
 [MESSAGES]
 

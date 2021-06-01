@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <wpnlang>
   <wpntypes>
-    <type id="1" name="Posenrute">
+    <type id="1" name="Bolorute">
       <main_cmt>---</main_cmt>
       <par1>Traglast "kg"</par1>
       <par2>Rutenlänge "m" (entscheidend für Wurfweite)</par2>
@@ -5688,5 +5688,25 @@ Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
       <name>JGlider-BigSquid</name>
       <info>Der Wobbler eignet sich hervorragend zum Fangen großer Raubfische</info>
     </weapon>	
+    <weapon id="2083">
+      <name>TopW Walker-5g</name>
+      <info>Topwater Walker der Rainbow-Serie</info>
+    </weapon>
+    <weapon id="2084">
+      <name>TopW Walker-12g</name>
+      <info>Topwater Walker der Rainbow-Serie</info>
+    </weapon>
+    <weapon id="2085">
+      <name>TopW Walker-20g</name>
+      <info>Topwater Walker der Rainbow-Serie</info>
+    </weapon>
+    <weapon id="2086">
+      <name>Rainbow Walkers</name>
+      <info>Topwater Walker der Rainbow-Serie</info>
+    </weapon>
+    <weapon id="2087">
+      <name>TopW Maikäfers-5g</name>
+      <info>Wobbler in Form eines Maikäfers</info>
+    </weapon>		
   </weapons>
 </wpnlang>

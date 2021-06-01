@@ -1,5 +1,11 @@
 ﻿[INTERFACE]
 
+fl_uniq_hint=Unique 
+fl_count_hint=Number of fish
+fl_silver_hint=Task for the silver medal of the base
+
+--------------------
+
 wpn_bait_sz3=Big
 pckjname=Kit "JerkPredator"
 pckjinfo=The kit contains a jerkrod (30 kg 2.2 m test 35-60), a reel, a fishing line and three jerk lures. The assembly gives +10% to the experience gained and increased range and accuracy of casting heavy jerk lures
@@ -406,7 +412,7 @@ club_err4=Name or tag already exists
 btn_qtaskvip=On bases
 
 dntpck_2_name=Packet "SeaCast"
-dntpck_2_info=The kit contains a heavy casting fishing rod (52 kg), a multiplier reel, fishing line and 500 silver
+dntpck_2_info=The kit contains a heavy casting fishing rod (52 kg t30-90g), a multiplier reel, fishing line and 500 silver
 
 dntpck_1_hint=* The price for your region may vary.
 dntpck_1_name=Packet "BeeCast"
@@ -768,10 +774,10 @@ wpn_bait_sz0=Small
 wpn_bait_sz1=Medium
 wpn_bait_sz2=Large
 
-wpn_bait_typ_4=:Swinging spoon-bait
-wpn_bait_typ_5=:Rotating spoon-bait
-wpn_bait_typ_6=:Jigging spoon-bait
-wpn_bait_typ_7=:Wobbler spoon-bait
+wpn_bait_typ_4=Swinging spoon-bait
+wpn_bait_typ_5=Rotating spoon-bait
+wpn_bait_typ_6=Jig lure
+wpn_bait_typ_7=Wobbler
 
 wpn_bait_vob_0=Topwater
 wpn_bait_vob_1=Afloat

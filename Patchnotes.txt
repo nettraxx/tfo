@@ -1,3 +1,23 @@
+Patch 1.56.0
+Technische Änderungen:
+Migration auf die aktualisierte Version der Spiel-Engine (Unity 2020 LTS)
+Die Liste der täglichen Aufgaben von DLC-Standorten wurde ergänzt
+Die Anzeige aktueller Nachrichten wurde dem Hauptmenü hinzugefügt.
+Fehlerkorrekturen mit einem Boot an einem US-Standort
+Andere Fehlerbehebungen
+
+Inhaltliche Änderungen:
+Jenissei DLC ein tägliches Turnier wurde dem Standort hinzugefügt.
+Polen ändern die Geodaten und das Aussehen der Location, neue Points of Interest, neue Fische zur Location wurde hinzugefügt
+An allen Stauseen können Sie nach Erhalt der Bronzemedaille des Stausees eine Silbermedaille erhalten. Um eine Silbermedaille zu erhalten, müssen Sie die in der Registerkarte "Fische auf dem Teich" aufgeführten Arten auf diesem Teich fangen. Bereits gefangene Fische werden durch einen silbernen Rahmen angezeigt. Zuvor gefangene Arten werden ebenfalls gezählt.
+Die Bronzemedaille des Teiches fügt +5 mögliche Marker für den Teich hinzu, die Silbermedaille fügt + 5 weitere Marker hinzu (insgesamt 15)
+
+Änderungen der Balance:
+Taimens -Änderung in der Gewichtsabstufung. Jetzt werden alle Taimens über 28 kg als Trophäe angesehen. Der Preis und die Erfahrung für Fische wird erhöht
+Am Standort Jenissei wurde die Anzahl der großen Taimen erhöht, die Anzahl der mittleren und kleinen Taimen wurde reduziert
+Alle Karpfen (Gemeiner, Goldener, Spiegelkarpfen) - Änderung der Gewichtsabstufung. Jetzt werden alle Karpfen über 15 kg als Trophäe angesehen. Der Preis und die Erfahrung für Fische wurde erhöht
+Muskie - der Wert der Fische wurde erhöht, die Seltenheit der Fische im Teich wurde erhöht
+
 Patch 1.55.0 DLC USA
 Hinweis: Nach dem Kauf des DLCs müssen Sie das Spiel erneut betreten, damit die Schaltfläche "Zur Basis reisen" oben rechts erscheint.
 Beachten Sie, dass der an den Orten aus dem DLC gefangene Fisch nicht in die Weltrekorde eingeht, er kann jedoch an den Bewertungen teilnehmen.
