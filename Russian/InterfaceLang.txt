@@ -1,4 +1,8 @@
 [INTERFACE]
+
+trof_act={0} получил {1}
+
+
 fl_uniq_hint=Уникальный вид
 fl_count_hint=Количество вида на водоёме
 fl_silver_hint=Задание на серебряную медаль базы

@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+trof_act={0} erhalten {1}
+
 fl_uniq_hint=Einzigartig
 fl_count_hint=Anzahl der Fische
 fl_silver_hint=Aufgabe für die Silbermedaille

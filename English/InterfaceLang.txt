@@ -1,4 +1,5 @@
 ﻿[INTERFACE]
+trof_act={0} получил {1}
 
 fl_uniq_hint=Unique 
 fl_count_hint=Number of fish
