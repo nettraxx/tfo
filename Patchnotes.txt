@@ -1,3 +1,10 @@
+Patch 1.56.6
+Beleuchtung, Anti-Aliasing und Farbraumeinstellungen wurden angepasst
+Dynamische Nebeldichte wurde angepasst
+Andere grafische Fehlerkorrekturen
+Der Name des Charakters ist jetzt nicht mehr mit dem Steam-Account-Namen verknüpft. 
+Du kannst den Namen deines Charakters alle 30 Tage über das Spielerprofil ändern (das Stiftsymbol neben dem Namen des Charakters).
+
 Patch 1.56.0
 Technische Änderungen:
 Migration auf die aktualisierte Version der Spiel-Engine (Unity 2020 LTS)

@@ -1,6 +1,11 @@
 ﻿[INTERFACE]
-trof_act={0} erhalten {1}
 
+unr_nametime=Vor der Namensänderung:
+unr_namecapt=Neuer Charaktername
+unr_namehint=Der Name muss aus mindestens 3-16 Zeichen bestehen, Sonderzeichen werden entfernt.
+
+--------------------
+trof_act={0} erhalten {1}
 fl_uniq_hint=Einzigartig
 fl_count_hint=Anzahl der Fische
 fl_silver_hint=Aufgabe für die Silbermedaille

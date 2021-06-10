@@ -1,5 +1,12 @@
 ﻿[INTERFACE]
-trof_act={0} получил {1}
+
+unr_nametime=Time left:
+unr_namecapt=New character name
+unr_namehint=The name must be at least 3 characters and no more than 16, special characters will be removed
+
+--------------------
+
+trof_act={0} received {1}
 
 fl_uniq_hint=Unique 
 fl_count_hint=Number of fish
