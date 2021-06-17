@@ -35,6 +35,7 @@ type_31=Geschützte Arten
 type_32=Seltene Größe
 type_33=Lebender Seeköder
 type_34=Weißfisch
+type_35=Panfisch
 
 #unique
 type_100=Großer Fisch
@@ -285,7 +286,7 @@ type_122=Silber
 408_Name=Telezkoje-Hasel
 409_Name=Nase
 410_Name=Murray-Flusskrebs
-411_Name=Knochenhecht
+411_Name=Gemeiner Knochenhecht
 412_Name=Spiegelkarpfen
 413_Name=Lederkarpfen
 415_Name=Acanthodii

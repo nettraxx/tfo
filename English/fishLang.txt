@@ -23,7 +23,7 @@ type_19=Sea
 type_20=Ground fish
 type_21=Live bait
 type_22=Icy
-type_23=Russian Sturgeon
+type_23=Sturgeon
 type_24=Prefers depth
 type_25=Topwater
 type_26=Psychrophilic
@@ -35,6 +35,7 @@ type_31=Red book
 type_32=Rare size
 type_33=Live seabait
 type_34=Whitefish
+type_35=Panfish
 
 #unique
 type_100=Big Fish
@@ -138,8 +139,8 @@ type_122=Silver
 72_Name = Leech
 73_Name = Peled
 
-74_Name = Brook charr
-//(Salvelinus fontinalis)
+74_Name = Brook Trout
+74_Latn = Salvelinus fontinalis
 
 75_Name = Gudgeon
 76_Name = Siberian Gudgeon 
@@ -293,7 +294,7 @@ type_122=Silver
 408_Name = Elec Teletsk
 409_Name = Common nase
 410_Name = Spiked crawfish
-411_Name = Brigandine pike
+411_Name = Longnose gar
 412_Name = Carp Mirror
 413_Name = Сarp Leather
 
@@ -393,7 +394,7 @@ type_122=Silver
 507_Name = Astrakhan Pike
 508_Name = Walleye
 509_Name = Sauger
-510_Name = Lake perch
+510_Name = Yellow perch
 511_Name = Lake sturgeon
 
 512_Name=Flathead mullet
@@ -494,7 +495,7 @@ type_122=Silver
 542_Name=Scottish whitefish
 542_Latn=Coregonus vandesius 
 
-543_Name=Cristivomer
+543_Name=Lake Trout
 543_Latn=Salvelinus namaycush
 
 544_Name=Muskie
