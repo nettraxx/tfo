@@ -1,3 +1,13 @@
+Patch 1.57.0
+Glückwünsche auf dem Fisherman's Day (Sonntag, 11. Juli)!
+
+In diesem Update wurde das Beute-System im Spiel deutlich erweitert. Im Prozess der Fischerei, werden Sie über spezielle Sammelkarten.
+Die Regeln der Spielkarte:
+Im Prozess Fisch zu fangen, entweder leer oder weiße Karten Karten herausfallen. Die weiße Karte kann, indem man die leere Karte gelöscht werden. eine Sammlung von Collected drei leeren Karten hat, können Sie eine Karte in einem Booster-Paket erhalten, das öffnen Sie eine weiße oder grüne Karte mit hohen Wahrscheinlichkeit bekommen,
+oder, weniger wahrscheinlich, eine blau, lila oder Gold-Karte. Sammeln Nach der angegebenen Anzahl von Karten, können Sie den Preis bekommen auf der Karte angezeigt. Angeln an verschiedenen Basen - in einem anderen Satz von weißen Karten verfügbar für den Fang
+Die Wahrscheinlichkeit, die Karte von Fang hängt vom Grad der Fische (weiß-grün-blau) und aus dem Gewicht der gefangenen Fische. Die höchste Wahrscheinlichkeit, die Karte von Fang- und erreicht Trophy Wenn die Fische über 10 kg Fang
+Zu Ehren des Tages des Fischers, bis zum 11. Juli (einschließlich) hat die Schachtel mit dem Spiel hinzugefügt, nach dem Sammeln der Sammlung, von denen Sie das Ereignisfeld bekommen. Die Karte Booster der Box fällt nicht heraus und sagen, dass es nur gemeinsam Gefangen mit dem Fisch.
+
 Patch 1.56.6
 Beleuchtung, Anti-Aliasing und Farbraumeinstellungen wurden angepasst
 Dynamische Nebeldichte wurde angepasst

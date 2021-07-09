@@ -268,6 +268,11 @@
       <par2>??</par2>
       <par3>??</par3>
     </type>
+    <type id="51" name="Коллекция">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
   </wpntypes>
   <weapons>
     <comment>Описание предметов и типов RU</comment>
@@ -5180,6 +5185,107 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     <weapon id="2087">
       <name>TopW Жук-5g</name>
       <info>Воблер в виде майского жука (cockchafer)</info>
+    </weapon>
+    <weapon id="2088">
+      <name>Карта червя</name>
+      <info>Cвой червь сердце точит</info>
+    </weapon>
+    <weapon id="2089">
+      <name>Карта моллюска</name>
+      <info>Простые устрицы лежат в одних местах</info>
+    </weapon>
+    <weapon id="2090">
+      <name>Карта выползка</name>
+      <info>Каждому червю хочется стать драконом</info>
+    </weapon>
+    <weapon id="2091">
+      <name>Карта стрекозы</name>
+      <info>Стрекоза всё лето пела</info>
+    </weapon>
+    <weapon id="2092">
+      <name>Карта тины</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2093">
+      <name>Карта коробки</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2094">
+      <name>Карта рыбака</name>
+      <info>Рыбак рыбака</info>
+    </weapon>
+    <weapon id="2095">
+      <name>Карта турнира</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2096">
+      <name>Карта кладовщика</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2097">
+      <name>Карта богача</name>
+      <info>Богач друга не узнает</info>
+    </weapon>
+    <weapon id="2098">
+      <name>Карта снабжения</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2099">
+      <name>Карта поплавка</name>
+      <info>У рыбака глаза на поплавке</info>
+    </weapon>
+    <weapon id="2100">
+      <name>Карта креветки</name>
+      <info>Спящую креветку уносит течением</info>
+    </weapon>
+    <weapon id="2101">
+      <name>Карта в упаковке</name>
+      <info>Запечатанная карта. Используйте чтобы получить с большой вероятностью белую карту или с малой вероятностью зеленую или синюю.</info>
+    </weapon>
+    <weapon id="2102">
+      <name>Белая карта</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2103">
+      <name>Зелёная карта</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2104">
+      <name>Синяя карта</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2105">
+      <name>Фиолетовая карта</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2106">
+      <name>Золотая  карта</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2107">
+      <name>Пустая карта</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2108">
+      <name>Карта кальмара</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2109">
+      <name>Карта рака</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2110">
+      <name>Карта травы</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2111">
+      <name>Карта живца</name>
+      <info>Коллекционная карта</info>
     </weapon>
   </weapons>
 </wpnlang>

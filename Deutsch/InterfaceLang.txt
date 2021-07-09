@@ -1,5 +1,6 @@
 ﻿[INTERFACE]
-
+cntx_clear=Löschen
+--------------------
 unr_nametime=Vor der Namensänderung:
 unr_namecapt=Neuer Charaktername
 unr_namehint=Der Name muss aus mindestens 3-16 Zeichen bestehen, Sonderzeichen werden entfernt.

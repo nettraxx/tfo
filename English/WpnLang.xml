@@ -235,29 +235,29 @@
       </par3>
     </type>
     <type id="41" name="Casting rod">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к дальности заброса в %</par3>
+      <par1></par1>
+      <par2></par2>
+      <par3></par3>
     </type>
     <type id="42" name="Flyfishing rod">
-      <par1>Грузоподъемность в кг</par1>
-      <par2>Длина удилища в метрах</par2>
-      <par3>Бонус к точности заброса в %</par3>
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
     </type>
     <type id="43" name="Multiplicator reel">
-      <par1>усиление катушки</par1>
+      <par1></par1>
       <par2>??</par2>
-      <par3>Фрикцион</par3>
+      <par3>??</par3>
     </type>
     <type id="44" name="Inercial reel">
-      <par1>усиление катушки</par1>
-      <par2>&gt;??</par2>
-      <par3>Фрикцион</par3>
+      <par1></par1>
+      <par2>??</par2>
+      <par3></par3>
     </type>
     <type id="45" name="Лодка">
-      <par1>&gt;??</par1>
-      <par2>&gt;??</par2>
-      <par3>&gt;??</par3>
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
     </type>
     <type id="46" name="Лодочный мотор">
       <par1>??</par1>
@@ -284,6 +284,12 @@
       <par2>??</par2>
       <par3>??</par3>
     </type>
+	
+    <type id="51" name="Collection">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>		
   </wpntypes>
   <weapons>
     <comment>Items and types descriptions Eng</comment>
@@ -5700,6 +5706,108 @@ Adapted for jerking</info>
     <weapon id="2087">
       <name>TopW cockchafer-5g</name>
       <info>Wobbler in the form of a cockchafer</info>
+    </weapon>	
+	
+    <weapon id="2088">
+      <name>Worm Card </name>
+      <info>Your worm is sharpening your heart</info>
+    </weapon>
+    <weapon id="2089">
+      <name>Clam Card</name>
+      <info>Simple oysters lie in the same places</info>
+    </weapon>
+    <weapon id="2090">
+      <name>Night crawler Card</name>
+      <info>Every worm wants to become a dragon</info>
+    </weapon>
+    <weapon id="2091">
+      <name>Dragonfly Card</name>
+      <info>The dragonfly sang all summer</info>
+    </weapon>
+    <weapon id="2092">
+      <name>Lump Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2093">
+      <name>Box Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2094">
+      <name>Angler Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2095">
+      <name>Tournament Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2096">
+      <name>Storekeeper</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2097">
+      <name>Richman Card</name>
+      <info>A rich man does not recognize a friend</info>
+    </weapon>
+    <weapon id="2098">
+      <name>Supply  Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2099">
+      <name>Floats Card</name>
+      <info>A fisherman has eyes on a float</info>
+    </weapon>
+    <weapon id="2100">
+      <name>Shrimp Card</name>
+      <info>A sleeping shrimp is carried away by the current</info>
+    </weapon>
+    <weapon id="2101">
+      <name>Sealed card</name>
+      <info>A sealed card. Use it to get a white card with a high probability or a green or blue card with a low probability.</info>
+    </weapon>
+    <weapon id="2102">
+      <name>White Card</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2103">
+      <name>Green Card</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2104">
+      <name>Blue Card</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2105">
+      <name>Fiolet Card</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2106">
+      <name>Gold  Card</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2107">
+      <name>Empty карта</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2108">
+      <name>Squid cart</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2109">
+      <name>Crayfish card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2110">
+      <name>Grass card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2111">
+      <name>Livebait card</name>
+      <info>collectible card</info>
     </weapon>	
   </weapons>
 </wpnlang>

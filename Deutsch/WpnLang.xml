@@ -284,6 +284,11 @@
       <par2>??</par2>
       <par3>??</par3>
     </type>
+    <type id="51" name="Sammlung">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
   </wpntypes>
   <weapons>
     <comment>Items and types descriptions Eng</comment>
@@ -5707,6 +5712,107 @@ Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
     <weapon id="2087">
       <name>TopW Maikäfers-5g</name>
       <info>Wobbler in Form eines Maikäfers</info>
-    </weapon>		
+    </weapon>
+    <weapon id="2088">
+      <name>Wurmkarte</name>
+      <info>Dein Wurm schärft dein Herz</info>
+    </weapon>
+    <weapon id="2089">
+      <name>Muschelkarte</name>
+      <info>Einfache Austern sind an den gleichen Orten</info>
+    </weapon>
+    <weapon id="2090">
+      <name>Tauwurmkarte</name>
+      <info>Jeder Wurm möchte ein Drache werden</info>
+    </weapon>
+    <weapon id="2091">
+      <name>Libellenkarte</name>
+      <info>Die Libelle hat den ganzen Sommer gesungen</info>
+    </weapon>
+    <weapon id="2092">
+      <name>Schlammkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2093">
+      <name>Boxkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2094">
+      <name>Fischerkarte</name>
+      <info>Sammelkarten</info>
+    </weapon>
+    <weapon id="2095">
+      <name>Turnierkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2096">
+      <name>Lageristenkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2097">
+      <name>Reicher Mann Karte</name>
+      <info>Ein reicher Mann erkennt seinen Freund nicht</info>
+    </weapon>
+    <weapon id="2098">
+      <name>Versorgungskarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2099">
+      <name>Schwimmerkarte</name>
+      <info>Der Fischer hat den Schwimmer im Blick</info>
+    </weapon>
+    <weapon id="2100">
+      <name>Garnelenkarte</name>
+      <info>Schlafende Garnelen werden vom Strom mitgerissen</info>
+    </weapon>
+    <weapon id="2101">
+      <name>Karte im Paket</name>
+      <info>Versiegelte Karte. Verwenden Sie sie, um eine weiße Karte mit hoher Wahrscheinlichkeit oder eine grüne oder blaue Karte mit niedriger Wahrscheinlichkeit zu erhalten.</info>
+    </weapon>
+    <weapon id="2102">
+      <name>Weiße Karte</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2103">
+      <name>Grüne Karte</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2104">
+      <name>Blaue Karte</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2105">
+      <name>Lila Karte</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2106">
+      <name>Goldene Karte</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2107">
+      <name>Leere Karte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2108">
+      <name>Tintenfischkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2109">
+      <name>Krebskarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2110">
+      <name>Graserkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2111">
+      <name>Lebendköderkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>	
   </weapons>
 </wpnlang>
