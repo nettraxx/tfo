@@ -5809,5 +5809,49 @@ Adapted for jerking</info>
       <name>Livebait card</name>
       <info>collectible card</info>
     </weapon>	
+	
+
+    <weapon id="2112">
+      <name>Frog card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2113">
+      <name>Карта пиявки</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2114">
+      <name>Wealth card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2115">
+      <name>Bundle Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2116">
+      <name>Caviar card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2117">
+      <name>Bundle Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2118">
+      <name>Bundle Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2119">
+      <name>Bundle Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2120">
+      <name>Bundle Card</name>
+      <info>collectible card</info>
+    </weapon>
+    <weapon id="2121">
+      <name>Bundle Card</name>
+      <info>collectible card</info>
+    </weapon>	
+	
+	
   </weapons>
 </wpnlang>

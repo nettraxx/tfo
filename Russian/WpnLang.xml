@@ -5287,5 +5287,45 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <name>Карта живца</name>
       <info>Коллекционная карта</info>
     </weapon>
+    <weapon id="2112">
+      <name>Карта лягушки</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2113">
+      <name>Карта пиявки</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2114">
+      <name>Карта богатства</name>
+      <info>У рыбака глаза на поплавке</info>
+    </weapon>
+    <weapon id="2115">
+      <name>Карта связки</name>
+      <info>Рыбак рыбака</info>
+    </weapon>
+    <weapon id="2116">
+      <name>Карта икры</name>
+      <info>Коллекционная карта</info>
+    </weapon>
+    <weapon id="2117">
+      <name>Карта связки</name>
+      <info>Рыбак рыбака</info>
+    </weapon>
+    <weapon id="2118">
+      <name>Карта связки</name>
+      <info>Рыбак рыбака</info>
+    </weapon>
+    <weapon id="2119">
+      <name>Карта связки</name>
+      <info>Рыбак рыбака</info>
+    </weapon>
+    <weapon id="2120">
+      <name>Карта связки</name>
+      <info>Рыбак рыбака</info>
+    </weapon>
+    <weapon id="2121">
+      <name>Карта связки</name>
+      <info>Рыбак рыбака</info>
+    </weapon>
   </weapons>
 </wpnlang>

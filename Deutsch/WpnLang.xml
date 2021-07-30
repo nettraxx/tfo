@@ -5813,6 +5813,46 @@ Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
     <weapon id="2111">
       <name>Lebendköderkarte</name>
       <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2112">
+      <name>Froschkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2113">
+      <name>Blutegelkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2114">
+      <name>Reichtumskarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2115">
+      <name>Bündelkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2116">
+      <name>Kaviarkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2117">
+      <name>Bündelkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2118">
+      <name>Bündelkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2119">
+      <name>Bündelkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2120">
+      <name>Bündelkarte</name>
+      <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2121">
+      <name>Bündelkarte</name>
+      <info>Sammelkarte</info>
     </weapon>	
   </weapons>
 </wpnlang>
