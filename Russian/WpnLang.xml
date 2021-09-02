@@ -5031,13 +5031,13 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
 с защитой от солёной воды</info>
     </weapon>
     <weapon id="2052">
-      <name>TForce SCast-75</name>
-      <info>Передаточное число 4.2:1
+      <name>TForce SCast-50</name>
+      <info>Передаточное число 4.0:1
 Фрикцион левосторонний
 С защитой от солёной воды</info>
     </weapon>
     <weapon id="2053">
-      <name>T-Force SDeep-75</name>
+      <name>T-Force SDeep-50</name>
       <info>Сверхтяжелое морское донное удилище</info>
     </weapon>
     <weapon id="2054">
@@ -5316,16 +5316,155 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <info>Рыбак рыбака</info>
     </weapon>
     <weapon id="2119">
-      <name>Карта связки</name>
+      <name>Карта связки икры</name>
       <info>Рыбак рыбака</info>
     </weapon>
     <weapon id="2120">
       <name>Карта связки</name>
-      <info>Рыбак рыбака</info>
+      <info>Удочка в руке. Чуть коснулась лески Летняя луна.</info>
     </weapon>
     <weapon id="2121">
       <name>Карта связки</name>
       <info>Рыбак рыбака</info>
+    </weapon>
+    <weapon id="2122">
+      <name>T-Force SDeep-55</name>
+      <info>Сверхтяжелое морское донное удилище</info>
+    </weapon>
+    <weapon id="2123">
+      <name>T-Force SDeep-60</name>
+      <info>Сверхтяжелое морское донное удилище</info>
+    </weapon>
+    <weapon id="2124">
+      <name>T-Force SDeep-65</name>
+      <info>Сверхтяжелое морское донное удилище</info>
+    </weapon>
+    <weapon id="2125">
+      <name>T-Force SDeep-70</name>
+      <info>Сверхтяжелое морское донное удилище</info>
+    </weapon>
+    <weapon id="2126">
+      <name>T-Force SDeep-75</name>
+      <info>Сверхтяжелое морское донное удилище</info>
+    </weapon>
+    <weapon id="2127">
+      <name>TForce SCast-55</name>
+      <info>Передаточное число 4.0:1
+Фрикцион левосторонний
+С защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2128">
+      <name>TForce SCast-60</name>
+      <info>Передаточное число 4.0:1
+Фрикцион левосторонний
+С защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2129">
+      <name>TForce SCast-65</name>
+      <info>Передаточное число 4.0:1
+Фрикцион левосторонний
+С защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2130">
+      <name>TForce SCast-70</name>
+      <info>Передаточное число 4.0:1
+Фрикцион левосторонний
+С защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2131">
+      <name>TForce SCast-75</name>
+      <info>Передаточное число 4.0:1
+Фрикцион левосторонний
+С защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2132">
+      <name>T-Force St-50</name>
+      <info>T-Force Special Sea
+с защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2133">
+      <name>T-Force St-55</name>
+      <info>T-Force Special Sea
+с защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2134">
+      <name>T-Force St-60</name>
+      <info>T-Force Special Sea
+с защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2135">
+      <name>T-Force St-65</name>
+      <info>T-Force Special Sea
+с защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2136">
+      <name>T-Force St-70</name>
+      <info>T-Force Special Sea
+с защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2137">
+      <name>T-Force Series</name>
+      <info>T-Force Special Sea
+с защитой от солёной воды</info>
+    </weapon>
+    <weapon id="2138">
+      <name>T-Force SDeep</name>
+      <info>Сверхтяжелое морское донное удилище</info>
+    </weapon>
+    <weapon id="2139">
+      <name>Морской груз</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2140">
+      <name>Морской груз-100</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2141">
+      <name>Морской груз-120</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2142">
+      <name>Морской груз-140</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2143">
+      <name>Морской груз-160</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2144">
+      <name>Морской груз-180</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2145">
+      <name>Морской груз-200</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2146">
+      <name>Морской груз-250</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2147">
+      <name>Морской груз-300</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2148">
+      <name>Осенний лист</name>
+      <info>При использовании может дать от 10 до 50 тыс опыта. 
+
+VIP не даёт бонуса.</info>
+    </weapon>
+    <weapon id="2149">
+      <name>Карта листа</name>
+      <info>Листопад</info>
     </weapon>
   </weapons>
 </wpnlang>

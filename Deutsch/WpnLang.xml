@@ -5559,17 +5559,17 @@ Sporthaken, die den Fisch nicht verletzen. Die Chance, vom Haken zu entkommen, i
     </weapon>
     <weapon id="2051">
       <name>T-Force St-75</name>
-      <info>T-Force Spezial Meer
+      <info>T-Force Special Sea
 Salzwasserbeständig</info>
     </weapon>
     <weapon id="2052">
-      <name>TForce SCast-75</name>
-      <info>Übersetzungsverhältnis 4.2:1
+      <name>TForce SCast-50</name>
+      <info>Übersetzungsverhältnis 4.0:1
 Kupplung links
 Salzwasserbeständig</info>
     </weapon>
     <weapon id="2053">
-      <name>T-Force SDeep-75</name>
+      <name>T-Force SDeep-50</name>
       <info>Schwere Grundrute zum Meeresangeln.</info>
     </weapon>
     <weapon id="2054">
@@ -5843,16 +5843,155 @@ Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
       <info>Sammelkarte</info>
     </weapon>
     <weapon id="2119">
-      <name>Bündelkarte</name>
+      <name>Kaviarkarte</name>
       <info>Sammelkarte</info>
     </weapon>
     <weapon id="2120">
       <name>Bündelkarte</name>
-      <info>Sammelkarte</info>
+      <info>Eine Angelrute in der Hand. Der Sommermond berührt gerade die Linie.</info>
     </weapon>
     <weapon id="2121">
       <name>Bündelkarte</name>
       <info>Sammelkarte</info>
+    </weapon>
+    <weapon id="2122">
+      <name>T-Force SDeep-55</name>
+      <info>Extra schwere Meeresgrundrute</info>
+    </weapon>
+    <weapon id="2123">
+      <name>T-Force SDeep-60</name>
+      <info>Extra schwere Meeresgrundrute</info>
+    </weapon>
+    <weapon id="2124">
+      <name>T-Force SDeep-65</name>
+      <info>Extra schwere Meeresgrundrute</info>
+    </weapon>
+    <weapon id="2125">
+      <name>T-Force SDeep-70</name>
+      <info>Extra schwere Meeresgrundrute</info>
+    </weapon>
+    <weapon id="2126">
+      <name>T-Force SDeep-75</name>
+      <info>Extra schwere Meeresgrundrute</info>
+    </weapon>
+    <weapon id="2127">
+      <name>TForce SCast-55</name>
+      <info>Übersetzungsverhältnis 4.0:1
+Kupplung links
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2128">
+      <name>TForce SCast-60</name>
+      <info>Übersetzungsverhältnis 4.0:1
+Kupplung links
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2129">
+      <name>TForce SCast-65</name>
+      <info>Übersetzungsverhältnis 4.0:1
+Kupplung links
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2130">
+      <name>TForce SCast-70</name>
+      <info>Übersetzungsverhältnis 4.0:1
+Kupplung links
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2131">
+      <name>TForce SCast-75</name>
+      <info>Übersetzungsverhältnis 4.0:1
+Kupplung links
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2132">
+      <name>T-Force St-50</name>
+      <info>T-Force Special Sea
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2133">
+      <name>T-Force St-55</name>
+      <info>T-Force Special Sea
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2134">
+      <name>T-Force St-60</name>
+      <info>T-Force Special Sea
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2135">
+      <name>T-Force St-65</name>
+      <info>T-Force Special Sea
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2136">
+      <name>T-Force St-70</name>
+      <info>T-Force Special Sea
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2137">
+      <name>T-Force Series</name>
+      <info>T-Force Special Sea
+Salzwasserbeständig</info>
+    </weapon>
+    <weapon id="2138">
+      <name>T-Force SDeep</name>
+      <info>Extra schwere Meeresgrundrute</info>
+    </weapon>
+    <weapon id="2139">
+      <name>Seefracht</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2140">
+      <name>Seefracht-100</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2141">
+      <name>Seefracht-120</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2142">
+      <name>Seefracht-140</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2143">
+      <name>Seefracht-160</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2144">
+      <name>Seefracht-180</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2145">
+      <name>Seefracht-200</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2146">
+      <name>Seefracht-250</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2147">
+      <name>Seefracht-300</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2148">
+      <name>Herbstlaub</name>
+      <info>Wenn sie es benutzen, kann es zwischen 10.000 und 50.000 Erfahrungen bringen. 
+
+Bei VIP gibt es keinen Bonus dazu.</info>
+    </weapon>
+    <weapon id="2149">
+      <name>Blattkarte</name>
+      <info>Flugblatt</info>
     </weapon>	
   </weapons>
 </wpnlang>

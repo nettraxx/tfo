@@ -5557,7 +5557,7 @@ Left-hand
 Salt water resistant</info>
     </weapon>
     <weapon id="2053">
-      <name>T-Force SDeep-75</name>
+      <name>T-Force SDeep-50</name>
       <info>Super Heavy Sea Bottom Rod</info>
     </weapon>
     <weapon id="2054">
@@ -5852,6 +5852,144 @@ Adapted for jerking</info>
       <info>collectible card</info>
     </weapon>	
 	
-	
+	    <weapon id="2122">
+      <name>T-Force SDeep-55</name>
+      <info>Super-heavy marine bottom rod</info>
+    </weapon>
+    <weapon id="2123">
+      <name>T-Force SDeep-60</name>
+      <info>Super-heavy marine bottom rod</info>
+    </weapon>
+    <weapon id="2124">
+      <name>T-Force SDeep-65</name>
+      <info>Super-heavy marine bottom rod</info>
+    </weapon>
+    <weapon id="2125">
+      <name>T-Force SDeep-70</name>
+      <info>Super-heavy marine bottom rod</info>
+    </weapon>
+    <weapon id="2126">
+      <name>T-Force SDeep-75</name>
+      <info>Super-heavy marine bottom rod</info>
+    </weapon>
+    <weapon id="2127">
+      <name>TForce SCast-55</name>
+      <info>Gear ratio 4.0:1
+Left-hand clutch
+With protection from salt water</info>
+    </weapon>
+    <weapon id="2128">
+      <name>TForce SCast-60</name>
+      <info>Gear ratio 4.0:1
+Left-hand clutch
+With protection from salt water</info>
+    </weapon>
+    <weapon id="2129">
+      <name>TForce SCast-65</name>
+      <info>Gear ratio 4.0:1
+Left-hand clutch
+With protection from salt water</info>
+    </weapon>
+    <weapon id="2130">
+      <name>TForce SCast-70</name>
+      <info>Gear ratio 4.0:1
+Left-hand clutch
+With protection from salt water</info>
+    </weapon>
+    <weapon id="2131">
+      <name>TForce SCast-75</name>
+      <info>Gear ratio 4.0:1
+Left-hand clutch
+With protection from salt water</info>
+    </weapon>
+    <weapon id="2132">
+      <name>T-Force St-50</name>
+      <info>T-Force Special Sea
+protection from salt water</info>
+    </weapon>
+    <weapon id="2133">
+      <name>T-Force St-55</name>
+      <info>T-Force Special Sea
+protection from salt water</info>
+    </weapon>
+    <weapon id="2134">
+      <name>T-Force St-60</name>
+      <info>T-Force Special Sea
+protection from salt water</info>
+    </weapon>
+    <weapon id="2135">
+      <name>T-Force St-65</name>
+      <info>T-Force Special Sea
+protection from salt water</info>
+    </weapon>
+    <weapon id="2136">
+      <name>T-Force St-70</name>
+      <info>T-Force Special Sea
+protection from salt water</info>
+    </weapon>
+    <weapon id="2137">
+      <name>T-Force Series</name>
+      <info>T-Force Special Sea
+protection from salt water</info>
+    </weapon>
+    <weapon id="2138">
+      <name>T-Force SDeep</name>
+      <info>Super-heavy marine bottom rod</info>
+    </weapon>
+    <weapon id="2139">
+      <name>Sea bottom weight</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2140">
+      <name>weight-100</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2141">
+      <name>weight-120</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2142">
+      <name>weight-140</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2143">
+      <name>weight-160</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2144">
+      <name>weight-180</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2145">
+      <name>weight-200</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2146">
+      <name>weight-250</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2147">
+      <name>weight-300</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2148">
+      <name>Autumn leaf</name>
+      <info>When used, it can give from 10 to 50 thousand experience. 
+
+VIP does not give a bonus.</info>
+    </weapon>
+    <weapon id="2149">
+      <name>Leaf card</name>
+      <info>Leaf fall</info>
+    </weapon>
   </weapons>
 </wpnlang>
