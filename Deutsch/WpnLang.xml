@@ -289,6 +289,11 @@
       <par2>??</par2>
       <par3>??</par3>
     </type>
+    <type id="52" name="Meeresrute">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>		
   </wpntypes>
   <weapons>
     <comment>Items and types descriptions Eng</comment>
@@ -5992,6 +5997,38 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     <weapon id="2149">
       <name>Blattkarte</name>
       <info>Flugblatt</info>
-    </weapon>	
+    </weapon>
+    <weapon id="2150">
+      <name>Titanvorfach 49,2 kg</name>
+      <info>Titanvorfach für große Raubfische</info>
+    </weapon>
+    <weapon id="2151">
+      <name>Titanvorfach 54,1 kg</name>
+      <info>Titanvorfach für große Raubfische</info>
+    </weapon>
+    <weapon id="2152">
+      <name>Titanvorfach 59,5 kg</name>
+      <info>Titanvorfach für große Raubfische</info>
+    </weapon>
+    <weapon id="2153">
+      <name>Titanvorfach 64,2 kg</name>
+      <info>Titanvorfach für große Raubfische</info>
+    </weapon>
+    <weapon id="2154">
+      <name>Titanvorfach 69,6 kg</name>
+      <info>Titanvorfach für große Raubfische</info>
+    </weapon>
+    <weapon id="2155">
+      <name>Titanvorfach 74,3 kg</name>
+      <info>Titanvorfach für große Raubfische</info>
+    </weapon>
+    <weapon id="2156">
+      <name>Ein Haufen lebender Köder</name>
+      <info>Mehrere Lebendköder im Meer, die einen Fischschwarm imitieren</info>
+    </weapon>
+    <weapon id="2157">
+      <name>Gummy Makk red</name>
+      <info>Gummischlauch Gummy Makk zum Hochseefischen</info>
+    </weapon>		
   </weapons>
 </wpnlang>

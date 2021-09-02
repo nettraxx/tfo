@@ -1,4 +1,13 @@
-Patch 1.58
+Patch 1.58.1
+Vorfächer aus Titan zum Fang großer Raubfische wurden in den Verkauf aufgenommen
+Gummy Makk Gummipfähle zum Meeresangeln auf Kabeljau (und nicht nur) wurden zum Verkauf hinzugefügt
+Ein Rezept zum Herstellen eines Bündels mit Meeresködern wurde dem Handwerk hinzugefügt
+Fehler beim Beißen bei neuen Ruten behoben
+Falsches Biegen der Rute behoben
+Unnötig langsame Dynamik der Rute behoben
+Die Möglichkeit, ein Trempel an einem Meeresbodengerät zu installieren, wurde behoben
+
+Patch 1.58.0
 Veranstaltung "Laubfall"
 bis zum 12. September, fangen Sie Sammelkarten von Herbstblättern, um eine Menge zusätzlicher Erfahrung beim Sammeln einer Sammlung zu erhalten. Dies ist besonders wichtig für diejenigen, die noch nicht Stufe 40 erreicht haben.
 In Norwegen wurde eine neue Art von Ausrüstung in die Geschäfte aufgenommen - "superschwere Meeresbodenausrüstung".

@@ -289,6 +289,12 @@
       <par1>??</par1>
       <par2>??</par2>
       <par3>??</par3>
+    </type>	
+
+    <type id="52" name="Sea weighted rod">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
     </type>		
   </wpntypes>
   <weapons>
@@ -5991,5 +5997,39 @@ VIP does not give a bonus.</info>
       <name>Leaf card</name>
       <info>Leaf fall</info>
     </weapon>
+	
+    <weapon id="2150">
+      <name>Titanium leader 49,2 kg</name>
+      <info>Titanium leader for large predatory fish</info>
+    </weapon>
+    <weapon id="2151">
+      <name>Titanium leader 54,1 kg</name>
+      <info>Titanium leader for large predatory fish</info>
+    </weapon>
+    <weapon id="2152">
+      <name>Titanium leader 59,5 kg</name>
+      <info>Titanium leader for large predatory fish</info>
+    </weapon>
+    <weapon id="2153">
+      <name>Titanium leader 64,2 kg</name>
+      <info>Titanium leader for large predatory fish</info>
+    </weapon>
+    <weapon id="2154">
+      <name>Titanium leader 69,6 kg</name>
+      <info>Titanium leader for large predatory fish</info>
+    </weapon>
+    <weapon id="2155">
+      <name>Titanium leader 74,3 kg</name>
+      <info>Titanium leader for large predatory fish</info>
+    </weapon>
+    <weapon id="2156">
+      <name>Bunch of live bait</name>
+      <info>Several sea livebaits imitating a fish flock</info>
+    </weapon>
+    <weapon id="2157">
+      <name>Gummy Makk red</name>
+      <info>Rubber Tube Gummy Makk Used for Sea Fishing</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

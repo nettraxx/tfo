@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+wptypesea=Meeresgrund
+--------------------
 cntx_clear=Löschen
 --------------------
 unr_nametime=Vor der Namensänderung:
