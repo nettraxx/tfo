@@ -34,7 +34,7 @@
 15_Name=Atom: Wasteland
 16_Name=Siberia: Enisey
 17_Name=GB Scotland: Loch Maro
-
+19_Name=Russia: r. Pechora
 100_Name=Angler house
 
 
