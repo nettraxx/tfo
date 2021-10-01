@@ -1,4 +1,16 @@
 ﻿[INTERFACE]
+impr_wpn1=◆ Improvable item
+impr_wpn2=◆ Improvable upon reaching the grand master
+impr_wpn3=◆ Currency of improvement: 
+
+rasbwpn1=First disassemble the fishing rod
+rasbwpn2=Remove the item
+wptypesea=Sea bottom rod
+
+--------------------
+
+
+
 cntx_clear=Clear
 --------------------
 unr_nametime=Time left:

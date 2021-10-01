@@ -500,3 +500,6 @@ type_122=Silber
 
 551_Name=Blauer Katzenwels
 551_Latn=Ictalurus furcatus
+
+552_Name=Weißer Seelachs
+552_Latn=Salmo salar

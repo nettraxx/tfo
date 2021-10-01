@@ -521,3 +521,6 @@ type_122=Silver
 
 551_Name=Blue Catfish
 551_Latn=Ictalurus furcatus 
+
+552_Name=Belomor salmon
+552_Latn=Salmo salar

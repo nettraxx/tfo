@@ -1,3 +1,21 @@
+Patch 1.59.0
+In diesem Herbstpatch stellen wir Ihnen den Ort "Russland: Pechora", ein kleines Fragment des großen sibirischen Flusses. 
+Dort können Sie zusätzlich zu den bereits bekannten Fischarten Weißmeerlachs (eine spezielle Unterart des Atlantischen Lachses), 
+Chir (eine eigene Unterart der Felchen) und das sibirische Neunauge fangen, aus dem Sie einen fängigen Köder herstellen können.
+● An allen Standorten wurden das Wettersystem, die Beleuchtung und die Nebelsysteme neu gestaltet. 
+Bitte beachten Sie, dass sich bei dichter Bewölkung der Beginn und das Ende der Beißzeit für tag- und nachtaktive Fische verschiebt. 
+So werden z.B. nachtaktive Arten viel früher aktiv als sonst.
+● Außerdem führt das Update eine spezielle Mechanik ein, mit der sich die Ausrüstung im Meer durch Verbesserungsmarken verbessern lässt. 
+Öffnen Sie dazu eine Rute oder Rolle der T-Force SDeep-Serie (50-60kg) und suchen Sie das Symbol in Form von zwei nach oben zeigenden Pfeilen. 
+Verwenden Sie Verbesserungsmarken, bis Ihre Ausrüstung die nächste Stufe erreicht hat. 
+Mit jeder fünften Stufe erhalten Sie eine Angelrute oder -rolle einer höheren Klasse, deren Haltbarkeit vollständig wiederhergestellt wird. 
+So kann die Angelrute und -rolle bis zu einer Stärke von 75 kg aufgewertet werden.
+● Verbesserungsmarken erhält man durch Tausch (С - Handwerkstisch), in der monatlichen Wertungsbelohnungskiste, für das Erfüllen von Quests oder durch das Zurücksetzen von Trophäenfischen ins Wasser. 
+Abhängig von der Größe der freigelassenen Trophäe und der Anzahl der einzigartigen (lila) Markierungen auf dem Fisch erhöht sich die Anzahl der erhaltenen Token.
+● Das Verhalten des Kaspischen Kutums wurde für eine typische nächtliche Lebensweise korrigiert.
+
+Viele andere, kleinere Fehlerbehebungen, Änderungen und Verbesserungen, die das Spielgeschehen nicht direkt betreffen
+
 Patch 1.58.1
 Vorfächer aus Titan zum Fang großer Raubfische wurden in den Verkauf aufgenommen
 Gummy Makk Gummipfähle zum Meeresangeln auf Kabeljau (und nicht nur) wurden zum Verkauf hinzugefügt

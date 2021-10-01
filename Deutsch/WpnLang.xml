@@ -6029,6 +6029,10 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     <weapon id="2157">
       <name>Gummy Makk red</name>
       <info>Gummischlauch Gummy Makk zum Hochseefischen</info>
-    </weapon>		
+    </weapon>
+    <weapon id="2158">
+      <name>Neunaugenlarven</name>
+      <info> </info>
+    </weapon>	
   </weapons>
 </wpnlang>

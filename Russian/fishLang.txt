@@ -513,3 +513,5 @@ type_122=Серебряная
 551_Name=Сом голубой
 551_Latn=Ictalurus furcatus (Blue Catfish)
 
+552_Name=Сёмга беломорская
+552_Latn=Salmo salar

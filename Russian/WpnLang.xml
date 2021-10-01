@@ -273,12 +273,11 @@
       <par2>??</par2>
       <par3>??</par3>
     </type>
-	
     <type id="52" name="Удилище морское донное">
       <par1>Грузоподъемность в кг</par1>
       <par2>Длина удилища в метрах</par2>
       <par3>Бонус к дальности заброса в %</par3>
-    </type>	
+    </type>
   </wpntypes>
   <weapons>
     <comment>Описание предметов и типов RU</comment>
@@ -1313,7 +1312,7 @@
     </weapon>
     <weapon id="1237">
       <name>Жетон улучшения</name>
-      <info>Повышает шансы успешного улучшения предметов</info>
+      <info>Требуется для улучшения предметов</info>
     </weapon>
     <weapon id="1238">
       <name>Костюм участника ЗБТ</name>
@@ -5314,7 +5313,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <info>Коллекционная карта</info>
     </weapon>
     <weapon id="2117">
-      <name>Карта связки</name>
+      <name>--</name>
       <info>Рыбак рыбака</info>
     </weapon>
     <weapon id="2118">
@@ -5326,7 +5325,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
       <info>Рыбак рыбака</info>
     </weapon>
     <weapon id="2120">
-      <name>Карта связки</name>
+      <name>--</name>
       <info>Удочка в руке. Чуть коснулась лески Летняя луна.</info>
     </weapon>
     <weapon id="2121">
@@ -5503,6 +5502,11 @@ VIP не даёт бонуса.</info>
     <weapon id="2157">
       <name>Норвежская ставка</name>
       <info>Каучуковая трубка Gummy Makk использующаяся для морской рыбалки</info>
+    </weapon>
+    <weapon id="2158">
+      <name>Личинка миноги</name>
+      <info>
+      </info>
     </weapon>
   </weapons>
 </wpnlang>

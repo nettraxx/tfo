@@ -6030,6 +6030,9 @@ VIP does not give a bonus.</info>
       <name>Gummy Makk red</name>
       <info>Rubber Tube Gummy Makk Used for Sea Fishing</info>
     </weapon>	
-	
+    <weapon id="2158">
+      <name>Lamprey</name>
+      <info>      </info>
+    </weapon>	
   </weapons>
 </wpnlang>

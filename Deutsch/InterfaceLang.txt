@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
-wptypesea=Meeresgrund
+impr_wpn1=◆ Verbesserbarer Gegenstand
+impr_wpn2=◆ Verbesserbar beim Erreichen des Großmeisters
+impr_wpn3=◆ Währung der Verbesserung:
+
+rasbwpn1=Zuerst die Angelrute zerlegen
+rasbwpn2=Entferne den Gegenstand
+
+--------------------
+wptypesea=Meeresgrundrute
 --------------------
 cntx_clear=Löschen
 --------------------

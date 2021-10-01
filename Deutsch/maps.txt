@@ -37,6 +37,7 @@
 16_Name=Russland: Jenissei
 17_Name=Schottland: Loch Maro
 
+19_Name=Russland: Oberes Pechora
 100_Name=Fischerhaus
 
 [LOC_NAMES]
