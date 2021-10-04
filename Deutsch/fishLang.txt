@@ -128,7 +128,7 @@ type_122=Silber
 59_Name=Seelachs
 
 61_Name=Quappe
-62_Name=Chir
+62_Name=Sandfelchen
 
 64_Name=Sibirische Äsche
 65_Name=Teichforelle

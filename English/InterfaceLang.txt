@@ -1,4 +1,17 @@
 ﻿[INTERFACE]
+
+setn_i_capt=Effects Settings
+setn_i_0=Volumetric light that creates the rays of the rising sun
+setn_i_1=Volumetric clouds. Can greatly affect performance
+setn_i_3=Flat clouds. Create a cloud cover when it rains. Reflected in the water
+setn_i_4=Can greatly affect performance
+setn_i_fog=Dynamic morning fog over the water
+setn_i_lgt=Dynamic full shadows. Can greatly affect performance
+
+--------------------
+
+
+
 impr_wpn1=◆ Improvable item
 impr_wpn2=◆ Improvable upon reaching the grand master
 impr_wpn3=◆ Currency of improvement: 

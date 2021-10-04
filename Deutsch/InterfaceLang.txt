@@ -1,4 +1,13 @@
 ﻿[INTERFACE]
+setn_i_capt=Effekteinstellungen
+setn_i_0=Volumetrisches Licht, das die Strahlen der aufgehenden Sonne erzeugt
+setn_i_1=Volumetrische Wolken. Kann die Leistung stark beeinträchtigen
+setn_i_3=Flache Wolken. Erstellen Sie eine Wolkendecke, wenn es regnet. Spiegelt sich im Wasser
+setn_i_4=Kann die Leistung stark beeinflussen
+setn_i_fog=Dynamischer Morgennebel über dem Wasser
+setn_i_lgt=Dynamische Vollschatten. Kann die Leistung stark beeinträchtigen
+
+--------------------
 impr_wpn1=◆ Verbesserbarer Gegenstand
 impr_wpn2=◆ Verbesserbar beim Erreichen des Großmeisters
 impr_wpn3=◆ Währung der Verbesserung:
