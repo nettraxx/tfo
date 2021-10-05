@@ -1,3 +1,11 @@
+Patch 1.59.1
+Offene Tests sind abgeschlossen und Version 59.1 wird jetzt zur Hauptversion. Danke an alle die an den Tests teilgenommen haben.
+Versionsänderungen:
+Helligkeit und Kontrast der Reflexionen von Wasser, Licht und Gesamtbild angepasst
+Separate Einstellungen zum Aktivieren/Deaktivieren von Himmelseffekten werden in den Spieleinstellungen vorgenommen
+Anti-Aliasing und Farbfilter wurden angepasst, DOF- und Bloom-Effekte wurden aus dem Spiel entfernt
+Allgemeine Optimierung des Spielclients
+
 Patch 1.59.0
 In diesem Herbstpatch stellen wir Ihnen den Ort "Russland: Pechora", ein kleines Fragment des großen sibirischen Flusses. 
 Dort können Sie zusätzlich zu den bereits bekannten Fischarten Weißmeerlachs (eine spezielle Unterart des Atlantischen Lachses), 

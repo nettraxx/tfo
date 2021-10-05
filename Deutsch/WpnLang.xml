@@ -1553,10 +1553,9 @@ Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.
       <info>Из дневника Stalkerа..</info>
     </weapon>
     <weapon id="1237">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Upgrade-Token</name>
+      <info>Erforderlich, um Gegenstände zu aufzuwerten</info>
+    </weapon>
     </weapon>
     <weapon id="1238">
       <name>
