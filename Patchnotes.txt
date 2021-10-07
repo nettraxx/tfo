@@ -1,3 +1,6 @@
+Patch 1.59.2
+Helligkeit bei den Grafikeinstellungen hinzugefügt
+
 Patch 1.59.1
 Offene Tests sind abgeschlossen und Version 59.1 wird jetzt zur Hauptversion. Danke an alle die an den Tests teilgenommen haben.
 Versionsänderungen:

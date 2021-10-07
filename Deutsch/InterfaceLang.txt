@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+setng_lb10=Helligkeit
+--------------------
 setn_i_capt=Effekteinstellungen
 setn_i_0=Volumetrisches Licht, das die Strahlen der aufgehenden Sonne erzeugt
 setn_i_1=Volumetrische Wolken. Kann die Leistung stark beeinträchtigen
