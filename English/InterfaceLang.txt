@@ -1,5 +1,6 @@
 ﻿[INTERFACE]
-
+setng_lb10=Brightness
+--------------------
 setn_i_capt=Effects Settings
 setn_i_0=Volumetric light that creates the rays of the rising sun
 setn_i_1=Volumetric clouds. Can greatly affect performance

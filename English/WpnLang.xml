@@ -1729,10 +1729,8 @@ To activate press right mouse button on the item and select "Use".</info>
       </info>
     </weapon>
     <weapon id="1273">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Cord</name>
+      <info>Cord for creating rigs, fixing rings, etc. </info>
     </weapon>
     <weapon id="1274">
       <name>
@@ -6034,5 +6032,19 @@ VIP does not give a bonus.</info>
       <name>Lamprey</name>
       <info>      </info>
     </weapon>	
+	
+	    <weapon id="2159">
+      <name>Trout caster card</name>
+      <info>Recipe for Bolognese Trout caster</info>
+    </weapon>
+    <weapon id="2160">
+      <name>Improvement card</name>
+      <info>Improvement is the path to perfection</info>
+    </weapon>
+    <weapon id="2161">
+      <name>lord of the flies</name>
+      <info>Recipe for flies</info>
+    </weapon>
+	
   </weapons>
 </wpnlang>

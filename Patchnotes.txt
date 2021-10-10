@@ -1,3 +1,11 @@
+Patch 1.59.3
+Die VSYNC-Einstellung wurde entfernt und stattdessen der Ziel-FPS-Schieberegler hinzugefügt.
+Sammelkarten in einem Paket können bei einer Auktion verkauft werden
+GrindMaster-V-Käfigverbesserung ist verfügbar
+Die Verbesserung der Pro Farmer-Serie ist verfügbar
+Den Sammelkarten wurde ein Rezept zur Herstellung einer Bologna-TroutСasterrute hinzugefügt
+Behebung von Fehlern mit Bäumen und Nebel auf "1000 Inseln"
+
 Patch 1.59.2
 Helligkeit bei den Grafikeinstellungen hinzugefügt
 

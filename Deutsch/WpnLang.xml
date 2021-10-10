@@ -1742,10 +1742,8 @@ Zum Aktivieren drücken Sie auf "Benutzen".</info>
       </info>
     </weapon>
     <weapon id="1273">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Kabel</name>
+      <info>Kabel zum Herstellen von Rigs, Verstärkungsringen usw.</info>
     </weapon>
     <weapon id="1274">
       <name>
@@ -5758,7 +5756,7 @@ Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
     </weapon>
     <weapon id="2098">
       <name>Versorgungskarte</name>
-      <info>Sammelkarte</info>
+      <info>Beschaffung ist die Grundlage des Erfolgs</info>
     </weapon>
     <weapon id="2099">
       <name>Schwimmerkarte</name>
@@ -6031,6 +6029,18 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     <weapon id="2158">
       <name>Neunaugenlarven</name>
       <info> </info>
+    </weapon>	
+    <weapon id="2159">
+      <name>TroutCaster-Karte</name>
+      <info>Rezept für TroutCaster Bologna</info>
+    </weapon>
+    <weapon id="2160">
+      <name>Upgrade-Karte</name>
+      <info>Verbesserung ist der Weg zur Perfektion</info>
+    </weapon>
+    <weapon id="2161">
+      <name>Herr der Fliegen</name>
+      <info>Rezept für Fliegen</info>
     </weapon>	
   </weapons>
 </wpnlang>

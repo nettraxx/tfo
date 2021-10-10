@@ -1181,7 +1181,7 @@ wpn_rem4=For repair:
 
 wpn_rec1=Recipe for creating: {0} x{1} Stk \n
 wpn_rec2=<color='#ff00ff'>Unlimited</color>\n
-wpn_rec3=Usage amount: {0},Stk\n
+wpn_rec3=Usage amount: {0} Stk\n
 wpn_rec4=Bench-tool required: {0}\n
 wpn_rec5=Profession required: <color='{0}'>{1}</color>\n
 

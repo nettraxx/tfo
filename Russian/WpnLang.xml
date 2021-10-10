@@ -1473,8 +1473,8 @@
       <info>Химическое вещество, применяющееся для создания лесок</info>
     </weapon>
     <weapon id="1273">
-      <name>Мононить</name>
-      <info>Тонкая мономолекулярная нить, применяющаяся при создании лесок</info>
+      <name>Корд</name>
+      <info>Корд для создания оснасток, укрепления колец и т.д.</info>
     </weapon>
     <weapon id="1274">
       <name>Курс "Снасти А"</name>
@@ -5233,7 +5233,7 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="2098">
       <name>Карта снабжения</name>
-      <info>Коллекционная карта</info>
+      <info>Снабжение основа успеха</info>
     </weapon>
     <weapon id="2099">
       <name>Карта поплавка</name>
@@ -5507,6 +5507,18 @@ VIP не даёт бонуса.</info>
       <name>Личинка миноги</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="2159">
+      <name>Карта Trout caster</name>
+      <info>Рецепт болонской Trout caster</info>
+    </weapon>
+    <weapon id="2160">
+      <name>Карта улучшения</name>
+      <info>Улучшение - путь к совершенсту</info>
+    </weapon>
+    <weapon id="2161">
+      <name>Карта Мушиный король</name>
+      <info>Рецепт мух</info>
     </weapon>
   </weapons>
 </wpnlang>
