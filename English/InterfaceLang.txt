@@ -1,4 +1,7 @@
 ﻿[INTERFACE]
+setlowcomp=weak computer
+--------------------
+
 setng_lb10=Brightness
 --------------------
 setn_i_capt=Effects Settings

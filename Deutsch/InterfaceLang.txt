@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+setlowcomp=Schwacher Computer
+--------------------
 setng_lb10=Helligkeit
 --------------------
 setn_i_capt=Effekteinstellungen
