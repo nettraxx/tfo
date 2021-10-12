@@ -13,7 +13,7 @@ setn_i_lgt=Dynamische Vollschatten. Kann die Leistung stark beeinträchtigen
 
 --------------------
 impr_wpn1=◆ Verbesserbarer Gegenstand
-impr_wpn2=◆ Verbesserbar beim Erreichen des Großmeisters
+impr_wpn2=◆ Verbesserbar beim Erreichen von ★ Meister
 impr_wpn3=◆ Währung der Verbesserung:
 
 rasbwpn1=Zuerst die Angelrute zerlegen
