@@ -1,3 +1,15 @@
+Patch 1.60.0
+Signifikante Veränderung der Artenpopulation
+Wildkarpfen - zusätzliche Menge, auch groß
+Wels - zusätzliche Menge, auch groß
+Hinzugefügte Ansichten:
+Graskarpfen
+Beluga (nur kleine und mittlere Größe)
+Nase
+Güster
+Flusskrebs
+Donauhering (alosa immaculata) hinzugefügt
+
 Patch 1.59.3
 Die VSYNC-Einstellung wurde entfernt und stattdessen der Ziel-FPS-Schieberegler hinzugefügt.
 Sammelkarten in einem Paket können bei einer Auktion verkauft werden

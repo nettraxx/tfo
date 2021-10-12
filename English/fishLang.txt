@@ -256,7 +256,11 @@ type_122=Silver
 369_Name = Chop
 370_Name = Shemaiah
 371_Name = Channel catfish
-372_Name = Black Sea Herring
+
+372_Name = Danuba Herring
+372_Latn = Alosa immaculata
+
+
 373_Name = Silver carp motley
 374_Name = smallmouth Buffalo
 375_Name = Halibut
