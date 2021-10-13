@@ -369,7 +369,7 @@
       <info> Einfache Rolle mit wenig Kraft.</info>
     </weapon>
     <weapon id="1016">
-      <name>Silikonwurm</name>
+      <name>Silikonwurm M0</name>
       <info>Fängig für: Aland, Baltischer Lachs, Barbe, Blauer Sonnenbarsch, Brachse, Dnepr-Barbe, Döbel, Europäischer Flusskrebs, Europäischer Wels, Europäischer Wolfsbarsch, Felsenbarsch, Flussbarsch, Flusskrebs, Forellenbarsch, Giebel, Güster, Hasel, Karausche, Kaspischer Hering, Kaspischer Kutum, Kaulbarsch, Seehecht, Quappe, Regenbogenforelle, Rotfeder, Schleie, Schuppenkarpfen, Sichling, Silberkarpfen, Spiegelkarpfen, Sterlet, Taran, Tiberbarbe, Wildkarpfen, Wobla, Zährte, Zander, Zope
       </info>
     </weapon>
@@ -4672,7 +4672,7 @@ Rollengröße 4000 und kleiner sind geeignet.
       </info>
     </weapon>
     <weapon id="1859">
-      <name>Plankton</name>
+      <name>Plankton Natur</name>
       <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
@@ -4937,37 +4937,37 @@ Teuer, aber effektiv.</info>
       </info>
     </weapon>	
     <weapon id="1914">
-      <name>Vanille</name>
+      <name>Plankton Vanille</name>
       <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
     </weapon>
     <weapon id="1915">
-      <name>Wasserflöhe</name>
+      <name>Plankton Wasserflöhe</name>
       <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
     </weapon>
     <weapon id="1916">
-      <name>Schokolade</name>
+      <name>Plankton Schokolade</name>
       <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
     </weapon>
     <weapon id="1917">
-      <name>Knoblauch</name>
+      <name>Plankton Knoblauch</name>
       <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
     </weapon>
     <weapon id="1918">
-      <name>Anis</name>
+      <name>Plankton Anis</name>
       <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
     </weapon>
     <weapon id="1919">
-      <name>Himbeere</name>
+      <name>Plankton Himbeere</name>
       <info>Technoplankton-Pellets zum Fangen von Silber- und Graskarpfen. Für die Installation an einer Angel ist ein Trempel für das Grundfischen und ein spezieller Feeder erforderlich.
 
 Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.</info>
