@@ -6042,7 +6042,7 @@ Bei VIP gibt es keinen Bonus dazu.</info>
       <name>Herr der Fliegen</name>
       <info>Rezept für Fliegen</info>
     </weapon>
-	    <weapon id="2162">
+	<weapon id="2162">
       <name>Hackfleischbrot</name>
       <info>Spezialteig zum Fangen aller Arten von Meeräschen</info>
     </weapon>
