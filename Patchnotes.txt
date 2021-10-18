@@ -1,3 +1,6 @@
+Patch 1.60.6
+Atom Event
+
 Patch 1.60.0
 Signifikante Veränderung der Artenpopulation
 Wildkarpfen - zusätzliche Menge, auch groß

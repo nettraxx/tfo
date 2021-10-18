@@ -1,5 +1,26 @@
 [INTERFACE]
 
+rclassfull_1=Ультралёгкий
+rclassfull_2=Лёгкий
+rclassfull_3=Среднелёгкий
+rclassfull_4=Средний
+rclassfull_5=Среднетяжелый
+rclassfull_6=Тяжелый
+rclassfull_7=Сверхтяжелый
+rclassfull_8=Ультратяжелый
+
+rclasshort_1=UL
+rclasshort_2=L
+rclasshort_3=ML
+rclasshort_4=M
+rclasshort_5=MH
+rclasshort_6=H
+rclasshort_7=EH
+rclasshort_8=UH
+
+--------------------
+
+
 setlowcomp=Слабый компьютер
 --------------------
 setng_lb10=Яркость

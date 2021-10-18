@@ -6033,7 +6033,7 @@ VIP does not give a bonus.</info>
       <info>      </info>
     </weapon>	
 	
-	    <weapon id="2159">
+	<weapon id="2159">
       <name>Trout caster card</name>
       <info>Recipe for Bolognese Trout caster</info>
     </weapon>
@@ -6045,6 +6045,13 @@ VIP does not give a bonus.</info>
       <name>lord of the flies</name>
       <info>Recipe for flies</info>
     </weapon>
-	
+	    <weapon id="2162">
+      <name>Minced bread</name>
+      <info>Special dough for catching all kinds of mullets</info>
+    </weapon>
+    <weapon id="2163">
+      <name>Atom bage</name>
+      <info>The currency of the Atom-event </info>
+    </weapon>
   </weapons>
 </wpnlang>

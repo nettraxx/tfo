@@ -1,4 +1,23 @@
 ﻿[INTERFACE]
+rclassfull_1=Ultralight
+rclassfull_2=Light
+rclassfull_3=Medium Light
+rclassfull_4=Medium
+rclassfull_5=Medium Heavy
+rclassfull_6=Heavy
+rclassfull_7=Extra Heavy
+rclassfull_8=Ultra Heavy
+
+rclasshort_1=UL
+rclasshort_2=L
+rclasshort_3=ML
+rclasshort_4=M
+rclasshort_5=MH
+rclasshort_6=H
+rclasshort_7=EH
+rclasshort_8=UH
+
+--------------------
 setlowcomp=Schwacher Computer
 --------------------
 setng_lb10=Helligkeit

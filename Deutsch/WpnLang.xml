@@ -485,8 +485,8 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
       </info>
     </weapon>
     <weapon id="1040">
-      <name>Fried fish</name>
-      <info>Fried fish on a stick.. I don't think this food is safe to eat. By the way, I always feel thirsty afterwards.</info>
+      <name>Gebratener Fisch</name>
+      <info>Gebratener Fisch. Ich glaube nicht, dass dieses Essen sicher ist. Übrigens habe ich danach immer Durst.</info>
     </weapon>
     <weapon id="1041">
       <name>Elektronisches Glöckchen</name>
@@ -6041,6 +6041,14 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     <weapon id="2161">
       <name>Herr der Fliegen</name>
       <info>Rezept für Fliegen</info>
+    </weapon>
+	    <weapon id="2162">
+      <name>Hackfleischbrot</name>
+      <info>Spezialteig zum Fangen aller Arten von Meeräschen</info>
+    </weapon>
+    <weapon id="2163">
+      <name>Atom Token</name>
+      <info>Die Währung des Atom-Events</info>
     </weapon>	
   </weapons>
 </wpnlang>
