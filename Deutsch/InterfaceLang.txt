@@ -1,4 +1,13 @@
 ﻿[INTERFACE]
+
+dntpck_144_name=Paket "AtomPPL"
+dntpck_144_info=Dieses Set enthält eine 22kg Atomic Style Bolognese Angelrute. Ein ungeöffnetes Set kann an einen Freund verschickt werden.
+
+
+dntpck_148_name=Paket "AtomDS"
+dntpck_148_info=Dieses Kit enthält eine 22kg Atomic Style Feederrute. Ein ungeöffnetes Set kann an einen Freund verschickt werden.
+
+--------------------
 rclassfull_1=Ultralight
 rclassfull_2=Light
 rclassfull_3=Medium Light

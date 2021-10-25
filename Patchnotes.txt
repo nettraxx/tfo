@@ -1,5 +1,13 @@
+Patch 1.61.0
+Atomare Woche
+Vom 25. bis 31. Oktober findet im Spiel eine Veranstaltung statt, die dem Geburtstag des Spiels gewidmet ist.
+Tägliche Event-Aufgaben sind auf vielen anfänglichen Basen verfügbar, nach deren Abschluss sind Event-Token die Belohnung. Für sie können Sie ein Ticket zu einer besonderen Eventlocation „Atom: Wastelands“ erwerben.
+Begeben Sie sich in das Ödland und fangen Sie apokalyptische Mutanten und nicht nur die. In den Aufgaben warten gute Belohnungen auf dich, und spezielle Event-Sets und andere einzigartige Gegenstände sind im Location-Shop erhältlich. Für diejenigen, die Event-Kits für echtes Geld kaufen möchten - sie sind auch im Donat-Shop des Spiels erhältlich.
+
+Danke, dass Sie schon zwei Jahre bei uns sind!
+
 Patch 1.60.6
-Atom Event
+Atom Event Vorbereitung
 
 Patch 1.60.0
 Signifikante Veränderung der Artenpopulation

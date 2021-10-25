@@ -6053,5 +6053,49 @@ VIP does not give a bonus.</info>
       <name>Atom bage</name>
       <info>The currency of the Atom-event </info>
     </weapon>
+	
+    <weapon id="2164">
+      <name>АтомPPL</name>
+      <info>Float Bologna rod in the style of an Atom</info>
+    </weapon>
+    <weapon id="2165">
+      <name>AtomLine-22</name>
+      <info>Леска в атомном стиле</info>
+    </weapon>
+    <weapon id="2166">
+      <name>Leader 21,5 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2167">
+      <name>Atom A-Spin 22</name>
+      <info>Spinning in atomic design</info>
+    </weapon>
+    <weapon id="2168">
+      <name>Atom RSL-35</name>
+      <info>Gear ratio 5.0:1
+Number of bearings 3
+Front friction</info>
+    </weapon>
+    <weapon id="2169">
+      <name>Atom float</name>
+      <info>Homemade float in the atom style.
+</info>
+    </weapon>
+    <weapon id="2170">
+      <name>АтомDS</name>
+      <info>Feeder rod in atomic style</info>
+    </weapon>
+    <weapon id="2171">
+      <name>Kit AtomPPL</name>
+      <info>The kit contains a Bologna fishing rod, a reel, a 22 kg fishing line in the Atom style. +leash and float</info>
+    </weapon>
+    <weapon id="2172">
+      <name>Kit AtomDS</name>
+      <info>The kit contains a feeder rod, a reel, a 22 kg fishing line in the Atom style. +leash and feeder</info>
+    </weapon>
+	
+	
+	
   </weapons>
 </wpnlang>

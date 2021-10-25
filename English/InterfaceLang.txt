@@ -1,5 +1,14 @@
 ﻿[INTERFACE]
 
+dntpck_144_name=Package "AtomPPL"
+dntpck_144_info=The kit contains bologna fishing rod for 22kg in atomic style. An unopened set can be passed to a friend..
+
+
+dntpck_148_name=Package "AtomDS"
+dntpck_148_info=The kit contains a 22kg feeder rod in atomic style. An unopened set can be passed to a friend.
+
+--------------------
+
 rclassfull_1=Ultralight
 rclassfull_2=Light
 rclassfull_3=Medium light

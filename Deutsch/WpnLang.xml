@@ -6049,6 +6049,45 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     <weapon id="2163">
       <name>Atom Token</name>
       <info>Die Währung des Atom-Events</info>
+    </weapon>
+    <weapon id="2164">
+      <name>AtomPPL</name>
+      <info>Bolognese-Rute im Atom-Stil</info>
+    </weapon>
+    <weapon id="2165">
+      <name>AtomLine-22</name>
+      <info>Angelschnur im Atomic-Stil</info>
+    </weapon>
+    <weapon id="2166">
+      <name>Vorfach 21,5 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2167">
+      <name>Atom A-Spin 22</name>
+      <info>Spinnrute im Atom-Stil</info>
+    </weapon>
+    <weapon id="2168">
+      <name>Atom RSL-35</name>
+      <info>Übersetzungsverhältnis 5,0:1
+Anzahl der Lager 2
+Kupplung vorne</info>
+    </weapon>
+    <weapon id="2169">
+      <name>Atom-Float</name>
+      <info>Hausgemachter Schwimmer im Atom-Stil.</info>
+    </weapon>
+    <weapon id="2170">
+      <name>AtomDS</name>
+      <info>Feederrute im Atomic-Stil.</info>
+    </weapon>
+    <weapon id="2171">
+      <name>AtomPPL-Kit</name>
+      <info>Das Set enthält eine Bolognese-Angelrute, eine Rolle, eine 22 kg Schnur im Atom-Stil. + Vorfach und Schwimmer</info>
+    </weapon>
+    <weapon id="2172">
+      <name>AtomDS-Kit</name>
+      <info>Das Set enthält eine Feederrute, eine Rolle, eine 22 kg Schnur im Atom Stil. + Vorfach und Futterkorb</info>
     </weapon>	
   </weapons>
 </wpnlang>

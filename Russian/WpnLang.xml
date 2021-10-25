@@ -5528,5 +5528,45 @@ VIP не даёт бонуса.</info>
       <name>Атомный жетон</name>
       <info>Валюта проведения ивента "Атом"</info>
     </weapon>
+    <weapon id="2164">
+      <name>АтомPPL</name>
+      <info>Поплавочное болонское удилище в стиле Атома</info>
+    </weapon>
+    <weapon id="2165">
+      <name>AtomLine-22</name>
+      <info>Леска в атомном стиле</info>
+    </weapon>
+    <weapon id="2166">
+      <name>Поводок 21,5 кг</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2167">
+      <name>Atom A-Spin 22</name>
+      <info>Спиннинг в атомном оформлении</info>
+    </weapon>
+    <weapon id="2168">
+      <name>Atom RSL-35</name>
+      <info>Передаточное число 5.0:1
+Количество подшипников 2
+Фрикцион передний</info>
+    </weapon>
+    <weapon id="2169">
+      <name>Atom поплавок</name>
+      <info>Самодельный поплавок в стиле атом.
+</info>
+    </weapon>
+    <weapon id="2170">
+      <name>АтомDS</name>
+      <info>Фидерное удилище в атомном стиле</info>
+    </weapon>
+    <weapon id="2171">
+      <name>Комплект AtomPPL</name>
+      <info>Комплект содержит болонскую удочку, катушку, леску на 22 кг в стиле Атом. +поводок и поплавок</info>
+    </weapon>
+    <weapon id="2172">
+      <name>Комплект AtomDS</name>
+      <info>Комплект содержит фидерную удочку, катушку, леску на 22 кг в стиле Атом. +поводок и кормушка</info>
+    </weapon>
   </weapons>
 </wpnlang>

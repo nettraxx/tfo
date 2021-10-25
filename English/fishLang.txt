@@ -152,7 +152,7 @@ type_122=Silver
 83_Name = Amur Phoxinus
 84_Name = Narrow Crayfish
 85_Name = Gnawed shoe
-86_Name = Slingshot
+86_Name = Chinese Sleeper
 87_Name = Grass goby
 88_Name = brook trout
 89_Name = Vimba
@@ -328,7 +328,7 @@ type_122=Silver
 438_Name = Ice sturgeon
 439_Name = Ice Dragon
 440_Name = Auha
-441_Name = snakehead
+441_Name = Snakehead
 442_Name = Gorbushka off
 443_Name = Mongolian Krasnoperov
 444_Name = Troegubov
@@ -528,3 +528,6 @@ type_122=Silver
 
 552_Name=Belomor salmon
 552_Latn=Salmo salar
+
+553_Name=Koi red
+553_Latn=Cyprinus rubrofuscus

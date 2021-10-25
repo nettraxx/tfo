@@ -150,7 +150,7 @@ type_122=Silber
 83_Name=Elritze
 84_Name=Flusskrebs
 85_Name=Zernagter Schuh
-86_Name=Schleuder
+86_Name=Amurgrundel
 87_Name=Schläfergrundel
 88_Name=Bachforelle
 89_Name=Zährte
@@ -503,3 +503,6 @@ type_122=Silber
 
 552_Name=Weißer Seelachs
 552_Latn=Salmo salar
+
+553_Name=Amur Koikarpfen
+553_Latn=Cyprinus rubrofuscus
