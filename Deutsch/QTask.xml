@@ -13,7 +13,13 @@
 	info_2="" 
 	info_3="" 
 	info_4="Die Trophäe wird für den Geburtstag des Spiels vergeben."/>      
-
+  
+ 	<tr id="12" shortname="Trophäe|«2 Jahre»" name="Trophäe|«2 Jahre»" 
+	info_1="" 
+	info_2="" 
+	info_3="" 
+	info_4="Die Trophäe wird für den Geburtstag des Spiels vergeben."/>      
+ 
 	<tr id="100" shortname="Trophäe|«[IDNAME]»" name="Trophäe «[IDNAME]»" 
 	info_1="Trophäe wird für die Teilnahme an die zehn besten Spieler des Turniers vergeben. «[IDNAME]»" 
 	info_2="Die Trophäe wird für den dritten Platz im Turnier vergeben. «[IDNAME]»||Die Leute erkennen dich auf der Straße!" 

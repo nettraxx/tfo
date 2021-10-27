@@ -16,6 +16,15 @@
 	info_3="" 
 	info_4="The trophy is awarded for celebrating the game's birthday"/>      
   
+ 	<tr id="12" shortname="Trophy|«2 years»" name="Trophy «2 years»" 
+	info_1="" 
+	info_2="" 
+	info_3="" 
+	info_4="The trophy is awarded for celebrating the game's birthday"/>      
+  
+  
+  
+  
 	<tr id="100" shortname="Trophy|«[IDNAME]»" name="Trophy «[IDNAME]»" 
 	info_1="Trophy is awarded for entering the top ten players of the tournament «[IDNAME]»" 
 	info_2="The trophy is awarded for the third place in the tournament «[IDNAME]»||People start to recognize you on the streets" 
