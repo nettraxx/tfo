@@ -1,3 +1,8 @@
+Patch 1.61.1
+Jeder, der am Standort Atom mindestens einen Fisch fängt, erhält eine Erinnerungsmedaille des Events
+Korrektur des Modells und der Texturen von Eventruten "Atom"
+Korrekturen der Spieloberfläche - Inventar, Laden
+
 Patch 1.61.0
 Atomare Woche
 Vom 25. bis 31. Oktober findet im Spiel eine Veranstaltung statt, die dem Geburtstag des Spiels gewidmet ist.

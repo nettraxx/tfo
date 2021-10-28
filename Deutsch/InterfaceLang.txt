@@ -949,7 +949,7 @@ gi_usei=Used:
 #Added 01.10.2017
 #------------------------------------
 gi_inte_1=Loot catching chance (from the initial) {0}%
-gi_inte_2=Receiving experience  {0}%
+gi_inte_2=Receiving experience {0}%
 gi_inte_3=Skills experience {0}%
 gi_inte_4=Draught power {0}
 gi_inte_5=Max fish weight allowed {0}
