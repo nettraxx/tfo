@@ -1,5 +1,8 @@
 ﻿[INTERFACE]
 
+boat_inf9=Rudern [J]\nAuf/Ab Anker [K]
+--------------------
+
 dntpck_144_name=Paket "AtomPPL"
 dntpck_144_info=Dieses Kit enthält eine 22kg Atomic Style Bolognese Angelrute. Ein ungeöffnetes Set kann an einen Freund verschickt werden.
 

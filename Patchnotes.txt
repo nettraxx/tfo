@@ -1,3 +1,25 @@
+Patch 1.62.0
+Ort "Fluss Pechora" - das Gelände wurde erweitert, neue Angelpunkte wurden hinzugefügt, schnelle Bewegungspunkte wurden hinzugefügt, wenn es eine Bronze- oder Silbermedaille des Ortes gibt
+Fundort "Fluss Pechora" - neue Fischart "Groppe" hinzugefügt
+Standort "Fluss Pechora" und "Wasserdamm" haben einen neuen Bootstyp hinzugefügt - Paddelkajak
+Ort "Dukorasee" - Geländeänderungen, neue Angelpunkte hinzugefügt, Schnellbewegungspunkte hinzugefügt
+Ort "Fluss Pra" - Geländeänderungen, neue Angelpunkte hinzugefügt, Schnellbewegungspunkte hinzugefügt
+Ort "Wasserdamm" - Geländeänderungen, neue Angelpunkte hinzugefügt, Schnellbewegungspunkte hinzugefügt
+Ort "Der Kanal" - Schnellbewegungspunkte hinzugefügt
+Grönlandhai - reduzierte maximale Ausdauer
+Belugastör - reduzierte maximale Ausdauer
+
+Patch 1.61.3
+Perruchet-Seen - Schnellbewegungspunkte hinzufügen
+Fluss Po - Schnellbewegungspunkte hinzufügen
+
+Patch 1.61.2
+Atom Event beendet. Aufgaben werden deaktiviert, Tickets werden aus dem Verkauf genommen. Aber wenn Sie noch mehr Tickets haben, sind die Atom-Location und der Store noch bis zum 5. November verfügbar
+Polen - Schnellbewegungspunkte hinzugefügt. Eine bei einer Bronzemedaille, zwei weitere bei einer Silbermedaille
+Norwegen - veränderte die Dynamik und das Aussehen des Meerwassers
+Kleinere Verbesserungen an einigen visuellen Modellen von Fischen und Ruten
+Lila Sammelkarten erfordern jetzt weniger Karten, um die Sammlung zu komplettieren.
+
 Patch 1.61.1
 Jeder, der am Standort Atom mindestens einen Fisch fängt, erhält eine Erinnerungsmedaille des Events
 Korrektur des Modells und der Texturen von Eventruten "Atom"
