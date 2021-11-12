@@ -622,7 +622,7 @@ treel_type2=Ultralight
 treel_type3=Multirolle
 
 
-boat_inf4=Motorboot
+boat_inf4=Boot
 boat_inf5=[E] Ins Boot setzen
 
 boat_inf3=Geschwindigkeit
