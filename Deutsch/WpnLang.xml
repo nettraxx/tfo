@@ -5583,8 +5583,7 @@ Salzwasserbeständig</info>
     </weapon>
     <weapon id="2056">
       <name>Mehlwürmer</name>
-      <info>Fängig für: Europäischer Wels, Flussbarsch, Frosch, Gestreifter Kaulbarsch, Karausche, Rotauge, Rotfeder, Schleie, Strömer, Zander
-      </info>
+      <info>Fängig für: Aland, Bachschmerle, Europäischer Wels, Flussbarsch, Frosch, Giebel, Gestreifter Kaulbarsch, Karausche, Rotauge, Rotfeder, Schleie, See-Elritze, Sibirische Hasel, Strömer, Zander, Zobel, Zwergmaräne</info>
     </weapon>
     <weapon id="2057">
       <name>Hamburger</name>
@@ -5711,7 +5710,7 @@ Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
     </weapon>
     <weapon id="2087">
       <name>TopW Maikäfers-5g</name>
-      <info>Wobbler in Form eines Maikäfers</info>
+      <info>Fängig für: Aland, Atlantischer Lachs, Baltischer Lachs, Buckellachs, Döbel, Europäische Äsche, Europäischer Wolfsbarsch, Feroxforelle, Forellenbarsch, Frosch, Goldforelle, Grasshecht, Hecht, Maifisch, Marmorierte Forelle, Marmorkarpfen, Nase, Rapfen, Regenbogenforelle, Rotauge, Saibling, Saimaa-Forelle, Schwarzbarsch, Schwarze Äsche, Seeforelle, Seehecht, Seesaibling, Sibirische Äsche. Sichling, Taimen, Teichforelle, Weißlachs, Wels</info>
     </weapon>
     <weapon id="2088">
       <name>Wurmkarte</name>
@@ -6027,7 +6026,7 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     </weapon>
     <weapon id="2158">
       <name>Neunaugenlarven</name>
-      <info> </info>
+      <info>Fängig für: Döbel, Europäischer Stör, Flussbarsch, Maräne, Persischer Stör, Quappe, Russischer Stör, Sandfelchen, Scherg, Sibirischer Stör, Weißer Seelachs, Zander</info>
     </weapon>	
     <weapon id="2159">
       <name>TroutCaster-Karte</name>
@@ -6043,7 +6042,7 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     </weapon>
 	<weapon id="2162">
       <name>Meeräschenköder</name>
-      <info>Spezialteig zum Fangen aller Arten von Meeräschen</info>
+      <info>Fängig für: Dicklippige Meeräsche, Dünnlippige Meeräsche, Giebel, Großkopfmeeräsche, Grundel, Güster, Karausche, Karausche-Karpfen-Hybrid, Meeräsche, Rotauge, Rotfeder, Schwarzer Amur, Wildkarpfen, Wobla, Zobel, Zope</info>
     </weapon>
     <weapon id="2163">
       <name>Atom Token</name>
