@@ -531,3 +531,12 @@ type_122=Silver
 
 553_Name=Koi red
 553_Latn=Cyprinus rubrofuscus
+
+554_Name=Golden tench
+554_Latn=Cyprinus tinca auratus
+
+555_Name=Signal crayfish
+555_Latn=Pacifastacus leniusculus
+
+556_Name=Lake salmon
+556_Latn=Salmo salar morpha sebago

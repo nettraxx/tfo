@@ -1,6 +1,21 @@
 ﻿[INTERFACE]
 
+boati_0=Geschwindigkeit: {0} Knoten/h
+boati_1=Manövrierfähigkeit:
+boati_2=Kein Kühlschrank
+boati_3=Kühlschrank für {0} Stück
+boati_4=Rutenhalter {0} Stk
+boati_5=Name "{0}"
+
+boatip_0=Ruderboot
+boatip_1=Motorboot
+boatip_2=Kutter
+boatip_3=Trawler
+
+gi_um_13=BOOTSTATION
+--------------------
 boat_inf9=Rudern [J]\nAuf/Ab Anker [K]
+
 --------------------
 
 dntpck_144_name=Paket "AtomPPL"

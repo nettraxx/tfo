@@ -1,5 +1,20 @@
 ﻿[INTERFACE]
 
+boati_0=Speed: {0} knots/h
+boati_1=Maneuverability:
+boati_2= No refrigerator
+boati_3=Refrigerator for {0} pcs
+boati_4=Rodholders {0} pcs
+boati_5=Name "{0}"
+
+boatip_0=Rowing boat
+boatip_1=Motor boat
+boatip_2=Cutter
+boatip_3=Trawler
+
+gi_um_13=BOAT STANTION
+--------------------
+
 boat_inf9=Rowing [J]\nUp/Down anchor [K]
 --------------------
 

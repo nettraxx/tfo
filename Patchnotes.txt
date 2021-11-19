@@ -1,3 +1,52 @@
+Patch 1.63.0
+Es wurde ein Fehler behoben, der zum Schließen des Köderauswahlfensters beim Scrollen führte
+Fehler behoben, bei dem es nicht möglich war, Währungen zu stapeln
+im Fenster "Fische im Teich" erfahren Sie die größten Fänge am Tag in dieser Datenbank
+Aktualisiertes Rotaugenmodel
+Das Ripus-Modell wurde aktualisiert
+Beim Angeln wird der lateinische Name angezeigt (falls vorhanden)
+
+Fischerhaus, Standortaktualisierung
+Standort erweitert
+Das Zelt wurde entfernt, stattdessen wurde ein Haus installiert.
+
+Finnland, großes Standort-Update
+Russische und Atlantische Störe wurden vom Standort entfernt
+Taimen wurde vom Standort entfernt
+Aufzeichnungen und Statistiken über Störe und Taimen in Finnland wurden zurückgesetzt
+der Standort "Finnland" wurde stark verändert, neue Angel- und Landeplätze sind entstanden
+Schnellbewegungspunkte in Gegenwert einer Medaille hinzugefügt
+Neue TopWalker wurden dem Store hinzugefügt
+Am Standort wurde eine neue Mechanik zum "Benetzen" von Oberflächen bei Regen aktiviert
+Alle Boote wurden am See entfernt
+Drei "Bootsstationen" sind am Standort installiert, an denen der Spieler das Boot auswählen kann, das er benötigt
+
+Arten zum Standort hinzugefügt:
+Schleie
+Nase
+Ripus
+Arktische Maräne
+Döbel
+Hasel
+Güster
+Seeforelle
+
+Dem Standort wurden neue Arten hinzugefügt:
+
+Goldschleie
+Cyprinus tinca auratus
+Eine künstlich gezüchtete Schleiensorte, deren Heimat Böhmen ist. Es ist in Finnland in Seen und Teichen als seltene und schöne Angeltrophäe angesiedelt.
+
+Signalkrebse
+Pacifastacus leniusculus
+Es wurde ursprünglich im westlichen Teil von Nordamerika gefunden. Der Hauptvorteil der Art ist ihre Resistenz gegen die Krustentierpest, in dieser Hinsicht wurden Krebse in viele Länder importiert und weltweit erfolgreich akklimatisiert. In Finnland ist die Ansiedlung dieses Krebses ausschließlich in privaten Seen erlaubt.
+
+Ladoga Seelachs
+Salmo salar morpha sebago
+See-Fluss-Fische, die nie aufs Meer hinaus schwimmen. Bevorzugt tiefe Kaltwasserseen, in denen er lebt und nach Nahrung sucht. Der nächste ist der vorbeiziehende Lachs (Salmo salar), dessen Süßwasserform der Seelachs ist.
+
+Probieren Sie jetzt das aktualisierte Finnland aus.
+
 Patch 1.62.0
 Ort "Fluss Pechora" - das Gelände wurde erweitert, neue Angelpunkte wurden hinzugefügt, schnelle Bewegungspunkte wurden hinzugefügt, wenn es eine Bronze- oder Silbermedaille des Ortes gibt
 Fundort "Fluss Pechora" - neue Fischart "Groppe" hinzugefügt

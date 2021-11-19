@@ -117,6 +117,7 @@ type_122=Серебряная
 52_Name=Лещ
 53_Name=Лягушка
 54_Name=Линь
+54_Latn=Tinca tinca
 55_Name=Лосось
 56_Name=Моллюск
 57_Name=Омуль байкальский
@@ -488,7 +489,7 @@ type_122=Серебряная
 542_Name=Сиг шотландский 
 542_Latn=Coregonus vandesius 
 
-543_Name=Кристивомер
+543_Name=Голец серый
 543_Latn=Salvelinus namaycush
 
 544_Name=Маскинонг
@@ -519,3 +520,16 @@ type_122=Серебряная
 
 553_Name=Кои красный
 553_Latn=Cyprinus rubrofuscus
+
+554_Name=Линь золотой
+554_Latn=Cyprinus tinca auratus
+
+555_Name=Рак пятнистый
+555_Latn=Pacifastacus leniusculus
+
+556_Name=Озёрный лосось
+556_Latn=Salmo salar morpha sebago
+
+
+
+

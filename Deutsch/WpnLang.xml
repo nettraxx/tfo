@@ -502,9 +502,8 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
       <info>Angelrutenständer mit Signaleinrichtungen</info>
     </weapon>
     <weapon id="1044">
-      <name>--</name>
-      <info>
-      </info>
+      <name>Lagerfeuer</name>
+      <info>Zünde es an und verbreite ein Feuer auf dem Boden</info>
     </weapon>
     <weapon id="1045">
       <name>
@@ -5706,7 +5705,7 @@ Ausgestattet mit Jig oder einem Sicherheitsverschluss</info>
     </weapon>
     <weapon id="2086">
       <name>Rainbow Walkers</name>
-      <info>Topwater Walker der Rainbow-Serie</info>
+      <info>Rainbow Surface Walker zum Lachsangeln</info>
     </weapon>
     <weapon id="2087">
       <name>TopW Maikäfer-5g</name>

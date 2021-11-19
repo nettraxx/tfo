@@ -471,9 +471,8 @@
       <info>Подставка для удочек с сигнализаторами</info>
     </weapon>
     <weapon id="1044">
-      <name>---</name>
-      <info>
-      </info>
+      <name>Костёр тест</name>
+      <info>Разложите костёр на земле и зажгите</info>
     </weapon>
     <weapon id="1045">
       <name>Берцы</name>
@@ -5170,17 +5169,15 @@ DammSPRO. Ориентирована на фидерную ловлю</info>
     </weapon>
     <weapon id="2083">
       <name>TopW Walker-5g</name>
-      <info>Поверхностные уолкеры серии Rainbow</info>
+      <info>Поверхностные уолкеры серии Rainbow для ловли лососёвых видов</info>
     </weapon>
     <weapon id="2084">
       <name>TopW Walker-12g</name>
-      <info>
-      </info>
+      <info>Поверхностные уолкеры серии Rainbow для ловли лососёвых видов</info>
     </weapon>
     <weapon id="2085">
       <name>TopW Walker-20g</name>
-      <info>
-      </info>
+      <info>Поверхностные уолкеры серии Rainbow для ловли лососёвых видов</info>
     </weapon>
     <weapon id="2086">
       <name>RainbowWalkers</name>

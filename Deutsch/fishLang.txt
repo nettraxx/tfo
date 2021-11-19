@@ -506,3 +506,12 @@ type_122=Silber
 
 553_Name=Amur Koikarpfen
 553_Latn=Cyprinus rubrofuscus
+
+554_Name=Goldschleie
+554_Latn=Cyprinus tinca auratus
+
+555_Name=Signalkrebs
+555_Latn=Pacifastacus leniusculus
+
+556_Name=Ladoga Seelachs
+556_Latn=Salmo salar morpha sebago
