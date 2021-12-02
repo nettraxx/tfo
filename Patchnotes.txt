@@ -1,3 +1,40 @@
+Patch 1.65.0
+Ein großes Optimierungs-Update
+
+Technisch:
+Der Übergang zu einer neuen Version der Spiel-Engine, in deren Zusammenhang fast alle Spielorte neu gestaltet wurden
+(* außer Ukraine, Kaspisches Meer und Schottland).
+Die Vegetation wurde an den Schauplätzen vollständig optimiert, an einigen Stellen wurde das Gelände und Terrain verändert, um eine stabile Erhöhung der fps im Spiel zu erreichen
+Die Texturen des Bodens wurden, wenn möglich, durch bessere ersetzt
+Qualitätseinstellungen - aufgrund der gesteigerten Leistung wurden die maximalen Einstellungen für Schattenbereich, Detailabstand und Gras-Renderingabstand erhöht. Wenn Sie einen leistungsstarken Computer haben, können Sie diese Werte erhöhen oder gleich lassen (etwa die Hälfte des Einstellungsreglers)
+Bootsstationen sind an allen Orten installiert (wo die Auswahl eines Bootes überhaupt sein sollte)
+Neue Materialien wurden an allen Orten angebracht, um das "Nasswerden" bei Regen darzustellen
+Dynamischer Nebel wurde geändert, er kriecht jetzt mehr über das Wasser
+Änderung des Beleuchtungsmechanismus, in diesem Zusammenhang wurde die Einstellung "dynamisches Licht" als unnötig entfernt. Jetzt ist die gesamte Beleuchtung im Spiel dynamisch. Das Problem der Leistungsverschlechterung am Morgen und am Abend wurde behoben. Auch die Qualität der Morgen- und Abendbeleuchtung wurde verbessert
+* Die Orte Ukraine, Schottland und das Kaspische Meer werden zu einem späteren Zeitpunkt neu gestaltet. Im Moment ist das Rendering von kleinen Details (Gras, Steine, Äste) an diesen Orten deaktiviert.
+
+Funktionell:
+VIP-Karten werden nicht mehr automatisch bei Erhalt gefaltet. Wenn man z.B. 5 VIP-Karten hatte und 2 weitere erhalten hat, gibt es einen Stapel von 5 und einen Stapel von 2 Karten im Inventar.
+Bisse auf dem Schwimmer - dynamischer und realistischer gemacht. Es wurden mehrere Voreinstellungen für das Beißverhalten erstellt, das an die Fischart gebunden ist.
+Das Verhalten des Schwimmers auf der Welle wurde verbessert.
+Ein Fehler mit dem Wackeln des Schwimmers wurde behoben
+Verbesserte Mechanik beim Angeln auf Stockrods
+Meeräsche-Pilengas im Kaspischen Meer hinzugefügt
+
+Dekorativ:
+Das Modell der Meeräsche-Lobby wurde korrigiert
+Texturen einiger Schwimmer korrigiert
+Die Physik des Verhaltens der Angelschnur wurde neu gestaltet, jetzt ist sie produktiver und sieht besser aus
+
+Patch 1.63.x
+Festes Boot schüttelt in Norwegen und im Kaspischen Meer
+Angelschnur in Norwegen behoben
+Fliegende Fische" beim Ziehen von Fischen ans Ufer behoben
+Fehlerhafte Tiefenerkennung an einigen Stellen des Finnland-Standorts behoben
+Das Fischmodell wurde nicht geladen, wenn der Haken abgenutzt war
+Einige Boote behoben
+Andere kleinere Interface-Korrekturen.
+
 Patch 1.63.0
 Es wurde ein Fehler behoben, der zum Schließen des Köderauswahlfensters beim Scrollen führte
 Fehler behoben, bei dem es nicht möglich war, Währungen zu stapeln
