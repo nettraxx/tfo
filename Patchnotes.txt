@@ -1,3 +1,9 @@
+Patch 1.66.0
+SSAO-Effekt hinzugefügt (in den Einstellungen) - dieser Effekt sorgt für zusätzliche Schattierung von Oberflächen
+Das Modell und das Aussehen des Smartphones wurden geändert
+Smartphone-Symbole sind nun für Modifikationen verfügbar
+Ein System zur Übermittlung von Spielnachrichten wurde dem Spiel hinzugefügt. Das System ist über Smartphone-Mail erreichbar
+
 Patch 1.65.0
 Ein großes Optimierungs-Update
 

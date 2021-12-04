@@ -6,14 +6,14 @@
 	<icon id="4" name="*Reisen" info="Du kannst noch nicht in diese Gegend reisen." />
 	<icon id="5" name="*Abstand" info="Du stehst zu nahe an einem anderen Angler." />
 	
-	<icon id="7" name="Siedlung" info="Du bist innerhalb der Siedlungsgrenze." />
+	<icon id="7" name="" info="" />
 	<icon id="8" name="Keine Rute" info="Deine Angel ist nicht vollständig!" />
 	<icon id="9" name="Im Wasser" info="Du bist im Wasser, pass auf!" />
 	<icon id="10" name="* Der Rucksack ist überfüllt! *" info="Dein Rucksack ist zu voll, um dich zu bewegen. Prüfe dein Inventar."/>
 	<icon id="11" name="* Der Setzkescher ist überfüllt! *" info="Dein Setzkescher ist überfüllt oder nicht vorhanden, du kannst den Fisch nicht behalten." />
 	<icon id="12" name="Köder zu leicht" info="Dein Köder ist zu leicht. Die Wurfweite ist um [X]% reduziert, die Genauigkeit beim Werfen ist um [Y]% reduziert." />
 	<icon id="13" name="Köder zu schwer" info="Dein Köder ist zu schwer. Die Abnutzung deiner Rute ist um [X]% erhöht, die Wurfweite ist um [Y]% erhöht." />
-	<icon id="14" name="* Level up *" info="Du kannst jetzt aufsteigen. Bonus-Erfahrung: [X]" />
+	<icon id="14" name="" info="" />
 	<icon id="15" name="* Neue Nachrichten *" info="Du hast [X] ungelesene Nachrichten." />
 
 	<icon id="20" name="VIP-Modus" info="Gewährt folgende Boni:
@@ -26,7 +26,7 @@
 * +100 Inventarplätze"/>
 	
 	<icon id="21" name="* Lernen +[X]% *" info="+[X]% Erfahrung für gefangene Fische" />
-	<icon id="22" name="Fertigkeiten lernen" info="Das Lernen der Fertigkeit ist im Gange. Du hast[Y]% 10% aller Erfahrung gesammelt, die Du beim Erlernen von Fertigkeiten gesammelt hast."/>
+	<icon id="22" name="" info=""/>
 	<icon id="23" name="Sättigung" info="Du hast keinen Hunger, die Lebensmitteleffekte werden um [X]% gesenkt und es werden keine zusätzlichen Effekte angewendet." />
 	<icon id="24" name="Vergiftung" info="Du hast kürzlich Medikamente eingenommen. Die Wirkungen sind um [X]% verringert und es werden keine zusätzlichen Wirkungen angewendet." />
 	<icon id="25" name="Kein Durst" info="Wenn Du keinen Durst hast, werden die Effekte um [X]% verringert und es werden keine zusätzlichen Effekte angewendet." />
