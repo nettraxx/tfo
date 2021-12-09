@@ -1,3 +1,20 @@
+Patch 1.67.0
+Hallo, Freunde. Lange Zeit sorgte der Standort Schottland für gemischte Meinungen unter den Spielern. Das Negative wurde durch zu helle Farben des Ortes, geringe Produktivität, schlechte Ausarbeitung verursacht. Ich habe alle Meinungen berücksichtigt und diesen Ort überarbeitet. Bei der Erstellung habe ich zahlreiche Fotos der Gegend und Videos verwendet, es scheint mir, dass es sich als sehr ähnlich zu dem, was in der Realität existiert. Und ich hoffe, dass der schottische Hochlandsee mit einem gemütlichen Dorf am Ufer zu Ihrem Lieblingsangelplatz wird.
+Technisch:
+Es wurde viel getan, um die Belastung der Grafikkarte zu reduzieren. In diesem Zusammenhang wurden alle Glättungsmodi entfernt, mit Ausnahme eines standardmäßig eingestellten. Alle VSYNC-Modi wurden entfernt, stattdessen wurde ein neues "intelligentes" System eingesetzt, das eine komfortable Anzahl von FPS unterstützt, ohne Ihre Grafikkarte zu überlasten. Das System interagiert sowohl mit dem G-Sync-System von NVidia als auch mit
+mit FreeSync von AMD. Bei älteren Grafikkarten, die diese Technologien nicht unterstützen, wird das System versuchen, die höchsten FPS zu erreichen. Bitte beachten Sie auch, dass das System nicht korrekt funktioniert, wenn Sie die Option "Maximale Leistung" in den Einstellungen Ihrer Grafikkarte aktiviert haben. Es ist besser, diese Option zur Übertaktung der Grafikkarte nicht zu verwenden, da sie zu Überhitzung und vorzeitiger Alterung Ihrer Hardware führen kann.
+Schnittstelle:
+Suche nach einem Punkt auf der Karte nach Koordinaten hinzugefügt
+Gruppierung nach Adressaten im Mailfenster hinzugefügt
+Die Spielersuche wurde um eine Liste der Kontakte Ihrer Freunde ergänzt
+Ändern des Farbschemas und des Designs der Benutzeroberfläche
+Auf vielfachen Wunsch wurde das alte Smartphone-Interface wieder eingeführt
+Fehler behoben:
+Die Unfähigkeit, einen Club-Fähigkeitspunkt zu investieren, wurde behoben
+Behebung der Unmöglichkeit, bei niedrigen Auflösungen einen Gegenstand aus der Post abzuholen
+Behebung von Wasserspuren von Ködern in der Luft
+Korrektur von Unregelmäßigkeiten bei Smartphone-Symbolen
+
 Patch 1.66.0
 SSAO-Effekt hinzugefügt (in den Einstellungen) - dieser Effekt sorgt für zusätzliche Schattierung von Oberflächen
 Das Modell und das Aussehen des Smartphones wurden geändert
