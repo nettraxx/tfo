@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
 
+naviinfo3=Koordinaten
+
 dl_body_2=Ihr Artikel [item] wurde aufgrund des Endes der Auktionsdauer aus der Auktion genommen, der Gegenstand befindet sich in der Anlage zum Brief
 dl_theme_2=Rückgabe [item]
 

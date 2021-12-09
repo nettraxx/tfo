@@ -5557,5 +5557,10 @@ VIP не даёт бонуса.</info>
       <name>Комплект AtomDS</name>
       <info>Комплект содержит фидерную удочку, катушку, леску на 22 кг в стиле Атом. +поводок и кормушка</info>
     </weapon>
+    <weapon id="2173">
+      <name>Слепень</name>
+      <info>
+      </info>
+    </weapon>
   </weapons>
 </wpnlang>

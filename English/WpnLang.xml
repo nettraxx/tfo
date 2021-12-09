@@ -6095,7 +6095,10 @@ Front friction</info>
       <info>The kit contains a feeder rod, a reel, a 22 kg fishing line in the Atom style. +leash and feeder</info>
     </weapon>
 	
-	
+    <weapon id="2173">
+      <name>Horsefly</name>
+      <info>      </info>
+    </weapon>	
 	
   </weapons>
 </wpnlang>

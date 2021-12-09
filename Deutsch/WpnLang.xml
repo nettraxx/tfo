@@ -6084,6 +6084,11 @@ Kupplung vorne</info>
     <weapon id="2172">
       <name>AtomDS-Kit</name>
       <info>Das Set enthält eine Feederrute, eine Rolle, eine 22 kg Schnur im Atom Stil. + Vorfach und Futterkorb</info>
+    </weapon>
+    <weapon id="2173">
+      <name>Bremse</name>
+      <info>
+      </info>
     </weapon>	
   </weapons>
 </wpnlang>

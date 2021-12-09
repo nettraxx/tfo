@@ -13,7 +13,7 @@ Fehler behoben:
 Die Unfähigkeit, einen Club-Fähigkeitspunkt zu investieren, wurde behoben
 Behebung der Unmöglichkeit, bei niedrigen Auflösungen einen Gegenstand aus der Post abzuholen
 Behebung von Wasserspuren von Ködern in der Luft
-Korrektur von Unregelmäßigkeiten bei Smartphone-Symbolen
+Korrektur von Unregelmäßigkeiten bei Smartphone-Symbolen.
 
 Patch 1.66.0
 SSAO-Effekt hinzugefügt (in den Einstellungen) - dieser Effekt sorgt für zusätzliche Schattierung von Oberflächen

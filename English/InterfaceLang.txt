@@ -1,5 +1,6 @@
 ﻿[INTERFACE]
 
+naviinfo3=Coordinates
 dl_body_2=Your item [item] has been withdrawn from the auction due to the end of the auction period\nthe item is in the attachment to the letter
 dl_theme_2=Return [item]
 
@@ -21,7 +22,7 @@ boatip_1=Motor boat
 boatip_2=Cutter
 boatip_3=Trawler
 
-gi_um_13=BOAT STANTION
+gi_um_13=BOAT STATION
 --------------------
 
 boat_inf9=Rowing [J]\nUp/Down anchor [K]
