@@ -278,6 +278,11 @@
       <par2>Длина удилища в метрах</par2>
       <par3>Бонус к дальности заброса в %</par3>
     </type>
+    <type id="53" name="Устанавливаемое">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
+    </type>
   </wpntypes>
   <weapons>
     <comment>Описание предметов и типов RU</comment>
@@ -471,7 +476,7 @@
       <info>Подставка для удочек с сигнализаторами</info>
     </weapon>
     <weapon id="1044">
-      <name>Костёр тест</name>
+      <name>Костёр</name>
       <info>Разложите костёр на земле и зажгите</info>
     </weapon>
     <weapon id="1045">
@@ -5561,6 +5566,18 @@ VIP не даёт бонуса.</info>
       <name>Слепень</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="2174">
+      <name>Котелок</name>
+      <info>Установите котелок над костром</info>
+    </weapon>
+    <weapon id="2175">
+      <name>Тумбочка</name>
+      <info>Предмет мебели для дома</info>
+    </weapon>
+    <weapon id="2176">
+      <name>Картина</name>
+      <info>Предмет мебели для дома</info>
     </weapon>
   </weapons>
 </wpnlang>

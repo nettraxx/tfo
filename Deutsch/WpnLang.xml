@@ -293,6 +293,11 @@
       <par1>??</par1>
       <par2>??</par2>
       <par3>??</par3>
+    </type>	
+    <type id="53" name="Installierbar">
+      <par1>??</par1>
+      <par2>??</par2>
+      <par3>??</par3>
     </type>		
   </wpntypes>
   <weapons>
