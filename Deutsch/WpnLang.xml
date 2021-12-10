@@ -293,8 +293,8 @@
       <par1>??</par1>
       <par2>??</par2>
       <par3>??</par3>
-    </type>	
-    <type id="53" name="Installierbar">
+    </type>
+    <type id="53" name="Einrichtungen">
       <par1>??</par1>
       <par2>??</par2>
       <par3>??</par3>
@@ -6094,6 +6094,18 @@ Kupplung vorne</info>
       <name>Bremse</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="2174">
+      <name>Bowler</name>
+      <info>Stellen Sie den Topf über das Feuer</info>
+    </weapon>
+    <weapon id="2175">
+      <name>Nachttisch</name>
+      <info>Wohnmöbel</info>
+    </weapon>
+    <weapon id="2176">
+      <name>Bild</name>
+      <info>Wohnmöbel</info>
     </weapon>	
   </weapons>
 </wpnlang>
