@@ -53,6 +53,7 @@ type_110=
 type_111=
 type_120=Rangwertung
 type_122=Silber
+type_123=Winter (Preis x2)
 
 [MESSAGES]
 
@@ -377,8 +378,9 @@ type_122=Silber
 499_Name=Ostasiatischer Schlammpeitzger
 500_Name=Sternflunder
 501_Name=Mongolische Rotfeder
-502_Name=Gefrorene Brachse
-503_Name=Gefrorene Schmerle
+502_Name=Eisbrasse
+502_Latn=Ignota species
+503_Name=Eisschmerle
 504_Name=Saimaa-Forelle
 505_Name=Bachschmerle
 506_Name=Kaspi-Maifisch
@@ -515,3 +517,9 @@ type_122=Silber
 
 556_Name=Ladoga Seelachs
 556_Latn=Salmo salar morpha sebago
+
+557_Name=Eisforelle
+557_Latn=Ignota species
+
+558_Name=Eisäsche
+558_Latn=Ignota species

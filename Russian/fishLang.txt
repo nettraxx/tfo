@@ -55,6 +55,7 @@ type_110=
 type_111=
 type_120=Рейтинговая
 type_122=Серебряная
+type_123=Зимняя (цена х2)
 
 [SMALLFISHES]
 52_NameSmall=Подлещик
@@ -382,6 +383,7 @@ type_122=Серебряная
 500_Name=Камбала звёздчатая
 501_Name=Монгольский краснопер
 502_Name=Ледяной лещ
+502_Latn=Ignota species
 503_Name=Ледяной вьюн
 504_Name=Кумжа сайменская
 505_Name=Голец скалистый
@@ -529,6 +531,12 @@ type_122=Серебряная
 
 556_Name=Озёрный лосось
 556_Latn=Salmo salar morpha sebago
+
+557_Name=Форель ледяная
+557_Latn=Ignota species
+
+558_Name=Хариус ледяной
+558_Latn=Ignota species
 
 
 

@@ -1,3 +1,20 @@
+Patch 1.68.0
+Freunde, am Vorabend des neuen Jahres laden wir euch ein, dieses Fest im "Wintermärchen" zu feiern.
+Der Event-See "Wintermärchen" wurde dem Spiel hinzugefügt (der See ist im Abschnitt "Fischerhaus" verfügbar).
+
+Stufe 1: Schmücken des Weihnachtsbaums. Dauert bis zum 1. Januar
+Jeden Tag gibt es am Teich des Wintermärchens eine Tagesaufgabe, nach deren Erfüllung du ein Weihnachtsbaumspielzeug erhältst. Wenn Sie das Spielzeug haben, aktivieren Sie den Weihnachtsbaum und erhalten 4 Stunden lang einen Erfahrungsbonus und den Preis für Fisch sowie eine Schneeflocke. Je mehr der Weihnachtsbaum geschmückt ist, desto mehr Buffs erhältst du.
+Für die Schneeflocken, die du erhältst, kannst du im Laden spezielle Weihnachtsprodukte kaufen
+Wenn du den See zu einer Bronzemedaille schließt, werden Aufgaben mit einer erhöhten Belohnung für dich verfügbar.
+Wenn du den Weihnachtsbaum bis zum Maximum geschmückt hast und noch Spielzeug hast, kannst du es benutzen, um zusätzliche Erfahrung zu sammeln (von 5 bis 20 Tausend), oder es einfach im Laden verkaufen
+* Alle Fische im See Wintermärchen haben ein spezielles Etikett "Winter", das den Preis der Fische verdoppelt.
+* Erfahrung für Fische auf dem See wird nicht ausgegeben, allgemeine Rekorde werden nicht aufgestellt
+
+Stufe 2: "Wintermärchen". Sie dauert vom 1. Januar bis zum 13. Januar.
+Wir haben einen Boten zum Weihnachtsmann geschickt, um ihn zu fragen, wie es weitergeht, aber er ist noch nicht zurückgekommen.
+
+Frohes neues Jahr und frohe Weihnachten!
+
 Patch 1.67.0
 Hallo, Freunde. Lange Zeit sorgte der Standort Schottland für gemischte Meinungen unter den Spielern. Das Negative wurde durch zu helle Farben des Ortes, geringe Produktivität, schlechte Ausarbeitung verursacht. Ich habe alle Meinungen berücksichtigt und diesen Ort überarbeitet. Bei der Erstellung habe ich zahlreiche Fotos der Gegend und Videos verwendet, es scheint mir, dass es sich als sehr ähnlich zu dem, was in der Realität existiert. Und ich hoffe, dass der schottische Hochlandsee mit einem gemütlichen Dorf am Ufer zu Ihrem Lieblingsangelplatz wird.
 Technisch:

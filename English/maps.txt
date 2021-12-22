@@ -36,6 +36,7 @@
 17_Name=GB Scotland: Loch Maro
 19_Name=Russia: r. Pechora
 100_Name=Angler house
+180_Name=Winter Fairy Tale
 
 
 [LOC_NAMES]

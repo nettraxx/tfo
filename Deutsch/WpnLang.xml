@@ -2599,8 +2599,9 @@ Can be enhanced.
 VIP gives no bonus.</info>
     </weapon>
     <weapon id="1432">
-      <name>JIG TwistNord Ice 25g</name>
-      <info></info>
+      <name>JIG TwistNY Ice 14cm</name>
+      <info>Essbarer Silikonköder
+Farbe - Eiskalmar</info>
     </weapon>
     <weapon id="1433">
       <name>--</name>
@@ -4868,7 +4869,8 @@ Fängig für:Atlantischer Hering, Atlantischer Lachs, Europäischer Wolfsbarsch,
     </weapon>
     <weapon id="1899">
       <name>Streifenhörnchenköder-NY</name>
-      <info>Spezialköder, der ein schwimmendes Streifenhörnchen simuliert.</info>
+      <info>Spezialköder, der ein schwimmendes Streifenhörnchen simuliert. Entwickelt für die Jagd auf Taimen
+Größe 3</info>
     </weapon>
     <weapon id="1900">
       <name>Mausköder</name>
@@ -6106,6 +6108,30 @@ Kupplung vorne</info>
     <weapon id="2176">
       <name>Bild</name>
       <info>Wohnmöbel</info>
+    </weapon>
+    <weapon id="2177">
+      <name>Weihnachtsspielzeug</name>
+      <info>Kann verkauft, verwendet werden, um einen Weihnachtsbaum zu schmücken, oder verwendet werden, um zusätzliche Erfahrung zu sammeln </info>
+    </weapon>
+    <weapon id="2178">
+      <name>Schneeflocken-Token</name>
+      <info>Währung des Neujahrsereignisses</info>
+    </weapon>
+    <weapon id="2179">
+      <name>Geschenk</name>
+      <info>Festliche Kiste. Öffnen Sie es, um es herauszufinden. was ist drin</info>
+    </weapon>
+    <weapon id="2180">
+      <name>Champagner</name>
+      <info>Traditioneller Sekt, den sie gerne zum neuen Jahr öffnen</info>
+    </weapon>
+    <weapon id="2181">
+      <name>Olivensalat</name>
+      <info>Ein traditionelles Gericht, ohne das ein Silvestertisch nicht komplett ist</info>
+    </weapon>
+    <weapon id="2182">
+      <name>Weihnachtstruthahn</name>
+      <info>Traditionell und lecker!</info>
     </weapon>	
   </weapons>
 </wpnlang>

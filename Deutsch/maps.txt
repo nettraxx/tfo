@@ -39,6 +39,7 @@
 
 19_Name=Russland: Fluss Pechora
 100_Name=Fischerhaus
+180_Name=Wintermärchen
 
 [LOC_NAMES]
 ---------------------

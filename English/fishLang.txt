@@ -55,6 +55,7 @@ type_111=---
 
 type_120=Rating participant
 type_122=Silver
+type_123=Winter (price x2)
 
 [MESSAGES]
 
@@ -540,3 +541,9 @@ type_122=Silver
 
 556_Name=Lake salmon
 556_Latn=Salmo salar morpha sebago
+
+557_Name=Icy trout
+557_Latn=Ignota species
+
+558_Name=Icy grayling
+558_Latn=Ignota species

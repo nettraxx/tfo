@@ -1,5 +1,12 @@
 ﻿[INTERFACE]
 
+ny_endstage=Der Baum ist schon geschmückt
+ny_toyok=Geschmückter Weihnachtsbaum
+ny_notoys=Kein Spielzeug
+ny_stage=Bühne {0} / {1}
+ny_tree=Weihnachtsbaum
+
+--------------------
 naviinfo3=Koordinaten
 
 dl_body_2=Ihr Artikel [item] wurde aufgrund des Endes der Auktionsdauer aus der Auktion genommen, der Gegenstand befindet sich in der Anlage zum Brief

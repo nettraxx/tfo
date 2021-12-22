@@ -3,13 +3,13 @@
 	
 	<icon id="2" name="Angelverbot" info="Du darfst in dieser Gegend nicht angeln." />
 	<icon id="3" name="Lagerfeuer" info="Du bist in der Nähe des Lagerfeuers." />
-	<icon id="4" name="*Reisen" info="Du kannst noch nicht in diese Gegend reisen." />
+	<icon id="4" name="*Reisen" info="" />
 	<icon id="5" name="*Abstand" info="Du stehst zu nahe an einem anderen Angler." />
 	
 	<icon id="7" name="" info="" />
 	<icon id="8" name="Keine Rute" info="Deine Angel ist nicht vollständig!" />
 	<icon id="9" name="Im Wasser" info="Du bist im Wasser, pass auf!" />
-	<icon id="10" name="* Der Rucksack ist überfüllt! *" info="Dein Rucksack ist zu voll, um dich zu bewegen. Prüfe dein Inventar."/>
+	<icon id="10" name="* Der Rucksack ist überfüllt! *" info="" />
 	<icon id="11" name="* Der Setzkescher ist überfüllt! *" info="Dein Setzkescher ist überfüllt oder nicht vorhanden, du kannst den Fisch nicht behalten." />
 	<icon id="12" name="Köder zu leicht" info="Dein Köder ist zu leicht. Die Wurfweite ist um [X]% reduziert, die Genauigkeit beim Werfen ist um [Y]% reduziert." />
 	<icon id="13" name="Köder zu schwer" info="Dein Köder ist zu schwer. Die Abnutzung deiner Rute ist um [X]% erhöht, die Wurfweite ist um [Y]% erhöht." />

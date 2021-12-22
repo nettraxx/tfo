@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
 
+ny_endstage=Christmas tree is already decorated
+ny_toyok=Christmas tree is decorated
+ny_notoys=No toys
+ny_stage=Stage {0}/{1}
+ny_tree=Christmas tree
+--------------------
+
+
 naviinfo3=Coordinates
 dl_body_2=Your item [item] has been withdrawn from the auction due to the end of the auction period\nthe item is in the attachment to the letter
 dl_theme_2=Return [item]

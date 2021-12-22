@@ -6106,5 +6106,42 @@ Front friction</info>
       <info>      </info>
     </weapon>	
 	
+    <weapon id="2174">
+      <name>Bowler </name>
+      <info>Set the bowler over the fire</info>
+    </weapon>
+    <weapon id="2175">
+      <name>Bedside table</name>
+      <info>home furniture</info>
+    </weapon>
+    <weapon id="2176">
+      <name>Picture</name>
+      <info>home furniture</info>
+    </weapon>
+    <weapon id="2177">
+      <name>Christmas Tree toy</name>
+      <info>You can sell it, use it for decorating a Christmas tree, or use it and get additional experience </info>
+    </weapon>
+    <weapon id="2178">
+      <name>Snowflake token</name>
+      <info>Currency of the New Year's event</info>
+    </weapon>
+    <weapon id="2179">
+      <name>Gift</name>
+      <info>A festive box. Open it to find out. what is inside</info>
+    </weapon>
+    <weapon id="2180">
+      <name>Champagne</name>
+      <info>Traditional sparkling wine, which is so fond of opening for the new year</info>
+    </weapon>
+    <weapon id="2181">
+      <name>Olivie salad</name>
+      <info>Traditional Russian food, without which no New Year's table can do</info>
+    </weapon>
+    <weapon id="2182">
+      <name>Turkey</name>
+      <info>Christmas turkey. Traditional and delicious!</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>
