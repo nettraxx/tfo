@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
+cht_msg41={0} verwendet '{1}'
 
+--------------------
 ny_endstage=Der Baum ist schon geschmückt
 ny_toyok=Geschmückter Weihnachtsbaum
 ny_notoys=Kein Spielzeug

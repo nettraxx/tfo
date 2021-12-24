@@ -6132,6 +6132,26 @@ Kupplung vorne</info>
     <weapon id="2182">
       <name>Weihnachtstruthahn</name>
       <info>Traditionell und lecker!</info>
+    </weapon>
+    <weapon id="2183">
+      <name>Gruß</name>
+      <info>Feuerwerk "Salute" - drei Einstellungen des festlichen Feuerwerks.
+
+Auf dem Boden installieren und ausführen</info>
+    </weapon>
+    <weapon id="2184">
+      <name>Funken</name>
+      <info>Pyrotechnik "Funken", eine Fontäne aus hellen Funken
+Auf den Boden stellen und anzünden</info>
+    </weapon>
+    <weapon id="2185">
+      <name>Feuerblume</name>
+      <info>Feuerwerk - 20 Schüsse festliches Feuerwerk
+Auf dem Boden installieren und ausführen</info>
+    </weapon>
+    <weapon id="2186">
+      <name>Neujahrsset</name>
+      <info>Festliche Kiste. Öffnen Sie es, um es herauszufinden. was ist drin</info>
     </weapon>	
   </weapons>
 </wpnlang>
