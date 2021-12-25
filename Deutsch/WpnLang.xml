@@ -6146,12 +6146,17 @@ Auf den Boden stellen und anzünden</info>
     </weapon>
     <weapon id="2185">
       <name>Feuerblume</name>
-      <info>Feuerwerk - 20 Schüsse festliches Feuerwerk
+      <info>Großes Feuerwerk - 20 Schüsse festliches Feuerwerk
 Auf dem Boden installieren und ausführen</info>
     </weapon>
     <weapon id="2186">
       <name>Neujahrsset</name>
-      <info>Festliche Kiste. Öffnen Sie es, um es herauszufinden. was ist drin</info>
+      <info>Festliches Set 'Neujahr'. Enthält:
+х1 VIP-Karte für 15 Tage
+х5 Schneeflocken
+x5 Feuerwerk 'Funke'
+х5 Feuerwerk 'Gruß'
+х2 Großes Feuerwerk 'Feuerblume'</info>
     </weapon>	
   </weapons>
 </wpnlang>

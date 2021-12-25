@@ -1552,10 +1552,8 @@
       </info>
     </weapon>
     <weapon id="1237">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Improvement Token </name>
+      <info>Required to upgrade items  </info>
     </weapon>
     <weapon id="1238">
       <name>
@@ -6141,6 +6139,33 @@ Front friction</info>
     <weapon id="2182">
       <name>Turkey</name>
       <info>Christmas turkey. Traditional and delicious!</info>
+    </weapon>	
+	
+    <weapon id="2183">
+      <name>Firework</name>
+      <info>Pyrotechnics "Salute" - five shots of festive fireworks.
+
+Install on the ground and run</info>
+    </weapon>
+    <weapon id="2184">
+      <name>Sparks</name>
+      <info>Pyrotechnics "Sparks", a fountain of bright sparks
+Set it on the ground and light it</info>
+    </weapon>
+    <weapon id="2185">
+      <name>Fire Flower</name>
+      <info>Pyrotechnics salute - 20 shots of festive fireworks
+Install on the ground and run</info>
+    </weapon>
+    <weapon id="2186">
+      <name>New Year's kit</name>
+      <info>Festive set 'New Year'. Contains:
+x1 VIP card for 15 days
+x5 snowflakes
+x5 fireworks 'spark'
+x5 fireworks 'salute'
+x2 large fireworks 'fire flower'
+</info>
     </weapon>	
 	
   </weapons>
