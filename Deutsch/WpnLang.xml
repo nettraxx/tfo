@@ -1273,10 +1273,8 @@ Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.
       </info>
     </weapon>
     <weapon id="1184">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Balsa-Block</name>
+      <info>Ein Block aus Balsaholz, der verwendet werden kann, um Schwimmer, Wobbler und andere Bastelarbeiten herzustellen</info>
     </weapon>
     <weapon id="1185">
       <name>
@@ -2396,10 +2394,8 @@ Zum Testen</info>
 	  </info>
     </weapon>
     <weapon id="1396">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Farbe</name>
+      <info>Farbe, mit der Sie Posen, Spinner und Köder bemalen können</info>
     </weapon>
     <weapon id="1397">
       <name>JIG TwistNord I</name>
@@ -3482,15 +3478,21 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1605">
       <name>JR RubinFly-8</name>
-      <info>Eine leichte Rute zum Fliegenfischen.</info>
+      <info>Fliegenrute der Klasse 5
+Material: Fiberglas
+Eine Fliegenrute zum Angeln kleiner Fische in ruhigen Gewässern</info>
     </weapon>
     <weapon id="1606">
       <name>JR RubinFly-12</name>
-      <info>Eine mittlere Rute zum Fliegenfischen.</info>
+      <info>Fliegenrute der Klasse 8
+Material: Fiberglas
+Eine Rute zum Fliegenfischen von mittelgroßen Fischen in ruhigen Gewässern oder kleinen Bächen</info>
     </weapon>
     <weapon id="1607">
       <name>JR RubinFly-18</name>
-      <info>Eine schwere Rute zum Fliegenfischen.</info>
+      <info>Fliegenrute der Klasse 10
+Material: Fiberglas
+Eine Rute zum Fliegenfischen auf große Fische im Meer oder in starken Strömungen</info>
     </weapon>
     <weapon id="1608">
       <name>JT RubinFly-8</name>
@@ -3506,7 +3508,7 @@ Ein seltsamer und beängstigender Ort. Ich glaube, ich habe das schon in meinen 
     </weapon>
     <weapon id="1611">
       <name>Series JR RubinFly</name>
-      <info>Ruten zum Fliegenfischen</info>
+      <info>Fiberglas Fliegenfischerrute Serie</info>
     </weapon>
     <weapon id="1612">
       <name>Series JT RubinFly</name>
@@ -6157,6 +6159,45 @@ Auf dem Boden installieren und ausführen</info>
 x5 Feuerwerk 'Funke'
 х5 Feuerwerk 'Gruß'
 х2 Großes Feuerwerk 'Feuerblume'</info>
+    </weapon>
+    <weapon id="2187">
+      <name>Booster x3</name>
+      <info>Booster von 3 Sammelkarten. Verwenden Sie diese Option, um drei Karten zu erhalten, von denen eine mindestens blau ist</info>
+    </weapon>
+    <weapon id="2188">
+      <name>Big Booster x5</name>
+      <info>Booster von 5 Sammelkarten. Verwenden Sie diese Option, um fünf Karten zu erhalten, von denen eine mindestens lila ist.</info>
+    </weapon>
+    <weapon id="2189">
+      <name>NS  Fluo 20</name>
+      <info>Fliegenschnur</info>
+    </weapon>
+    <weapon id="2190">
+      <name>MF NY Gold -20</name>
+      <info>Fliegenrute der Klasse 15
+Material: geklebter Bambus
+Neujahrsausgabe der Fliegenrute der MasterFly-Serie</info>
+    </weapon>
+    <weapon id="2191">
+      <name>MasterFly-Serie</name>
+      <info>Fliegenrutenserie
+Material: Kohlefaser</info>
+    </weapon>
+    <weapon id="2192">
+      <name>GoldStick-8m</name>
+      <info>Geklebte Fliegenrute aus Bambus, nach asiatischem Schema zusammengestellt. Unterscheidet sich in einfacher Kontrolle und Genauigkeit des Wurfs</info>
+    </weapon>
+    <weapon id="2193">
+      <name>Bombard-8-6-Rezept</name>
+      <info>Rezept für die Herstellung einer Flottenbombe</info>
+    </weapon>
+    <weapon id="2194">
+      <name>Bombard-10-8-Rezept</name>
+      <info>Rezept für die Herstellung einer Flottenbombe</info>
+    </weapon>
+    <weapon id="2195">
+      <name>Bombard-20-12-Rezept</name>
+      <info>Rezept für die Herstellung einer Flottenbombe</info>
     </weapon>	
   </weapons>
 </wpnlang>

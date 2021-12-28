@@ -1265,10 +1265,8 @@
       </info>
     </weapon>
     <weapon id="1184">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Balsa bar</name>
+      <info>A bar of balsa wood that can be used to create floats, wobblers and other crafts </info>
     </weapon>
     <weapon id="1185">
       <name>
@@ -2384,10 +2382,8 @@ To activate press right mouse button on the item and select "Use".</info>
       <info>Size 3</info>
     </weapon>
     <weapon id="1396">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Paint</name>
+      <info>Paint with which you can paint floats, spinners and lures</info>
     </weapon>
     <weapon id="1397">
       <name>JIG TwistNord I</name>

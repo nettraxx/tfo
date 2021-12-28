@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+active_obj_10=Montagetisch
+
 NY_pckname = Neujahrspaket
 NY_pckinfo = х1 VIP-Karte für 15 Tage \ nх5 Schneeflocken \ nх5 Feuerwerk 'Funke' \ nх5 Feuerwerk 'Gruß' \ nх2 Großes Feuerwerk 'Feuerblume'
 

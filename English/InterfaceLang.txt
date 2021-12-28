@@ -1,5 +1,5 @@
 ﻿[INTERFACE]
-
+active_obj_10=Assembly table
 
 NY_pckname=New Year Kit
 NY_pckinfo=x1 VIP card for 15 days\nx5 snowflakes\nx5 fireworks 'spark'\nx5 fireworks 'salute'\nx2 large fireworks 'fire flower'
