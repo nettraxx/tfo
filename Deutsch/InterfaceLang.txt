@@ -384,7 +384,7 @@ stat_turn_crt=TURNIER ERSTELLEN
 stat_capt_1=Aufgaben erledigt
 stat_capt_2=Anzahl der Fische
 stat_capt_3=Anzahl der Trophäen
-stat_capt_4=Anzahl der Weltrekordfische
+stat_capt_4=Weltrekordfische
 
 stat_capt_5=Gefangene Fischarten
 stat_capt_6=Freigelassene Fische
@@ -1235,7 +1235,7 @@ min_lev=<color='#{0}'>Level {1}</color>
 #------------------------------------
 #Added 05.04.2017
 
-wpn_timed=\n\n<color='#ff20a0'>VORÜBERGEHEND verbleibend: {0} </color>
+wpn_timed=VORÜBERGEHEND verbleibend: {0}
 wpn_sost=\nZusammensetzung:
 wpn_master=<color='#104005'>Erstellt durch {0}</color>
 wpn_break=\n<color='#a06000'>ZERBROCHEN!</color>\n
@@ -1251,11 +1251,11 @@ wpn_rem2=Base durability loss: {0}\n
 wpn_rem3=Minimum repair threshold: {0}\n
 wpn_rem4=For repair:
 
-wpn_rec1=Recipe for creating: {0} x{1} Stk \n
-wpn_rec2=<color='#ff00ff'>Unlimited</color>\n
-wpn_rec3=Usage amount: {0} Stk\n
-wpn_rec4=Bench-tool required: {0}\n
-wpn_rec5=Profession required: <color='{0}'>{1}</color>\n
+wpn_rec1=Rezept zu erstellen:\n{0} x{1} Stk \n
+wpn_rec2=<color='#ff00ff'>Unbegrenzt</color>\n
+wpn_rec3=Anzahl der Verwendungen: {0} Stk\n
+wpn_rec4=Maschine erforderlich: {0}\n
+wpn_rec5=Beruf erforderlich: <color='{0}'>{1}</color>\n
 
 wpn_eat1=Befriedigt den Hunger: {0}\n
 wpn_eat2=Verursacht Hunger: {0}\n

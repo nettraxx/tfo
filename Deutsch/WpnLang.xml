@@ -438,7 +438,8 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
     </weapon>
     <weapon id="1029">
       <name>Herabuna Gold</name>
-      <info>Japanische Karausche</info>
+      <info>Herabun-Rute aus verleimtem Bambus zum Angeln mit der asiatischen Methode auf sinkenden Teig, von einem namhaften japanischen Hersteller.
+Entwickelt für das effiziente Angeln von kleinen Karpfenfischen</info>
     </weapon>
     <weapon id="1030">
       <name>Kolba-I</name>
@@ -535,8 +536,7 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
     </weapon>
     <weapon id="1049">
       <name>Trout-Caster-III</name>
-      <info>
-      </info>
+      <info>Verbesserte Bolognese-Angelrute zum Forellenangeln in der Strömung</info>
     </weapon>
     <weapon id="1050">
       <name>--</name>
@@ -684,16 +684,12 @@ Nicht kompatibel mit einigen Rodpod-Modellen, funktioniert nicht in einem Boot m
       </info>
     </weapon>
     <weapon id="1079">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Fischermarke</name>
+      <info>Wird verwendet, um in andere Währungen umzutauschen, bestimmte Gegenstände zu verbessern oder zu kaufen</info>
     </weapon>
     <weapon id="1080">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Ereignis-Token</name>
+      <info>Eine Währung, die sich dem Ende ihrer Nutzungsdauer nähert. Verkaufe oder tausche es gegen etwas ein, während es noch zum Umtausch akzeptiert wird</info>
     </weapon>
     <weapon id="1081">
       <name>
@@ -1555,7 +1551,7 @@ Man kann 3 Angler-Token im Angelgeschäft zu einer Turnier-Wertmarken umwandeln.
     </weapon>
     <weapon id="1237">
       <name>Upgrade-Token</name>
-      <info>Erforderlich, um Gegenstände zu aufzuwerten</info>
+      <info>Erforderlich, um einige Elemente zu aktualisieren. Kann durch das Freilassen von Trophäenfischen oder durch den Umtausch anderer Währungen erhalten werden</info>
     </weapon>
     <weapon id="1238">
       <name>
@@ -2236,18 +2232,15 @@ Zum Testen</info>
     </weapon>
     <weapon id="1367">
       <name>Bombarda-8-6</name>
-      <info>
-      </info>
+      <info>Beschwerte Bomberpose zum Angeln im Salzwasser auf Meeräsche und andere Küstenfische. Es ist stabil auf der Welle und erschreckt die vorsichtige Meeräsche überhaupt nicht.</info>
     </weapon>
     <weapon id="1368">
       <name>Bombarda-10-8</name>
-      <info>
-      </info>
+      <info>Beschwerte Bomberpose zum Angeln im Salzwasser auf Meeräsche und andere Küstenfische. Es ist stabil auf der Welle und erschreckt die vorsichtige Meeräsche überhaupt nicht.</info>
     </weapon>
     <weapon id="1369">
       <name>Bombarda-20-12</name>
-      <info>
-      </info>
+      <info>Beschwerte Bomberpose zum Angeln im Salzwasser auf Meeräsche und andere Küstenfische. Es ist stabil auf der Welle und erschreckt die vorsichtige Meeräsche überhaupt nicht.</info>
     </weapon>
     <weapon id="1370">
       <name>Live-Bait Float</name>
@@ -3733,8 +3726,7 @@ Eine Rute zum Fliegenfischen auf große Fische im Meer oder in starken Strömung
     <weapon id="1658">
       <name>TroutMaster SL</name>
       <info>Eine professionelle leichte Spinnrute. Für gezieltes Angeln auf vorsichtige Forellen bei weiten und präzisen Würfen.
-+50% Erfahrung
-Rollengröße: 1000-2500.</info>
+</info>
     </weapon>
     <weapon id="1659">
       <name>TroutMaster</name>
@@ -5076,23 +5068,19 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1941">
       <name>StickLines-1.7</name>
-      <info>
-      </info>
+      <info>Reihe von Fliegenruten mit begrenzter Länge.</info>
     </weapon>
     <weapon id="1942">
       <name>StickLines-2.8</name>
-      <info>
-      </info>
+      <info>Reihe von Fliegenruten mit begrenzter Länge.</info>
     </weapon>
     <weapon id="1943">
       <name>StickLines-3.5</name>
-      <info>
-      </info>
+      <info>Reihe von Fliegenruten mit begrenzter Länge.</info>
     </weapon>
     <weapon id="1944">
       <name>StickLines-4.7</name>
-      <info>
-      </info>
+      <info>Reihe von Fliegenruten mit begrenzter Länge.</info>
     </weapon>
     <weapon id="1945">
       <name>StickLines-6.9</name>
@@ -5200,23 +5188,23 @@ Ein zusätzlicher Köder beim Angeln mit Technoplankton ist nicht erforderlich.<
     </weapon>
     <weapon id="1969">
       <name>Herabuna stick-4.5m</name>
-      <info>
-      </info>
+      <info>Herabun-Rute zum Fischen mit der asiatischen Methode zum Versenken von Teig.
+Entwickelt für das effiziente Angeln von kleinen Karpfenfischen</info>
     </weapon>
     <weapon id="1970">
       <name>Herabuna stick-5.4m</name>
-      <info>
-      </info>
+      <info>Herabun-Rute zum Fischen mit der asiatischen Methode zum Versenken von Teig.
+Entwickelt für das effiziente Angeln von kleinen Karpfenfischen</info>
     </weapon>
     <weapon id="1971">
       <name>Herabuna stick-6.3m</name>
-      <info>
-      </info>
+      <info>Herabun-Rute zum Fischen mit der asiatischen Methode zum Versenken von Teig.
+Entwickelt für das effiziente Angeln von kleinen Karpfenfischen</info>
     </weapon>
     <weapon id="1972">
       <name>Herabuna Series</name>
-      <info>
-      </info>
+      <info>Herabun-Rute zum Fischen mit der asiatischen Methode zum Versenken von Teig.
+Entwickelt für das effiziente Angeln von kleinen Karpfenfischen</info>
     </weapon>
     <weapon id="1973">
       <name>Grundteig</name>
@@ -5322,17 +5310,15 @@ In der Zusammensetzung - Getreide, Fischmehl, Krill, geräuchertes Fleisch.</inf
     </weapon>
     <weapon id="1995">
       <name>Rezept "Trout Caster"</name>
-      <info>Rezept für die Herstellung einer Bolognese-Rute</info>
+      <info>Rezept zur Herstellung einer Bolognese-Rute 'Troutcaster' 5m-7kg aufrüstbar</info>
     </weapon>
     <weapon id="1996">
       <name>Trout-Caster-I</name>
-      <info>
-      </info>
+      <info>Verbesserte Bolognese-Angelrute zum Forellenangeln in der Strömung</info>
     </weapon>
     <weapon id="1997">
       <name>Trout-Caster-II</name>
-      <info>
-      </info>
+      <info>Verbesserte Bolognese-Angelrute zum Forellenangeln in der Strömung</info>
     </weapon>
     <weapon id="1998">
       <name>Waggler-10-8 N Rot</name>
@@ -6045,7 +6031,7 @@ Bei VIP gibt es keinen Bonus dazu.</info>
     </weapon>
     <weapon id="2161">
       <name>Herr der Fliegen</name>
-      <info>Rezept für Fliegen</info>
+      <info>Rezept für Bremsen</info>
     </weapon>
 	<weapon id="2162">
       <name>Meeräschenköder</name>
@@ -6174,9 +6160,9 @@ x5 Feuerwerk 'Funke'
     </weapon>
     <weapon id="2190">
       <name>MF NY Gold -20</name>
-      <info>Fliegenrute der Klasse 15
+      <info>Fliegenrute der Klasse 12
 Material: geklebter Bambus
-Neujahrsausgabe der Fliegenrute der MasterFly-Serie</info>
+Gold-Edition der Fliegenrute der MasterFly-Serie</info>
     </weapon>
     <weapon id="2191">
       <name>MasterFly-Serie</name>
@@ -6185,19 +6171,132 @@ Material: Kohlefaser</info>
     </weapon>
     <weapon id="2192">
       <name>GoldStick-8m</name>
-      <info>Geklebte Fliegenrute aus Bambus, nach asiatischem Schema zusammengestellt. Unterscheidet sich in einfacher Kontrolle und Genauigkeit des Wurfs</info>
+      <info>Elite Fliegenrute aus verleimtem Bambus eines namhaften japanischen Herstellers. Unterscheidet sich in einfacher Kontrolle und Genauigkeit des Wurfs</info>
     </weapon>
     <weapon id="2193">
       <name>Bombard-8-6-Rezept</name>
-      <info>Rezept für die Herstellung einer Flottenbombe</info>
+      <info>Rezept für die Herstellung einer Sea Float Bombard</info>
     </weapon>
     <weapon id="2194">
       <name>Bombard-10-8-Rezept</name>
-      <info>Rezept für die Herstellung einer Flottenbombe</info>
+      <info>Rezept für die Herstellung einer Sea Float Bombard</info>
     </weapon>
     <weapon id="2195">
       <name>Bombard-20-12-Rezept</name>
-      <info>Rezept für die Herstellung einer Flottenbombe</info>
+      <info>Rezept für die Herstellung einer Sea Float Bombard</info>
+    </weapon>
+    <weapon id="2196">
+      <name>RMF GoldFly-20</name>
+      <info>MasterFly Gold Edition Fliegenfischerrolle</info>
+    </weapon>
+    <weapon id="2197">
+      <name>RMasterFly-Serie</name>
+      <info>Neujahrsausgabe der Fliegenfischerrolle der MasterFly-Serie</info>
+    </weapon>
+    <weapon id="2198">
+      <name>StickLines-18.7</name>
+      <info>Reihe von Fliegenruten mit begrenzter Länge.</info>
+    </weapon>
+    <weapon id="2199">
+      <name>Schnur 18,4 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2200">
+      <name>Expertenserie</name>
+      <info>Float-Serie</info>
+    </weapon>
+    <weapon id="2201">
+      <name>Expert P1</name>
+      <info>Leichte und sehr sensible Pose für empfindliche Takelage.</info>
+    </weapon>
+    <weapon id="2202">
+      <name>Expert P2</name>
+      <info>Leichte und sehr sensible Pose für empfindliche Takelage.</info>
+    </weapon>
+    <weapon id="2203">
+      <name>Expert P3</name>
+      <info>Leichte und sehr sensible Pose für empfindliche Takelage.</info>
+    </weapon>
+    <weapon id="2204">
+      <name>Herabun-Goldpaket</name>
+      <info>Das Set enthält eine leicht schwingende Herabun-Rute für 2,9 kg + 100% an Erfahrung und Ausrüstung dafür</info>
+    </weapon>
+    <weapon id="2205">
+      <name>GoldStick-Kit</name>
+      <info>Das Set enthält eine Fliegenrute GoldStick 8m-19 kg + 15% für Erfahrung und Zubehör</info>
+    </weapon>
+    <weapon id="2206">
+      <name>MasterFlyGold-Kit</name>
+      <info>Das Set enthält eine Fliegenrute 3,5m-20 kg + 15% an Erfahrung und Zubehör</info>
+    </weapon>
+    <weapon id="2207">
+      <name>Ergänzungsfutter "Konfetti"</name>
+      <info>Erfreuen Sie den Karpfen mit den leuchtenden Farben des Urlaubs.
+Entwickelt für den Fang großer Karpfen und anderer Weißfische</info>
+    </weapon>
+    <weapon id="2208">
+      <name>Ergänzungsfutter</name>
+      <info>Ergänzende Bonbons nach eigenem Rezept</info>
+    </weapon>
+    <weapon id="2209">
+      <name>Booster-Karte</name>
+      <info>Holen Sie sich fünf Karten auf einmal</info>
+    </weapon>
+    <weapon id="2210">
+      <name>Booster-Karte</name>
+      <info>Holen Sie sich fünf Karten auf einmal</info>
+    </weapon>
+    <weapon id="2211">
+      <name>Bonbonkarte</name>
+      <info>Die Party ist in vollem Gange, die Party ist in vollem Gange!</info>
+    </weapon>
+    <weapon id="2212">
+      <name>Float-Map</name>
+      <info>Meeresschwimmer-Rezept</info>
+    </weapon>
+    <weapon id="2213">
+      <name>VIP-Karte</name>
+      <info>Sie sind eine sehr angesehene Person</info>
+    </weapon>
+    <weapon id="2214">
+      <name>Materialkarte</name>
+      <info>Die Welt malen</info>
+    </weapon>
+    <weapon id="2215">
+      <name>Materialkarte</name>
+      <info>Füttere das Netz!</info>
+    </weapon>
+    <weapon id="2216">
+      <name>Weihnachtsbaumkarte</name>
+      <info>Weihnachtsbaum, brenn!</info>
+    </weapon>
+    <weapon id="2217">
+      <name>Streifenhörnchen-Karte</name>
+      <info>Weihnachtsbaum, brenn!</info>
+    </weapon>
+    <weapon id="2218">
+      <name>Froschkarte</name>
+      <info>Kwa-ah!</info>
+    </weapon>
+    <weapon id="2219">
+      <name>Popper "Frog-III-M1"</name>
+      <info>Ein spezieller froschförmiger Wobbler für das Oberflächenangeln.
+Zielfisch - Hecht, Barsch, Wels</info>
+    </weapon>
+    <weapon id="2220">
+      <name>Popper "Frog-III-М2"</name>
+      <info>Ein spezieller froschförmiger Wobbler für das Oberflächenangeln.
+Zielfisch - Hecht, Barsch, Wels</info>
+    </weapon>
+    <weapon id="2221">
+      <name>Popper "Frog-III-М3"</name>
+      <info>Ein spezieller froschförmiger Wobbler für das Oberflächenangeln.
+Zielfisch - Hecht, Barsch, Wels</info>
+    </weapon>
+    <weapon id="2222">
+      <name>Mauskarte</name>
+      <info>Mauskämpfe</info>
     </weapon>	
   </weapons>
 </wpnlang>

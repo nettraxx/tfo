@@ -6164,5 +6164,163 @@ x2 large fireworks 'fire flower'
 </info>
     </weapon>	
 	
+	
+	
+    <weapon id="2187">
+      <name>Booster х3</name>
+      <info>A booster of 3 collectible cards. Use it to get three cards, one of which will be at least blue</info>
+    </weapon>
+    <weapon id="2188">
+      <name>Big Booster х5</name>
+      <info>Booster of 5 collectible cards. Use it to get five cards, one of which will be at least purple.</info>
+    </weapon>
+    <weapon id="2189">
+      <name>NS  Fluo 20</name>
+      <info>Cord for fly fishing 
+</info>
+    </weapon>
+    <weapon id="2190">
+      <name>MF GoldFly -20</name>
+      <info>Fly fishing rod of the 12th class
+Material: Glued bamboo
+Golden edition of the MasterFly series fly fishing rod</info>
+    </weapon>
+    <weapon id="2191">
+      <name>MasterFly Series</name>
+      <info>A series of fly fishing rods
+Material: Carbon fiber
+</info>
+    </weapon>
+    <weapon id="2192">
+      <name>GoldStick-8m</name>
+      <info>Elite stick rod made of glued bamboo, from a well-known Japanese manufacturer. It is characterized by ease of control and accuracy of casting</info>
+    </weapon>
+    <weapon id="2193">
+      <name>"Bombard" recipe</name>
+      <info>Recipes for creating a sea float-bombards</info>
+    </weapon>
+    <weapon id="2194">
+      <name>--</name>
+      <info>--</info>
+    </weapon>
+    <weapon id="2195">
+      <name>--</name>
+      <info>--</info>
+    </weapon>
+    <weapon id="2196">
+      <name>RMF GoldFly-20</name>
+      <info>Golden edition of the Masterly Series reel for Fly Fishing</info>
+    </weapon>
+    <weapon id="2197">
+      <name>Masterfly Series</name>
+      <info>MasterFly series reel for fly fishing</info>
+    </weapon>
+    <weapon id="2198">
+      <name>StickLines-18.7</name>
+      <info>A series of scaffolding of limited length for stick rods.</info>
+    </weapon>
+    <weapon id="2199">
+      <name>Leader 18.4 kg</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="2200">
+      <name>Expert Series</name>
+      <info>A series of floats</info>
+    </weapon>
+    <weapon id="2201">
+      <name>Expert P1</name>
+      <info>Lightweight and very sensitive float for delicate rigging. </info>
+    </weapon>
+    <weapon id="2202">
+      <name>Expert P2</name>
+      <info>Lightweight and very sensitive float for delicate rigging.</info>
+    </weapon>
+    <weapon id="2203">
+      <name>Expert P3</name>
+      <info>Lightweight and very sensitive float for delicate rigging.</info>
+    </weapon>
+    <weapon id="2204">
+      <name>HerabunaGold Kit</name>
+      <info>The kit contains a light stick rod of 2.9 kg herabun +100% experience and accessories for it</info>
+    </weapon>
+    <weapon id="2205">
+      <name>GoldStick Kit</name>
+      <info>The kit contains a stick rod GoldStick 8m-19 kg +15% to experience and accessories to it</info>
+    </weapon>
+    <weapon id="2206">
+      <name>MasterFlyGold Kit</name>
+      <info>The kit contains a fly fishing rod 3.5m-20 kg +15% to experience and accessories to it</info>
+    </weapon>
+    <weapon id="2207">
+      <name>Feed "Confetti"</name>
+      <info>Please the carp with bright colors of the holiday.
+Designed for catching large carp and other white fish</info>
+    </weapon>
+    <weapon id="2208">
+      <name>Feed</name>
+      <info>Confetti feed, created according to your own recipe</info>
+    </weapon>
+    <weapon id="2209">
+      <name>Booster card</name>
+      <info>Get three cards at once</info>
+    </weapon>
+    <weapon id="2210">
+      <name>Booster card</name>
+      <info>Get five cards at once</info>
+    </weapon>
+    <weapon id="2211">
+      <name>Confetti card</name>
+      <info>The holiday is coming, the holiday is buzzing!</info>
+    </weapon>
+    <weapon id="2212">
+      <name>Floa card</name>
+      <info>Recipe for a sea float</info>
+    </weapon>
+    <weapon id="2213">
+      <name>VIP card</name>
+      <info>You are a Very Impartant Person</info>
+    </weapon>
+    <weapon id="2214">
+      <name>Craft card</name>
+      <info>Color this world</info>
+    </weapon>
+    <weapon id="2215">
+      <name>Craft card</name>
+      <info>Feed into the net!</info>
+    </weapon>
+    <weapon id="2216">
+      <name>Spruse Card</name>
+      <info>Spruse, burn!</info>
+    </weapon>
+    <weapon id="2217">
+      <name>Chipmunk Card</name>
+      <info>che-che-che</info>
+    </weapon>
+    <weapon id="2218">
+      <name>Frog card</name>
+      <info>Kwa-a-a!</info>
+    </weapon>
+    <weapon id="2219">
+      <name>Popper "Frog-III-M1"</name>
+      <info>A special frog-shaped wobbler designed for surface fishing. 
+Target fish - pike, bass, catfish</info>
+    </weapon>
+    <weapon id="2220">
+      <name>Popper "Frog-III-M2"</name>
+      <info>A special frog-shaped wobbler designed for surface fishing. 
+Target fish - pike, bass, catfish</info>
+    </weapon>
+    <weapon id="2221">
+      <name>Popper "Frog-III-M3"</name>
+      <info>A special frog-shaped wobbler designed for surface fishing. 
+Target fish - pike, bass, catfish</info>
+    </weapon>
+    <weapon id="2222">
+      <name>Mouse card</name>
+      <info>Mouse fuss</info>
+    </weapon>	
+
+	
   </weapons>
 </wpnlang>
