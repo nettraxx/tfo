@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+del_pers=Character removal is possible once a week
+ny_giftstage=Get a gift
 active_obj_10=Assembly table
 
 NY_pckname=New Year Kit

@@ -1,4 +1,6 @@
 ﻿[INTERFACE]
+del_pers=Das Löschen eines Charakters ist einmal pro Woche möglich
+ny_giftstage=Geschenk erhalten
 active_obj_10=Montagetisch
 
 NY_pckname = Neujahrspaket

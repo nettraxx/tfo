@@ -1,3 +1,10 @@
+Patch 1.69.1
+Behebung eines Fehlers beim Schließen des Herstellungsfensters
+Korrektur von Fehlern bei der Möglichkeit das Lagerhaus zu erweitern
+Änderung der Benutzeroberfläche des Ladens beim Kauf von Gegenständen
+Charakterentfernung ist jetzt nur noch einmal pro Woche möglich
+Andere Fehlerbehebungen im Interface
+
 Patch 1.69.0
 Liebe Fischer, ich gratuliere Ihnen zum neuen Jahr, ich wünsche Ihnen Glück und Freude im kommenden Jahr!
 Und während der Weihnachtsmann auf der Erde herumspaziert, starten wir den zweiten Teil der Neujahrsveranstaltung.
