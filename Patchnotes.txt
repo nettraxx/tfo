@@ -1,3 +1,18 @@
+Patch 1.70.0
+Hallo, Freunde. Das ist das Ende der Neujahrsereignisse. Aber während ihr Geschenke unter dem Weihnachtsbaum verteilt und erhalten habt, waren wir auch nicht untätig.
+Diesmal habe ich mich für ein kurioses Experiment entschieden und eine vom Spieler, nämlich fortunecafe vom EPF-Club, erstellte Angelbasis in das Spiel integriert. Ursprünglich hatte er einen der Teiche des Katlov-Teichsystems angelegt, aber da diese Fischteiche erstens zu groß sind und zweitens dieser Name ein geschütztes Markenzeichen ist, wurde beschlossen, einen imaginären tschechischen Ort zu schaffen. Und das ist es, was wir bekommen haben:
+
+Die Tschechische Republik: Rybavica-Teich
+Es handelt sich um einen relativ kleinen privaten Teich mit künstlicher Fischbesiedlung. Der Teich wird regelmäßig gereinigt und die Fische werden darin gefüttert, so dass er mit großen Trophäen gespickt ist. Die Hauptrichtung ist der traditionelle tschechische Karpfenfang. Darüber hinaus sind in dem See auch einige andere exotische Arten beheimatet, wie der amerikanische weiße Stör (auch Seestör genannt - der hier keine Trophäengröße erreicht) oder der chinesische Koi-Karpfen. Getrennt davon möchte ich das Vorkommen von zwei Welsarten erwähnen, die noch vor 30-40 Jahren in der Tschechischen Republik aktiv in den Seen und Flüssen angesiedelt waren, 300 Exemplare pro Jahr und mehr, was dazu führte, dass der Wels fast alle Weißfische fraß und man hier keine Ukelei oder Brassen findet. Von den einheimischen Fischen haben nur die Arten überlebt, die in das dichte Küstengras eindringen konnten, um den Welsen zu entkommen: Karausche, Rotfeder, Gaster und natürlich das Rotauge. Allerdings erreichen die Welse in diesem Stausee nur selten die Größe einer Trophäe.
+Der Teich ist ab der Stufe 15 zugänglich und stellt im Sinne des Spiels einen Übergang von Karpfen-Deutschland zu Karpfen-Frankreich dar.
+
+Außerdem im Update:
+Die Schnittstelle zur Vereinsverwaltung wurde geändert
+Im Testmodus wurde ein "Vereinslager" hinzugefügt. Alle Mitglieder des Vereins können Gegenstände in das Lager bringen, nur der Leiter und sein Stellvertreter können Gegenstände aus dem Lager verteilen.
+Die Funktionalität der Vereinskasse wird später aktiviert, nachdem die Funktionalität des Lagers getestet wurde
+Die Helligkeits- und Kontrasteinstellungen wurden geändert und auf den Standardzustand zurückgesetzt.
+Das Rendering der Wasseroberflächen auf allen Basen wurde geändert, um ein realistischeres Bild zu erhalten
+
 Patch 1.69.1
 Behebung eines Fehlers beim Schließen des Herstellungsfensters
 Korrektur von Fehlern bei der Möglichkeit das Lagerhaus zu erweitern

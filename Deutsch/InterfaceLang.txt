@@ -1,4 +1,20 @@
 ﻿[INTERFACE]
+
+clubTakeBtn=Übertragen
+
+clubInfo_10=Parameter des Schatzamtes einrichten
+clubInfo_11=Legen Sie den Artikel in das Warenhaus
+
+clubInfo_6=Gehalt des Teilnehmers : {0}
+clubInfo_7=Gehaltsabzüge : {0}%
+clubInfo_8=Steuern : {0}%
+clubInfo_9=Club Warenhaus {0}/{1}
+
+clubInfo_5=Clubentwicklungspunkte
+clubInfo_4=✦ Amtsträger: {0} / {1}
+
+--------------------
+
 del_pers=Das Löschen eines Charakters ist einmal pro Woche möglich
 ny_giftstage=Geschenk erhalten
 active_obj_10=Montagetisch

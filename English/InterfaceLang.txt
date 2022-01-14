@@ -1,4 +1,20 @@
 ﻿[INTERFACE]
+
+
+clubTakeBtn=Transfer
+
+clubInfo_10=Setting up Treasury parameters
+clubInfo_11=Put the item in the club warehouse
+
+clubInfo_6=Participant's salary : {0}
+clubInfo_7=Salary deductions : {0}%
+clubInfo_8=Taxes : {0}%
+clubInfo_9=Club Warehouse {0}/{1}
+
+clubInfo_5=Club Development Points
+clubInfo_4=✦ Officers: {0} / {1}
+--------------------
+
 del_pers=Character removal is possible once a week
 ny_giftstage=Get a gift
 active_obj_10=Assembly table

@@ -1148,10 +1148,8 @@ Entwickelt für das effiziente Angeln von kleinen Karpfenfischen</info>
       </info>
     </weapon>
     <weapon id="1163">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Bear73</name>
+      <info>Großes zotteliges Insekt, das eine häusliche Lebensweise führt. Ausgezeichneter Köder für Welse und Störe</info>
     </weapon>
     <weapon id="1164">
       <name>
@@ -5571,8 +5569,7 @@ Salzwasserbeständig</info>
     </weapon>
       <weapon id="2055">
       <name>Veilchen</name>
-      <info>
-      </info>
+      <info>Herstellbar aus: Goldener Putzer</info>
     </weapon>
     <weapon id="2056">
       <name>Mehlwürmer</name>

@@ -1,34 +1,17 @@
 ﻿[MAP_NAMES]
+
 1_Name=Germany: Wasserdamm
-1_Info=
-
 2_Name=Russia: r. Pra
-1_Info=
-
 3_Name=France: Ponds of Perruchet 
-1_Info=
-
 4_Name=Finland: Kulgu lake
-4_Info=
-
 5_Name=Ukraine: r. Domaha
-1_Info=
-
 6_Name=Belarus: Dukora pond
-6_Info=
-
 7_Name=Italy: r. Po
-7_Info=
-
 8_Name=Poland: r. San
-8_Info=
-
 9_Name=Serbia: r. Danube
-
 10_Name=Iran: Caspian sea
-
 11_Name=Norway
-12_Name=Russia: Taimyr
+12_Name=Czech: Rybaviсy Pond
 13_Name=USA: "Thousand Islands"
 14_Name=Netherlands:channel
 15_Name=Atom: Wasteland

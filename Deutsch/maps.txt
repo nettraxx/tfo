@@ -30,7 +30,7 @@
 10_Info=
 
 11_Name=Norwegen: Der Fjord
-12_Name=Russland: Taimyr
+12_Name=Tschechien: Rybaviсy Teich
 13_Name=USA: "1000 Inseln"
 14_Name=Niederlande: Der Kanal
 15_Name=Atom: Ödland
