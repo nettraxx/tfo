@@ -1,5 +1,10 @@
 ﻿[INTERFACE]
 
+clublogput=<color='#a0ff30'>{0} put</color> {1} x{2}
+clubloget=<color='#ffa030'>{0} get</color> {1} x{2}
+clublogetot=<color='#ffa030'>{0} give{3}</color> {1} x{2}
+--------------------
+
 
 clubTakeBtn=Transfer
 

@@ -1,3 +1,10 @@
+Patch 1.70.1
+Standort Tschechien - einige Modelle, Staus und Absprungstellen an einigen Stellen korrigiert. Ändern der Tiefe an einigen Stellen
+Ruderboot Nr. 11 - erhöhte Geschwindigkeit, Entfernung des hinteren Ruderhalters, erhöhte Wendegeschwindigkeit
+Ruderboot Nr. 12 hinzugefügt - hat zwei Ruderhalter im vorderen Teil des Bootes
+Logging des Clublagers hinzugefügt. Die Logs werden für den aktuellen Tag vor dem Server-Neustart angezeigt
+Andere Fehlerkorrekturen, die das Spielgeschehen nicht beeinflussen
+
 Patch 1.70.0
 Hallo, Freunde. Das ist das Ende der Neujahrsereignisse. Aber während ihr Geschenke unter dem Weihnachtsbaum verteilt und erhalten habt, waren wir auch nicht untätig.
 Diesmal habe ich mich für ein kurioses Experiment entschieden und eine vom Spieler, nämlich fortunecafe vom EPF-Club, erstellte Angelbasis in das Spiel integriert. Ursprünglich hatte er einen der Teiche des Katlov-Teichsystems angelegt, aber da diese Fischteiche erstens zu groß sind und zweitens dieser Name ein geschütztes Markenzeichen ist, wurde beschlossen, einen imaginären tschechischen Ort zu schaffen. Und das ist es, was wir bekommen haben:

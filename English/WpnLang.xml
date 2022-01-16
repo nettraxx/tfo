@@ -6320,7 +6320,15 @@ Target fish - pike, bass, catfish</info>
       <name>Mouse card</name>
       <info>Mouse fuss</info>
     </weapon>	
-
+	
+    <weapon id="2223">
+      <name>Knedliks</name>
+      <info>National dish of Czech and Slovak cuisine</info>
+    </weapon>
+    <weapon id="2224">
+      <name>Beer "Prušovice"</name>
+      <info>Prušovice - one of the most famous brands of Czech beer, enjoying deserved popularity all over the world</info>
+    </weapon>
 	
   </weapons>
 </wpnlang>

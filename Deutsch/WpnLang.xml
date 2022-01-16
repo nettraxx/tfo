@@ -6294,6 +6294,14 @@ Zielfisch - Hecht, Barsch, Wels</info>
     <weapon id="2222">
       <name>Mauskarte</name>
       <info>Mauskämpfe</info>
+    </weapon>
+    <weapon id="2223">
+      <name>Knödel</name>
+      <info>Nationalgericht der tschechischen und slowakischen Küche</info>
+    </weapon>
+    <weapon id="2224">
+      <name>Bier "Prušovice"</name>
+      <info>Prušovice - eine der bekanntesten tschechischen Biermarken, die sich in der ganzen Welt wohlverdienter Beliebtheit erfreut</info>
     </weapon>	
   </weapons>
 </wpnlang>

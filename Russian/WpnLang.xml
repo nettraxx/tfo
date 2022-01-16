@@ -5774,5 +5774,13 @@ VIP не даёт бонуса.</info>
       <name>Карта мыши</name>
       <info>Мышиная возня</info>
     </weapon>
+    <weapon id="2223">
+      <name>Кнедлики</name>
+      <info>Национальное блюдо чешской и словацкой кухни</info>
+    </weapon>
+    <weapon id="2224">
+      <name>Пиво "Prušovice"</name>
+      <info>Prušovice - один из известнейших брендов чешского пива, пользующийся заслуженной популярностью во всём мире</info>
+    </weapon>
   </weapons>
 </wpnlang>

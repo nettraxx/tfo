@@ -1,5 +1,10 @@
 [INTERFACE]
 
+clublogput=<color='#a0ff30'>{0} положил</color> {1} x{2}
+clubloget=<color='#ffa030'>{0} забрал</color> {1} x{2}
+clublogetot=<color='#ffa030'>{0} передал {3}</color> {1} x{2}
+--------------------
+
 clubTakeBtn=Передать
 
 clubInfo_10=Настройка параметров казны
