@@ -1,5 +1,7 @@
 ﻿[INTERFACE]
-
+dl_body_3=Ihr Gehalt für wöchentliche Clubaktivitäten
+dl_theme_3=Wochengehalt
+--------------------
 clublogput=<color='#a0ff30'>{0} setzen</color> {1} x{2}
 clubloget=<color='#ffa030'>{0} erhalten</color> {1} x{2}
 clublogetot=<color='#ffa030'>{0} geben{3}</color> {1} x{2}

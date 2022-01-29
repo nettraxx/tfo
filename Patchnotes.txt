@@ -1,3 +1,8 @@
+Patch 1.70.2
+In der Liste der Vereinsspieler wurde eine Angabe über die Anzahl der Vereinspunkte hinzugefügt, die der Spieler für die Woche mitgebracht hat
+Fixierung der Hand am Spulengriff in manchen Fällen
+In einigen Fällen wurden Fehler in der Physik behoben
+
 Patch 1.70.1
 Standort Tschechien - einige Modelle, Staus und Absprungstellen an einigen Stellen korrigiert. Ändern der Tiefe an einigen Stellen
 Ruderboot Nr. 11 - erhöhte Geschwindigkeit, Entfernung des hinteren Ruderhalters, erhöhte Wendegeschwindigkeit
