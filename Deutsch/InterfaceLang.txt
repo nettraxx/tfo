@@ -1,7 +1,9 @@
 ﻿[INTERFACE]
+
 dl_body_3=Ihr Gehalt für wöchentliche Clubaktivitäten
 dl_theme_3=Wochengehalt
 --------------------
+
 clublogput=<color='#a0ff30'>{0} setzen</color> {1} x{2}
 clubloget=<color='#ffa030'>{0} erhalten</color> {1} x{2}
 clublogetot=<color='#ffa030'>{0} geben{3}</color> {1} x{2}
@@ -12,7 +14,7 @@ clubTakeBtn=Übertragen
 clubInfo_10=Parameter des Schatzamtes einrichten
 clubInfo_11=Legen Sie den Artikel in das Warenhaus
 
-clubInfo_6=Gehalt des Teilnehmers : {0}
+clubInfo_6=Gehaltskasse : {0}
 clubInfo_7=Gehaltsabzüge : {0}%
 clubInfo_8=Steuern : {0}%
 clubInfo_9=Club Warenhaus {0}/{1}

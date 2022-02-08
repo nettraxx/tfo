@@ -1,3 +1,11 @@
+Patch 1.70.3
+Wir testen weiterhin den Mechanismus des Clubgehalts.
+In dieser Testphase wird die Clubsteuer auf 10 % des Fischverkaufsbetrags und der wöchentliche Gehaltsfonds des Clubs auf 50 % des eingenommenen Betrags festgesetzt. Das Ändern dieser Parameter in dieser Testphase ist deaktiviert.
+Zusätzlich gibt jeder $10 Steuern einem Spieler 1 Clubpunkt
+Das Gehalt wird jeden Montag berechnet, abhängig von den für diese Woche erzielten Clubpunkten
+Es ist erforderlich, die Richtigkeit der Steuerabschreibung, die Richtigkeit der Lohnabrechnung zu überprüfen.
+Außerdem warte ich auf Ihr Feedback und Ihre Vorschläge zu dieser eingeführten Mechanik.
+
 Patch 1.70.2
 In der Liste der Vereinsspieler wurde eine Angabe über die Anzahl der Vereinspunkte hinzugefügt, die der Spieler für die Woche mitgebracht hat
 Fixierung der Hand am Spulengriff in manchen Fällen

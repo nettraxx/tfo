@@ -16,7 +16,7 @@ clubTakeBtn=Transfer
 clubInfo_10=Setting up Treasury parameters
 clubInfo_11=Put the item in the club warehouse
 
-clubInfo_6=Participant's salary : {0}
+clubInfo_6=Salary fund : {0}
 clubInfo_7=Salary deductions : {0}%
 clubInfo_8=Taxes : {0}%
 clubInfo_9=Club Warehouse {0}/{1}
