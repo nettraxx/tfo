@@ -397,6 +397,7 @@ type_123=Winter (Preis x2)
 517_Name=Weißer Thunfisch
 518_Name=Persischer Stör
 519_Name=Dnepr-Barbe
+519_Latn=Barbus borysthenicus
 520_Name=Blauer Sonnenbarsch
 521_Name=Kaspischer Lachs
 522_Name=Meerzander
@@ -523,3 +524,9 @@ type_123=Winter (Preis x2)
 
 558_Name=Eisäsche
 558_Latn=Ignota species
+
+559_Name=Glanz Flunder
+559_Latn=Pleuronectes flesus luscus
+
+560_Name=Gewöhnlicher Hornhecht 
+560_Latn=Belone belone

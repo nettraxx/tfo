@@ -1,5 +1,12 @@
 ﻿[INTERFACE]
 
+casset_0=SCHATZEINSTELLUNGEN
+casset_1=Änderungen der Kasseneinstellungen sind nur einmal pro Woche möglich.\Änderungsrechte: Vereinsvorsteher und Stellvertreter
+casset_2=STEUER %
+casset_3=ZUM GEHALTSFONDS %
+casset_4=Verbleibende Zeit:
+--------------------
+
 dl_body_3=Ihr Gehalt für wöchentliche Clubaktivitäten
 dl_theme_3=Wochengehalt
 --------------------

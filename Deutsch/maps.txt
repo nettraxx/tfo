@@ -11,7 +11,7 @@
 4_Name=Finnland: Kulgusee
 4_Info=
 
-5_Name=Ukraine: Fluss Domaha
+5_Name=Ukraine: Dnjepr-Delta
 5_Info=
 
 6_Name=Weißrussland: Dukorasee

@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
 
+
+casset_0=TREASURY SETTINGS
+casset_1=Changes to the treasury settings are possible only once a week.\Rights of change: head of the club and deputy
+casset_2=TAX %
+casset_3=TO THE SALARY FUND %
+casset_4=Time left:  
+--------------------
+
 dl_body_3=Your salary for weekly club activity
 dl_theme_3=Weekly salary
 --------------------

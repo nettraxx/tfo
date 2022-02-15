@@ -547,3 +547,10 @@ type_123=Winter (price x2)
 
 558_Name=Icy grayling
 558_Latn=Ignota species
+
+
+559_Name=Glosa Flounder
+559_Latn=Pleuronectes flesus luscus
+
+560_Name=Garfish european 
+560_Latn=Belone belone

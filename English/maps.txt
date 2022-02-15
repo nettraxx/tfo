@@ -4,7 +4,7 @@
 2_Name=Russia: r. Pra
 3_Name=France: Ponds of Perruchet 
 4_Name=Finland: Kulgu lake
-5_Name=Ukraine: r. Domaha
+5_Name=Ukraine: Dnepr
 6_Name=Belarus: Dukora pond
 7_Name=Italy: r. Po
 8_Name=Poland: r. San
