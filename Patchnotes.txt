@@ -1,3 +1,9 @@
+Patch 1.71.1
+Korrektur falscher visueller Abmessungen der Schildkröte
+Ersatz des Modells Schwarzmeer Hering (Kaspischer Hering).
+Ersatz für das Modell Donau-Maifisch (Kaspi-Maifisch)
+Korrektur anderer Animationen und Modelle
+
 Patch 1.71.0
 Die Möglichkeit für die Leiter und Stellvertreter von Clubs wurde hinzugefügt, um die Steuer und die Höhe des Gehaltsfonds festzulegen
 Die Standardsteuer ist auf 0% eingestellt.
